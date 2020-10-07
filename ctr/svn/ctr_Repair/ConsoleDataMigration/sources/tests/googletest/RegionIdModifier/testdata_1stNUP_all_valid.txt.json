@@ -1,0 +1,20 @@
+{
+    "testdata_1stNUP_all_valid.txt": {
+        "modified": "2020-10-06 13:40:06.536760",
+        "size": "106.39KB",
+        "md5": "fcc6fa202ae281ff0221b54d49583e90",
+        "sha256": "eb3529b3292a3e01283b8f0023fc857bb7a58ac34d8d7b0f2fd8ebe8910e4c37"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/plain; charset=UTF-8",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "resourceName": "b'testdata_1stNUP_all_valid.txt'"
+    }
+}
