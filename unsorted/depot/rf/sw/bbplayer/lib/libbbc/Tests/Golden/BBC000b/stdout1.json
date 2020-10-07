@@ -1,0 +1,20 @@
+{
+    "stdout1": {
+        "modified": "2020-10-06 13:42:11.179406",
+        "size": "1.72KB",
+        "md5": "6cdebe18003c85892571a5a36251831b",
+        "sha256": "8923e7d6bc1491112ceda3d2ad5cb196f7f626365656e106550cd0a65017702a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'stdout1'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "golden.spandata": {
+        "modified": "2020-10-06 13:42:18.447020",
+        "size": "534.82KB",
+        "md5": "e492271b224a20ab211b32450f903fd6",
+        "sha256": "8abfd60184cd072c2bbb5c0f139286042412fbced6b3f5470dacc74598c7bc88"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "37",
+        "csv:delimiter": "comma",
+        "resourceName": "b'golden.spandata'"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "test132.32.rdram.Z.archive": {
+        "modified": "2020-10-06 13:42:15.275981",
+        "size": "114.6KB",
+        "md5": "a39bd9f0b177bfc46ae11cb2a8d8604d",
+        "sha256": "b0ea1a2f140dc339e661aacdf6fa641c7667844b47b74cd01a15fe71d87a5fc2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'test132.32.rdram.Z.archive'",
+            "b'test132.32.rdram.Z.archive'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'test132.32.rdram.Z.archive'"
+    }
+}

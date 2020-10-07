@@ -1,0 +1,21 @@
+{
+    "running.inc": {
+        "modified": "2020-10-06 13:42:10.835274",
+        "size": "16.68KB",
+        "md5": "5b3013a7949fd5e07a9008db0676e323",
+        "sha256": "e1837ff57bfaf3cc5de8e9f37010707b766bd57fac83ed0ccf49cf0f0e9e7b6b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'running.inc'"
+    }
+}

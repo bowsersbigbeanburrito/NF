@@ -1,0 +1,21 @@
+{
+    "test000.out.base": {
+        "modified": "1994-11-18 15:11:23",
+        "size": "103.06KB",
+        "md5": "fa84c444febc26bf98f145193616b3d7",
+        "sha256": "953e000bf8485bbcf0820fa5d4778498584945a043dac3e59f045748e9852d7c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test000.out.base'"
+    }
+}

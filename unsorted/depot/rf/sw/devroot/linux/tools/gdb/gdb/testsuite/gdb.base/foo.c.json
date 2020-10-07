@@ -1,0 +1,20 @@
+{
+    "foo.c": {
+        "modified": "2020-10-06 13:42:13.247246",
+        "size": "0.1KB",
+        "md5": "c6a16edc9359f0384e9bb01cc216272c",
+        "sha256": "a7cd039066f0613f6631b6e74dbb306be5b6a64a49a9c76baa7945724475c175"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'foo.c'"
+    }
+}

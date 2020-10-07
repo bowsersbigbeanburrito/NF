@@ -1,0 +1,33 @@
+{
+    "test130.30.rdp.Z.archive": {
+        "modified": "2020-10-06 13:42:15.340917",
+        "size": "0.65KB",
+        "md5": "2fb1ef6f0feaf2ce697679faad255a55",
+        "sha256": "01dc0a42196b2e51eda1267f6d8a3657b8a2b72adc69cfa481519f41ace4eafa"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'test130.30.rdp.Z.archive'",
+            "b'test130.30.rdp.Z.archive'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'test130.30.rdp.Z.archive'"
+    }
+}

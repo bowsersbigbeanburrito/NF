@@ -1,0 +1,33 @@
+{
+    "test017.17.mem.Z.archive": {
+        "modified": "2020-10-06 13:42:15.268980",
+        "size": "119.74KB",
+        "md5": "02be3f5d40d7bdc8198b1a9b739e7a37",
+        "sha256": "96e8132cd159b7897be99334ee052a7b3c6dec0589e82462170e703a5ec32f2c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'test017.17.mem.Z.archive'",
+            "b'test017.17.mem.Z.archive'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'test017.17.mem.Z.archive'"
+    }
+}

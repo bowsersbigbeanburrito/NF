@@ -1,0 +1,39 @@
+{
+    "image001.wmz": {
+        "modified": "2020-10-06 13:41:59.102487",
+        "size": "22.57KB",
+        "md5": "a7c27af702d1a6b35282fb3f733f4017",
+        "sha256": "ff3ae509906c116ef69bceadcc52bf9e25d582925e48d0e9718313fd757f97a1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "image/wmf"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'image001.wmz'",
+            "b'image001.wmz'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'image001.wmz'"
+    }
+}

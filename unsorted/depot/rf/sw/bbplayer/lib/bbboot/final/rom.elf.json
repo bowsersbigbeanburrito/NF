@@ -1,0 +1,21 @@
+{
+    "rom.elf": {
+        "modified": "2020-10-06 13:42:11.023275",
+        "size": "12.52KB",
+        "md5": "40d1a82f64cc96015111abb4ffc89281",
+        "sha256": "4ebcc696db16bdda0c9e17ce15d7aa89f8edba6ebe00143c03d8a393bd9b4ca0"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS",
+        "resourceName": "b'rom.elf'"
+    }
+}

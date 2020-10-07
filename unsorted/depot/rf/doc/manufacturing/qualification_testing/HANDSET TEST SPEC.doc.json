@@ -1,0 +1,372 @@
+{
+    "HANDSET TEST SPEC.doc": {
+        "modified": "2020-10-06 13:41:59.082487",
+        "size": "389.0KB",
+        "md5": "0688d5eedc71dac3e8458f3da6636e3b",
+        "sha256": "d8fa920aeb836269c64ccd4084f0c4cb5e0534ed2ff74f480e0ed93f68e49e44"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Word 9.0",
+        "Author": "Robert TY Yang",
+        "Character Count": "25970",
+        "Comments": "",
+        "Company": "QSI",
+        "Content-Type": [
+            "application/msword",
+            "image/wmf",
+            "image/wmf",
+            "image/wmf",
+            "image/png",
+            "image/png",
+            "image/png",
+            "image/png",
+            "image/png",
+            "image/vnd.dwg",
+            "image/vnd.dwg",
+            "image/vnd.dwg"
+        ],
+        "Creation-Date": "2002-09-19T04:57:00Z",
+        "Edit-Time": "30000000000",
+        "Keywords": "",
+        "Last-Author": "c.m._hsu",
+        "Last-Modified": "2002-12-12T12:55:00Z",
+        "Last-Printed": "2002-09-19T04:05:00Z",
+        "Last-Save-Date": "2002-12-12T12:55:00Z",
+        "Page-Count": "1",
+        "Revision-Number": "5",
+        "Template": "Normal",
+        "Word-Count": "4556",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.dwg.DWGParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.dwg.DWGParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.dwg.DWGParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:origResourceName": [
+            "C:\\WORD文件\\ASUS TEST.doc",
+            "C:\\WORD文件\\ASUS TEST.doc",
+            "C:\\WORD文件\\ASUS TEST.doc",
+            "C:\\Documents and Settings\\benson_chan\\Application Data\\Microsoft\\Word\\儲存自動回復ASUS TEST.asd",
+            "C:\\WORD文件\\ASUS TEST.doc",
+            "C:\\Documents and Settings\\benson_chan\\Application Data\\Microsoft\\Word\\儲存自動回復ASUS TEST.asd",
+            "C:\\WORD文件\\ASUS TEST-2.doc",
+            "C:\\WORD文件\\ASUS TEST-2.doc",
+            "C:\\WORD文件\\ASUS TEST-2.doc",
+            "D:\\mobile phone\\AGP-100\\AGP100-TEST-PLAN\\HANDSET TEST SPEC.doc"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "112",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "comment": "",
+        "cp:revision": "5",
+        "cp:subject": "",
+        "creator": "Robert TY Yang",
+        "date": "2002-12-12T12:55:00Z",
+        "dc:creator": "Robert TY Yang",
+        "dc:subject": "",
+        "dc:title": "Model Number Define",
+        "dcterms:created": "2002-09-19T04:57:00Z",
+        "dcterms:modified": "2002-12-12T12:55:00Z",
+        "extended-properties:Application": "Microsoft Word 9.0",
+        "extended-properties:Company": "QSI",
+        "extended-properties:Template": "Normal",
+        "meta:author": "Robert TY Yang",
+        "meta:character-count": "25970",
+        "meta:creation-date": "2002-09-19T04:57:00Z",
+        "meta:keyword": "",
+        "meta:last-author": "c.m._hsu",
+        "meta:page-count": "1",
+        "meta:print-date": "2002-09-19T04:05:00Z",
+        "meta:save-date": "2002-12-12T12:55:00Z",
+        "meta:word-count": "4556",
+        "modified": "2002-12-12T12:55:00Z",
+        "resourceName": [
+            "b'HANDSET TEST SPEC.doc'",
+            "image1.wmf",
+            "image2.wmf",
+            "image3.wmf",
+            "image4.png",
+            "image5.png",
+            "image6.png",
+            "image7.png",
+            "image8.png",
+            "_1067349311.dwg",
+            "_1083949408.dwg",
+            "_1067348536.dwg"
+        ],
+        "subject": "",
+        "title": "Model Number Define",
+        "w:comments": "",
+        "xmpTPg:NPages": "1",
+        "X-TIKA:embedded_resource_path": [
+            "/image1.wmf",
+            "/image2.wmf",
+            "/image3.wmf",
+            "/image4.png",
+            "/image5.png",
+            "/image6.png",
+            "/image7.png",
+            "/image8.png",
+            "/_1067349311.dwg",
+            "/_1083949408.dwg",
+            "/_1067348536.dwg"
+        ],
+        "tika.mime.file": [
+            "image1.wmf",
+            "image2.wmf",
+            "image3.wmf",
+            "image4.png",
+            "image5.png",
+            "image6.png",
+            "image7.png",
+            "image8.png"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+        ],
+        "Compression CompressionTypeName": [
+            "deflate",
+            "deflate",
+            "deflate",
+            "deflate",
+            "deflate"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "Data BitsPerSample": [
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8"
+        ],
+        "Data PlanarConfiguration": [
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved"
+        ],
+        "Data SampleFormat": [
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral"
+        ],
+        "Dimension HorizontalPixelSize": [
+            "0.2646903",
+            "0.2646903",
+            "0.2646903",
+            "0.2646903",
+            "0.2646903"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension PixelAspectRatio": [
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0"
+        ],
+        "Dimension VerticalPixelSize": [
+            "0.2646903",
+            "0.2646903",
+            "0.2646903",
+            "0.2646903",
+            "0.2646903"
+        ],
+        "IHDR": [
+            "width=426, height=222, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=171, height=420, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=127, height=232, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=316, height=179, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=374, height=199, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none"
+        ],
+        "Transparency Alpha": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "height": [
+            "222",
+            "420",
+            "232",
+            "179",
+            "199"
+        ],
+        "pHYs": [
+            "pixelsPerUnitXAxis=3778, pixelsPerUnitYAxis=3778, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=3778, pixelsPerUnitYAxis=3778, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=3778, pixelsPerUnitYAxis=3778, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=3778, pixelsPerUnitYAxis=3778, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=3778, pixelsPerUnitYAxis=3778, unitSpecifier=meter"
+        ],
+        "sRGB": [
+            "Perceptual",
+            "Perceptual",
+            "Perceptual",
+            "Perceptual",
+            "Perceptual"
+        ],
+        "tiff:BitsPerSample": [
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8"
+        ],
+        "tiff:ImageLength": [
+            "222",
+            "420",
+            "232",
+            "179",
+            "199"
+        ],
+        "tiff:ImageWidth": [
+            "426",
+            "171",
+            "127",
+            "316",
+            "374"
+        ],
+        "width": [
+            "426",
+            "171",
+            "127",
+            "316",
+            "374"
+        ],
+        "X-TIKA:EXCEPTION:embedded_exception": [
+            "org.apache.tika.exception.TikaException: Unsupported AutoCAD drawing version: AC1014\r\n\tat org.apache.tika.parser.dwg.DWGParser.parse(DWGParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\r\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\r\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\r\n\tat org.apache.tika.extractor.EmbeddedDocumentUtil.parseEmbedded(EmbeddedDocumentUtil.java:220)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:261)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:146)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.parse(WordExtractor.java:229)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:175)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\r\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\r\n\tat sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\r\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\r\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\r\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\r\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\r\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\r\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\r\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\r\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\r\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\r\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\r\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\r\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\r\n\tat java.lang.Thread.run(Unknown Source)\r\n",
+            "org.apache.tika.exception.TikaException: Unsupported AutoCAD drawing version: AC1014\r\n\tat org.apache.tika.parser.dwg.DWGParser.parse(DWGParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\r\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\r\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\r\n\tat org.apache.tika.extractor.EmbeddedDocumentUtil.parseEmbedded(EmbeddedDocumentUtil.java:220)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:261)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:146)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.parse(WordExtractor.java:229)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:175)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\r\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\r\n\tat sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\r\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\r\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\r\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\r\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\r\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\r\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\r\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\r\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\r\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\r\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\r\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\r\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\r\n\tat java.lang.Thread.run(Unknown Source)\r\n",
+            "org.apache.tika.exception.TikaException: Unsupported AutoCAD drawing version: AC1014\r\n\tat org.apache.tika.parser.dwg.DWGParser.parse(DWGParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\r\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\r\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\r\n\tat org.apache.tika.extractor.EmbeddedDocumentUtil.parseEmbedded(EmbeddedDocumentUtil.java:220)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:261)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:146)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.parse(WordExtractor.java:229)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:175)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\r\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\r\n\tat sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\r\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\r\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\r\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\r\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\r\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\r\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\r\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\r\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\r\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\r\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\r\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\r\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\r\n\tat java.lang.Thread.run(Unknown Source)\r\n"
+        ],
+        "X-TIKA:EXCEPTION:embedded_parser": [
+            "org.apache.tika.parser.AutoDetectParser",
+            "org.apache.tika.parser.AutoDetectParser",
+            "org.apache.tika.parser.AutoDetectParser"
+        ],
+        "embeddedRelationshipId": [
+            "_1067349311",
+            "_1083949408",
+            "_1067348536"
+        ],
+        "embeddedStorageClassId": [
+            "{5E4405B0-5374-11CE-8E71-0020AF04B1D7}",
+            "{5E4405B0-5374-11CE-8E71-0020AF04B1D7}",
+            "{5E4405B0-5374-11CE-8E71-0020AF04B1D7}"
+        ]
+    }
+}

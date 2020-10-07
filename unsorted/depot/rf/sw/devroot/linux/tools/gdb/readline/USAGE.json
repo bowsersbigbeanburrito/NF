@@ -1,0 +1,90 @@
+{
+    "USAGE": {
+        "modified": "2020-10-06 13:42:13.456249",
+        "size": "1.98KB",
+        "md5": "0bb4ff5a1ee6f767d0d1b7ded925a8a3",
+        "sha256": "0759c74d61889b687f33cb03899630d8ecc09c5ebe7cedd2dd2e17eeef193f93"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "101",
+            "99"
+        ],
+        "resourceName": "b'USAGE'",
+        "Author": [
+            "Richard Stallman <rms@gnu.org>",
+            "Richard Stallman <rms@gnu.org>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1999-07-23T00:37:46Z",
+        "MboxParser-flags": "10 id UAA25349; Thu, 22 Jul 1999 20:37:54 -0400 (EDT) (from rms@gnu.org for <chet@odin.INS.CWRU.Edu>) by pele.santafe.edu (8.9.1/8.9.1) with ESMTP id SAA10831",
+        "MboxParser-from": "rms@gnu.org Thu Jul 22 20:37:55 1999",
+        "MboxParser-received": [
+            "from arthur.INS.CWRU.Edu (root@arthur.INS.CWRU.Edu [129.22.8.215]) by odin.INS.CWRU.Edu with ESMTP (8.8.6+cwru/CWRU-2.4-ins) id UAA13350; Thu, 22 Jul 1999 20:37:50 -0400 (EDT) (from rms@gnu.org for <chet@nike.ins.cwru.edu>)",
+            "from wijiji.santafe.edu (wijiji [192.12.12.5])",
+            "from nike.ins.cwru.edu (root@nike.INS.CWRU.Edu [129.22.8.219]) by arthur.INS.CWRU.Edu with ESMTP (8.8.8+cwru/CWRU-3.6) for <chet@nike.ins.cwru.edu>; Thu, 22 Jul 1999 18:37:47 -0600 (MDT)",
+            "(from rms@localhost)",
+            "from pele.santafe.edu (pele.santafe.edu [192.12.12.119]) by nike.ins.cwru.edu with ESMTP (8.8.7/CWRU-2.5-bsdi) Thu, 22 Jul 1999 18:37:46 -0600 (MDT)"
+        ],
+        "MboxParser-reply-to": "rms@gnu.org",
+        "MboxParser-return-path": "rms@gnu.org id UAA05311; Thu, 22 Jul 1999 20:37:51 -0400 (EDT) (from rms@gnu.org for <chet@po.cwru.edu>) by wijiji.santafe.edu (8.9.1b+Sun/8.9.1) id SAA01089;",
+        "MboxParser-x-authentication-warning": "wijiji.santafe.edu: rms set sender to rms@gnu.org using -f",
+        "Message-From": "Richard Stallman <rms@gnu.org>",
+        "Message-Recipient-Address": "chet@nike.ins.cwru.edu",
+        "Message-To": [
+            "chet@nike.ins.cwru.edu",
+            "chet@nike.ins.cwru.edu"
+        ],
+        "Message:From-Email": "rms@gnu.org",
+        "Message:From-Name": "Richard Stallman",
+        "Message:Raw-Header:Flags": "10",
+        "Message:Raw-Header:Message-Id": "<199907230037.SAA01089@wijiji.santafe.edu>",
+        "Message:Raw-Header:Received": [
+            "from arthur.INS.CWRU.Edu (root@arthur.INS.CWRU.Edu [129.22.8.215]) by odin.INS.CWRU.Edu with ESMTP (8.8.6+cwru/CWRU-2.4-ins)\tid UAA25349; Thu, 22 Jul 1999 20:37:54 -0400 (EDT) (from rms@gnu.org for <chet@odin.INS.CWRU.Edu>)",
+            "from nike.ins.cwru.edu (root@nike.INS.CWRU.Edu [129.22.8.219]) by arthur.INS.CWRU.Edu with ESMTP (8.8.8+cwru/CWRU-3.6)\tid UAA05311; Thu, 22 Jul 1999 20:37:51 -0400 (EDT) (from rms@gnu.org for <chet@po.cwru.edu>)",
+            "from pele.santafe.edu (pele.santafe.edu [192.12.12.119]) by nike.ins.cwru.edu with ESMTP (8.8.7/CWRU-2.5-bsdi)\tid UAA13350; Thu, 22 Jul 1999 20:37:50 -0400 (EDT) (from rms@gnu.org for <chet@nike.ins.cwru.edu>)",
+            "from wijiji.santafe.edu (wijiji [192.12.12.5])\tby pele.santafe.edu (8.9.1/8.9.1) with ESMTP id SAA10831\tfor <chet@nike.ins.cwru.edu>; Thu, 22 Jul 1999 18:37:47 -0600 (MDT)",
+            "(from rms@localhost)\tby wijiji.santafe.edu (8.9.1b+Sun/8.9.1) id SAA01089;\tThu, 22 Jul 1999 18:37:46 -0600 (MDT)"
+        ],
+        "Message:Raw-Header:Reply-to": "rms@gnu.org",
+        "Message:Raw-Header:Return-Path": "rms@gnu.org",
+        "Message:Raw-Header:X-Authentication-Warning": "wijiji.santafe.edu: rms set sender to rms@gnu.org using -f",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Richard Stallman <rms@gnu.org>",
+            "Richard Stallman <rms@gnu.org>"
+        ],
+        "dc:creator": [
+            "Richard Stallman <rms@gnu.org>",
+            "Richard Stallman <rms@gnu.org>"
+        ],
+        "dc:identifier": "<199907230037.SAA01089@wijiji.santafe.edu>",
+        "dc:title": "Use of Readline",
+        "dcterms:created": "1999-07-23T00:37:46Z",
+        "identifier": "<199907230037.SAA01089@wijiji.santafe.edu>",
+        "meta:author": [
+            "Richard Stallman <rms@gnu.org>",
+            "Richard Stallman <rms@gnu.org>"
+        ],
+        "meta:creation-date": "1999-07-23T00:37:46Z",
+        "subject": "Use of Readline"
+    }
+}

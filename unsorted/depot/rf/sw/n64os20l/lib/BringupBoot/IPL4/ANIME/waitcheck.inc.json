@@ -1,0 +1,21 @@
+{
+    "waitcheck.inc": {
+        "modified": "2020-10-06 13:42:18.473020",
+        "size": "26.9KB",
+        "md5": "337c5eaac2df107cbc1af3183294dc01",
+        "sha256": "481076e9c1b106e083fe69456abeb75fc68be732f0845c1da26af0771fe69535"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "comma",
+        "resourceName": "b'waitcheck.inc'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "iltest12.s": {
+        "modified": "2020-10-06 13:42:19.399064",
+        "size": "44.44KB",
+        "md5": "0cfaacdaaadb7ed727a8d9506bf87f75",
+        "sha256": "cbc8af60960f0923cd592a2d1aa90853f96592d21ffd3f1edfa6f684150e7eea"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iltest12.s'"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "wpadEmuD.a": {
+        "modified": "2005-11-07 09:27:18",
+        "size": "40.0KB",
+        "md5": "124f0559a1148b2809c4ceb51a96b907",
+        "sha256": "9d0c47c4f26e6f4c04e4ae885dd53d1795b649b2708625e6dcbff6ba5e8f5f53"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'wpadEmuD.a'",
+            "D:/Revolution/SDK/build/libraries/wpadEmu/src/wpadv3.o"
+        ],
+        "Content-Length": [
+            "1520",
+            "39200"
+        ],
+        "Last-Modified": [
+            "2005-11-01T16:29:31Z",
+            "2005-11-01T13:02:38Z"
+        ],
+        "Last-Save-Date": [
+            "2005-11-01T16:29:31Z",
+            "2005-11-01T13:02:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wpadv3.o"
+        ],
+        "date": [
+            "2005-11-01T16:29:31Z",
+            "2005-11-01T13:02:38Z"
+        ],
+        "dcterms:modified": [
+            "2005-11-01T16:29:31Z",
+            "2005-11-01T13:02:38Z"
+        ],
+        "meta:save-date": [
+            "2005-11-01T16:29:31Z",
+            "2005-11-01T13:02:38Z"
+        ],
+        "modified": [
+            "2005-11-01T16:29:31Z",
+            "2005-11-01T13:02:38Z"
+        ],
+        "embeddedRelationshipId": "D:/Revolution/SDK/build/libraries/wpadEmu/src/wpadv3.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}
