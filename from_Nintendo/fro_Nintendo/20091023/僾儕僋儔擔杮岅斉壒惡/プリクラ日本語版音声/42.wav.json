@@ -1,0 +1,24 @@
+{
+    "42.wav": {
+        "modified": "2009-04-03 16:41:28",
+        "size": "110.66KB",
+        "md5": "4767dbbb4eef32470c4ef58bbc3ecf0f",
+        "sha256": "5ef16ee6a0a4f2cb0b2cfeb040c5b91898d300be99f67ca263a51062d0090c50"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'42.wav'",
+        "samplerate": "32728.0",
+        "xmpDM:audioSampleRate": "32728",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

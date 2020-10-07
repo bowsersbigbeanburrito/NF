@@ -1,0 +1,122 @@
+{
+    "BicSkill.xls": {
+        "modified": "2009-05-25 13:30:46",
+        "size": "56.0KB",
+        "md5": "13e3b29900a1af9231aace64ed94b20e",
+        "sha256": "8ef9239ddc011116301f2b72ad96cd5395e4dd13146275ca001c28c4bfa88258"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Excel",
+        "Author": "okamura_yuichiro",
+        "Company": "情報開発本部",
+        "Content-Type": [
+            "application/vnd.ms-excel",
+            "image/wmf",
+            "image/emf",
+            "image/wmf",
+            "image/emf",
+            "image/wmf",
+            "image/emf",
+            "image/wmf",
+            "image/emf"
+        ],
+        "Creation-Date": "2006-09-28T07:04:49Z",
+        "Last-Author": "nakamura_masahiro",
+        "Last-Modified": "2009-05-21T07:22:46Z",
+        "Last-Printed": "2007-12-21T01:01:12Z",
+        "Last-Save-Date": "2009-05-21T07:22:46Z",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "25",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "creator": "okamura_yuichiro",
+        "date": "2009-05-21T07:22:46Z",
+        "dc:creator": "okamura_yuichiro",
+        "dcterms:created": "2006-09-28T07:04:49Z",
+        "dcterms:modified": "2009-05-21T07:22:46Z",
+        "extended-properties:Application": "Microsoft Excel",
+        "extended-properties:Company": "情報開発本部",
+        "meta:author": "okamura_yuichiro",
+        "meta:creation-date": "2006-09-28T07:04:49Z",
+        "meta:last-author": "nakamura_masahiro",
+        "meta:print-date": "2007-12-21T01:01:12Z",
+        "meta:save-date": "2009-05-21T07:22:46Z",
+        "modified": "2009-05-21T07:22:46Z",
+        "resourceName": "b'BicSkill.xls'",
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1/embedded-2",
+            "/embedded-1",
+            "/embedded-3/embedded-4",
+            "/embedded-3",
+            "/embedded-5/embedded-6",
+            "/embedded-5",
+            "/embedded-7/embedded-8",
+            "/embedded-7"
+        ]
+    }
+}
