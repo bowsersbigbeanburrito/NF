@@ -1,0 +1,21 @@
+{
+    "ASBank.exn": {
+        "modified": "2020-10-06 13:39:03.619480",
+        "size": "0.74KB",
+        "md5": "0c55512db502e99b57c9e3fb1c7f6b04",
+        "sha256": "a3610e41b1840e1f009a8687382b8be3b7bc38a675230197d32e3099cfa36a22"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ASBank.exn'"
+    }
+}

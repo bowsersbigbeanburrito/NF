@@ -1,0 +1,24 @@
+{
+    "an.milkylake.12k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:19.299869",
+        "size": "31.87KB",
+        "md5": "13205a3b6d4c3476380bc188563be2cb",
+        "sha256": "af7e9802dff6caaba479bd6bfedd5544c6c855f7055d323709dcc6ee1f6cc67d"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'an.milkylake.12k.aifc.raw.aiff'",
+        "samplerate": "12000.0",
+        "xmpDM:audioSampleRate": "12000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

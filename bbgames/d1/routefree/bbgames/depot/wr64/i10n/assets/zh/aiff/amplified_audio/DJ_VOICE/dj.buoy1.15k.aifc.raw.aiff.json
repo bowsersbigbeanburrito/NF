@@ -1,0 +1,24 @@
+{
+    "dj.buoy1.15k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:19.315868",
+        "size": "33.24KB",
+        "md5": "8062c0a9704b2e84be1a986bb2c190c5",
+        "sha256": "3eff842bc668c4d5460fcbcd18ef6e22319465531ed19355def9ebfaa097489f"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'dj.buoy1.15k.aifc.raw.aiff'",
+        "samplerate": "15000.0",
+        "xmpDM:audioSampleRate": "15000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

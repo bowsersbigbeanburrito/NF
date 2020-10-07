@@ -1,0 +1,21 @@
+{
+    "error.fmt": {
+        "modified": "2020-10-06 13:38:54.018109",
+        "size": "7.14KB",
+        "md5": "d13389fe947e262792bee103cbe5acb5",
+        "sha256": "07b02219ab557f88ac91dfcad43787a48b8515d0d5905568caf4a8fbc167efaa"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "9",
+        "csv:delimiter": "tab",
+        "resourceName": "b'error.fmt'"
+    }
+}

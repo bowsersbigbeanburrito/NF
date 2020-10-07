@@ -1,0 +1,26 @@
+{
+    "N_mario.raw": {
+        "modified": "2020-10-06 13:38:52.406284",
+        "size": "3.0KB",
+        "md5": "12028a1057be3e33168bc801018d2561",
+        "sha256": "96b62569ada32a5fb23a1c0c2ca1f2f161f5a2ab1e43ea6e7551f15b10b5ef07"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'N_mario.raw'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "8.0"
+    }
+}

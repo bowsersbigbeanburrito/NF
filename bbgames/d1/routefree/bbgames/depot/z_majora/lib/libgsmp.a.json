@@ -1,0 +1,123 @@
+{
+    "libgsmp.a": {
+        "modified": "2020-10-06 13:39:26.878391",
+        "size": "14.75KB",
+        "md5": "a562850b5969860d6f216e8128c16cea",
+        "sha256": "c87e92a21699bec3a5d3db95fa4d666478dd6556108b42be7ec9527464b67a8f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libgsmp.a'",
+            "gsm_dec.o",
+            "gsm_stream.o",
+            "gsm_dec_asm.o"
+        ],
+        "Content-Length": [
+            "320",
+            "7780",
+            "3380",
+            "3380"
+        ],
+        "Last-Modified": [
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:51Z",
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:52Z"
+        ],
+        "Last-Save-Date": [
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:51Z",
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/gsm_dec.o",
+            "/gsm_stream.o",
+            "/gsm_dec_asm.o"
+        ],
+        "date": [
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:51Z",
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:52Z"
+        ],
+        "dcterms:modified": [
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:51Z",
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:52Z"
+        ],
+        "meta:save-date": [
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:51Z",
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:52Z"
+        ],
+        "modified": [
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:51Z",
+            "1997-09-08T02:23:52Z",
+            "1997-09-08T02:23:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "gsm_dec.o",
+            "gsm_stream.o",
+            "gsm_dec_asm.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

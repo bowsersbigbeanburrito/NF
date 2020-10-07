@@ -1,0 +1,21 @@
+{
+    "test.flk": {
+        "modified": "2020-10-06 13:39:14.278049",
+        "size": "16.38KB",
+        "md5": "77d1566da28b56d4d33bdee6d1a4da0b",
+        "sha256": "eb4db6ae4c36d91b3f2b7bc78c1402291f2aedbed6aa8e1c47d578ac125f8851"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test.flk'"
+    }
+}

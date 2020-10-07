@@ -1,0 +1,21 @@
+{
+    "enum.txt": {
+        "modified": "2020-10-06 13:38:31.862853",
+        "size": "14.79KB",
+        "md5": "bdc256786ad7fd1245337136b407e095",
+        "sha256": "989f7c96dece618946c044bbdd05c2d1599a9657ef2a424710161119808f8a58"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'enum.txt'"
+    }
+}

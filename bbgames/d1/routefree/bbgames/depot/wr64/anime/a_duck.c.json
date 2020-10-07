@@ -1,0 +1,21 @@
+{
+    "a_duck.c": {
+        "modified": "2020-10-06 13:39:17.536119",
+        "size": "3.74KB",
+        "md5": "d72f550fa026b41d7eaa30b9706f4e04",
+        "sha256": "9742f56a32d83f249c274036bbab9456885fab583a5aa960ec7f64064a853316"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'a_duck.c'"
+    }
+}

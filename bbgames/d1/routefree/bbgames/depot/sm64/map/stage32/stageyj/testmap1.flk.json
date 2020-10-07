@@ -1,0 +1,21 @@
+{
+    "testmap1.flk": {
+        "modified": "2020-10-06 13:39:14.342048",
+        "size": "7.09KB",
+        "md5": "c3940ac735f67c1bb77044efabbdb329",
+        "sha256": "0ed0f72011e01db6c05647924f8c25f367083f93fc99ad5bf96c5d9fb6c11339"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'testmap1.flk'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "msg.tbl.org": {
+        "modified": "2020-10-06 13:39:42.593358",
+        "size": "93.65KB",
+        "md5": "ee472aa04f233b8a880634f6784ccce4",
+        "sha256": "f6fb9c6dbcf46f395b112438e1197112cc54ba71241929f2146ee860ac7b98f0"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "comma",
+        "resourceName": "b'msg.tbl.org'"
+    }
+}

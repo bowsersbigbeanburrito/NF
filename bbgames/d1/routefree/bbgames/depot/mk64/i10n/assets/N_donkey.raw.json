@@ -1,0 +1,26 @@
+{
+    "N_donkey.raw": {
+        "modified": "2020-10-06 13:38:52.406284",
+        "size": "3.0KB",
+        "md5": "fed9a5b2cc92e05171f21c1b7ea6e97d",
+        "sha256": "7b26b2b5f11edeb221720d1f6c0f2666afff23bb56cbf0c6a60712dd64371965"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'N_donkey.raw'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "8.0"
+    }
+}

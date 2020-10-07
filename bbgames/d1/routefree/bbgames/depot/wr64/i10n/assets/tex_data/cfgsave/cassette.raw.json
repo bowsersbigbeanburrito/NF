@@ -1,0 +1,26 @@
+{
+    "cassette.raw": {
+        "modified": "2020-10-06 13:39:18.999315",
+        "size": "4.0KB",
+        "md5": "7b53d8645c3a19639a7e41422cdb9af1",
+        "sha256": "7162e6e7a0eba4d0050630a86a75d08d1dd7935004779944cf4b25ee8092d6d0"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "channels": "1",
+        "resourceName": "b'cassette.raw'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "64.70748138427734"
+    }
+}

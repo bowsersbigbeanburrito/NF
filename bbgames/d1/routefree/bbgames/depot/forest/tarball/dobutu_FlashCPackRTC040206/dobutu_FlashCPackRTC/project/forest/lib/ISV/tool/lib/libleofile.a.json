@@ -1,0 +1,123 @@
+{
+    "libleofile.a": {
+        "modified": "1998-03-30 23:30:52",
+        "size": "18.05KB",
+        "md5": "efdc0134b01248990b7e3c8285efbe5e",
+        "sha256": "2b02773e7f41098bf30ea4e29daf56076c9826f30aa55bc1f7a6892bc082a7f9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libleofile.a'",
+            "filesys.o",
+            "leocomu.o",
+            "leofile.o"
+        ],
+        "Content-Length": [
+            "500",
+            "8760",
+            "4756",
+            "4220"
+        ],
+        "Last-Modified": [
+            "1998-03-30T23:54:52Z",
+            "1998-03-30T23:54:51Z",
+            "1998-03-30T23:50:55Z",
+            "1998-03-30T23:50:57Z"
+        ],
+        "Last-Save-Date": [
+            "1998-03-30T23:54:52Z",
+            "1998-03-30T23:54:51Z",
+            "1998-03-30T23:50:55Z",
+            "1998-03-30T23:50:57Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/filesys.o",
+            "/leocomu.o",
+            "/leofile.o"
+        ],
+        "date": [
+            "1998-03-30T23:54:52Z",
+            "1998-03-30T23:54:51Z",
+            "1998-03-30T23:50:55Z",
+            "1998-03-30T23:50:57Z"
+        ],
+        "dcterms:modified": [
+            "1998-03-30T23:54:52Z",
+            "1998-03-30T23:54:51Z",
+            "1998-03-30T23:50:55Z",
+            "1998-03-30T23:50:57Z"
+        ],
+        "meta:save-date": [
+            "1998-03-30T23:54:52Z",
+            "1998-03-30T23:54:51Z",
+            "1998-03-30T23:50:55Z",
+            "1998-03-30T23:50:57Z"
+        ],
+        "modified": [
+            "1998-03-30T23:54:52Z",
+            "1998-03-30T23:54:51Z",
+            "1998-03-30T23:50:55Z",
+            "1998-03-30T23:50:57Z"
+        ],
+        "embeddedRelationshipId": [
+            "filesys.o",
+            "leocomu.o",
+            "leofile.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

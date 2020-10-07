@@ -1,0 +1,21 @@
+{
+    "select.mus": {
+        "modified": "2020-10-06 13:39:03.571480",
+        "size": "16.55KB",
+        "md5": "dec09c8da2b59b7cd1e5195fdd79ed99",
+        "sha256": "8c469bc3dc8361987a0ef93866021b7ea5e3e054f9756dc0c36163345aff0605"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'select.mus'"
+    }
+}

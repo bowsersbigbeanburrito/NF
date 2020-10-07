@@ -1,0 +1,24 @@
+{
+    "an.stereo.12k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:18.490621",
+        "size": "19.26KB",
+        "md5": "9c487b7443039d6e57e9bd4555b93514",
+        "sha256": "7a3b9d03c133970e00f72115d136ea48c975c6d6cf58e58abf57d690cc9e7b18"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'an.stereo.12k.aifc.raw.aiff'",
+        "samplerate": "12000.0",
+        "xmpDM:audioSampleRate": "12000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libmif.a": {
+        "modified": "1999-07-28 01:21:15",
+        "size": "6.29KB",
+        "md5": "a654d86025dee510efa9cb22145f76ec",
+        "sha256": "fe7a5a890a4fe08b2fcf69b9cfbb0d47513adb3ac004861e9d63ae518dceeec5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libmif.a'",
+            "fileparser.o",
+            "formparser.o"
+        ],
+        "Content-Length": [
+            "256",
+            "2580",
+            "3412"
+        ],
+        "Last-Modified": [
+            "1999-07-28T08:21:15Z",
+            "1999-07-28T08:21:14Z",
+            "1999-07-28T08:21:14Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-28T08:21:15Z",
+            "1999-07-28T08:21:14Z",
+            "1999-07-28T08:21:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fileparser.o",
+            "/formparser.o"
+        ],
+        "date": [
+            "1999-07-28T08:21:15Z",
+            "1999-07-28T08:21:14Z",
+            "1999-07-28T08:21:14Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-28T08:21:15Z",
+            "1999-07-28T08:21:14Z",
+            "1999-07-28T08:21:14Z"
+        ],
+        "meta:save-date": [
+            "1999-07-28T08:21:15Z",
+            "1999-07-28T08:21:14Z",
+            "1999-07-28T08:21:14Z"
+        ],
+        "modified": [
+            "1999-07-28T08:21:15Z",
+            "1999-07-28T08:21:14Z",
+            "1999-07-28T08:21:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "fileparser.o",
+            "formparser.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

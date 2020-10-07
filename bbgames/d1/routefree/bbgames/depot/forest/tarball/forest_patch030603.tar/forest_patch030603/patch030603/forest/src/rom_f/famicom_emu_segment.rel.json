@@ -1,0 +1,21 @@
+{
+    "famicom_emu_segment.rel": {
+        "modified": "2003-05-22 02:54:21",
+        "size": "11.49KB",
+        "md5": "aa6af725abd8689884b6011ac9592fae",
+        "sha256": "09c6115d9a7130d49c2901e0e94ca401d9567c8c099a1c74859f257e1e4135f8"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS",
+        "resourceName": "b'famicom_emu_segment.rel'"
+    }
+}

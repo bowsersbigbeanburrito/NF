@@ -1,0 +1,21 @@
+{
+    "bootup.map": {
+        "modified": "2020-10-06 13:38:09.799312",
+        "size": "46.73KB",
+        "md5": "c7cb6e16efced3a6dbc422e2d9ae200b",
+        "sha256": "8bd24c9b44072c6c34f2624388512dcdb7f0d4aeeace70a7f96fafe9582316bb"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "35",
+        "csv:delimiter": "tab",
+        "resourceName": "b'bootup.map'"
+    }
+}

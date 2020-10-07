@@ -1,0 +1,21 @@
+{
+    "cloud_c1.txt": {
+        "modified": "2020-10-06 13:38:22.083349",
+        "size": "12.49KB",
+        "md5": "dc303c8c52974d685ce602166bb1f00c",
+        "sha256": "43e00b57bf0d3eb75d73e372b2379c099e83b34b80964a91818fa405a893c3b3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'cloud_c1.txt'"
+    }
+}

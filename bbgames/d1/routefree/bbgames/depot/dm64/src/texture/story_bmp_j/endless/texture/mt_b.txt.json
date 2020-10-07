@@ -1,0 +1,21 @@
+{
+    "mt_b.txt": {
+        "modified": "2020-10-06 13:38:22.338349",
+        "size": "12.45KB",
+        "md5": "687c3feddfcc872601143d092a4719b9",
+        "sha256": "d05b0f89806ac2bf86a48e824c8737f9c42e966098ef7860efcd29ca80f32386"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'mt_b.txt'"
+    }
+}

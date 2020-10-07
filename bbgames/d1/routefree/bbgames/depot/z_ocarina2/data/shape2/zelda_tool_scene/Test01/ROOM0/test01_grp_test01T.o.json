@@ -1,0 +1,21 @@
+{
+    "test01_grp_test01T.o": {
+        "modified": "2020-10-06 13:39:48.916880",
+        "size": "4.9KB",
+        "md5": "38f12660bb4e1ffd3e7a9df137a25a0b",
+        "sha256": "2cbd385a171cd39cecfe26b0b9bc1a9d529cb87e54365e97f77b635476dc2134"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS",
+        "resourceName": "b'test01_grp_test01T.o'"
+    }
+}

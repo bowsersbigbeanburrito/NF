@@ -1,0 +1,24 @@
+{
+    "dj.result1.15k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:19.344867",
+        "size": "119.96KB",
+        "md5": "37db08051d7b333e86ff809d4cac37ef",
+        "sha256": "25fc8efeea8bcd6d5a4db806476f94a20647260fe7c506a6fb384dba6db0a54f"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'dj.result1.15k.aifc.raw.aiff'",
+        "samplerate": "15000.0",
+        "xmpDM:audioSampleRate": "15000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

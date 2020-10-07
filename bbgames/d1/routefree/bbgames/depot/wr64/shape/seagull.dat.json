@@ -1,0 +1,21 @@
+{
+    "seagull.dat": {
+        "modified": "2020-10-06 13:39:20.008869",
+        "size": "31.09KB",
+        "md5": "20f6b691d7cd1218313be2bd0dcc92a2",
+        "sha256": "fadd6c0f9c285129ac1b3090f5f4a527eaf844f3bc0bb50de387bd1826348c84"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'seagull.dat'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "g02.txt": {
+        "modified": "2020-10-06 13:38:21.743824",
+        "size": "10.61KB",
+        "md5": "57186fcf72086976a46aad606c9a5aa4",
+        "sha256": "9912d1dc9d982bb4f43f8c721540a83db8073f9640b09e4fec7409f6f6e173dd"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'g02.txt'"
+    }
+}

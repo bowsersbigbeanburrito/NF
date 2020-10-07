@@ -1,0 +1,26 @@
+{
+    "N_yoshi.raw": {
+        "modified": "2020-10-06 13:38:52.407284",
+        "size": "3.0KB",
+        "md5": "986895be83b5e02f6abf78805d9bb418",
+        "sha256": "91e6ce321acb75a9aaccbf387d16362cbe62ee3144b0f84cd0f40d084c69e45f"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'N_yoshi.raw'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "8.0"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libboot.a": {
+        "modified": "2020-10-06 13:38:23.684713",
+        "size": "7.14KB",
+        "md5": "ab7445bd889f650f6347cf7378d4c0a9",
+        "sha256": "6c8a329b501b46d96362d358f46a69d1a75241ed8cc38ad878ae999f8c3c4e2f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libboot.a'",
+            "bootstrap.o",
+            "bootdisk.o"
+        ],
+        "Content-Length": [
+            "40",
+            "3112",
+            "3972"
+        ],
+        "Last-Modified": [
+            "1998-03-10T04:30:11Z",
+            "1998-03-10T04:30:07Z",
+            "1998-03-10T04:30:10Z"
+        ],
+        "Last-Save-Date": [
+            "1998-03-10T04:30:11Z",
+            "1998-03-10T04:30:07Z",
+            "1998-03-10T04:30:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/bootstrap.o",
+            "/bootdisk.o"
+        ],
+        "date": [
+            "1998-03-10T04:30:11Z",
+            "1998-03-10T04:30:07Z",
+            "1998-03-10T04:30:10Z"
+        ],
+        "dcterms:modified": [
+            "1998-03-10T04:30:11Z",
+            "1998-03-10T04:30:07Z",
+            "1998-03-10T04:30:10Z"
+        ],
+        "meta:save-date": [
+            "1998-03-10T04:30:11Z",
+            "1998-03-10T04:30:07Z",
+            "1998-03-10T04:30:10Z"
+        ],
+        "modified": [
+            "1998-03-10T04:30:11Z",
+            "1998-03-10T04:30:07Z",
+            "1998-03-10T04:30:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "bootstrap.o",
+            "bootdisk.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

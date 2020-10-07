@@ -1,0 +1,24 @@
+{
+    "foo": {
+        "modified": "2020-10-06 13:39:20.129869",
+        "size": "92.05KB",
+        "md5": "29867a641335f488d2f42ade5aa8167a",
+        "sha256": "b81c7c64265cac6e7c2d67e2438b976cc2daba68ebde53445ca8148ac496793d"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'foo'",
+        "samplerate": "16000.0",
+        "xmpDM:audioSampleRate": "16000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

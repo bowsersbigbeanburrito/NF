@@ -1,0 +1,24 @@
+{
+    "an.sandybeach.12k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:19.300869",
+        "size": "30.74KB",
+        "md5": "7f456940359ab57569eed7ea24dd39e3",
+        "sha256": "09fdfa19c5a65682dfe0a5338b0975f3585a52cb08f12821819d6d4e600239b7"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'an.sandybeach.12k.aifc.raw.aiff'",
+        "samplerate": "12000.0",
+        "xmpDM:audioSampleRate": "12000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

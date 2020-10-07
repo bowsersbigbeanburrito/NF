@@ -1,0 +1,21 @@
+{
+    "font_a.txt": {
+        "modified": "2020-10-06 13:38:21.880349",
+        "size": "117.55KB",
+        "md5": "3e5c2724fdd45ab493fbe651b813ae58",
+        "sha256": "3a15cefc30ce252c1af6097720a27b7fc74ae46db87587d2e7192c4892426ccc"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "8",
+        "csv:delimiter": "comma",
+        "resourceName": "b'font_a.txt'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "hex64.dat": {
+        "modified": "2020-10-06 13:39:14.416048",
+        "size": "17.59KB",
+        "md5": "d4179c81d88faa04593017319db95b62",
+        "sha256": "c377d7d922dcfbef0fef40cc872ddae30e38e63228ccceec703586ac71b0669e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'hex64.dat'"
+    }
+}

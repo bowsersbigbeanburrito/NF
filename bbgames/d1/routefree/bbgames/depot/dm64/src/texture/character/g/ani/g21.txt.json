@@ -1,0 +1,21 @@
+{
+    "g21.txt": {
+        "modified": "2020-10-06 13:38:21.750824",
+        "size": "10.61KB",
+        "md5": "6f2ee568c951284b085123faf443e3ff",
+        "sha256": "c23659f1d82e3cf6e27cb2742c56268182c3643b5435e85fd725ef759275b996"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'g21.txt'"
+    }
+}

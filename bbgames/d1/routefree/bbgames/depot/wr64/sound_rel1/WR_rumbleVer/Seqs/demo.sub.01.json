@@ -1,0 +1,21 @@
+{
+    "demo.sub.01": {
+        "modified": "2020-10-06 13:39:21.846396",
+        "size": "0.95KB",
+        "md5": "c33997b7c1a616573eb0c430739308c9",
+        "sha256": "b4adebf52072aec79b3735d7af59faf74dd7d8fccdcaef11c2af58e62508b86d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'demo.sub.01'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "romaddress": {
+        "modified": "2020-10-06 13:39:03.518480",
+        "size": "18.0KB",
+        "md5": "a2442e9d1acffaad4eee067fb2bfdfb9",
+        "sha256": "3b941027cf264e5de04a3c01b27355ec513650403c027f76c2c94f15c5bf931b"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS",
+        "resourceName": "b'romaddress'"
+    }
+}

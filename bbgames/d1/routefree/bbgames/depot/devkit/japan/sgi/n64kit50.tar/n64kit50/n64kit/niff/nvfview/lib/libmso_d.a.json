@@ -1,0 +1,183 @@
+{
+    "libmso_d.a": {
+        "modified": "1999-07-28 01:20:52",
+        "size": "390.69KB",
+        "md5": "b99a43137dbfc910673bcb4b5ee23741",
+        "sha256": "0f70b4c24397f14120b7bee80c454fbcf51524da0de1a3465877209e05fb6364"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libmso_d.a'",
+            "allocator.o",
+            "cascadeallocator.o",
+            "debug.o",
+            "gfxbuffer.o",
+            "heapallocator.o",
+            "is_debug.o"
+        ],
+        "Content-Length": [
+            "548",
+            "7588",
+            "76500",
+            "74148",
+            "76900",
+            "86980",
+            "76884"
+        ],
+        "Last-Modified": [
+            "1999-07-28T08:20:52Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:51Z",
+            "1999-07-28T08:20:52Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-28T08:20:52Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:51Z",
+            "1999-07-28T08:20:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/allocator.o",
+            "/cascadeallocator.o",
+            "/debug.o",
+            "/gfxbuffer.o",
+            "/heapallocator.o",
+            "/is_debug.o"
+        ],
+        "date": [
+            "1999-07-28T08:20:52Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:51Z",
+            "1999-07-28T08:20:52Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-28T08:20:52Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:51Z",
+            "1999-07-28T08:20:52Z"
+        ],
+        "meta:save-date": [
+            "1999-07-28T08:20:52Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:51Z",
+            "1999-07-28T08:20:52Z"
+        ],
+        "modified": [
+            "1999-07-28T08:20:52Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:49Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:50Z",
+            "1999-07-28T08:20:51Z",
+            "1999-07-28T08:20:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "allocator.o",
+            "cascadeallocator.o",
+            "debug.o",
+            "gfxbuffer.o",
+            "heapallocator.o",
+            "is_debug.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

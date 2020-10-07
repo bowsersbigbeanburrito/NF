@@ -1,0 +1,163 @@
+{
+    "libmvm.a": {
+        "modified": "1999-07-28 01:21:05",
+        "size": "24.75KB",
+        "md5": "398c628a6a93bb897c010600e03a0807",
+        "sha256": "da6045d67c8c71539bff285c3e0685734c79d1743e4ad5e791d29d1f6b095b26"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libmvm.a'",
+            "matrix.o",
+            "orientation.o",
+            "rotation.o",
+            "util.o",
+            "vector.o"
+        ],
+        "Content-Length": [
+            "1136",
+            "8500",
+            "1972",
+            "3780",
+            "2820",
+            "6772"
+        ],
+        "Last-Modified": [
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:02Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:04Z",
+            "1999-07-28T08:21:04Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:02Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:04Z",
+            "1999-07-28T08:21:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/matrix.o",
+            "/orientation.o",
+            "/rotation.o",
+            "/util.o",
+            "/vector.o"
+        ],
+        "date": [
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:02Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:04Z",
+            "1999-07-28T08:21:04Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:02Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:04Z",
+            "1999-07-28T08:21:04Z"
+        ],
+        "meta:save-date": [
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:02Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:04Z",
+            "1999-07-28T08:21:04Z"
+        ],
+        "modified": [
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:02Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:03Z",
+            "1999-07-28T08:21:04Z",
+            "1999-07-28T08:21:04Z"
+        ],
+        "embeddedRelationshipId": [
+            "matrix.o",
+            "orientation.o",
+            "rotation.o",
+            "util.o",
+            "vector.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

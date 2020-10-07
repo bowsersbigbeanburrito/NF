@@ -1,0 +1,21 @@
+{
+    "test_shape.sou": {
+        "modified": "2020-10-06 13:39:14.279048",
+        "size": "86.8KB",
+        "md5": "4149224171b6912eb47d125628b87f7d",
+        "sha256": "347f9219e8aa7e6be20886c3d89e4211e5bf05ab1bfe296469086169c2e092ef"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test_shape.sou'"
+    }
+}

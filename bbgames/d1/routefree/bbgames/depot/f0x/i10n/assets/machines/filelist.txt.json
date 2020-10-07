@@ -1,0 +1,21 @@
+{
+    "filelist.txt": {
+        "modified": "2020-10-06 13:38:23.602713",
+        "size": "0.37KB",
+        "md5": "aa83bc53eb58b814ab090d9e693c6fce",
+        "sha256": "73ca6326f7f5ccb48e2a104ad48a364cdadbe7839a0a1aaa39b4280c9148369e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'filelist.txt'"
+    }
+}

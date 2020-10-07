@@ -1,0 +1,76 @@
+{
+    "libtmsc.a": {
+        "modified": "2020-10-06 13:39:17.142119",
+        "size": "337.44KB",
+        "md5": "82531cc67fa8569d788c4c10a71eb016",
+        "sha256": "96fa5f9b2e0b65a8b3f08180810c176cbea8300e04fc50c9182c60ee3b1ca2c8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libtmsc.a'",
+            "tmsc.o"
+        ],
+        "Content-Length": [
+            "18018",
+            "327388"
+        ],
+        "Last-Modified": [
+            "2004-02-09T08:51:36Z",
+            "2004-02-09T08:51:36Z"
+        ],
+        "Last-Save-Date": [
+            "2004-02-09T08:51:36Z",
+            "2004-02-09T08:51:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/tmsc.o"
+        ],
+        "date": [
+            "2004-02-09T08:51:36Z",
+            "2004-02-09T08:51:36Z"
+        ],
+        "dcterms:modified": [
+            "2004-02-09T08:51:36Z",
+            "2004-02-09T08:51:36Z"
+        ],
+        "meta:save-date": [
+            "2004-02-09T08:51:36Z",
+            "2004-02-09T08:51:36Z"
+        ],
+        "modified": [
+            "2004-02-09T08:51:36Z",
+            "2004-02-09T08:51:36Z"
+        ],
+        "embeddedRelationshipId": "tmsc.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

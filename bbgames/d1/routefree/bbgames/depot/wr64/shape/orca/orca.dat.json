@@ -1,0 +1,21 @@
+{
+    "orca.dat": {
+        "modified": "2020-10-06 13:39:20.008869",
+        "size": "25.86KB",
+        "md5": "eebf78d471bb8121396bf7905fd66f34",
+        "sha256": "ad4217e28d61504080520658351d6188387ca355ccfdb64b06de021e72592dff"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'orca.dat'"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "checksfx2.bin": {
+        "modified": "1999-07-22 03:29:00",
+        "size": "16.55KB",
+        "md5": "684b4e1955df9e9a8dcc27cdf368c1ea",
+        "sha256": "8a82d21a81f657461752e98646ead54bb98211f7db9bfb88ef1bb78a3d4661bd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'checksfx2.bin'",
+            "main.o",
+            "graphics.o",
+            "checksfx2.o"
+        ],
+        "Content-Length": [
+            "272",
+            "2228",
+            "3332",
+            "10868"
+        ],
+        "Last-Modified": [
+            "1999-07-22T10:26:40Z",
+            "1999-07-22T10:26:32Z",
+            "1999-07-22T10:26:34Z",
+            "1999-07-22T10:26:40Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-22T10:26:40Z",
+            "1999-07-22T10:26:32Z",
+            "1999-07-22T10:26:34Z",
+            "1999-07-22T10:26:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/main.o",
+            "/graphics.o",
+            "/checksfx2.o"
+        ],
+        "date": [
+            "1999-07-22T10:26:40Z",
+            "1999-07-22T10:26:32Z",
+            "1999-07-22T10:26:34Z",
+            "1999-07-22T10:26:40Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-22T10:26:40Z",
+            "1999-07-22T10:26:32Z",
+            "1999-07-22T10:26:34Z",
+            "1999-07-22T10:26:40Z"
+        ],
+        "meta:save-date": [
+            "1999-07-22T10:26:40Z",
+            "1999-07-22T10:26:32Z",
+            "1999-07-22T10:26:34Z",
+            "1999-07-22T10:26:40Z"
+        ],
+        "modified": [
+            "1999-07-22T10:26:40Z",
+            "1999-07-22T10:26:32Z",
+            "1999-07-22T10:26:34Z",
+            "1999-07-22T10:26:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "main.o",
+            "graphics.o",
+            "checksfx2.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

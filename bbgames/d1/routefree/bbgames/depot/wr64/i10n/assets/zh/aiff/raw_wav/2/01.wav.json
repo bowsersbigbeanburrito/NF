@@ -1,0 +1,23 @@
+{
+    "01.wav": {
+        "modified": "2020-10-06 13:39:19.411869",
+        "size": "370.16KB",
+        "md5": "67ab9aabfee849eb92418eb1f61fb78f",
+        "sha256": "fe6b233c41a887932773dfa8ecf04c29b738b82aa970529549539429e804842c"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "24",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'01.wav'",
+        "samplerate": "48000.0",
+        "xmpDM:audioSampleRate": "48000"
+    }
+}

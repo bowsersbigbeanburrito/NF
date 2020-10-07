@@ -1,0 +1,75 @@
+{
+    "librfc.a": {
+        "modified": "2020-10-06 13:38:32.145852",
+        "size": "3.49KB",
+        "md5": "e1bc02891b69ab42f1a7a9e36b561dea",
+        "sha256": "356012faddce07a7bc9278dbca67d58486ba995040d267734e024ddeb8951bf3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'librfc.a'",
+            "librfc.tmp.o"
+        ],
+        "Content-Length": [
+            "80",
+            "3364"
+        ],
+        "Last-Modified": [
+            "2000-12-15T11:36:45Z",
+            "2000-12-15T11:36:44Z"
+        ],
+        "Last-Save-Date": [
+            "2000-12-15T11:36:45Z",
+            "2000-12-15T11:36:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/librfc.tmp.o"
+        ],
+        "date": [
+            "2000-12-15T11:36:45Z",
+            "2000-12-15T11:36:44Z"
+        ],
+        "dcterms:modified": [
+            "2000-12-15T11:36:45Z",
+            "2000-12-15T11:36:44Z"
+        ],
+        "meta:save-date": [
+            "2000-12-15T11:36:45Z",
+            "2000-12-15T11:36:44Z"
+        ],
+        "modified": [
+            "2000-12-15T11:36:45Z",
+            "2000-12-15T11:36:44Z"
+        ],
+        "embeddedRelationshipId": "librfc.tmp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS"
+    }
+}

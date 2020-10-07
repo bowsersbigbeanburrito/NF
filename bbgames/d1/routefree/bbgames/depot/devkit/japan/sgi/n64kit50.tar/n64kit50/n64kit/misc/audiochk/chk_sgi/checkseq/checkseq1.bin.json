@@ -1,0 +1,123 @@
+{
+    "checkseq1.bin": {
+        "modified": "1999-07-22 03:43:52",
+        "size": "16.83KB",
+        "md5": "5ccc9573edbf724c5681323d1e6ed8c2",
+        "sha256": "ce0af703a16172068eddf1a7ca2974f10277487f7eda26a8716909f0028d8295"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'checkseq1.bin'",
+            "main.o",
+            "graphics.o",
+            "checkseq1.o"
+        ],
+        "Content-Length": [
+            "288",
+            "2228",
+            "3332",
+            "11140"
+        ],
+        "Last-Modified": [
+            "1999-07-22T10:43:53Z",
+            "1999-07-22T10:43:50Z",
+            "1999-07-22T10:43:51Z",
+            "1999-07-22T10:43:53Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-22T10:43:53Z",
+            "1999-07-22T10:43:50Z",
+            "1999-07-22T10:43:51Z",
+            "1999-07-22T10:43:53Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/main.o",
+            "/graphics.o",
+            "/checkseq1.o"
+        ],
+        "date": [
+            "1999-07-22T10:43:53Z",
+            "1999-07-22T10:43:50Z",
+            "1999-07-22T10:43:51Z",
+            "1999-07-22T10:43:53Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-22T10:43:53Z",
+            "1999-07-22T10:43:50Z",
+            "1999-07-22T10:43:51Z",
+            "1999-07-22T10:43:53Z"
+        ],
+        "meta:save-date": [
+            "1999-07-22T10:43:53Z",
+            "1999-07-22T10:43:50Z",
+            "1999-07-22T10:43:51Z",
+            "1999-07-22T10:43:53Z"
+        ],
+        "modified": [
+            "1999-07-22T10:43:53Z",
+            "1999-07-22T10:43:50Z",
+            "1999-07-22T10:43:51Z",
+            "1999-07-22T10:43:53Z"
+        ],
+        "embeddedRelationshipId": [
+            "main.o",
+            "graphics.o",
+            "checkseq1.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

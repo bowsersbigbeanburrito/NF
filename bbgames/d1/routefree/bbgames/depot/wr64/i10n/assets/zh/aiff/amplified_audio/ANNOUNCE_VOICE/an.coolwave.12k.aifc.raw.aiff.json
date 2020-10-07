@@ -1,0 +1,24 @@
+{
+    "an.coolwave.12k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:19.296868",
+        "size": "34.62KB",
+        "md5": "85b15613c414040a1c6b518c154f206b",
+        "sha256": "f2e28d0fe4fd2a7cc53c1851fd41ce0f1ce7d81a6867a350bdc39a347f38c18d"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'an.coolwave.12k.aifc.raw.aiff'",
+        "samplerate": "12000.0",
+        "xmpDM:audioSampleRate": "12000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

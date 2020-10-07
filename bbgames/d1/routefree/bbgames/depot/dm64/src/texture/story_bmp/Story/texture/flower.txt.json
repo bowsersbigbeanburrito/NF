@@ -1,0 +1,21 @@
+{
+    "flower.txt": {
+        "modified": "2020-10-06 13:38:22.085349",
+        "size": "12.49KB",
+        "md5": "38208621fc1e57dd154c7841ed433b92",
+        "sha256": "29c7770d6f12275085b4af96df910431053d33fe5e15e310e6a7b4e662ed2c18"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'flower.txt'"
+    }
+}

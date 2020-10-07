@@ -1,0 +1,163 @@
+{
+    "libmis_d.a": {
+        "modified": "1999-07-28 01:21:08",
+        "size": "405.21KB",
+        "md5": "6597082d211aca805a9ef076b1f9eb1b",
+        "sha256": "cbaa0991e39988592722adf693c2eefdf497da241a206f5fb699f9f5f462f969"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libmis_d.a'",
+            "buffer.o",
+            "input.o",
+            "util.o",
+            "rominputepi.o",
+            "rominputpi.o"
+        ],
+        "Content-Length": [
+            "992",
+            "80436",
+            "78020",
+            "88180",
+            "83556",
+            "83380"
+        ],
+        "Last-Modified": [
+            "1999-07-28T08:21:08Z",
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:06Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:08Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-28T08:21:08Z",
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:06Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/buffer.o",
+            "/input.o",
+            "/util.o",
+            "/rominputepi.o",
+            "/rominputpi.o"
+        ],
+        "date": [
+            "1999-07-28T08:21:08Z",
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:06Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:08Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-28T08:21:08Z",
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:06Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:08Z"
+        ],
+        "meta:save-date": [
+            "1999-07-28T08:21:08Z",
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:06Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:08Z"
+        ],
+        "modified": [
+            "1999-07-28T08:21:08Z",
+            "1999-07-28T08:21:05Z",
+            "1999-07-28T08:21:06Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:07Z",
+            "1999-07-28T08:21:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "buffer.o",
+            "input.o",
+            "util.o",
+            "rominputepi.o",
+            "rominputpi.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

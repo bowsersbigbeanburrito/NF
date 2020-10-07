@@ -1,0 +1,20 @@
+{
+    "test1.log": {
+        "modified": "2020-10-06 13:39:22.576418",
+        "size": "0.26KB",
+        "md5": "82fc20b39924f757d12f452032ccbe9c",
+        "sha256": "1a217c5a731e8d1a5f740e88f0c5fc97fea5bf326a48e603243adfbbb109e21f"
+    },
+    "Metadata": {
+        "Content-Encoding": "EUC-JP",
+        "Content-Type": "text/plain; charset=EUC-JP",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test1.log'"
+    }
+}

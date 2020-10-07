@@ -1,0 +1,21 @@
+{
+    "ground_a.txt": {
+        "modified": "2020-10-06 13:38:22.089349",
+        "size": "9.84KB",
+        "md5": "bb229e90974e2b5718497b42eef9e39a",
+        "sha256": "240c03d875211c3fa6da07d071782c43f3bd463bea2fdbcfe4879252b29c1916"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ground_a.txt'"
+    }
+}

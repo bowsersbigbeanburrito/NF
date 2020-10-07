@@ -1,0 +1,26 @@
+{
+    "N_kinopio.raw": {
+        "modified": "2020-10-06 13:38:52.406284",
+        "size": "3.0KB",
+        "md5": "fc78a691c04cbbf118aaeda4f781e362",
+        "sha256": "bf3582d6249737faacca9d5c9e7cef82f4af14f6e6e61705d98ff1eb166884df"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'N_kinopio.raw'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "8.0"
+    }
+}

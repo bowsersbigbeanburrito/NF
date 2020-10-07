@@ -1,0 +1,103 @@
+{
+    "libmgk.a": {
+        "modified": "1999-07-28 01:23:19",
+        "size": "16.27KB",
+        "md5": "01023c30d85943a7709137078da73cf3",
+        "sha256": "72c9dc180d615babac8d7bd4a3eafb101e90348638701941eb8ba207634e22e2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libmgk.a'",
+            "app.o",
+            "obj.o"
+        ],
+        "Content-Length": [
+            "288",
+            "4900",
+            "11284"
+        ],
+        "Last-Modified": [
+            "1999-07-28T08:23:19Z",
+            "1999-07-28T08:23:18Z",
+            "1999-07-28T08:23:19Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-28T08:23:19Z",
+            "1999-07-28T08:23:18Z",
+            "1999-07-28T08:23:19Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/app.o",
+            "/obj.o"
+        ],
+        "date": [
+            "1999-07-28T08:23:19Z",
+            "1999-07-28T08:23:18Z",
+            "1999-07-28T08:23:19Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-28T08:23:19Z",
+            "1999-07-28T08:23:18Z",
+            "1999-07-28T08:23:19Z"
+        ],
+        "meta:save-date": [
+            "1999-07-28T08:23:19Z",
+            "1999-07-28T08:23:18Z",
+            "1999-07-28T08:23:19Z"
+        ],
+        "modified": [
+            "1999-07-28T08:23:19Z",
+            "1999-07-28T08:23:18Z",
+            "1999-07-28T08:23:19Z"
+        ],
+        "embeddedRelationshipId": [
+            "app.o",
+            "obj.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

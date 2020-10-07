@@ -1,0 +1,123 @@
+{
+    "libhvq2.a": {
+        "modified": "1999-05-31 23:01:11",
+        "size": "115.91KB",
+        "md5": "e556bcac1cd8c0c45b1e63232d32984c",
+        "sha256": "e14567ae5ad1f9b6a9f54f0da99346a2a44189f2e46cf9ba0705cfd56d98d012"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libhvq2.a'",
+            "hvq2dec1.o",
+            "hvq2dec2.o",
+            "hvq2decSP.o"
+        ],
+        "Content-Length": [
+            "96",
+            "44208",
+            "44628",
+            "29516"
+        ],
+        "Last-Modified": [
+            "1999-03-29T04:44:46Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:46Z"
+        ],
+        "Last-Save-Date": [
+            "1999-03-29T04:44:46Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/hvq2dec1.o",
+            "/hvq2dec2.o",
+            "/hvq2decSP.o"
+        ],
+        "date": [
+            "1999-03-29T04:44:46Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:46Z"
+        ],
+        "dcterms:modified": [
+            "1999-03-29T04:44:46Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:46Z"
+        ],
+        "meta:save-date": [
+            "1999-03-29T04:44:46Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:46Z"
+        ],
+        "modified": [
+            "1999-03-29T04:44:46Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:45Z",
+            "1999-03-29T04:44:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "hvq2dec1.o",
+            "hvq2dec2.o",
+            "hvq2decSP.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "players.csv": {
+        "modified": "2020-10-06 13:38:11.501552",
+        "size": "127.25KB",
+        "md5": "e489d1447459dc1b3045dfcd3418b6e2",
+        "sha256": "affb7a49b748a5e62a638f195fcfd4902737414cb05cc7ce18236a9ec5a172c3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "10",
+        "csv:delimiter": "comma",
+        "resourceName": "b'players.csv'"
+    }
+}

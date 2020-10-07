@@ -1,0 +1,21 @@
+{
+    "rocks_a.txt": {
+        "modified": "2020-10-06 13:38:22.108349",
+        "size": "12.43KB",
+        "md5": "0f4e00c3e9ba63b3c48da3cb93558086",
+        "sha256": "10585d9faa6e38966515e5bd0fcf2510cababd800f57b67386fd33ba4da00ed2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'rocks_a.txt'"
+    }
+}

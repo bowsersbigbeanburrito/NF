@@ -1,0 +1,21 @@
+{
+    "foo.exinfo": {
+        "modified": "2020-10-06 13:39:03.633479",
+        "size": "1.94KB",
+        "md5": "df88913a14117f9c39cfc0ad7cf48175",
+        "sha256": "3c76420d71dea55591aba481bf203845023cc844840a4d60eef26172063447a6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'foo.exinfo'"
+    }
+}

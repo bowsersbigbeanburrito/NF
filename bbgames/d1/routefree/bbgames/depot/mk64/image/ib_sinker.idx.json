@@ -1,0 +1,21 @@
+{
+    "ib_sinker.idx": {
+        "modified": "2020-10-06 13:38:52.484730",
+        "size": "6.35KB",
+        "md5": "9c91383213b711427cf145e0f1598910",
+        "sha256": "1456d2cc20bb4e26038a6a50c17e224e66cb99ad421d55f52d2fd746e79a0271"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ib_sinker.idx'"
+    }
+}

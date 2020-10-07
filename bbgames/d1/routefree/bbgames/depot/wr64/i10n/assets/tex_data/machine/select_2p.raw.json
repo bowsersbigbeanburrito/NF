@@ -1,0 +1,26 @@
+{
+    "select_2p.raw": {
+        "modified": "2020-10-06 13:39:19.250869",
+        "size": "4.5KB",
+        "md5": "3746eddafbd561b82f3595d9c9faf130",
+        "sha256": "f055278195ac6dfccd3c434f583fe4f698e5f9496e13fc0ca4323b5d8f8c4d28"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'select_2p.raw'",
+        "samplerate": "32000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "32000",
+        "xmpDM:duration": "144.0"
+    }
+}

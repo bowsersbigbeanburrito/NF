@@ -1,0 +1,123 @@
+{
+    "libjpg.a": {
+        "modified": "2020-10-06 13:39:37.923675",
+        "size": "12.38KB",
+        "md5": "bf6a742372247fb4fc7e81e85f117f11",
+        "sha256": "e27199fe580674a0763ed0506c1ce8e295465796827332a1f45749763fd4b89b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libjpg.a'",
+            "make.o",
+            "load.o",
+            "save.o"
+        ],
+        "Content-Length": [
+            "96",
+            "3520",
+            "3964",
+            "4848"
+        ],
+        "Last-Modified": [
+            "1998-03-03T09:10:03Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:03Z"
+        ],
+        "Last-Save-Date": [
+            "1998-03-03T09:10:03Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:03Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/make.o",
+            "/load.o",
+            "/save.o"
+        ],
+        "date": [
+            "1998-03-03T09:10:03Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:03Z"
+        ],
+        "dcterms:modified": [
+            "1998-03-03T09:10:03Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:03Z"
+        ],
+        "meta:save-date": [
+            "1998-03-03T09:10:03Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:03Z"
+        ],
+        "modified": [
+            "1998-03-03T09:10:03Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:01Z",
+            "1998-03-03T09:10:03Z"
+        ],
+        "embeddedRelationshipId": [
+            "make.o",
+            "load.o",
+            "save.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

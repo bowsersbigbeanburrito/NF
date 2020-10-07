@@ -1,0 +1,21 @@
+{
+    "test.o": {
+        "modified": "2020-10-06 13:39:49.826408",
+        "size": "0.54KB",
+        "md5": "548e811f060c2ac96722033c72b8e120",
+        "sha256": "87163a3120ce6b83558f5eb1298e70e0f907de29fe755a11d1708c277c9a8d73"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS",
+        "resourceName": "b'test.o'"
+    }
+}

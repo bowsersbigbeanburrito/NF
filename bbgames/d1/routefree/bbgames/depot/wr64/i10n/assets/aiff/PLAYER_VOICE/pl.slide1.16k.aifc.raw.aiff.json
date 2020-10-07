@@ -1,0 +1,24 @@
+{
+    "pl.slide1.16k.aifc.raw.aiff": {
+        "modified": "2020-10-06 13:39:18.580620",
+        "size": "8.82KB",
+        "md5": "00c380ac4b37f6b48a0be838e8d5fcd9",
+        "sha256": "ee65d03fc5c41cb39186a5d2cec73637ac6eafa2e6c7112f35cfe078cf00719d"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pl.slide1.16k.aifc.raw.aiff'",
+        "samplerate": "16000.0",
+        "xmpDM:audioSampleRate": "16000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

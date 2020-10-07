@@ -1,0 +1,21 @@
+{
+    "Db.stats": {
+        "modified": "2020-10-06 13:39:14.774048",
+        "size": "3.02KB",
+        "md5": "0f6c646ba5e9785573e796a8235d5d92",
+        "sha256": "182a7544a842add3e7ae8d582259a695b9fb3deaf75d78960a9c75f45fe49d17"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'Db.stats'"
+    }
+}

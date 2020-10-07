@@ -1,0 +1,21 @@
+{
+    "house_a.txt": {
+        "modified": "2020-10-06 13:38:22.283349",
+        "size": "11.72KB",
+        "md5": "fffd0d9a594877a1ddff9b37b022c70d",
+        "sha256": "c2a2a387d977e5b9a799b1e80b36158c8ad5f1a17f1e7669f0cd31404c63f0a5"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'house_a.txt'"
+    }
+}

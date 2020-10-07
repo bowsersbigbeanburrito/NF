@@ -1,0 +1,24 @@
+{
+    "jackson.wav": {
+        "modified": "2020-10-06 13:38:17.361432",
+        "size": "12.83KB",
+        "md5": "b5bfa2ddbe1cc5391d58570d65c565b1",
+        "sha256": "ee3736dca7b69e01262c57771b9c66e2c1099f8634931615bc10667d3d40db9e"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'jackson.wav'",
+        "samplerate": "11025.0",
+        "xmpDM:audioSampleRate": "11025",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

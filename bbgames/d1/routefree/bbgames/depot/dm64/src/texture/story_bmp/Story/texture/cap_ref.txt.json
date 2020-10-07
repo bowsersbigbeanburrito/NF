@@ -1,0 +1,21 @@
+{
+    "cap_ref.txt": {
+        "modified": "2020-10-06 13:38:22.081349",
+        "size": "12.49KB",
+        "md5": "7124329a47450ea752be9b808ad977ad",
+        "sha256": "82aa7d65ebc761131fb2c2911c1e2065c039288829d53351f86bf1cd0717ce76"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'cap_ref.txt'"
+    }
+}

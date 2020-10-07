@@ -1,0 +1,21 @@
+{
+    "testmap1_old.sou": {
+        "modified": "2020-10-06 13:39:14.343049",
+        "size": "54.09KB",
+        "md5": "207c4738fc22e0ce002a433985f6c6c8",
+        "sha256": "950592b3e5f5d251afe4ad9d022e23c6852792aabaf9a282f2cdf2245bcf365a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'testmap1_old.sou'"
+    }
+}

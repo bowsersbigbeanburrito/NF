@@ -1,0 +1,21 @@
+{
+    "tree_b.txt": {
+        "modified": "2020-10-06 13:38:22.113348",
+        "size": "10.33KB",
+        "md5": "6f2d5aa0204c0f11049eaf2f1e8b08e5",
+        "sha256": "4a6980fd786d258c58eb0c59d177a0019150c4488460ded4b0ba434a6ab49896"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tree_b.txt'"
+    }
+}

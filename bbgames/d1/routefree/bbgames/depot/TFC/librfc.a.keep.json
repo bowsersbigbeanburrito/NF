@@ -1,0 +1,123 @@
+{
+    "librfc.a.keep": {
+        "modified": "2020-10-06 13:39:14.892049",
+        "size": "102.18KB",
+        "md5": "fd315e220fc823df319f4b29af6eb3e3",
+        "sha256": "9aa4b848d1b48aa4409a5e37c177802f7567740599775e4c9e9260d37774194c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'librfc.a.keep'",
+            "librfc.tmp.o",
+            "asmrfc.o",
+            "utyrfc.o"
+        ],
+        "Content-Length": [
+            "212",
+            "3364",
+            "94348",
+            "6460"
+        ],
+        "Last-Modified": [
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:29Z",
+            "2002-11-01T04:16:45Z"
+        ],
+        "Last-Save-Date": [
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:29Z",
+            "2002-11-01T04:16:45Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/librfc.tmp.o",
+            "/asmrfc.o",
+            "/utyrfc.o"
+        ],
+        "date": [
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:29Z",
+            "2002-11-01T04:16:45Z"
+        ],
+        "dcterms:modified": [
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:29Z",
+            "2002-11-01T04:16:45Z"
+        ],
+        "meta:save-date": [
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:29Z",
+            "2002-11-01T04:16:45Z"
+        ],
+        "modified": [
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:30Z",
+            "2002-11-01T04:17:29Z",
+            "2002-11-01T04:16:45Z"
+        ],
+        "embeddedRelationshipId": [
+            "librfc.tmp.o",
+            "asmrfc.o",
+            "utyrfc.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

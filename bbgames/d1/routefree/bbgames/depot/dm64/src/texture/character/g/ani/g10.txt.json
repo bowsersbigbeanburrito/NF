@@ -1,0 +1,21 @@
+{
+    "g10.txt": {
+        "modified": "2020-10-06 13:38:21.747824",
+        "size": "10.61KB",
+        "md5": "b46ef79c776a7cef885f5697ff7b89e4",
+        "sha256": "3e2424c6e49443f19a4dfe5d30d19c23620d48c2057c497817d11110c4e144ca"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'g10.txt'"
+    }
+}

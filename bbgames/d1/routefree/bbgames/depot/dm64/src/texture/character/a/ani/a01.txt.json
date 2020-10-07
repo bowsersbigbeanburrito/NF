@@ -1,0 +1,21 @@
+{
+    "a01.txt": {
+        "modified": "2020-10-06 13:38:21.654077",
+        "size": "9.98KB",
+        "md5": "5ecd297b0a0a67353cb3f52ac8369abf",
+        "sha256": "3b4968319c01cd2f793454d33d4fd37e6d929e66b730d374e6811bc0a86a8347"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'a01.txt'"
+    }
+}

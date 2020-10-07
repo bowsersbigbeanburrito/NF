@@ -1,0 +1,163 @@
+{
+    "libhvqm2.a": {
+        "modified": "1999-03-29 01:32:24",
+        "size": "253.84KB",
+        "md5": "010201da6cc75393121cb4208f552d20",
+        "sha256": "5778eb4953d0d257cec463f98971c6268196584b64ef0c5209baa0a1ddcdee96"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libhvqm2.a'",
+            "hvqm2dec1.o",
+            "hvqm2dec2.o",
+            "hvqm2decSP1.o",
+            "hvqm2decSP2.o",
+            "adpcmdec.o"
+        ],
+        "Content-Length": [
+            "224",
+            "71296",
+            "71708",
+            "56300",
+            "56300",
+            "3732"
+        ],
+        "Last-Modified": [
+            "1999-03-29T07:28:44Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:43Z"
+        ],
+        "Last-Save-Date": [
+            "1999-03-29T07:28:44Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:43Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/hvqm2dec1.o",
+            "/hvqm2dec2.o",
+            "/hvqm2decSP1.o",
+            "/hvqm2decSP2.o",
+            "/adpcmdec.o"
+        ],
+        "date": [
+            "1999-03-29T07:28:44Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:43Z"
+        ],
+        "dcterms:modified": [
+            "1999-03-29T07:28:44Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:43Z"
+        ],
+        "meta:save-date": [
+            "1999-03-29T07:28:44Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:43Z"
+        ],
+        "modified": [
+            "1999-03-29T07:28:44Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:40Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:42Z",
+            "1999-03-29T07:28:43Z"
+        ],
+        "embeddedRelationshipId": [
+            "hvqm2dec1.o",
+            "hvqm2dec2.o",
+            "hvqm2decSP1.o",
+            "hvqm2decSP2.o",
+            "adpcmdec.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

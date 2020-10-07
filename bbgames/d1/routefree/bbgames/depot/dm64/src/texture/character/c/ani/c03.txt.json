@@ -1,0 +1,21 @@
+{
+    "c03.txt": {
+        "modified": "2020-10-06 13:38:21.691372",
+        "size": "10.45KB",
+        "md5": "1345fd456e46996bc20520f1a6c79ab3",
+        "sha256": "b1ee90d940cf48d1476ce64ac14480ea140df85bd65871343d383f64234834ee"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'c03.txt'"
+    }
+}

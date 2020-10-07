@@ -1,0 +1,123 @@
+{
+    "libnos.a": {
+        "modified": "2020-10-06 13:39:13.585933",
+        "size": "18.48KB",
+        "md5": "17d5261f7df319b152972eda0cc5d34d",
+        "sha256": "d8ad49246dd4e3f6b4aa636afd6b4fde8e00bb7134c6e06c107f1b8464e2daf5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnos.a'",
+            "canvas.o",
+            "loadfont.o",
+            "pakmenu.o"
+        ],
+        "Content-Length": [
+            "208",
+            "3068",
+            "2656",
+            "12748"
+        ],
+        "Last-Modified": [
+            "1996-10-15T10:21:17Z",
+            "1996-10-15T10:20:51Z",
+            "1996-10-15T10:20:52Z",
+            "1996-10-15T10:20:59Z"
+        ],
+        "Last-Save-Date": [
+            "1996-10-15T10:21:17Z",
+            "1996-10-15T10:20:51Z",
+            "1996-10-15T10:20:52Z",
+            "1996-10-15T10:20:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/canvas.o",
+            "/loadfont.o",
+            "/pakmenu.o"
+        ],
+        "date": [
+            "1996-10-15T10:21:17Z",
+            "1996-10-15T10:20:51Z",
+            "1996-10-15T10:20:52Z",
+            "1996-10-15T10:20:59Z"
+        ],
+        "dcterms:modified": [
+            "1996-10-15T10:21:17Z",
+            "1996-10-15T10:20:51Z",
+            "1996-10-15T10:20:52Z",
+            "1996-10-15T10:20:59Z"
+        ],
+        "meta:save-date": [
+            "1996-10-15T10:21:17Z",
+            "1996-10-15T10:20:51Z",
+            "1996-10-15T10:20:52Z",
+            "1996-10-15T10:20:59Z"
+        ],
+        "modified": [
+            "1996-10-15T10:21:17Z",
+            "1996-10-15T10:20:51Z",
+            "1996-10-15T10:20:52Z",
+            "1996-10-15T10:20:59Z"
+        ],
+        "embeddedRelationshipId": [
+            "canvas.o",
+            "loadfont.o",
+            "pakmenu.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

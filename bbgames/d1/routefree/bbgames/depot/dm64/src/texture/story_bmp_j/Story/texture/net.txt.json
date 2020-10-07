@@ -1,0 +1,21 @@
+{
+    "net.txt": {
+        "modified": "2020-10-06 13:38:22.292349",
+        "size": "12.48KB",
+        "md5": "a6c8c9e7f0c33b797e6a0981ded46d0b",
+        "sha256": "5c09f4186a1fe203dbf2f726a36daa3e1b25182b36e8c52a064515bd01e31553"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'net.txt'"
+    }
+}

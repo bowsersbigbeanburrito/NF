@@ -1,0 +1,21 @@
+{
+    "fire.txt": {
+        "modified": "2020-10-06 13:38:22.280349",
+        "size": "12.45KB",
+        "md5": "72d53e6126faa02a130a313896abdc14",
+        "sha256": "31bcce466e215b72856ba4a22e2d29e3324694878559e23035ed6fc35926a0e8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'fire.txt'"
+    }
+}

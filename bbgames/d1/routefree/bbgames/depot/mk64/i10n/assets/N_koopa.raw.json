@@ -1,0 +1,26 @@
+{
+    "N_koopa.raw": {
+        "modified": "2020-10-06 13:38:52.406284",
+        "size": "3.0KB",
+        "md5": "e22c3a49a5ce474aa6001c1e13e8377b",
+        "sha256": "bc350be6680e0465c38ec6da5f06b7fd60715fcb073ba142eddcc3cd279c4e2a"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'N_koopa.raw'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "8.0"
+    }
+}

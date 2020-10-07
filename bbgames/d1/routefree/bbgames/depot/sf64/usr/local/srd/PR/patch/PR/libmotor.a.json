@@ -1,0 +1,75 @@
+{
+    "libmotor.a": {
+        "modified": "2020-10-06 13:39:13.585933",
+        "size": "5.38KB",
+        "md5": "cd8500efac0913dbdb27ca3a4b998533",
+        "sha256": "5d9c45295f0021786d67d9604691db5fa512a6cf54ea7dc05acf8e005b7f714b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libmotor.a'",
+            "motor.o"
+        ],
+        "Content-Length": [
+            "132",
+            "5252"
+        ],
+        "Last-Modified": [
+            "1996-12-12T00:34:32Z",
+            "1996-12-12T00:34:17Z"
+        ],
+        "Last-Save-Date": [
+            "1996-12-12T00:34:32Z",
+            "1996-12-12T00:34:17Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/motor.o"
+        ],
+        "date": [
+            "1996-12-12T00:34:32Z",
+            "1996-12-12T00:34:17Z"
+        ],
+        "dcterms:modified": [
+            "1996-12-12T00:34:32Z",
+            "1996-12-12T00:34:17Z"
+        ],
+        "meta:save-date": [
+            "1996-12-12T00:34:32Z",
+            "1996-12-12T00:34:17Z"
+        ],
+        "modified": [
+            "1996-12-12T00:34:32Z",
+            "1996-12-12T00:34:17Z"
+        ],
+        "embeddedRelationshipId": "motor.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS"
+    }
+}

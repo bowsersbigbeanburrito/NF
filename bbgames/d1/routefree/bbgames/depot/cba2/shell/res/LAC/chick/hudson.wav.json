@@ -1,0 +1,24 @@
+{
+    "hudson.wav": {
+        "modified": "2020-10-06 13:38:17.411432",
+        "size": "12.34KB",
+        "md5": "60d4797de7820508e68d0de235a385f5",
+        "sha256": "11c0b6214d9d8a7d5630608d8224d7ce74f82368b088d1dffa49313d1c6c07c8"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'hudson.wav'",
+        "samplerate": "11025.0",
+        "xmpDM:audioSampleRate": "11025",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

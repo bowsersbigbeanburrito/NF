@@ -1,0 +1,143 @@
+{
+    "libmgi_d.a": {
+        "modified": "1999-07-28 01:23:12",
+        "size": "381.83KB",
+        "md5": "272934052db8451aa94383f9be81d4cb",
+        "sha256": "2e750661a6722cc05311bd5ef97423d49d997d94ed364a2687a10af7ec362ebc"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libmgi_d.a'",
+            "app.o",
+            "character.o",
+            "control.o",
+            "job.o"
+        ],
+        "Content-Length": [
+            "704",
+            "126100",
+            "82932",
+            "86836",
+            "94116"
+        ],
+        "Last-Modified": [
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:10Z",
+            "1999-07-28T08:23:11Z",
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:12Z"
+        ],
+        "Last-Save-Date": [
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:10Z",
+            "1999-07-28T08:23:11Z",
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/app.o",
+            "/character.o",
+            "/control.o",
+            "/job.o"
+        ],
+        "date": [
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:10Z",
+            "1999-07-28T08:23:11Z",
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:12Z"
+        ],
+        "dcterms:modified": [
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:10Z",
+            "1999-07-28T08:23:11Z",
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:12Z"
+        ],
+        "meta:save-date": [
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:10Z",
+            "1999-07-28T08:23:11Z",
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:12Z"
+        ],
+        "modified": [
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:10Z",
+            "1999-07-28T08:23:11Z",
+            "1999-07-28T08:23:12Z",
+            "1999-07-28T08:23:12Z"
+        ],
+        "embeddedRelationshipId": [
+            "app.o",
+            "character.o",
+            "control.o",
+            "job.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}
