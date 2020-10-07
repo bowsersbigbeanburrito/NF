@@ -1,0 +1,20 @@
+{
+    "openssl_fips_fingerprint": {
+        "modified": "2008-09-16 03:12:10",
+        "size": "0.88KB",
+        "md5": "59e5cf1a20c2f84ed1d54e9e50d73704",
+        "sha256": "13df5cc9e2f67a3657171b11ed67020df91f2d3a8ea7a8ec6ae05d4231c4f4b8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'openssl_fips_fingerprint'"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "sig.txt": {
+        "modified": "1998-12-21 02:52:47",
+        "size": "6.0KB",
+        "md5": "43dfa65035762a5c41463f677db7da83",
+        "sha256": "e0e95015b29aadc88e55d3123edf5bc6714b133cbf01596dbaece3e448370862"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": "b'sig.txt'",
+        "Author": [
+            "Sampo Kellomaki <sampo@neuronio.pt> const char certfile[] = \"plain-cert.pem\";",
+            "Sampo Kellomaki <sampo@neuronio.pt>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1996-09-30T00:37:40Z",
+        "MboxParser-error:0906700d": "PEM routines:PEM_ASN1_read_bio:ASN1 lib:pem_lib.c:232 if (err != 1) {  ERR_print_errors_fp (stderr);    exit (1);  }",
+        "MboxParser-error:0d09508d": "asn1 encoding routines:D2I_PUBLICKEY:unknown public key type:d2i_pu.c:93 pkey);",
+        "MboxParser-from": "ssl-lists-owner@mincom.com Mon Sep 30 02:37:40 1996",
+        "MboxParser-precedence": "bulk FILE*          fp;",
+        "MboxParser-received": [
+            "(from sampo@localhost) by brutus.neuronio.pt (8.6.11/8.6.11) id BAA08729; Mon, 30 Sep 1996 01:37:40 +0100 int err;",
+            "(from daemon@localhost) by cygnus.mincom.oz.au (8.7.5/8.7.3) id LAA18980 for ssl-users-outgoing; Mon, 30 Sep 1996 11:44:56 +1000 (EST) EVP_PKEY* pkey = PEM_ASN1_read(d2i_PrivateKey, PEM_STRING_EVP_PKEY, ",
+            "from minbne.mincom.oz.au (minbne.mincom.oz.au [192.55.196.247]) by cygnus.mincom.oz.au (8.7.5/8.7.3) with SMTP id LAA18962 for <ssl-users@listserv.mincom.oz.au>; Mon, 30 Sep 1996 11:44:51 +1000 (EST) fp, NULL, NULL); /* Do the signature */",
+            "by minbne.mincom.oz.au id AA22230 EVP_PKEY* pkey = PEM_ASN1_read(d2i_PublicKey, PEM_STRING_X509, sig_len = sizeof(sig_buf);",
+            "from cygnus.mincom.oz.au by orb.mincom.oz.au with SMTP id AA11782 (5.65c/IDA-1.4.4 for eay); Mon, 30 Sep 1996 11:46:21 +1000 (5.65c/IDA-1.4.4 for ssl-users@listserv.mincom.oz.au); Mon, 30 Sep 1996 11:38:41 +1000 fp, NULL, NULL); err = EVP_SignFinal (&md_ctx,",
+            "from brutus.neuronio.pt (brutus.neuronio.pt [193.126.253.2]) by bunyip.cc.uq.oz.au (8.7.6/8.7.3) with SMTP id LAA15824 for <ssl-users@mincom.com>; Mon, 30 Sep 1996 11:40:07 +1000 29.9.1996, Sampo Kellomaki <sampo@iki.fi> */ printf (\"Signature Verified Ok.\\n\");"
+        ],
+        "MboxParser-sender": "ssl-lists-owner@mincom.com EVP_PKEY*      pkey;",
+        "MboxParser-status": "RO SSL_load_error_strings();",
+        "MboxParser-x-status": "D ",
+        "Message-Cc": [
+            "sampo@brutus.neuronio.pt const char data[]     = \"I owe you...\";",
+            "sampo@brutus.neuronio.pt"
+        ],
+        "Message-From": "Sampo Kellomaki <sampo@neuronio.pt>",
+        "Message-Recipient-Address": [
+            "ssl-users@mincom.com const char keyfile[]  = \"plain-key.pem\";",
+            "sampo@brutus.neuronio.pt const char data[]     = \"I owe you...\";"
+        ],
+        "Message-To": [
+            "ssl-users@mincom.com const char keyfile[]  = \"plain-key.pem\";",
+            "ssl-users@mincom.com"
+        ],
+        "Message:From-Email": "sampo@neuronio.pt",
+        "Message:From-Name": "Sampo Kellomaki",
+        "Message:Raw-Header:Message-Id": "<199609300037.BAA08729@brutus.neuronio.pt>",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from cygnus.mincom.oz.au by orb.mincom.oz.au with SMTP id AA11782  (5.65c/IDA-1.4.4 for eay); Mon, 30 Sep 1996 11:46:21 +1000",
+            "(from daemon@localhost) by cygnus.mincom.oz.au (8.7.5/8.7.3) id LAA18980 for ssl-users-outgoing; Mon, 30 Sep 1996 11:44:56 +1000 (EST)",
+            "from minbne.mincom.oz.au (minbne.mincom.oz.au [192.55.196.247]) by cygnus.mincom.oz.au (8.7.5/8.7.3) with SMTP id LAA18962 for <ssl-users@listserv.mincom.oz.au>; Mon, 30 Sep 1996 11:44:51 +1000 (EST)",
+            "by minbne.mincom.oz.au id AA22230  (5.65c/IDA-1.4.4 for ssl-users@listserv.mincom.oz.au); Mon, 30 Sep 1996 11:38:41 +1000",
+            "from brutus.neuronio.pt (brutus.neuronio.pt [193.126.253.2]) by bunyip.cc.uq.oz.au (8.7.6/8.7.3) with SMTP id LAA15824 for <ssl-users@mincom.com>; Mon, 30 Sep 1996 11:40:07 +1000",
+            "(from sampo@localhost) by brutus.neuronio.pt (8.6.11/8.6.11) id BAA08729; Mon, 30 Sep 1996 01:37:40 +0100"
+        ],
+        "Message:Raw-Header:Sender": "ssl-lists-owner@mincom.com",
+        "Message:Raw-Header:Status": "RO",
+        "Message:Raw-Header:X-Status": "D",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Sampo Kellomaki <sampo@neuronio.pt> const char certfile[] = \"plain-cert.pem\";",
+            "Sampo Kellomaki <sampo@neuronio.pt>"
+        ],
+        "dc:creator": [
+            "Sampo Kellomaki <sampo@neuronio.pt> const char certfile[] = \"plain-cert.pem\";",
+            "Sampo Kellomaki <sampo@neuronio.pt>"
+        ],
+        "dc:identifier": "<199609300037.BAA08729@brutus.neuronio.pt> unsigned char sig_buf [4096];",
+        "dc:title": "Signing with envelope routines",
+        "dcterms:created": "1996-09-30T00:37:40Z",
+        "identifier": "<199609300037.BAA08729@brutus.neuronio.pt> unsigned char sig_buf [4096];",
+        "meta:author": [
+            "Sampo Kellomaki <sampo@neuronio.pt> const char certfile[] = \"plain-cert.pem\";",
+            "Sampo Kellomaki <sampo@neuronio.pt>"
+        ],
+        "meta:creation-date": "1996-09-30T00:37:40Z",
+        "subject": "Signing with envelope routines"
+    }
+}

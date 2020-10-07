@@ -1,0 +1,106 @@
+{
+    "sign.txt": {
+        "modified": "1998-12-21 02:52:47",
+        "size": "5.69KB",
+        "md5": "a963b8f1e2d452c00ca9c4450302d5e1",
+        "sha256": "9f8c62ac763eeabda980a7fd8727b9df0f774db03861c8062c108ec37117762c"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": "b'sign.txt'",
+        "Author": [
+            "Eric Young <eay@mincom.com> int err;",
+            "Eric Young <eay@mincom.com>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1996-09-30T02:43:15Z",
+        "MboxParser-from": "ssl-lists-owner@mincom.com Mon Sep 30 22:43:15 1996",
+        "MboxParser-mime-version": "1.0 EVP_PKEY *      pkey;",
+        "MboxParser-precedence": "bulk /* Just load the crypto library error strings,",
+        "MboxParser-received": [
+            "(from daemon@localhost) by cygnus.mincom.oz.au (8.7.5/8.7.3) id MAA25922 for ssl-users-outgoing; Mon, 30 Sep 1996 12:43:43 +1000 (EST) X509 *x509=PEM_read_X509(fp,NULL,NULL); if (err != 1) {  ERR_print_errors_fp (stderr);    exit (1);  }",
+            "from orb.mincom.oz.au (eay@orb.mincom.oz.au [192.55.197.1]) by cygnus.mincom.oz.au (8.7.5/8.7.3) with SMTP id MAA25900 for <ssl-users@listserv.mincom.oz.au>; Mon, 30 Sep 1996 12:43:39 +1000 (EST) /* which is the same as PEM_ASN1_read(d2i_X509,PEM_STRING_X509,fp, EVP_PKEY_free (pkey);",
+            "by orb.mincom.oz.au id AA12688 * NULL,NULL); */ ",
+            "from cygnus.mincom.oz.au by orb.mincom.oz.au with SMTP id AA12802 (5.65c/IDA-1.4.4 for eay); Mon, 30 Sep 1996 12:45:43 +1000 (5.65c/IDA-1.4.4 for ssl-users@listserv.mincom.oz.au); Mon, 30 Sep 1996 12:43:16 +1000 EVP_PKEY *pkey=X509_extract_key(x509); "
+        ],
+        "MboxParser-sender": "ssl-lists-owner@mincom.com X509 *\tx509;",
+        "MboxParser-status": "O * SSL_load_error_strings() loads the crypto AND the SSL ones */",
+        "MboxParser-x-sender": "eay@orb int sig_len;",
+        "MboxParser-x-status": "/* SSL_load_error_strings();*/",
+        "Message-Cc": [
+            "ssl-users@mincom.com, sampo@brutus.neuronio.pt static char certfile[] = \"plain-cert.pem\";",
+            "ssl-users@mincom.com",
+            "sampo@brutus.neuronio.pt"
+        ],
+        "Message-From": "Eric Young <eay@mincom.com>",
+        "Message-Recipient-Address": [
+            "sampo@neuronio.pt",
+            "ssl-users@mincom.com, sampo@brutus.neuronio.pt static char certfile[] = \"plain-cert.pem\";"
+        ],
+        "Message-To": [
+            "Sampo Kellomaki <sampo@neuronio.pt> unsigned char sig_buf [4096];",
+            "Sampo Kellomaki <sampo@neuronio.pt>"
+        ],
+        "Message:From-Email": "eay@mincom.com",
+        "Message:From-Name": "Eric Young",
+        "Message:Raw-Header:Content-Type": "TEXT/PLAIN; charset=US-ASCII",
+        "Message:Raw-Header:In-Reply-To": "<199609300037.BAA08729@brutus.neuronio.pt>",
+        "Message:Raw-Header:Message-Id": "<Pine.SOL.3.91.960930121504.11800Y-100000@orb>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from cygnus.mincom.oz.au by orb.mincom.oz.au with SMTP id AA12802  (5.65c/IDA-1.4.4 for eay); Mon, 30 Sep 1996 12:45:43 +1000",
+            "(from daemon@localhost) by cygnus.mincom.oz.au (8.7.5/8.7.3) id MAA25922 for ssl-users-outgoing; Mon, 30 Sep 1996 12:43:43 +1000 (EST)",
+            "from orb.mincom.oz.au (eay@orb.mincom.oz.au [192.55.197.1]) by cygnus.mincom.oz.au (8.7.5/8.7.3) with SMTP id MAA25900 for <ssl-users@listserv.mincom.oz.au>; Mon, 30 Sep 1996 12:43:39 +1000 (EST)",
+            "by orb.mincom.oz.au id AA12688  (5.65c/IDA-1.4.4 for ssl-users@listserv.mincom.oz.au); Mon, 30 Sep 1996 12:43:16 +1000"
+        ],
+        "Message:Raw-Header:Sender": "ssl-lists-owner@mincom.com",
+        "Message:Raw-Header:Status": "O",
+        "Message:Raw-Header:X-Sender": "eay@orb",
+        "Message:Raw-Header:X-Status": " ",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Eric Young <eay@mincom.com> int err;",
+            "Eric Young <eay@mincom.com>"
+        ],
+        "dc:creator": [
+            "Eric Young <eay@mincom.com> int err;",
+            "Eric Young <eay@mincom.com>"
+        ],
+        "dc:format": "TEXT/PLAIN; charset=US-ASCII FILE *          fp;",
+        "dc:identifier": "<Pine.SOL.3.91.960930121504.11800Y-100000@orb> EVP_MD_CTX     md_ctx;",
+        "dc:relation": "<199609300037.BAA08729@brutus.neuronio.pt> static char data[]     = \"I owe you...\";",
+        "dc:title": "Re: Signing with envelope routines",
+        "dcterms:created": "1996-09-30T02:43:15Z",
+        "format": "TEXT/PLAIN; charset=US-ASCII FILE *          fp;",
+        "identifier": "<Pine.SOL.3.91.960930121504.11800Y-100000@orb> EVP_MD_CTX     md_ctx;",
+        "meta:author": [
+            "Eric Young <eay@mincom.com> int err;",
+            "Eric Young <eay@mincom.com>"
+        ],
+        "meta:creation-date": "1996-09-30T02:43:15Z",
+        "relation": "<199609300037.BAA08729@brutus.neuronio.pt> static char data[]     = \"I owe you...\";",
+        "subject": "Re: Signing with envelope routines"
+    }
+}

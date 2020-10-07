@@ -1,0 +1,86 @@
+{
+    "ÄªìÇû┌.xls": {
+        "modified": "2011-10-06 17:38:51.645375",
+        "size": "169.0KB",
+        "md5": "58ec08ec6dae9b6a054cb14d007b1f83",
+        "sha256": "d6bce448764b48eb242d3a91bd715d59ba2252ac11ef57503da0dace39d3f140"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Excel",
+        "Author": "",
+        "Company": "",
+        "Content-Type": [
+            "application/vnd.ms-excel",
+            "image/wmf",
+            "image/emf",
+            "image/wmf",
+            "image/emf"
+        ],
+        "Creation-Date": "1997-01-08T22:48:59Z",
+        "Last-Author": "N2732",
+        "Last-Modified": "2011-10-06T06:51:32Z",
+        "Last-Printed": "2010-09-29T02:55:09Z",
+        "Last-Save-Date": "2011-10-06T06:51:32Z",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "1",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "22",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "creator": "",
+        "date": "2011-10-06T06:51:32Z",
+        "dc:creator": "",
+        "dcterms:created": "1997-01-08T22:48:59Z",
+        "dcterms:modified": "2011-10-06T06:51:32Z",
+        "extended-properties:Application": "Microsoft Excel",
+        "extended-properties:Company": "",
+        "meta:author": "",
+        "meta:creation-date": "1997-01-08T22:48:59Z",
+        "meta:last-author": "N2732",
+        "meta:print-date": "2010-09-29T02:55:09Z",
+        "meta:save-date": "2011-10-06T06:51:32Z",
+        "modified": "2011-10-06T06:51:32Z",
+        "resourceName": "b'\\xc3\\x84\\xc2\\xaa\\xc3\\xac\\xc3\\x87\\xc3\\xbb\\xe2\\x94\\x8c.xls'",
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1/embedded-2",
+            "/embedded-1",
+            "/embedded-3/embedded-4",
+            "/embedded-3"
+        ]
+    }
+}

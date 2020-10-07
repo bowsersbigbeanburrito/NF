@@ -1,0 +1,48 @@
+{
+    "drm.mdpf": {
+        "modified": "2020-10-06 13:41:27.489794",
+        "size": "18.13KB",
+        "md5": "7a7c134a742a92a630d5fad4630ac301",
+        "sha256": "7006c05e3c07f4ebabc2ce972c1f26978d071e3eb6167b34c034d60eb0fb688c"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "8 8 8 8",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "UnsignedIntegral",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=180, height=180, bitDepth=8, colorType=RGBAlpha, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "Text TextEntry": [
+            "keyword=Title, value=, language=ja, compression=none",
+            "keyword=Author, value=, language=ja, compression=none",
+            "keyword=Description, value=, language=ja, compression=none",
+            "keyword=Comment, value=, language=ja, compression=none"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "height": "180",
+        "iTXt iTXtEntry": [
+            "keyword=Title, compressionFlag=false, compressionMethod=0, languageTag=ja, translatedKeyword=タイトル, text=",
+            "keyword=Author, compressionFlag=false, compressionMethod=0, languageTag=ja, translatedKeyword=作成者, text=",
+            "keyword=Description, compressionFlag=false, compressionMethod=0, languageTag=ja, translatedKeyword=説明, text=",
+            "keyword=Comment, compressionFlag=false, compressionMethod=0, languageTag=ja, translatedKeyword=コメント, text="
+        ],
+        "resourceName": "b'drm.mdpf'",
+        "tiff:BitsPerSample": "8 8 8 8",
+        "tiff:ImageLength": "180",
+        "tiff:ImageWidth": "180",
+        "width": "180"
+    }
+}

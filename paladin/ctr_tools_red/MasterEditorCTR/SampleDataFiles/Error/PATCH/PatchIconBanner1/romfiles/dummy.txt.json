@@ -1,0 +1,20 @@
+{
+    "dummy.txt": {
+        "modified": "2020-10-06 13:41:20.824089",
+        "size": "0.01KB",
+        "md5": "36e52385a1270a8fffe4b4501a66baeb",
+        "sha256": "8196d273c285ac7f51a74380391819d5aff36696aacae321fe279494d96b4fad"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'dummy.txt'"
+    }
+}
