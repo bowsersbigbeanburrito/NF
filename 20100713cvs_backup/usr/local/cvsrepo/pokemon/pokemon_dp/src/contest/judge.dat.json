@@ -1,0 +1,21 @@
+{
+    "judge.dat": {
+        "modified": "2020-10-06 13:37:11.957948",
+        "size": "1.17KB",
+        "md5": "0fbef18546f776c5e1aa9d38722e7140",
+        "sha256": "6eee9eda26bcd9fb9aff3384b3e2e1bf879ad5d355ded9b08578ff2f772fc4df"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'judge.dat'"
+    }
+}

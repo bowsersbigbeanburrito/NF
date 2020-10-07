@@ -1,0 +1,21 @@
+{
+    "enc_data.naix": {
+        "modified": "2020-10-06 13:37:13.261806",
+        "size": "1.44KB",
+        "md5": "aac829c1bd5e1015b672709433918555",
+        "sha256": "7b30123d7326277da63ede8714ce39934f6b334b982313dc6724a570fa551b5c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'enc_data.naix'"
+    }
+}

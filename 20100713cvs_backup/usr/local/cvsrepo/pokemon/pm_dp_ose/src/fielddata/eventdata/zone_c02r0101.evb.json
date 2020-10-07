@@ -1,0 +1,21 @@
+{
+    "zone_c02r0101.evb": {
+        "modified": "2020-10-06 13:37:08.015009",
+        "size": "1.67KB",
+        "md5": "f059f3e7cdd41c8f68a4c3794768c6ed",
+        "sha256": "5bd90669d4899fe416ab52cd4db0be2fcf90cf68ab48c07e328773427c93da94"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zone_c02r0101.evb'"
+    }
+}

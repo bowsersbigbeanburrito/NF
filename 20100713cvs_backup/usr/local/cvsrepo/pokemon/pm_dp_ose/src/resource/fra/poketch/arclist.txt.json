@@ -1,0 +1,21 @@
+{
+    "arclist.txt": {
+        "modified": "2020-10-06 13:37:09.467772",
+        "size": "2.99KB",
+        "md5": "ae36d05df7a723067e61ff61b2eb9341",
+        "sha256": "e74f859a5bf9ce53969cf4b66505e1e907314f97c6e9cc4b3de6af0a033aec36"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'arclist.txt'"
+    }
+}

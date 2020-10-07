@@ -1,0 +1,21 @@
+{
+    "zone_event.naix": {
+        "modified": "2020-10-06 13:37:13.452806",
+        "size": "16.5KB",
+        "md5": "20d78c06cd2173d15e4f53b8cb61aeed",
+        "sha256": "4072d125ab3f0a961d16dd07c767d6124f1b22976d62e0504e1e6e5e9a85e3b1"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zone_event.naix'"
+    }
+}

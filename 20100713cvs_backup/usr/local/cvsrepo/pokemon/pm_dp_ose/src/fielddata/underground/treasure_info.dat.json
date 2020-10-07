@@ -1,0 +1,21 @@
+{
+    "treasure_info.dat": {
+        "modified": "2020-10-06 13:37:08.682138",
+        "size": "2.34KB",
+        "md5": "ce94ec5b7f0815c556ba665e0a5a5098",
+        "sha256": "ec117b7e4a079267251ca61cc7ab596d571de58312a49ceba32ca64d722c9d7e"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "comma",
+        "resourceName": "b'treasure_info.dat'"
+    }
+}

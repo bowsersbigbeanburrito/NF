@@ -1,0 +1,21 @@
+{
+    "itemtype.dat": {
+        "modified": "2020-10-06 13:37:08.718139",
+        "size": "1.62KB",
+        "md5": "119db5d15c43d446fab3d3c0332cb38f",
+        "sha256": "9d9a43e3c91c7c5d9ce30c410a74e6bb444bd22cde2f62ed84c57e135a7c2c6a"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'itemtype.dat'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "build_list.txt": {
+        "modified": "2020-10-06 13:37:07.851010",
+        "size": "0.95KB",
+        "md5": "307015ae28db93e2f7446e01a61b47c8",
+        "sha256": "383c5d7d0cd1ac2e248d4ea1377cf8326ddd1fc2e5868d170b9b8b681b252325"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'build_list.txt'"
+    }
+}

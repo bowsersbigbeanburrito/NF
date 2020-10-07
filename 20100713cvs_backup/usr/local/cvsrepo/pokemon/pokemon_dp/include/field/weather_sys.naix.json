@@ -1,0 +1,21 @@
+{
+    "weather_sys.naix": {
+        "modified": "2020-10-06 13:37:11.682947",
+        "size": "2.15KB",
+        "md5": "c71b78cdd75ce6f75bdb2363006ef0c9",
+        "sha256": "10e689d1751ff7b365172e9a6d07f7ec3a96e44f6e827bc9982f029035faf158"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'weather_sys.naix'"
+    }
+}

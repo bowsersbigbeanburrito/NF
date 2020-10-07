@@ -1,0 +1,21 @@
+{
+    "except2.txt": {
+        "modified": "2020-10-06 13:37:40.249148",
+        "size": "23.6KB",
+        "md5": "04f91b6f6605678c35f7eb7b5b83dc3c",
+        "sha256": "11e9b11e846c798d79015dddb89f8bac6ce6803d155328033d2289f741102023"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/tsv; charset=UTF-8; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'except2.txt'"
+    }
+}

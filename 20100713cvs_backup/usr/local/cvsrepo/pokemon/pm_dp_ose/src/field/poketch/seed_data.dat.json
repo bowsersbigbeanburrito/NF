@@ -1,0 +1,21 @@
+{
+    "seed_data.dat": {
+        "modified": "2020-10-06 13:37:07.795009",
+        "size": "1.77KB",
+        "md5": "74d2da4cd46cbc591bcb1081c2d4e1cf",
+        "sha256": "1f84748e4ad968b12f23763221cccdc9ea220a54ddc4d6c464f64996b1f6770d"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'seed_data.dat'"
+    }
+}

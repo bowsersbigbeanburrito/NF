@@ -1,0 +1,21 @@
+{
+    "skip_cur.dat": {
+        "modified": "2020-10-06 13:37:10.589705",
+        "size": "7.44KB",
+        "md5": "e35621d7b358fda5b9e09a1020c8c6ee",
+        "sha256": "5c3a52ccf3704cd7ef9e8b1ea20988859c4a28ed1ce126daccde3f919796e0fd"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'skip_cur.dat'"
+    }
+}

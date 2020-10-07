@@ -1,0 +1,21 @@
+{
+    "eventarc.txt": {
+        "modified": "2020-10-06 13:37:13.543806",
+        "size": "8.73KB",
+        "md5": "98053b40a0558d793cf28abc9ff36d66",
+        "sha256": "0ee408edb02ee58b40c43315fac977c09f3830afee638292763efeeb224a029d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'eventarc.txt'"
+    }
+}

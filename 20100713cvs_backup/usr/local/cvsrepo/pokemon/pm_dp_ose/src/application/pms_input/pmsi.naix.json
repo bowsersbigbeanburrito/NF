@@ -1,0 +1,21 @@
+{
+    "pmsi.naix": {
+        "modified": "2020-10-06 13:37:04.651301",
+        "size": "1.21KB",
+        "md5": "929510bdb347bb34bbb7102827e8fb70",
+        "sha256": "f9459dd87d6be7be13ecb411eb8e89ba4d2051370b363dac7e67b975c256c30c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'pmsi.naix'"
+    }
+}

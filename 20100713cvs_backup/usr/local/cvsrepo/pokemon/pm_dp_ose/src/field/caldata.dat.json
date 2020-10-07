@@ -1,0 +1,21 @@
+{
+    "caldata.dat": {
+        "modified": "2020-10-06 13:37:07.675009",
+        "size": "36.22KB",
+        "md5": "d90c674380912bbd94eb12cff68fb1a1",
+        "sha256": "4d2e4e994c875e94edd568009afbb8302fda9ab11a6a9fcf3f6a2aea145e6c22"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'caldata.dat'"
+    }
+}

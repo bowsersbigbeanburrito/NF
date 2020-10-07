@@ -1,0 +1,21 @@
+{
+    "srclist.txt": {
+        "modified": "2020-10-06 13:37:13.246806",
+        "size": "0.64KB",
+        "md5": "9fb96ae701a2307386452d109277b93f",
+        "sha256": "409fc51b4a632b57965822a07af5fe98368a48492bf1b647caf1bef0d7a7b8af"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'srclist.txt'"
+    }
+}

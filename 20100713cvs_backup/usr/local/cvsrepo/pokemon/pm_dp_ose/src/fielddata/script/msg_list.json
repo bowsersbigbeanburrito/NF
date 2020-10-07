@@ -1,0 +1,21 @@
+{
+    "msg_list": {
+        "modified": "2020-10-06 13:37:08.570138",
+        "size": "17.65KB",
+        "md5": "f9cd4a6f6e07522e42a1129f7ec80e93",
+        "sha256": "6a7cdb2602259c36b0d1b1f4d0ac8d7e1639de0a7e1566aff198c508bbf23ea9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'msg_list'"
+    }
+}

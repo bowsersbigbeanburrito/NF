@@ -1,0 +1,21 @@
+{
+    "special.txt": {
+        "modified": "2020-10-06 13:37:40.250147",
+        "size": "1.13KB",
+        "md5": "335ef56578815c3709dea9e40a8ca4aa",
+        "sha256": "e8795cc0719807de05bd359c4de9bf9c1ac11960307a2c78303853aef0639be3"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/tsv; charset=UTF-8; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'special.txt'"
+    }
+}

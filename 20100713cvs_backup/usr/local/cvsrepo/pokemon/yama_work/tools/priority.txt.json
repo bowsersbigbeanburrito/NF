@@ -1,0 +1,21 @@
+{
+    "priority.txt": {
+        "modified": "2020-10-06 13:37:40.439140",
+        "size": "0.5KB",
+        "md5": "b74f91219400513bd993b08eccfaef0b",
+        "sha256": "c54fa6631a8ac348593997e18931eb7436278c4f1c0668c456d7d07a564fd6b2"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/tsv; charset=UTF-8; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'priority.txt'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "goods_size_info.dat": {
+        "modified": "2020-10-06 13:37:13.253806",
+        "size": "13.49KB",
+        "md5": "d1be10a5911b15ba313d4d2d8c40941b",
+        "sha256": "d43d1ff1b4e7db89569f0bd0c04c184744084c24e402540adcd496a404f822b8"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'goods_size_info.dat'"
+    }
+}

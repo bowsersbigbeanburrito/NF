@@ -1,0 +1,21 @@
+{
+    "srcfile.lst": {
+        "modified": "2020-10-06 13:37:13.882396",
+        "size": "5.88KB",
+        "md5": "60f7c3db7fe96f47cc2b54e18789089b",
+        "sha256": "b3090de6c3579a8b1c76888ad3cf2b5e878a458805e04cafe81d5b51e97cb200"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'srcfile.lst'"
+    }
+}
