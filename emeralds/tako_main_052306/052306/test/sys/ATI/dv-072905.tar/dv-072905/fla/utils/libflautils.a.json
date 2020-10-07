@@ -1,0 +1,123 @@
+{
+    "libflautils.a": {
+        "modified": "2005-07-29 15:40:15",
+        "size": "102.52KB",
+        "md5": "7812fc3cd4b29f4532f00597ceb27a14",
+        "sha256": "979426572bc08ef99f0dd9a6c14e7ef462d537c470a23584093a7a336eefd85b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libflautils.a'",
+            "dv_utils.o",
+            "fl_utils.o",
+            "fl_ops.o"
+        ],
+        "Content-Length": [
+            "480",
+            "25960",
+            "24360",
+            "53928"
+        ],
+        "Last-Modified": [
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dv_utils.o",
+            "/fl_utils.o",
+            "/fl_ops.o"
+        ],
+        "date": [
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z"
+        ],
+        "meta:save-date": [
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z"
+        ],
+        "modified": [
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z",
+            "2005-07-29T22:40:15Z"
+        ],
+        "embeddedRelationshipId": [
+            "dv_utils.o",
+            "fl_utils.o",
+            "fl_ops.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "meta.xml": {
+        "modified": "2005-09-13 02:53:42",
+        "size": "0.97KB",
+        "md5": "a3845e85dc4d07f43fcc19527b709b94",
+        "sha256": "e0beebd8b0a5206822f7ae36bf229f3579f695b182778167b4466c674de88325"
+    },
+    "Metadata": {
+        "Content-Type": "application/xml",
+        "Creation-Date": "2005-09-12T19:53:42",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.xml.DcXMLParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "dc:language": "en-US",
+        "dcterms:created": "2005-09-12T19:53:42",
+        "language": "en-US",
+        "meta:creation-date": "2005-09-12T19:53:42",
+        "resourceName": "b'meta.xml'"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "pmwiki.tmpl": {
+        "modified": "2005-10-14 08:35:51",
+        "size": "2.01KB",
+        "md5": "b79e24044b842e39541277a4e81bb582",
+        "sha256": "f23cf54a18d49b8258dd7983153e4adb4ee1f68df7e0de3cd8d8ed0628ec5511"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Style-Type": "text/css",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "dc:title": "$WikiTitle | $Group / $Title $Action",
+        "resourceName": "b'pmwiki.tmpl'",
+        "title": "$WikiTitle | $Group / $Title $Action"
+    }
+}

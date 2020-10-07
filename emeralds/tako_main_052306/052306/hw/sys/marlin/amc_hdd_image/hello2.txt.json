@@ -1,0 +1,21 @@
+{
+    "hello2.txt": {
+        "modified": "1999-12-08 19:02:14",
+        "size": "96.09KB",
+        "md5": "c1de65cef7f6e4693be7ca70b9b2017f",
+        "sha256": "5f2fb365e830787d7d46276f883a9bcc46a8ec3cd8a279095cdb026b94786b9f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "comma",
+        "resourceName": "b'hello2.txt'"
+    }
+}

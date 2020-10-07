@@ -1,0 +1,21 @@
+{
+    "testprep.log": {
+        "modified": "2005-09-14 15:13:30",
+        "size": "13.98KB",
+        "md5": "e942b89dfadc438493d5e89f5bc929a4",
+        "sha256": "e6373b7b2cb0d78205bcc6e5bda045f35cd4d48d2fb4e15d216cd3deb1bbbc8f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'testprep.log'"
+    }
+}

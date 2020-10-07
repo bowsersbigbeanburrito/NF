@@ -1,0 +1,22 @@
+{
+    "test_sram1.o": {
+        "modified": "2006-02-12 15:36:14",
+        "size": "2.35KB",
+        "md5": "1f446d8d53a29f9982fdca9d4cb5dd01",
+        "sha256": "8c5394c8c8b7487f8f461d63d1cb920c00d93e5cb9f5d24c9818528e235b4288"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'test_sram1.o'"
+    }
+}

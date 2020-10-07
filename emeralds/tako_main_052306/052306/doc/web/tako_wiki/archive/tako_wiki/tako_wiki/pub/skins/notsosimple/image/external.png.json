@@ -1,0 +1,81 @@
+{
+    "external.png": {
+        "modified": "2006-02-05 20:39:01",
+        "size": "0.16KB",
+        "md5": "8ea7563eac773be6a466fd8a9866a411",
+        "sha256": "b21ea13a2b4aaa69243b00f065003f01943ce98d8db7dd17c11e7838a1e87fc8"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=102, green=153, blue=204, alpha=255",
+            "index=1, red=51, green=153, blue=204, alpha=255",
+            "index=2, red=153, green=204, blue=255, alpha=255",
+            "index=3, red=0, green=102, blue=204, alpha=255",
+            "index=4, red=0, green=102, blue=255, alpha=255",
+            "index=5, red=255, green=255, blue=255, alpha=255",
+            "index=6, red=255, green=255, blue=255, alpha=0",
+            "index=7, red=0, green=0, blue=0, alpha=255",
+            "index=8, red=0, green=0, blue=0, alpha=255",
+            "index=9, red=0, green=0, blue=0, alpha=255",
+            "index=10, red=0, green=0, blue=0, alpha=255",
+            "index=11, red=0, green=0, blue=0, alpha=255",
+            "index=12, red=0, green=0, blue=0, alpha=255",
+            "index=13, red=0, green=0, blue=0, alpha=255",
+            "index=14, red=0, green=0, blue=0, alpha=255",
+            "index=15, red=0, green=0, blue=0, alpha=255"
+        ],
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "8 8 8 8",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "Index",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=10, height=10, bitDepth=8, colorType=Palette, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "PLTE PLTEEntry": [
+            "index=0, red=102, green=153, blue=204",
+            "index=1, red=51, green=153, blue=204",
+            "index=2, red=153, green=204, blue=255",
+            "index=3, red=0, green=102, blue=204",
+            "index=4, red=0, green=102, blue=255",
+            "index=5, red=255, green=255, blue=255",
+            "index=6, red=255, green=255, blue=255",
+            "index=7, red=0, green=0, blue=0",
+            "index=8, red=0, green=0, blue=0",
+            "index=9, red=0, green=0, blue=0",
+            "index=10, red=0, green=0, blue=0",
+            "index=11, red=0, green=0, blue=0",
+            "index=12, red=0, green=0, blue=0",
+            "index=13, red=0, green=0, blue=0",
+            "index=14, red=0, green=0, blue=0",
+            "index=15, red=0, green=0, blue=0"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "10",
+        "resourceName": "b'external.png'",
+        "tRNS tRNS_Palette tRNS_PaletteEntry": [
+            "index=0, alpha=255",
+            "index=1, alpha=255",
+            "index=2, alpha=255",
+            "index=3, alpha=255",
+            "index=4, alpha=255",
+            "index=5, alpha=255",
+            "index=6, alpha=0"
+        ],
+        "tiff:BitsPerSample": "8 8 8 8",
+        "tiff:ImageLength": "10",
+        "tiff:ImageWidth": "10",
+        "width": "10"
+    }
+}
