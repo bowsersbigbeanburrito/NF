@@ -1,0 +1,183 @@
+{
+    "libultrahost.a": {
+        "modified": "1997-03-22 12:50:44",
+        "size": "8.41KB",
+        "md5": "af6cb9b987f3b3c862c0e5f12ba2787e",
+        "sha256": "0330e31a5e85b1886acfee2031f51e02bebf4d716cecf16f692388e813c45401"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libultrahost.a'",
+            "closegame.o",
+            "opengame.o",
+            "readgame.o",
+            "writegame.o",
+            "writeramrom.o",
+            "readramrom.o"
+        ],
+        "Content-Length": [
+            "104",
+            "1432",
+            "1456",
+            "1324",
+            "1236",
+            "1316",
+            "1316"
+        ],
+        "Last-Modified": [
+            "1996-09-23T20:49:32Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:31Z",
+            "1996-09-23T20:49:32Z"
+        ],
+        "Last-Save-Date": [
+            "1996-09-23T20:49:32Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:31Z",
+            "1996-09-23T20:49:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/closegame.o",
+            "/opengame.o",
+            "/readgame.o",
+            "/writegame.o",
+            "/writeramrom.o",
+            "/readramrom.o"
+        ],
+        "date": [
+            "1996-09-23T20:49:32Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:31Z",
+            "1996-09-23T20:49:32Z"
+        ],
+        "dcterms:modified": [
+            "1996-09-23T20:49:32Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:31Z",
+            "1996-09-23T20:49:32Z"
+        ],
+        "meta:save-date": [
+            "1996-09-23T20:49:32Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:31Z",
+            "1996-09-23T20:49:32Z"
+        ],
+        "modified": [
+            "1996-09-23T20:49:32Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:29Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:30Z",
+            "1996-09-23T20:49:31Z",
+            "1996-09-23T20:49:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "closegame.o",
+            "opengame.o",
+            "readgame.o",
+            "writegame.o",
+            "writeramrom.o",
+            "readramrom.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

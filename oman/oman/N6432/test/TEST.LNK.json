@@ -1,0 +1,21 @@
+{
+    "TEST.LNK": {
+        "modified": "1996-11-29 17:35:16",
+        "size": "0.39KB",
+        "md5": "c0b4cd4efcd90af25266809a869a989d",
+        "sha256": "cb6f8dd4e71e639178a8feddb40f7ad52b05b994fa427f5faf6a4ece75c8efea"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'TEST.LNK'"
+    }
+}
