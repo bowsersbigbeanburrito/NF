@@ -1,0 +1,86 @@
+{
+    "pr13107_2.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.65KB",
+        "md5": "abf8324bece56c0e3ec7a8d0e238beed",
+        "sha256": "17b2063407a8f6879f1838fbfbad1827ee398b5d2399b062c9d1579bbbe84a57"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'pr13107_2.jar'",
+            "META-INF/MANIFEST.MF",
+            "pr13107_2.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "396"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:04:10Z",
+            "2007-01-02T23:04:10Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:04:10Z",
+            "2007-01-02T23:04:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/pr13107_2.class"
+        ],
+        "date": [
+            "2007-01-02T23:04:10Z",
+            "2007-01-02T23:04:10Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:04:10Z",
+            "2007-01-02T23:04:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "pr13107_2.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:04:10Z",
+            "2007-01-02T23:04:10Z"
+        ],
+        "modified": [
+            "2007-01-02T23:04:10Z",
+            "2007-01-02T23:04:10Z"
+        ],
+        "dc:title": "pr13107_2",
+        "title": "pr13107_2"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "libc.so.6": {
+        "modified": "2009-01-29 09:56:31",
+        "size": "1467.3KB",
+        "md5": "4c4dc6529d1b8e3be73bade987e7f8c7",
+        "sha256": "3510399b23aae49a89ebd209b35987418db51e2f1fa169a1d37eb94f314e6936"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-sharedlib",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "64",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-64",
+        "resourceName": "b'libc.so.6'"
+    }
+}

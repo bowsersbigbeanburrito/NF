@@ -1,0 +1,21 @@
+{
+    "iso8859-6.8x.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "1.77KB",
+        "md5": "8f42c1f1fc289c8a93f2ed4a5e01405e",
+        "sha256": "78981a2ce96d13cbbb920fa0b3182361db30b3131b37d23639eb96683a19fea4"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso8859-6.8x.enc'"
+    }
+}

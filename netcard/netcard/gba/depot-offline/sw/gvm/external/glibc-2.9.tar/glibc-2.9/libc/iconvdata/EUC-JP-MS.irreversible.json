@@ -1,0 +1,21 @@
+{
+    "EUC-JP-MS.irreversible": {
+        "modified": "2003-08-14 01:45:33",
+        "size": "0.49KB",
+        "md5": "cd525ae9d5686b75715ffa0be250c886",
+        "sha256": "164af51aff03e7bc7f60f7971b062979866d88a4e565c20cfc186977b3b3acd2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'EUC-JP-MS.irreversible'"
+    }
+}

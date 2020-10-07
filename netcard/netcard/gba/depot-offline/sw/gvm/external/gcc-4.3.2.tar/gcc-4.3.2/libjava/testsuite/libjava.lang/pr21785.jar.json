@@ -1,0 +1,86 @@
+{
+    "pr21785.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.88KB",
+        "md5": "f0f0251100606eb3c2f56239e3afb28d",
+        "sha256": "b61a86bfb9a404371a9b6719ba691d0d28cc3863da9be51511e6953e56f34219"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'pr21785.jar'",
+            "META-INF/MANIFEST.MF",
+            "pr21785.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "847"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:05:08Z",
+            "2007-01-02T23:05:08Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:05:08Z",
+            "2007-01-02T23:05:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/pr21785.class"
+        ],
+        "date": [
+            "2007-01-02T23:05:08Z",
+            "2007-01-02T23:05:08Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:05:08Z",
+            "2007-01-02T23:05:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "pr21785.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:05:08Z",
+            "2007-01-02T23:05:08Z"
+        ],
+        "modified": [
+            "2007-01-02T23:05:08Z",
+            "2007-01-02T23:05:08Z"
+        ],
+        "dc:title": "pr21785",
+        "title": "pr21785"
+    }
+}

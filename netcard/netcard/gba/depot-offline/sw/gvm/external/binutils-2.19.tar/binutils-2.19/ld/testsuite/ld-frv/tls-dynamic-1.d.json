@@ -1,0 +1,21 @@
+{
+    "tls-dynamic-1.d": {
+        "modified": "2006-12-04 18:40:57",
+        "size": "2.42KB",
+        "md5": "44ba36d385d1535f2d4d3afc6924af55",
+        "sha256": "668136dc31e2c74ad5017a59e743c0ec79af341e76ee93507ea12f5ec237c04b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tls-dynamic-1.d'"
+    }
+}

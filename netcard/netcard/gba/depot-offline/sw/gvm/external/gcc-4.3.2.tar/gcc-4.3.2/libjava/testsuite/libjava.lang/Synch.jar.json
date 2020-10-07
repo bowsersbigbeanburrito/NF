@@ -1,0 +1,86 @@
+{
+    "Synch.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.69KB",
+        "md5": "ac43dea0aec088900ca24fcd6b0eefde",
+        "sha256": "02fd0a77fbef8972919db5a6b815aafa30c91d1c20c47ffb00f8d9fa8bf975c1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'Synch.jar'",
+            "META-INF/MANIFEST.MF",
+            "Synch.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "505"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:11:12Z",
+            "2007-01-02T23:11:12Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:11:12Z",
+            "2007-01-02T23:11:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Synch.class"
+        ],
+        "date": [
+            "2007-01-02T23:11:12Z",
+            "2007-01-02T23:11:12Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:11:12Z",
+            "2007-01-02T23:11:12Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Synch.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:11:12Z",
+            "2007-01-02T23:11:12Z"
+        ],
+        "modified": [
+            "2007-01-02T23:11:12Z",
+            "2007-01-02T23:11:12Z"
+        ],
+        "dc:title": "Synch",
+        "title": "Synch"
+    }
+}

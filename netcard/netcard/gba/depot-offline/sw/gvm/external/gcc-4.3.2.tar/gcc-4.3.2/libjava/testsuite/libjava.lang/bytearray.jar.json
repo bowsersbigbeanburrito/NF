@@ -1,0 +1,86 @@
+{
+    "bytearray.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.81KB",
+        "md5": "8b2feebdccc2164f87b4ec916461fb73",
+        "sha256": "89e5d3e95fa410504da3532aa6bcdd453496d63bdaf76473ac87e308481c1669"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'bytearray.jar'",
+            "META-INF/MANIFEST.MF",
+            "bytearray.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "747"
+        ],
+        "Last-Modified": [
+            "2007-01-02T22:59:46Z",
+            "2007-01-02T22:59:46Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T22:59:46Z",
+            "2007-01-02T22:59:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/bytearray.class"
+        ],
+        "date": [
+            "2007-01-02T22:59:46Z",
+            "2007-01-02T22:59:46Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T22:59:46Z",
+            "2007-01-02T22:59:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "bytearray.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T22:59:46Z",
+            "2007-01-02T22:59:46Z"
+        ],
+        "modified": [
+            "2007-01-02T22:59:46Z",
+            "2007-01-02T22:59:46Z"
+        ],
+        "dc:title": "bytearray",
+        "title": "bytearray"
+    }
+}

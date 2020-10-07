@@ -1,0 +1,110 @@
+{
+    "inner_array.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.56KB",
+        "md5": "a675c6ba7c173ed775fc7e4665f93a86",
+        "sha256": "deac3e1fc7b009bebe47948efe2dc2a3dafdf7a273b29aa51bb485656a0724e2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'inner_array.jar'",
+            "META-INF/MANIFEST.MF",
+            "inner_array$array_inner.class",
+            "inner_array.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "768",
+            "1007"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/inner_array$array_inner.class",
+            "/inner_array.class"
+        ],
+        "date": [
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "inner_array$array_inner.class",
+            "inner_array.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z"
+        ],
+        "modified": [
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z",
+            "2007-01-02T23:02:14Z"
+        ],
+        "dc:title": [
+            "inner_array$array_inner",
+            "inner_array"
+        ],
+        "title": [
+            "inner_array$array_inner",
+            "inner_array"
+        ]
+    }
+}

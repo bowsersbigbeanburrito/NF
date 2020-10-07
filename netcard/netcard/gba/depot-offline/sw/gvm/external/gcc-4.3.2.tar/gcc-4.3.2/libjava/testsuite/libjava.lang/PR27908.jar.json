@@ -1,0 +1,150 @@
+{
+    "PR27908.jar": {
+        "modified": "2007-09-04 10:54:56",
+        "size": "2.65KB",
+        "md5": "4f81acfe6e46da5582d4b95f281ad29d",
+        "sha256": "82cc4aa50f21838522018b004dcc40ea4cb22e52fb472027cd03d1b31ba20d5f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'PR27908.jar'",
+            "META-INF/MANIFEST.MF",
+            "PR27908.class",
+            "PR27908$run1.class",
+            "PR27908$run2.class",
+            "PR27908$run3.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2007-09-04T22:46:50Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z"
+        ],
+        "Last-Save-Date": [
+            "2007-09-04T22:46:50Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/PR27908.class",
+            "/PR27908$run1.class",
+            "/PR27908$run2.class",
+            "/PR27908$run3.class"
+        ],
+        "date": [
+            "2007-09-04T22:46:50Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z"
+        ],
+        "dcterms:modified": [
+            "2007-09-04T22:46:50Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "PR27908.class",
+            "PR27908$run1.class",
+            "PR27908$run2.class",
+            "PR27908$run3.class"
+        ],
+        "meta:save-date": [
+            "2007-09-04T22:46:50Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z"
+        ],
+        "modified": [
+            "2007-09-04T22:46:50Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z",
+            "2007-09-04T21:43:40Z"
+        ],
+        "dc:title": [
+            "PR27908",
+            "PR27908$run1",
+            "PR27908$run2",
+            "PR27908$run3"
+        ],
+        "title": [
+            "PR27908",
+            "PR27908$run1",
+            "PR27908$run2",
+            "PR27908$run3"
+        ]
+    }
+}

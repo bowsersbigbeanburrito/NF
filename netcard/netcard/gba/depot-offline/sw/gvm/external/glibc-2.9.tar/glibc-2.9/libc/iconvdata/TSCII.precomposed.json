@@ -1,0 +1,21 @@
+{
+    "TSCII.precomposed": {
+        "modified": "2002-09-23 20:41:30",
+        "size": "1.24KB",
+        "md5": "89134376417ce59390d240a8c9e790df",
+        "sha256": "49e32cc76c76ef2b3f7c915ed4102ae9d12255736bb9a7f2c13d7719e60864c6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'TSCII.precomposed'"
+    }
+}

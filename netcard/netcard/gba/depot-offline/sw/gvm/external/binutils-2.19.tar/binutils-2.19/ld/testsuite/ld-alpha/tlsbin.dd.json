@@ -1,0 +1,21 @@
+{
+    "tlsbin.dd": {
+        "modified": "2005-07-07 23:22:01",
+        "size": "2.27KB",
+        "md5": "c4730c79b491970b9e7aa8e9bbe6c317",
+        "sha256": "cc08a668637006c128b45dbc7580c245221132d5e5ee64eaece02fe174d2f488"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tlsbin.dd'"
+    }
+}

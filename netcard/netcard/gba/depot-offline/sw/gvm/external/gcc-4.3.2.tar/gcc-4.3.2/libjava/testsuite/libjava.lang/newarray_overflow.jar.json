@@ -1,0 +1,86 @@
+{
+    "newarray_overflow.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.13KB",
+        "md5": "f2b33fa308e584a6054f772cbdbf39fc",
+        "sha256": "4e1da98589d78f433275e85ec95652b8d68c42898b65c091871eb497069cdd58"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'newarray_overflow.jar'",
+            "META-INF/MANIFEST.MF",
+            "newarray_overflow.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1263"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:03:40Z",
+            "2007-01-02T23:03:40Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:03:40Z",
+            "2007-01-02T23:03:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/newarray_overflow.class"
+        ],
+        "date": [
+            "2007-01-02T23:03:40Z",
+            "2007-01-02T23:03:40Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:03:40Z",
+            "2007-01-02T23:03:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "newarray_overflow.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:03:40Z",
+            "2007-01-02T23:03:40Z"
+        ],
+        "modified": [
+            "2007-01-02T23:03:40Z",
+            "2007-01-02T23:03:40Z"
+        ],
+        "dc:title": "newarray_overflow",
+        "title": "newarray_overflow"
+    }
+}

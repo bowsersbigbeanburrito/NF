@@ -1,0 +1,21 @@
+{
+    "cr-err.s": {
+        "modified": "2005-03-02 00:01:30",
+        "size": "0.54KB",
+        "md5": "682ff4e79cf55bde7df5a585334244f1",
+        "sha256": "a11a96fdcd2a2313ea767b9c2cdc24fcb77041e66e10935c4e869a77300e9229"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'cr-err.s'"
+    }
+}

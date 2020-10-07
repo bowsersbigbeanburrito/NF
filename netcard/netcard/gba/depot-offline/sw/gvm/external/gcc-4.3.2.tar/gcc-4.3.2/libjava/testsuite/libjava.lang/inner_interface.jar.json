@@ -1,0 +1,130 @@
+{
+    "inner_interface.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.61KB",
+        "md5": "d9e2626243cd07a3900e54fa3a0f96b3",
+        "sha256": "879db28d2556c17dd9ad3b788540edef6140992bf5c46c53adf51698f41bd178"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'inner_interface.jar'",
+            "META-INF/MANIFEST.MF",
+            "inner_interface$bar.class",
+            "inner_interface$baz.class",
+            "inner_interface.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "236",
+            "592",
+            "737"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/inner_interface$bar.class",
+            "/inner_interface$baz.class",
+            "/inner_interface.class"
+        ],
+        "date": [
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "inner_interface$bar.class",
+            "inner_interface$baz.class",
+            "inner_interface.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z"
+        ],
+        "modified": [
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z",
+            "2007-01-02T23:02:16Z"
+        ],
+        "dc:title": [
+            "inner_interface$bar",
+            "inner_interface$baz",
+            "inner_interface"
+        ],
+        "title": [
+            "inner_interface$bar",
+            "inner_interface$baz",
+            "inner_interface"
+        ]
+    }
+}

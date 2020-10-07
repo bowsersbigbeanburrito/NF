@@ -1,0 +1,21 @@
+{
+    "microsoft-cp1257.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "3.17KB",
+        "md5": "82f26fe6011a523052a69a402fd506ff",
+        "sha256": "248f6588aa8ff98e0f87bea3df71a1158b8887ea7a1363c7fadbbbc55dd9b60a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'microsoft-cp1257.enc'"
+    }
+}

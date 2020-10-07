@@ -1,0 +1,107 @@
+{
+    "libcarimg_test.a": {
+        "modified": "2020-10-06 13:40:49.638127",
+        "size": "76.5KB",
+        "md5": "024a26ecbeceaa371162586ce573a4b2",
+        "sha256": "1f94d8248893f032a2ff5065098bf8bd9a7df7301c11b3b385799465d7066103"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libcarimg_test.a'",
+            "up.o",
+            "down.o"
+        ],
+        "Content-Length": [
+            "2032",
+            "36292",
+            "39828"
+        ],
+        "Last-Modified": [
+            "2000-07-13T10:37:52Z",
+            "2000-07-13T10:37:51Z",
+            "2000-07-13T10:37:52Z"
+        ],
+        "Last-Save-Date": [
+            "2000-07-13T10:37:52Z",
+            "2000-07-13T10:37:51Z",
+            "2000-07-13T10:37:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/up.o",
+            "/down.o"
+        ],
+        "date": [
+            "2000-07-13T10:37:52Z",
+            "2000-07-13T10:37:51Z",
+            "2000-07-13T10:37:52Z"
+        ],
+        "dcterms:modified": [
+            "2000-07-13T10:37:52Z",
+            "2000-07-13T10:37:51Z",
+            "2000-07-13T10:37:52Z"
+        ],
+        "meta:save-date": [
+            "2000-07-13T10:37:52Z",
+            "2000-07-13T10:37:51Z",
+            "2000-07-13T10:37:52Z"
+        ],
+        "modified": [
+            "2000-07-13T10:37:52Z",
+            "2000-07-13T10:37:51Z",
+            "2000-07-13T10:37:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "up.o",
+            "down.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

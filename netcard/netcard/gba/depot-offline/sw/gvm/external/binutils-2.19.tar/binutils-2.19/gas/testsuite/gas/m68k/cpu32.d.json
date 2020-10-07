@@ -1,0 +1,21 @@
+{
+    "cpu32.d": {
+        "modified": "2007-05-15 02:21:24",
+        "size": "1.2KB",
+        "md5": "693bcf0a902a1fc442f502a7c7dbe109",
+        "sha256": "08ebc563101eb9ee6c2764ed706c1c7fe7bd47de982345856adeab3df3a7d534"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'cpu32.d'"
+    }
+}

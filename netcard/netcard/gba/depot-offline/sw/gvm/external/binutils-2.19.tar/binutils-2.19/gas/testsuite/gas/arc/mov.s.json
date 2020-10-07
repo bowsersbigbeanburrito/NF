@@ -1,0 +1,21 @@
+{
+    "mov.s": {
+        "modified": "2001-01-11 13:20:18",
+        "size": "0.69KB",
+        "md5": "5bbe3186d21f23263b4a3743cfb1c0e5",
+        "sha256": "287cb5027ea8373c45e082c120a7c786f11e515fdbe6d9dc26ca1981072e6e9f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'mov.s'"
+    }
+}

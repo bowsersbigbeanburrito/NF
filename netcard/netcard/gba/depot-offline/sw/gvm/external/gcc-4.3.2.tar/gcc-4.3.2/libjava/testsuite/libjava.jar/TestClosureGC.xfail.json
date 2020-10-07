@@ -1,0 +1,20 @@
+{
+    "TestClosureGC.xfail": {
+        "modified": "2007-03-06 23:27:25",
+        "size": "0.02KB",
+        "md5": "eb39b7d11a2e73dd10a9134fde61209c",
+        "sha256": "33579567d81e7e94937bf32ea9be644e55892f4a3c1168fcfde060169dfe4f0d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'TestClosureGC.xfail'"
+    }
+}

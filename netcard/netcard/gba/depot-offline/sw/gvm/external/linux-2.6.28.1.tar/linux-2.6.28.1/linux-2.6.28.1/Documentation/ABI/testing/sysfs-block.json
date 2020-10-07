@@ -1,0 +1,21 @@
+{
+    "sysfs-block": {
+        "modified": "2009-01-18 10:45:37",
+        "size": "1.83KB",
+        "md5": "d9ee715d04a8bfb3081f473083409a85",
+        "sha256": "1bd5cf96aa5e0946c98ce1d814168e63029a31916b6afc1841947614a4c3e7ea"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'sysfs-block'"
+    }
+}

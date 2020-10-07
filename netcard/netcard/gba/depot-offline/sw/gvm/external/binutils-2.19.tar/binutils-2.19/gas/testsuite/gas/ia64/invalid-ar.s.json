@@ -1,0 +1,21 @@
+{
+    "invalid-ar.s": {
+        "modified": "2007-11-14 14:31:54",
+        "size": "2.42KB",
+        "md5": "60080346d8ab041cc302938e65f29808",
+        "sha256": "fc7293c1dea606605f554ad32b713d54fd78511b11f9c6deeef49b1312ef266d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'invalid-ar.s'"
+    }
+}

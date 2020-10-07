@@ -1,0 +1,110 @@
+{
+    "update_outer.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.58KB",
+        "md5": "fc6b728557e004923bcf0e38cd5e381e",
+        "sha256": "435cabb9ffa5fa75e324b0fecaef2584c9dcc8c3ce1bbf657e05ff3e49348202"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'update_outer.jar'",
+            "META-INF/MANIFEST.MF",
+            "update_outer.class",
+            "update_outer$update_outer_inner.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "970",
+            "981"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/update_outer.class",
+            "/update_outer$update_outer_inner.class"
+        ],
+        "date": [
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "update_outer.class",
+            "update_outer$update_outer_inner.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z"
+        ],
+        "modified": [
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z",
+            "2007-01-02T23:12:24Z"
+        ],
+        "dc:title": [
+            "update_outer",
+            "update_outer$update_outer_inner"
+        ],
+        "title": [
+            "update_outer",
+            "update_outer$update_outer_inner"
+        ]
+    }
+}

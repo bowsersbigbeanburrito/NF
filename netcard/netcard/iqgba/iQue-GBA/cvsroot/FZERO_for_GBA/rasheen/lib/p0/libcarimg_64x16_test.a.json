@@ -1,0 +1,149 @@
+{
+    "libcarimg_64x16_test.a": {
+        "modified": "2020-10-06 13:40:49.637126",
+        "size": "118.04KB",
+        "md5": "07d02215fdf8464287ba587022187030",
+        "sha256": "28db5310546105b288c10d405a1fc91f1fa2a2fe1db149f1902364ed18a9cc37"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libcarimg_64x16_test.a'",
+            "machine_04s_0000.o",
+            "machine_04s_0001.o",
+            "machine_04s_0002.o",
+            "machine_04s_0003.o"
+        ],
+        "Content-Length": [
+            "4060",
+            "19620",
+            "39508",
+            "37704",
+            "19528"
+        ],
+        "Last-Modified": [
+            "2000-07-14T03:27:37Z",
+            "2000-07-14T03:26:42Z",
+            "2000-07-14T03:27:35Z",
+            "2000-07-14T03:27:36Z",
+            "2000-07-14T03:27:37Z"
+        ],
+        "Last-Save-Date": [
+            "2000-07-14T03:27:37Z",
+            "2000-07-14T03:26:42Z",
+            "2000-07-14T03:27:35Z",
+            "2000-07-14T03:27:36Z",
+            "2000-07-14T03:27:37Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/machine_04s_0000.o",
+            "/machine_04s_0001.o",
+            "/machine_04s_0002.o",
+            "/machine_04s_0003.o"
+        ],
+        "date": [
+            "2000-07-14T03:27:37Z",
+            "2000-07-14T03:26:42Z",
+            "2000-07-14T03:27:35Z",
+            "2000-07-14T03:27:36Z",
+            "2000-07-14T03:27:37Z"
+        ],
+        "dcterms:modified": [
+            "2000-07-14T03:27:37Z",
+            "2000-07-14T03:26:42Z",
+            "2000-07-14T03:27:35Z",
+            "2000-07-14T03:27:36Z",
+            "2000-07-14T03:27:37Z"
+        ],
+        "meta:save-date": [
+            "2000-07-14T03:27:37Z",
+            "2000-07-14T03:26:42Z",
+            "2000-07-14T03:27:35Z",
+            "2000-07-14T03:27:36Z",
+            "2000-07-14T03:27:37Z"
+        ],
+        "modified": [
+            "2000-07-14T03:27:37Z",
+            "2000-07-14T03:26:42Z",
+            "2000-07-14T03:27:35Z",
+            "2000-07-14T03:27:36Z",
+            "2000-07-14T03:27:37Z"
+        ],
+        "embeddedRelationshipId": [
+            "machine_04s_0000.o",
+            "machine_04s_0001.o",
+            "machine_04s_0002.o",
+            "machine_04s_0003.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

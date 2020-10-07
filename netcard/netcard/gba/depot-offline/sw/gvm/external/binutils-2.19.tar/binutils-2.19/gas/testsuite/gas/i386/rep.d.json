@@ -1,0 +1,21 @@
+{
+    "rep.d": {
+        "modified": "2006-12-06 10:15:45",
+        "size": "2.24KB",
+        "md5": "0860a7505590f83d6eca5b10cd51e168",
+        "sha256": "3ca57c029893d5e99fab519102a8754a2765e116f58ffc3c5c02871dc922290d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'rep.d'"
+    }
+}

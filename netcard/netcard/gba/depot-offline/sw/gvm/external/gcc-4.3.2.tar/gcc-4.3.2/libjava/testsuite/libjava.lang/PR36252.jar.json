@@ -1,0 +1,86 @@
+{
+    "PR36252.jar": {
+        "modified": "2008-05-20 20:57:38",
+        "size": "0.94KB",
+        "md5": "dcb5fefdfd12fb664b952adb99cbfb25",
+        "sha256": "946b39d396c075ea35b755f41c4f799f90f78d565be8a44e3deb2c0cca721f40"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "application/java-vm",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'PR36252.jar'",
+            "PR36252.class",
+            "META-INF/MANIFEST.MF"
+        ],
+        "Content-Length": [
+            "720",
+            "50"
+        ],
+        "Last-Modified": [
+            "2008-05-21T00:06:06Z",
+            "2008-05-21T00:06:06Z"
+        ],
+        "Last-Save-Date": [
+            "2008-05-21T00:06:06Z",
+            "2008-05-21T00:06:06Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/PR36252.class",
+            "/MANIFEST.MF"
+        ],
+        "date": [
+            "2008-05-21T00:06:06Z",
+            "2008-05-21T00:06:06Z"
+        ],
+        "dc:title": "PR36252",
+        "dcterms:modified": [
+            "2008-05-21T00:06:06Z",
+            "2008-05-21T00:06:06Z"
+        ],
+        "embeddedRelationshipId": [
+            "PR36252.class",
+            "META-INF/MANIFEST.MF"
+        ],
+        "meta:save-date": [
+            "2008-05-21T00:06:06Z",
+            "2008-05-21T00:06:06Z"
+        ],
+        "modified": [
+            "2008-05-21T00:06:06Z",
+            "2008-05-21T00:06:06Z"
+        ],
+        "title": "PR36252",
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

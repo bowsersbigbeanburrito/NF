@@ -1,0 +1,21 @@
+{
+    "ibm-cp866.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "5.41KB",
+        "md5": "787166d455fa2d746c5ae131b4c4a216",
+        "sha256": "68da14001ca7eecd88670da37189304adf8028383f530572d07137e834ccde10"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ibm-cp866.enc'"
+    }
+}

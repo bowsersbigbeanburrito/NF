@@ -1,0 +1,86 @@
+{
+    "FileHandleGcTest.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.74KB",
+        "md5": "b5fd0991181a70a859cac2f15ad0f6fd",
+        "sha256": "e6f4e8d3354d6d6674105a70c6f36548afdd02906d3392c847a518ce97888613"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'FileHandleGcTest.jar'",
+            "META-INF/MANIFEST.MF",
+            "FileHandleGcTest.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "531"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:00:58Z",
+            "2007-01-02T23:00:58Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:00:58Z",
+            "2007-01-02T23:00:58Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/FileHandleGcTest.class"
+        ],
+        "date": [
+            "2007-01-02T23:00:58Z",
+            "2007-01-02T23:00:58Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:00:58Z",
+            "2007-01-02T23:00:58Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "FileHandleGcTest.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:00:58Z",
+            "2007-01-02T23:00:58Z"
+        ],
+        "modified": [
+            "2007-01-02T23:00:58Z",
+            "2007-01-02T23:00:58Z"
+        ],
+        "dc:title": "FileHandleGcTest",
+        "title": "FileHandleGcTest"
+    }
+}

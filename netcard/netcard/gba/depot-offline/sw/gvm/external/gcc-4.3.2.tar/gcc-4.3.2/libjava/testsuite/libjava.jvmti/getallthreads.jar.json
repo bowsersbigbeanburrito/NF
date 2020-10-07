@@ -1,0 +1,86 @@
+{
+    "getallthreads.jar": {
+        "modified": "2007-01-16 07:06:28",
+        "size": "1.2KB",
+        "md5": "e1952781ba23aebdde8aa941594c2317",
+        "sha256": "357c5fddf974104b60aa01928f97a55ad32207e98fa69ed9c08aa833e077cbc1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'getallthreads.jar'",
+            "META-INF/MANIFEST.MF",
+            "getallthreads.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1357"
+        ],
+        "Last-Modified": [
+            "2007-01-12T23:26:22Z",
+            "2007-01-12T23:26:14Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-12T23:26:22Z",
+            "2007-01-12T23:26:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/getallthreads.class"
+        ],
+        "date": [
+            "2007-01-12T23:26:22Z",
+            "2007-01-12T23:26:14Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-12T23:26:22Z",
+            "2007-01-12T23:26:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "getallthreads.class"
+        ],
+        "meta:save-date": [
+            "2007-01-12T23:26:22Z",
+            "2007-01-12T23:26:14Z"
+        ],
+        "modified": [
+            "2007-01-12T23:26:22Z",
+            "2007-01-12T23:26:14Z"
+        ],
+        "dc:title": "getallthreads",
+        "title": "getallthreads"
+    }
+}

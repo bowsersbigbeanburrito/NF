@@ -1,0 +1,21 @@
+{
+    "ibm-cp852.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "5.73KB",
+        "md5": "99c030f8753e834106d388957e9feed2",
+        "sha256": "a9a7113a882814726984832ff10a4349580e5c6839e47ed640311b691f109d0b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ibm-cp852.enc'"
+    }
+}

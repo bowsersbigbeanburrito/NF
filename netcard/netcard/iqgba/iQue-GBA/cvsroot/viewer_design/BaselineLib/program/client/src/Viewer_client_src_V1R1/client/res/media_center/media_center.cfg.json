@@ -1,0 +1,21 @@
+{
+    "media_center.cfg": {
+        "modified": "2005-08-30 14:53:04",
+        "size": "0.32KB",
+        "md5": "3d83b9af59e8825b0b2beb44a690199a",
+        "sha256": "17e6cfee4133fb3e3bea412efa42c9dc1c6f7b3da18cc0147f711292ad334dbf"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'media_center.cfg'"
+    }
+}

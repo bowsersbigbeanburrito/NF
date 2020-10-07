@@ -1,0 +1,22 @@
+{
+    "clloader.elf": {
+        "modified": "2020-10-06 13:40:50.128466",
+        "size": "38.87KB",
+        "md5": "6246dd22b330bdd83b80459e9497176e",
+        "sha256": "f8e3c5a0304bfc0b3c168533f0f363db26c445855e672f596d177f7525b82697"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'clloader.elf'"
+    }
+}

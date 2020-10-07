@@ -1,0 +1,21 @@
+{
+    "InvalidClassLoaderException.class": {
+        "modified": "2006-12-12 10:41:51",
+        "size": "0.87KB",
+        "md5": "8e305e0f243c1728f10da7d6f13ebb35",
+        "sha256": "47e7ea7fef7c33c9b5d0bf17ca3662c3c44ccd397de00b577524860474226593"
+    },
+    "Metadata": {
+        "Content-Type": "application/java-vm",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.asm.ClassParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "dc:title": "InvalidClassLoaderException",
+        "resourceName": "InvalidClassLoaderException.class",
+        "title": "InvalidClassLoaderException"
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "m0.lzp": {
+        "modified": "2020-10-06 13:40:39.161782",
+        "size": "2811.0KB",
+        "md5": "676b5cdc36c03428f48602b80c380c04",
+        "sha256": "aa14ec825c5af6b24ac54fbda9307288b4e8dd4fe601549e5f14bb0496e6caf3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-sharedlib",
+            "application/x-sharedlib",
+            "application/octet-stream",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-sharedlib"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'm0.lzp'",
+            "vmc_arm7tdmi_r4p1/vmc_arm7tdmi_r4p101000/solaris/modelobj.so",
+            "vmc_arm7tdmi_r4p1/vmc_arm7tdmi_r4p101000/x86_linux/modelobj.so",
+            "vmc_arm7tdmi_r4p1/vmc_arm7tdmi_r4p101000.mmt",
+            "vmc_arm7tdmi_r4p1/x86_linux/vmc_arm7tdmi_r4p101000.mdl",
+            "vmc_arm7tdmi_r4p1/x86_linux/vmc_arm7tdmi_r4p101000.so"
+        ],
+        "Content-Length": [
+            "4756144",
+            "3110060",
+            "424",
+            "986",
+            "78176"
+        ],
+        "Last-Modified": [
+            "2005-10-13T19:41:20Z",
+            "2005-10-13T19:43:10Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:43:10Z"
+        ],
+        "Last-Save-Date": [
+            "2005-10-13T19:41:20Z",
+            "2005-10-13T19:43:10Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:43:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/modelobj.so",
+            "/modelobj.so",
+            "/vmc_arm7tdmi_r4p101000.mmt",
+            "/vmc_arm7tdmi_r4p101000.mdl",
+            "/vmc_arm7tdmi_r4p101000.so"
+        ],
+        "date": [
+            "2005-10-13T19:41:20Z",
+            "2005-10-13T19:43:10Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:43:10Z"
+        ],
+        "dcterms:modified": [
+            "2005-10-13T19:41:20Z",
+            "2005-10-13T19:43:10Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:43:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "vmc_arm7tdmi_r4p1/vmc_arm7tdmi_r4p101000/solaris/modelobj.so",
+            "vmc_arm7tdmi_r4p1/vmc_arm7tdmi_r4p101000/x86_linux/modelobj.so",
+            "vmc_arm7tdmi_r4p1/vmc_arm7tdmi_r4p101000.mmt",
+            "vmc_arm7tdmi_r4p1/x86_linux/vmc_arm7tdmi_r4p101000.mdl",
+            "vmc_arm7tdmi_r4p1/x86_linux/vmc_arm7tdmi_r4p101000.so"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "SPARC",
+            "x86-32",
+            "x86-32"
+        ],
+        "meta:save-date": [
+            "2005-10-13T19:41:20Z",
+            "2005-10-13T19:43:10Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:43:10Z"
+        ],
+        "modified": [
+            "2005-10-13T19:41:20Z",
+            "2005-10-13T19:43:10Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:42:56Z",
+            "2005-10-13T19:43:10Z"
+        ],
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

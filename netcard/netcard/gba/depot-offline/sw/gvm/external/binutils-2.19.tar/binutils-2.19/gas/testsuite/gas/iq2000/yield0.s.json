@@ -1,0 +1,21 @@
+{
+    "yield0.s": {
+        "modified": "2003-01-03 13:38:50",
+        "size": "1.5KB",
+        "md5": "d69a091035a2f9e4c062c985c1c3233c",
+        "sha256": "c250ff8b92eba6d5c314e6abd32167cb236cf482433b996d26608338434f57cf"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'yield0.s'"
+    }
+}

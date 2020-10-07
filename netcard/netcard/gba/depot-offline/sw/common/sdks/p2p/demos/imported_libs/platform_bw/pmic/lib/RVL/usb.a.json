@@ -1,0 +1,75 @@
+{
+    "usb.a": {
+        "modified": "2020-10-06 13:40:46.261921",
+        "size": "37.14KB",
+        "md5": "3b57d3684706e830883d5a27f2314931",
+        "sha256": "68f72ffc4b9c868b249ef08ee82f37403ca886bbea414813debfba4fc7bea097"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'usb.a'",
+            "usb.o"
+        ],
+        "Content-Length": [
+            "988",
+            "36912"
+        ],
+        "Last-Modified": [
+            "2008-12-22T17:32:04Z",
+            "2008-12-22T17:32:04Z"
+        ],
+        "Last-Save-Date": [
+            "2008-12-22T17:32:04Z",
+            "2008-12-22T17:32:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/usb.o"
+        ],
+        "date": [
+            "2008-12-22T17:32:04Z",
+            "2008-12-22T17:32:04Z"
+        ],
+        "dcterms:modified": [
+            "2008-12-22T17:32:04Z",
+            "2008-12-22T17:32:04Z"
+        ],
+        "meta:save-date": [
+            "2008-12-22T17:32:04Z",
+            "2008-12-22T17:32:04Z"
+        ],
+        "modified": [
+            "2008-12-22T17:32:04Z",
+            "2008-12-22T17:32:04Z"
+        ],
+        "embeddedRelationshipId": "usb.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

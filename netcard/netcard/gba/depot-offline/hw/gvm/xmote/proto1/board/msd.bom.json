@@ -1,0 +1,21 @@
+{
+    "msd.bom": {
+        "modified": "2020-10-06 13:40:43.875259",
+        "size": "17.05KB",
+        "md5": "46de0af780f235ea09f0bbc2fbe729a0",
+        "sha256": "5030280f8a3664e934f4933162924199c31ecb39e69a3fc6c0f68ce601516b72"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'msd.bom'"
+    }
+}

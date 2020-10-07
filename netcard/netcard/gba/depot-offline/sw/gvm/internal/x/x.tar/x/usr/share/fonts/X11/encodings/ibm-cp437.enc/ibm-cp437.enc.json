@@ -1,0 +1,21 @@
+{
+    "ibm-cp437.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "5.58KB",
+        "md5": "19a33ad833f3c177cf01b64e38d5a0a6",
+        "sha256": "8d9a9b63246d8c4cf1b2d7765c26e0e88bdaab14d14ca4c5f899c6dccb9be104"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ibm-cp437.enc'"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "libp4objbmp.a": {
+        "modified": "2020-10-06 13:40:49.683127",
+        "size": "21.86KB",
+        "md5": "ebb0386d6c397a2fd5b3d516f4f86356",
+        "sha256": "28feaf29a26a8400b469420faaeda26f8b4e2f080cb0acb0f6bb00de2ee8707e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libp4objbmp.a'",
+            "p4obj_set1.o",
+            "p4obj_set2.o",
+            "now_loading.o"
+        ],
+        "Content-Length": [
+            "296",
+            "20421",
+            "453",
+            "968"
+        ],
+        "Last-Modified": [
+            "2000-12-12T08:30:08Z",
+            "2000-12-12T07:21:31Z",
+            "2000-12-09T12:39:26Z",
+            "2000-12-12T08:30:08Z"
+        ],
+        "Last-Save-Date": [
+            "2000-12-12T08:30:08Z",
+            "2000-12-12T07:21:31Z",
+            "2000-12-09T12:39:26Z",
+            "2000-12-12T08:30:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p4obj_set1.o",
+            "/p4obj_set2.o",
+            "/now_loading.o"
+        ],
+        "date": [
+            "2000-12-12T08:30:08Z",
+            "2000-12-12T07:21:31Z",
+            "2000-12-09T12:39:26Z",
+            "2000-12-12T08:30:08Z"
+        ],
+        "dcterms:modified": [
+            "2000-12-12T08:30:08Z",
+            "2000-12-12T07:21:31Z",
+            "2000-12-09T12:39:26Z",
+            "2000-12-12T08:30:08Z"
+        ],
+        "meta:save-date": [
+            "2000-12-12T08:30:08Z",
+            "2000-12-12T07:21:31Z",
+            "2000-12-09T12:39:26Z",
+            "2000-12-12T08:30:08Z"
+        ],
+        "modified": [
+            "2000-12-12T08:30:08Z",
+            "2000-12-12T07:21:31Z",
+            "2000-12-09T12:39:26Z",
+            "2000-12-12T08:30:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "p4obj_set1.o",
+            "p4obj_set2.o",
+            "now_loading.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ]
+    }
+}

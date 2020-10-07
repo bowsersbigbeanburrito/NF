@@ -1,0 +1,86 @@
+{
+    "SyncGlobal.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.12KB",
+        "md5": "a28dd49df1e302af830bb68f590fab89",
+        "sha256": "c6b552e360c7c2a03fcdf61130d2f4e17df553ab0c8545be0f2866d047af601d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'SyncGlobal.jar'",
+            "META-INF/MANIFEST.MF",
+            "SyncGlobal.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1368"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:11:10Z",
+            "2007-01-02T23:11:10Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:11:10Z",
+            "2007-01-02T23:11:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/SyncGlobal.class"
+        ],
+        "date": [
+            "2007-01-02T23:11:10Z",
+            "2007-01-02T23:11:10Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:11:10Z",
+            "2007-01-02T23:11:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "SyncGlobal.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:11:10Z",
+            "2007-01-02T23:11:10Z"
+        ],
+        "modified": [
+            "2007-01-02T23:11:10Z",
+            "2007-01-02T23:11:10Z"
+        ],
+        "dc:title": "SyncGlobal",
+        "title": "SyncGlobal"
+    }
+}

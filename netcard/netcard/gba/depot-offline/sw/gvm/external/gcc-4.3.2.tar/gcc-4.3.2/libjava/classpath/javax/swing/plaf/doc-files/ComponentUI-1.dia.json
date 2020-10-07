@@ -1,0 +1,39 @@
+{
+    "ComponentUI-1.dia": {
+        "modified": "2005-09-23 10:31:48",
+        "size": "3.01KB",
+        "md5": "0e6fae23bcc509f1656b59f016b65cbe",
+        "sha256": "935dfbd295a9f3b6712455ea199531b653ca3aa2af99cb67e702e6d8b5efdd71"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'ComponentUI-1.dia'",
+            "b'ComponentUI-1.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'ComponentUI-1.dia'"
+    }
+}

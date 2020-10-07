@@ -1,0 +1,20 @@
+{
+    "sample.o": {
+        "modified": "2020-10-06 13:40:50.011465",
+        "size": "0.56KB",
+        "md5": "4a0bf8e8ddffd8ec5207510c83f1109f",
+        "sha256": "dc8757f5ceffedee784222dd3b4085bbbce9609c09a1f03fb6ef1520a9e49a95"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "resourceName": "b'sample.o'"
+    }
+}

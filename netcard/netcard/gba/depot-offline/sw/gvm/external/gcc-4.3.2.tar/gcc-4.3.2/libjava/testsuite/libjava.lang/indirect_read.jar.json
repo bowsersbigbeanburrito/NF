@@ -1,0 +1,130 @@
+{
+    "indirect_read.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "2.0KB",
+        "md5": "09efe836d0a907cf9dc1da1ce234c6bf",
+        "sha256": "defac4502075eb2939e60dea2e5761667e3423474ea369dd4d2ec012b5156f29"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'indirect_read.jar'",
+            "META-INF/MANIFEST.MF",
+            "indirect_read.class",
+            "indirect_read$indirect_read_inner.class",
+            "indirect_read$indirect_read_inner$other.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "883",
+            "579",
+            "920"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/indirect_read.class",
+            "/indirect_read$indirect_read_inner.class",
+            "/indirect_read$indirect_read_inner$other.class"
+        ],
+        "date": [
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "indirect_read.class",
+            "indirect_read$indirect_read_inner.class",
+            "indirect_read$indirect_read_inner$other.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z"
+        ],
+        "modified": [
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z",
+            "2007-01-02T23:01:46Z"
+        ],
+        "dc:title": [
+            "indirect_read",
+            "indirect_read$indirect_read_inner",
+            "indirect_read$indirect_read_inner$other"
+        ],
+        "title": [
+            "indirect_read",
+            "indirect_read$indirect_read_inner",
+            "indirect_read$indirect_read_inner$other"
+        ]
+    }
+}

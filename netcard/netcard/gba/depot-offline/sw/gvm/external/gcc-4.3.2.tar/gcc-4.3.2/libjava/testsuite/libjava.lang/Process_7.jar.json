@@ -1,0 +1,86 @@
+{
+    "Process_7.jar": {
+        "modified": "2007-04-09 10:40:20",
+        "size": "1.58KB",
+        "md5": "bc01c770ab5f427c37073b64276abfb2",
+        "sha256": "31aa862bb4e3acff5eac5121f3293ae40003d56ed853d09913dcbcc742cafcb9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "application/java-vm",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'Process_7.jar'",
+            "Process_7.class",
+            "META-INF/MANIFEST.MF"
+        ],
+        "Content-Length": [
+            "2121",
+            "50"
+        ],
+        "Last-Modified": [
+            "2007-04-08T08:07:08Z",
+            "2007-04-08T08:07:08Z"
+        ],
+        "Last-Save-Date": [
+            "2007-04-08T08:07:08Z",
+            "2007-04-08T08:07:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/Process_7.class",
+            "/MANIFEST.MF"
+        ],
+        "date": [
+            "2007-04-08T08:07:08Z",
+            "2007-04-08T08:07:08Z"
+        ],
+        "dc:title": "Process_7",
+        "dcterms:modified": [
+            "2007-04-08T08:07:08Z",
+            "2007-04-08T08:07:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "Process_7.class",
+            "META-INF/MANIFEST.MF"
+        ],
+        "meta:save-date": [
+            "2007-04-08T08:07:08Z",
+            "2007-04-08T08:07:08Z"
+        ],
+        "modified": [
+            "2007-04-08T08:07:08Z",
+            "2007-04-08T08:07:08Z"
+        ],
+        "title": "Process_7",
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

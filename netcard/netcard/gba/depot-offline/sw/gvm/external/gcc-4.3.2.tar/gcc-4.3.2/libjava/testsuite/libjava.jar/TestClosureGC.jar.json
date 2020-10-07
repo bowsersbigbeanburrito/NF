@@ -1,0 +1,170 @@
+{
+    "TestClosureGC.jar": {
+        "modified": "2007-03-06 23:27:25",
+        "size": "3.9KB",
+        "md5": "b51938c96bb74c08aa1a15cb53ff6abd",
+        "sha256": "2dcf366003651bdc56a6da2ba3e9b83eba3efd0b0ac60f83730549d7e7c605fe"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'TestClosureGC.jar'",
+            "META-INF/MANIFEST.MF",
+            "TestClosureGC$cl0.class",
+            "TestClosureGC$cl1.class",
+            "TestClosureGC$cl2.class",
+            "TestClosureGC.class",
+            "TestClosureGC$cld.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "69",
+            "268",
+            "506",
+            "609",
+            "2397",
+            "1605"
+        ],
+        "Last-Modified": [
+            "2007-01-24T12:20:38Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-24T12:20:38Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/TestClosureGC$cl0.class",
+            "/TestClosureGC$cl1.class",
+            "/TestClosureGC$cl2.class",
+            "/TestClosureGC.class",
+            "/TestClosureGC$cld.class"
+        ],
+        "date": [
+            "2007-01-24T12:20:38Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-24T12:20:38Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "TestClosureGC$cl0.class",
+            "TestClosureGC$cl1.class",
+            "TestClosureGC$cl2.class",
+            "TestClosureGC.class",
+            "TestClosureGC$cld.class"
+        ],
+        "meta:save-date": [
+            "2007-01-24T12:20:38Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z"
+        ],
+        "modified": [
+            "2007-01-24T12:20:38Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z",
+            "2007-01-24T12:23:10Z"
+        ],
+        "dc:title": [
+            "TestClosureGC$cl0",
+            "TestClosureGC$cl1",
+            "TestClosureGC$cl2",
+            "TestClosureGC",
+            "TestClosureGC$cld"
+        ],
+        "title": [
+            "TestClosureGC$cl0",
+            "TestClosureGC$cl1",
+            "TestClosureGC$cl2",
+            "TestClosureGC",
+            "TestClosureGC$cld"
+        ]
+    }
+}

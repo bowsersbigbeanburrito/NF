@@ -1,0 +1,110 @@
+{
+    "override.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.99KB",
+        "md5": "1cd54bdde53924d1a6fd512554002676",
+        "sha256": "3ec0f3e4e5f7cb066fdc05d94d13ed45d16110924e694a4077d592df9aa79abb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'override.jar'",
+            "META-INF/MANIFEST.MF",
+            "override1.class",
+            "override.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "242",
+            "530"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/override1.class",
+            "/override.class"
+        ],
+        "date": [
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "override1.class",
+            "override.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z"
+        ],
+        "modified": [
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z",
+            "2007-01-02T23:03:46Z"
+        ],
+        "dc:title": [
+            "override1",
+            "override"
+        ],
+        "title": [
+            "override1",
+            "override"
+        ]
+    }
+}

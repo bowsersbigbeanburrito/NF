@@ -1,0 +1,20 @@
+{
+    "pthread_spin_trylock.S": {
+        "modified": "2003-03-12 03:28:07",
+        "size": "1.31KB",
+        "md5": "f5e26443a33bc8f5d5ba79a9493d59d0",
+        "sha256": "0bd1a39bbd5f6cda43eeae6ea71716e32fccb6e33006856b80e60be23db6f12c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'pthread_spin_trylock.S'"
+    }
+}

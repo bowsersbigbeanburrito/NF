@@ -1,0 +1,21 @@
+{
+    "ChangeLog.ptr": {
+        "modified": "2007-06-15 22:42:36",
+        "size": "0.75KB",
+        "md5": "db29b806fe4875216261833e56bcbf1d",
+        "sha256": "2f525d276eef0ac508d48be50464fcb155b5513a815bd700acc5814f5fed9f06"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ChangeLog.ptr'"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "pr29812_injar.jar": {
+        "modified": "2007-01-22 15:04:16",
+        "size": "1.02KB",
+        "md5": "de134aad7c23927e689e465c25521efd",
+        "sha256": "edd62d4116dec726c7df4ca58ce9953da462c6e270c6868e31f049e2213e6db6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'pr29812_injar.jar'",
+            "META-INF/MANIFEST.MF",
+            "pr29812_injar.class",
+            "pr29812_injar$inner.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "411",
+            "335"
+        ],
+        "Last-Modified": [
+            "2007-01-22T21:17:56Z",
+            "2007-01-22T21:16:42Z",
+            "2007-01-22T21:16:42Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-22T21:17:56Z",
+            "2007-01-22T21:16:42Z",
+            "2007-01-22T21:16:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/pr29812_injar.class",
+            "/pr29812_injar$inner.class"
+        ],
+        "date": [
+            "2007-01-22T21:17:56Z",
+            "2007-01-22T21:16:42Z",
+            "2007-01-22T21:16:42Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-22T21:17:56Z",
+            "2007-01-22T21:16:42Z",
+            "2007-01-22T21:16:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "pr29812_injar.class",
+            "pr29812_injar$inner.class"
+        ],
+        "meta:save-date": [
+            "2007-01-22T21:17:56Z",
+            "2007-01-22T21:16:42Z",
+            "2007-01-22T21:16:42Z"
+        ],
+        "modified": [
+            "2007-01-22T21:17:56Z",
+            "2007-01-22T21:16:42Z",
+            "2007-01-22T21:16:42Z"
+        ],
+        "dc:title": [
+            "pr29812_injar",
+            "pr29812_injar$inner"
+        ],
+        "title": [
+            "pr29812_injar",
+            "pr29812_injar$inner"
+        ]
+    }
+}

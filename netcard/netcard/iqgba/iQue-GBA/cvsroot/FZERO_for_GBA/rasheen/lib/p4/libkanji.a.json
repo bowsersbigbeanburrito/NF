@@ -1,0 +1,137 @@
+{
+    "libkanji.a": {
+        "modified": "2020-10-06 13:40:49.683127",
+        "size": "11.29KB",
+        "md5": "c8215f01a7aefdee6b8b8f2d6dd8e84c",
+        "sha256": "69aa119e0f0837b66b168804c8984d8df2f066cceaedf8c69d69ff4d0879b01a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libkanji.a'",
+            "message.o",
+            "moji_idx.o",
+            "mojichar.o",
+            "err_idx.o"
+        ],
+        "Content-Length": [
+            "358",
+            "4984",
+            "603",
+            "4703",
+            "600"
+        ],
+        "Last-Modified": [
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T05:16:07Z"
+        ],
+        "Last-Save-Date": [
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T05:16:07Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/message.o",
+            "/moji_idx.o",
+            "/mojichar.o",
+            "/err_idx.o"
+        ],
+        "date": [
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T05:16:07Z"
+        ],
+        "dcterms:modified": [
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T05:16:07Z"
+        ],
+        "meta:save-date": [
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T05:16:07Z"
+        ],
+        "modified": [
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T10:39:59Z",
+            "2000-11-15T05:16:07Z"
+        ],
+        "embeddedRelationshipId": [
+            "message.o",
+            "moji_idx.o",
+            "mojichar.o",
+            "err_idx.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ]
+    }
+}

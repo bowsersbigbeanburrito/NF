@@ -1,0 +1,21 @@
+{
+    "x86-64-nops.s": {
+        "modified": "2008-01-10 06:52:35",
+        "size": "1.79KB",
+        "md5": "00d30d117160daed04e8aae9b6902e3b",
+        "sha256": "1763dfb508a662453ca1be237801faa219d48cb953dd29e0ded920446893ab1d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'x86-64-nops.s'"
+    }
+}

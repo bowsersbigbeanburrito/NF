@@ -1,0 +1,21 @@
+{
+    "microsoft-win3.1.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "0.94KB",
+        "md5": "195257eb09d90c9515b8e6f199a55209",
+        "sha256": "64fc01152167337d1cd31cd0c4fc96d24e6e1fcd5ffc8dd1c902225f80e7da73"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'microsoft-win3.1.enc'"
+    }
+}

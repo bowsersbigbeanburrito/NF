@@ -1,0 +1,21 @@
+{
+    "sleb128.s": {
+        "modified": "2005-01-19 03:53:53",
+        "size": "0.4KB",
+        "md5": "18b960297606054a20f63aa891b7e12a",
+        "sha256": "b61a66bf7ab29e0f2638319b3d0be5a079e0846a0eb9d9430259f156da5114af"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'sleb128.s'"
+    }
+}

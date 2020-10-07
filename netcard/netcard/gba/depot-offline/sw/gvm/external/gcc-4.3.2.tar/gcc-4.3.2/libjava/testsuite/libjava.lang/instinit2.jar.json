@@ -1,0 +1,86 @@
+{
+    "instinit2.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.87KB",
+        "md5": "0e9f611a1d58252b0924c5c5fc913500",
+        "sha256": "6949c4a9a602b8e274ea91a311bc5951c98213dc9f101e066b2e41e4e285c972"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'instinit2.jar'",
+            "META-INF/MANIFEST.MF",
+            "instinit2.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "780"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:02:22Z",
+            "2007-01-02T23:02:22Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:02:22Z",
+            "2007-01-02T23:02:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/instinit2.class"
+        ],
+        "date": [
+            "2007-01-02T23:02:22Z",
+            "2007-01-02T23:02:22Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:02:22Z",
+            "2007-01-02T23:02:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "instinit2.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:02:22Z",
+            "2007-01-02T23:02:22Z"
+        ],
+        "modified": [
+            "2007-01-02T23:02:22Z",
+            "2007-01-02T23:02:22Z"
+        ],
+        "dc:title": "instinit2",
+        "title": "instinit2"
+    }
+}

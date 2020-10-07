@@ -1,0 +1,401 @@
+{
+    "lvd2.lzp": {
+        "modified": "2020-10-06 13:40:39.184781",
+        "size": "261.78KB",
+        "md5": "04758195ce67e21c9fc18e7d7e7fba9d",
+        "sha256": "fc24de59da7ff8c8294fc7c8f978f587aae7d3975337b2347536341e5a805009"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "application/x-sharedlib",
+            "application/x-executable",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "13",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'lvd2.lzp'",
+            "bin/../lib/bin/toolwrap.csh",
+            "data/x86_linuxswift01078.lvd",
+            "lib/bin/compile_timing01015.pl",
+            "lib/bin/crcmdl01021.pl",
+            "lib/bin/findlmc01013.pl",
+            "lib/bin/findmdl01013.pl",
+            "lib/bin/grepmdl01014.pl",
+            "lib/bin/libmdl01008.pl",
+            "lib/bin/listver01014.pl",
+            "lib/bin/mmt2mmd01004.pl",
+            "lib/bin/modeldiff01014.pl",
+            "lib/bin/ptm_make01017.pl",
+            "lib/bin/sl_copy01011.pl",
+            "lib/bin/swiftcheck01013.pl",
+            "lib/x86_linux.lib/libswift03061.so",
+            "lib/x86_linux.lib/mmt2mmd00006",
+            "lib/x86_linux.lib/ptm_make10025",
+            "lib/x86_linux.lib/swiftcheck10036"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "9257",
+            "2868",
+            "11879",
+            "32573",
+            "1212",
+            "2075",
+            "3003",
+            "31799",
+            "1510",
+            "3785",
+            "10165",
+            "3793",
+            "5979",
+            "3503",
+            "561047",
+            "28954",
+            "26657",
+            "42354"
+        ],
+        "Last-Modified": [
+            "2005-04-29T17:06:42Z",
+            "2005-04-29T17:08:26Z",
+            "2005-04-29T17:06:14Z",
+            "2005-04-19T16:39:10Z",
+            "2005-04-19T16:40:16Z",
+            "2005-04-19T16:40:10Z",
+            "2005-04-19T16:39:32Z",
+            "2005-04-29T17:06:36Z",
+            "2005-04-19T16:39:12Z",
+            "2005-04-29T17:04:56Z",
+            "2005-04-19T16:39:30Z",
+            "2005-04-29T17:05:30Z",
+            "2005-04-19T16:39:06Z",
+            "2005-04-29T17:05:36Z",
+            "2005-04-07T05:12:04Z",
+            "2005-04-29T17:06:00Z",
+            "2005-04-29T17:05:38Z",
+            "2005-04-29T17:06:50Z"
+        ],
+        "Last-Save-Date": [
+            "2005-04-29T17:06:42Z",
+            "2005-04-29T17:08:26Z",
+            "2005-04-29T17:06:14Z",
+            "2005-04-19T16:39:10Z",
+            "2005-04-19T16:40:16Z",
+            "2005-04-19T16:40:10Z",
+            "2005-04-19T16:39:32Z",
+            "2005-04-29T17:06:36Z",
+            "2005-04-19T16:39:12Z",
+            "2005-04-29T17:04:56Z",
+            "2005-04-19T16:39:30Z",
+            "2005-04-29T17:05:30Z",
+            "2005-04-19T16:39:06Z",
+            "2005-04-29T17:05:36Z",
+            "2005-04-07T05:12:04Z",
+            "2005-04-29T17:06:00Z",
+            "2005-04-29T17:05:38Z",
+            "2005-04-29T17:06:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/toolwrap.csh",
+            "/x86_linuxswift01078.lvd",
+            "/compile_timing01015.pl",
+            "/crcmdl01021.pl",
+            "/findlmc01013.pl",
+            "/findmdl01013.pl",
+            "/grepmdl01014.pl",
+            "/libmdl01008.pl",
+            "/listver01014.pl",
+            "/mmt2mmd01004.pl",
+            "/modeldiff01014.pl",
+            "/ptm_make01017.pl",
+            "/sl_copy01011.pl",
+            "/swiftcheck01013.pl",
+            "/libswift03061.so",
+            "/mmt2mmd00006",
+            "/ptm_make10025",
+            "/swiftcheck10036"
+        ],
+        "date": [
+            "2005-04-29T17:06:42Z",
+            "2005-04-29T17:08:26Z",
+            "2005-04-29T17:06:14Z",
+            "2005-04-19T16:39:10Z",
+            "2005-04-19T16:40:16Z",
+            "2005-04-19T16:40:10Z",
+            "2005-04-19T16:39:32Z",
+            "2005-04-29T17:06:36Z",
+            "2005-04-19T16:39:12Z",
+            "2005-04-29T17:04:56Z",
+            "2005-04-19T16:39:30Z",
+            "2005-04-29T17:05:30Z",
+            "2005-04-19T16:39:06Z",
+            "2005-04-29T17:05:36Z",
+            "2005-04-07T05:12:04Z",
+            "2005-04-29T17:06:00Z",
+            "2005-04-29T17:05:38Z",
+            "2005-04-29T17:06:50Z"
+        ],
+        "dcterms:modified": [
+            "2005-04-29T17:06:42Z",
+            "2005-04-29T17:08:26Z",
+            "2005-04-29T17:06:14Z",
+            "2005-04-19T16:39:10Z",
+            "2005-04-19T16:40:16Z",
+            "2005-04-19T16:40:10Z",
+            "2005-04-19T16:39:32Z",
+            "2005-04-29T17:06:36Z",
+            "2005-04-19T16:39:12Z",
+            "2005-04-29T17:04:56Z",
+            "2005-04-19T16:39:30Z",
+            "2005-04-29T17:05:30Z",
+            "2005-04-19T16:39:06Z",
+            "2005-04-29T17:05:36Z",
+            "2005-04-07T05:12:04Z",
+            "2005-04-29T17:06:00Z",
+            "2005-04-29T17:05:38Z",
+            "2005-04-29T17:06:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "bin/../lib/bin/toolwrap.csh",
+            "data/x86_linuxswift01078.lvd",
+            "lib/bin/compile_timing01015.pl",
+            "lib/bin/crcmdl01021.pl",
+            "lib/bin/findlmc01013.pl",
+            "lib/bin/findmdl01013.pl",
+            "lib/bin/grepmdl01014.pl",
+            "lib/bin/libmdl01008.pl",
+            "lib/bin/listver01014.pl",
+            "lib/bin/mmt2mmd01004.pl",
+            "lib/bin/modeldiff01014.pl",
+            "lib/bin/ptm_make01017.pl",
+            "lib/bin/sl_copy01011.pl",
+            "lib/bin/swiftcheck01013.pl",
+            "lib/x86_linux.lib/libswift03061.so",
+            "lib/x86_linux.lib/mmt2mmd00006",
+            "lib/x86_linux.lib/ptm_make10025",
+            "lib/x86_linux.lib/swiftcheck10036"
+        ],
+        "meta:save-date": [
+            "2005-04-29T17:06:42Z",
+            "2005-04-29T17:08:26Z",
+            "2005-04-29T17:06:14Z",
+            "2005-04-19T16:39:10Z",
+            "2005-04-19T16:40:16Z",
+            "2005-04-19T16:40:10Z",
+            "2005-04-19T16:39:32Z",
+            "2005-04-29T17:06:36Z",
+            "2005-04-19T16:39:12Z",
+            "2005-04-29T17:04:56Z",
+            "2005-04-19T16:39:30Z",
+            "2005-04-29T17:05:30Z",
+            "2005-04-19T16:39:06Z",
+            "2005-04-29T17:05:36Z",
+            "2005-04-07T05:12:04Z",
+            "2005-04-29T17:06:00Z",
+            "2005-04-29T17:05:38Z",
+            "2005-04-29T17:06:50Z"
+        ],
+        "modified": [
+            "2005-04-29T17:06:42Z",
+            "2005-04-29T17:08:26Z",
+            "2005-04-29T17:06:14Z",
+            "2005-04-19T16:39:10Z",
+            "2005-04-19T16:40:16Z",
+            "2005-04-19T16:40:10Z",
+            "2005-04-19T16:39:32Z",
+            "2005-04-29T17:06:36Z",
+            "2005-04-19T16:39:12Z",
+            "2005-04-29T17:04:56Z",
+            "2005-04-19T16:39:30Z",
+            "2005-04-29T17:05:30Z",
+            "2005-04-19T16:39:06Z",
+            "2005-04-29T17:05:36Z",
+            "2005-04-07T05:12:04Z",
+            "2005-04-29T17:06:00Z",
+            "2005-04-29T17:05:38Z",
+            "2005-04-29T17:06:50Z"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

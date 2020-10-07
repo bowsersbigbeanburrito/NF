@@ -1,0 +1,20 @@
+{
+    "tst-svc.input": {
+        "modified": "2001-02-02 00:23:11",
+        "size": "0.18KB",
+        "md5": "e9094fe74c6235690fe24a91d45c3cf6",
+        "sha256": "583de105e8940e713d05c8925e54fe3c7a11f3326cbfccc61b69bb4fc371fa4a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'tst-svc.input'"
+    }
+}

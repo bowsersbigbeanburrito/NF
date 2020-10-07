@@ -1,0 +1,21 @@
+{
+    "ld-linux-x86-64.so.2": {
+        "modified": "2009-01-29 09:56:31",
+        "size": "128.5KB",
+        "md5": "b887c01b482a29cdeff181ef65605b9d",
+        "sha256": "23e6740de7277af7411dfe76edcdfa7b8a9b5e2889fe6d600d32108def384871"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-sharedlib",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "64",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-64",
+        "resourceName": "b'ld-linux-x86-64.so.2'"
+    }
+}

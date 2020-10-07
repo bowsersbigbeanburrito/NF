@@ -1,0 +1,143 @@
+{
+    "ipc.a": {
+        "modified": "2020-10-06 13:40:46.254920",
+        "size": "21.61KB",
+        "md5": "35c768d1faf3fac84a92930d21dcedc0",
+        "sha256": "f9f86b4fbb53c39e1a7c46559765d69d4f5627d85715fa34de971219d50b2588"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'ipc.a'",
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o",
+            "ipcProfile.o"
+        ],
+        "Content-Length": [
+            "720",
+            "1632",
+            "14816",
+            "2624",
+            "2032"
+        ],
+        "Last-Modified": [
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:32Z",
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:33Z",
+            "2008-12-22T18:06:47Z"
+        ],
+        "Last-Save-Date": [
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:32Z",
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:33Z",
+            "2008-12-22T18:06:47Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ipcMain.o",
+            "/ipcclt.o",
+            "/memory.o",
+            "/ipcProfile.o"
+        ],
+        "date": [
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:32Z",
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:33Z",
+            "2008-12-22T18:06:47Z"
+        ],
+        "dcterms:modified": [
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:32Z",
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:33Z",
+            "2008-12-22T18:06:47Z"
+        ],
+        "meta:save-date": [
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:32Z",
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:33Z",
+            "2008-12-22T18:06:47Z"
+        ],
+        "modified": [
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:32Z",
+            "2008-12-22T18:06:47Z",
+            "2008-09-17T21:06:33Z",
+            "2008-12-22T18:06:47Z"
+        ],
+        "embeddedRelationshipId": [
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o",
+            "ipcProfile.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

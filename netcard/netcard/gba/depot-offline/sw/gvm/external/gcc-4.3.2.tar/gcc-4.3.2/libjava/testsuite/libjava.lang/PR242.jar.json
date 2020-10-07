@@ -1,0 +1,130 @@
+{
+    "PR242.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.53KB",
+        "md5": "1a14331920068ba8a784ac5743a61781",
+        "sha256": "ac2a1895ea0a8315aa6b09daf0dc2a962395e83ab7d5611647d777eafe4258a3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'PR242.jar'",
+            "META-INF/MANIFEST.MF",
+            "Base.class",
+            "PR242.class",
+            "PR242$Inner.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "390",
+            "370",
+            "637"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Base.class",
+            "/PR242.class",
+            "/PR242$Inner.class"
+        ],
+        "date": [
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Base.class",
+            "PR242.class",
+            "PR242$Inner.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z"
+        ],
+        "modified": [
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z",
+            "2007-01-02T23:05:22Z"
+        ],
+        "dc:title": [
+            "Base",
+            "PR242",
+            "PR242$Inner"
+        ],
+        "title": [
+            "Base",
+            "PR242",
+            "PR242$Inner"
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "librmath.a": {
+        "modified": "2020-10-06 13:40:49.609127",
+        "size": "4.49KB",
+        "md5": "f869b976ea27c1f72c4ca10a83b80c25",
+        "sha256": "c042fd2b4b5b6065d9113b9e530f8cfe76c322e666701bb0bfe9922e5f08b27a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'librmath.a'",
+            "srmath.o",
+            "rmathdata.o"
+        ],
+        "Content-Length": [
+            "82",
+            "2104",
+            "2228"
+        ],
+        "Last-Modified": [
+            "2000-07-19T02:27:29Z",
+            "2000-07-19T02:27:30Z",
+            "2000-07-19T02:06:02Z"
+        ],
+        "Last-Save-Date": [
+            "2000-07-19T02:27:29Z",
+            "2000-07-19T02:27:30Z",
+            "2000-07-19T02:06:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/srmath.o",
+            "/rmathdata.o"
+        ],
+        "date": [
+            "2000-07-19T02:27:29Z",
+            "2000-07-19T02:27:30Z",
+            "2000-07-19T02:06:02Z"
+        ],
+        "dcterms:modified": [
+            "2000-07-19T02:27:29Z",
+            "2000-07-19T02:27:30Z",
+            "2000-07-19T02:06:02Z"
+        ],
+        "meta:save-date": [
+            "2000-07-19T02:27:29Z",
+            "2000-07-19T02:27:30Z",
+            "2000-07-19T02:06:02Z"
+        ],
+        "modified": [
+            "2000-07-19T02:27:29Z",
+            "2000-07-19T02:27:30Z",
+            "2000-07-19T02:06:02Z"
+        ],
+        "embeddedRelationshipId": [
+            "srmath.o",
+            "rmathdata.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

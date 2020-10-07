@@ -1,0 +1,21 @@
+{
+    "testptlog_00.txt": {
+        "modified": "2005-12-14 14:34:34",
+        "size": "6.74KB",
+        "md5": "6a05f7da57b1a7c4b30b9b24476e5d47",
+        "sha256": "a20e5094ffd952c1386b75dcdc10f7c22dec3332a48863a353720cc57ef874d5"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'testptlog_00.txt'"
+    }
+}

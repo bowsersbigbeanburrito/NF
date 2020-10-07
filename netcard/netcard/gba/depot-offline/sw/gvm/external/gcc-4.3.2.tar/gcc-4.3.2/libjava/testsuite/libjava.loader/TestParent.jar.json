@@ -1,0 +1,110 @@
+{
+    "TestParent.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.15KB",
+        "md5": "fdf9a1faf81aa6359af466306fc89b50",
+        "sha256": "18e6f5eb6320b855c91eb264bf97b78542c47cbec05a877a326f49ab809dae23"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'TestParent.jar'",
+            "META-INF/MANIFEST.MF",
+            "MyLoader.class",
+            "TestParent.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "320",
+            "764"
+        ],
+        "Last-Modified": [
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/MyLoader.class",
+            "/TestParent.class"
+        ],
+        "date": [
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "MyLoader.class",
+            "TestParent.class"
+        ],
+        "meta:save-date": [
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z"
+        ],
+        "modified": [
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z",
+            "2007-01-03T16:34:18Z"
+        ],
+        "dc:title": [
+            "MyLoader",
+            "TestParent"
+        ],
+        "title": [
+            "MyLoader",
+            "TestParent"
+        ]
+    }
+}

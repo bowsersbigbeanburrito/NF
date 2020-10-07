@@ -1,0 +1,21 @@
+{
+    "JISX0213.TXT": {
+        "modified": "2004-08-02 15:13:03",
+        "size": "165.01KB",
+        "md5": "5aee6993087aea832fd925eae94148a9",
+        "sha256": "92d46fc3440334a0d8b35cec0b984eb6a9070c4c3467db9820c24540b7a1880a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "10",
+        "csv:delimiter": "tab",
+        "resourceName": "b'JISX0213.TXT'"
+    }
+}

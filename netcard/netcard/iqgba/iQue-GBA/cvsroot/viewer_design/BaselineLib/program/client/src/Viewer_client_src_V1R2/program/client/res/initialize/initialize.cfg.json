@@ -1,0 +1,21 @@
+{
+    "initialize.cfg": {
+        "modified": "2005-10-12 17:16:06",
+        "size": "0.25KB",
+        "md5": "0c5de8f0ec5ae3dae41c182a200011d9",
+        "sha256": "6b63f918ebd7abc2858728c4d6157a7fe8e0dc8fa21f9a93259142b071aa517c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "comma",
+        "resourceName": "b'initialize.cfg'"
+    }
+}

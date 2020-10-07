@@ -1,0 +1,20 @@
+{
+    "pthread_cond_timedwait.S": {
+        "modified": "2007-08-14 23:40:39",
+        "size": "15.12KB",
+        "md5": "de4e29581086bb0b3dbcf55d98f5ef87",
+        "sha256": "11c68f2801bf716cd38ae29b19bbcd724d960b22c3ca3a05db40c212e22963ab"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'pthread_cond_timedwait.S'"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "iqahc-Impl-Spec.doc": {
+        "modified": "2020-10-06 13:40:52.134604",
+        "size": "77.5KB",
+        "md5": "6ffadbf249918c04b79d09b921adfe8f",
+        "sha256": "60b7dd76e0d744a1c9dd8ab9552c124fef6b158287a82e77a6d991b972b4a844"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Office Word",
+        "Author": "Xu Ming",
+        "Character Count": "1916",
+        "Comments": "",
+        "Company": "IQue",
+        "Content-Type": [
+            "application/msword",
+            "image/jpeg"
+        ],
+        "Creation-Date": "2005-11-15T09:27:00Z",
+        "Edit-Time": "191400000000",
+        "Keywords": "",
+        "Last-Author": "YuBo Liu",
+        "Last-Modified": "2005-11-16T01:31:00Z",
+        "Last-Printed": "2005-11-15T07:37:00Z",
+        "Last-Save-Date": "2005-11-16T01:31:00Z",
+        "Page-Count": "1",
+        "Revision-Number": "5",
+        "Template": "Normal.dot",
+        "Word-Count": "335",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.jpeg.JpegParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "33",
+            "19"
+        ],
+        "comment": "",
+        "cp:revision": "5",
+        "cp:subject": "",
+        "creator": "Xu Ming",
+        "date": "2005-11-16T01:31:00Z",
+        "dc:creator": "Xu Ming",
+        "dc:subject": "",
+        "dc:title": "Viewer Function Brief",
+        "dcterms:created": "2005-11-15T09:27:00Z",
+        "dcterms:modified": "2005-11-16T01:31:00Z",
+        "extended-properties:Application": "Microsoft Office Word",
+        "extended-properties:Company": "IQue",
+        "extended-properties:Template": "Normal.dot",
+        "meta:author": "Xu Ming",
+        "meta:character-count": "1916",
+        "meta:creation-date": "2005-11-15T09:27:00Z",
+        "meta:keyword": "",
+        "meta:last-author": "YuBo Liu",
+        "meta:page-count": "1",
+        "meta:print-date": "2005-11-15T07:37:00Z",
+        "meta:save-date": "2005-11-16T01:31:00Z",
+        "meta:word-count": "335",
+        "modified": "2005-11-16T01:31:00Z",
+        "resourceName": [
+            "b'iqahc-Impl-Spec.doc'",
+            "image1.jpg"
+        ],
+        "subject": "",
+        "title": "Viewer Function Brief",
+        "w:comments": "",
+        "xmpTPg:NPages": "1",
+        "Component 1": "Y component: Quantization table 0, Sampling factors 2 horiz/2 vert",
+        "Component 2": "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+        "Component 3": "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+        "Compression Type": "Baseline",
+        "Data Precision": "8 bits",
+        "File Modified Date": "Tue Oct 06 20:02:18 -07:00 2020",
+        "File Name": "apache-tika-3074911431368642551.tmp",
+        "File Size": "7831 bytes",
+        "Image Height": "77 pixels",
+        "Image Width": "162 pixels",
+        "Number of Components": "3",
+        "Number of Tables": "4 Huffman tables",
+        "Resolution Units": "inch",
+        "Thumbnail Height Pixels": "0",
+        "Thumbnail Width Pixels": "0",
+        "X Resolution": "100 dots",
+        "X-TIKA:embedded_resource_path": "/image1.jpg",
+        "Y Resolution": "100 dots",
+        "tiff:BitsPerSample": "8",
+        "tiff:ImageLength": "77",
+        "tiff:ImageWidth": "162",
+        "tika.mime.file": "image1.jpg"
+    }
+}

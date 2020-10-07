@@ -1,0 +1,21 @@
+{
+    "ibm-cp850.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "5.44KB",
+        "md5": "9e6279fdf0e542ed2a5c85ccf5b8717f",
+        "sha256": "9ed0f6d36d5099e65b334c35f33fa68ea89369e3cf23c6ed8cb9b6236684ea30"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ibm-cp850.enc'"
+    }
+}

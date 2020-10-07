@@ -1,0 +1,86 @@
+{
+    "getlocalvartable.jar": {
+        "modified": "2007-02-15 06:49:50",
+        "size": "1.34KB",
+        "md5": "1e085696423a568e5c7e2d205e48faec",
+        "sha256": "51fdf6ef2a3db5c4b38c7b24cbb191ffeb5febf8664f668dbb0a20113558fe88"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "application/java-vm",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'getlocalvartable.jar'",
+            "getlocalvartable.class",
+            "META-INF/MANIFEST.MF"
+        ],
+        "Content-Length": [
+            "1534",
+            "50"
+        ],
+        "Last-Modified": [
+            "2007-02-13T20:22:41Z",
+            "2007-02-13T20:22:41Z"
+        ],
+        "Last-Save-Date": [
+            "2007-02-13T20:22:41Z",
+            "2007-02-13T20:22:41Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/getlocalvartable.class",
+            "/MANIFEST.MF"
+        ],
+        "date": [
+            "2007-02-13T20:22:41Z",
+            "2007-02-13T20:22:41Z"
+        ],
+        "dc:title": "getlocalvartable",
+        "dcterms:modified": [
+            "2007-02-13T20:22:41Z",
+            "2007-02-13T20:22:41Z"
+        ],
+        "embeddedRelationshipId": [
+            "getlocalvartable.class",
+            "META-INF/MANIFEST.MF"
+        ],
+        "meta:save-date": [
+            "2007-02-13T20:22:41Z",
+            "2007-02-13T20:22:41Z"
+        ],
+        "modified": [
+            "2007-02-13T20:22:41Z",
+            "2007-02-13T20:22:41Z"
+        ],
+        "title": "getlocalvartable",
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

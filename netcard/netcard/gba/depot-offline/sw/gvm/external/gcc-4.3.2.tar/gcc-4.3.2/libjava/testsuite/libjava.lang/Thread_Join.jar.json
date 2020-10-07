@@ -1,0 +1,130 @@
+{
+    "Thread_Join.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.85KB",
+        "md5": "c36a7ce9660a30fd5862012d4e588036",
+        "sha256": "5927b3665532bb1b5c9041d5b05c9977c3897836b380d4962ec650aca8d02a7c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'Thread_Join.jar'",
+            "META-INF/MANIFEST.MF",
+            "Joiner.class",
+            "Sleeper.class",
+            "Thread_Join.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "771",
+            "654",
+            "497"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Joiner.class",
+            "/Sleeper.class",
+            "/Thread_Join.class"
+        ],
+        "date": [
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Joiner.class",
+            "Sleeper.class",
+            "Thread_Join.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z"
+        ],
+        "modified": [
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z",
+            "2007-01-02T23:11:38Z"
+        ],
+        "dc:title": [
+            "Joiner",
+            "Sleeper",
+            "Thread_Join"
+        ],
+        "title": [
+            "Joiner",
+            "Sleeper",
+            "Thread_Join"
+        ]
+    }
+}

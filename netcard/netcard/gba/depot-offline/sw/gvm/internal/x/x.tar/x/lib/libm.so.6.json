@@ -1,0 +1,21 @@
+{
+    "libm.so.6": {
+        "modified": "2009-01-29 09:56:31",
+        "size": "530.21KB",
+        "md5": "f22ec22dc0cb0fec1c146aef8a49d5ae",
+        "sha256": "3dc6f87fc1433abfb87527bcfdd904f88cc30acd9266a32afd66147a653962a4"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-sharedlib",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "64",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-64",
+        "resourceName": "b'libm.so.6'"
+    }
+}

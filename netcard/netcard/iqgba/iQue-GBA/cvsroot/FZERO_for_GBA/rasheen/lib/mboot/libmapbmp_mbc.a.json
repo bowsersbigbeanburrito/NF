@@ -1,0 +1,101 @@
+{
+    "libmapbmp_mbc.a": {
+        "modified": "2020-10-06 13:40:49.616126",
+        "size": "26.42KB",
+        "md5": "f8b390dc940e0d166c939b6ed652281e",
+        "sha256": "89a23c51bf59d90df79a4aec58e2b48c9c2469d38d19d3cbb8458bb76218c686"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libmapbmp_mbc.a'",
+            "course_data.o",
+            "pal.o"
+        ],
+        "Content-Length": [
+            "174",
+            "25752",
+            "944"
+        ],
+        "Last-Modified": [
+            "2001-01-21T17:26:11Z",
+            "2001-01-17T20:00:50Z",
+            "2001-01-21T17:26:10Z"
+        ],
+        "Last-Save-Date": [
+            "2001-01-21T17:26:11Z",
+            "2001-01-17T20:00:50Z",
+            "2001-01-21T17:26:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/course_data.o",
+            "/pal.o"
+        ],
+        "date": [
+            "2001-01-21T17:26:11Z",
+            "2001-01-17T20:00:50Z",
+            "2001-01-21T17:26:10Z"
+        ],
+        "dcterms:modified": [
+            "2001-01-21T17:26:11Z",
+            "2001-01-17T20:00:50Z",
+            "2001-01-21T17:26:10Z"
+        ],
+        "meta:save-date": [
+            "2001-01-21T17:26:11Z",
+            "2001-01-17T20:00:50Z",
+            "2001-01-21T17:26:10Z"
+        ],
+        "modified": [
+            "2001-01-21T17:26:11Z",
+            "2001-01-17T20:00:50Z",
+            "2001-01-21T17:26:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "course_data.o",
+            "pal.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

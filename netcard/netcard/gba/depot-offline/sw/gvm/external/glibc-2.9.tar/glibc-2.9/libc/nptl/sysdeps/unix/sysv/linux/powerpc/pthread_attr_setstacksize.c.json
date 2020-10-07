@@ -1,0 +1,20 @@
+{
+    "pthread_attr_setstacksize.c": {
+        "modified": "2007-05-28 09:43:38",
+        "size": "0.3KB",
+        "md5": "48b9fd903443185406f74678dc20d1ab",
+        "sha256": "b791550be68acd342fa63db4b5b9feb86f90f8a2bd45067e291b2ca87fe63d40"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/x-csrc; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'pthread_attr_setstacksize.c'"
+    }
+}

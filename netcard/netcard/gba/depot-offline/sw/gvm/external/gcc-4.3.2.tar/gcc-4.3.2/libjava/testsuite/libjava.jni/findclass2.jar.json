@@ -1,0 +1,110 @@
+{
+    "findclass2.jar": {
+        "modified": "2007-01-18 12:47:50",
+        "size": "1.05KB",
+        "md5": "141e3f995cea6e567a2665e9a22ad665",
+        "sha256": "3480beeb3f15bc7f162252572a47e22bfa263181c46290947e25d4aea2e08565"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'findclass2.jar'",
+            "META-INF/MANIFEST.MF",
+            "findclass2.class",
+            "findclass2$inner.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/findclass2.class",
+            "/findclass2$inner.class"
+        ],
+        "date": [
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "findclass2.class",
+            "findclass2$inner.class"
+        ],
+        "meta:save-date": [
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z"
+        ],
+        "modified": [
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z",
+            "2007-01-18T19:27:38Z"
+        ],
+        "dc:title": [
+            "findclass2",
+            "findclass2$inner"
+        ],
+        "title": [
+            "findclass2",
+            "findclass2$inner"
+        ]
+    }
+}

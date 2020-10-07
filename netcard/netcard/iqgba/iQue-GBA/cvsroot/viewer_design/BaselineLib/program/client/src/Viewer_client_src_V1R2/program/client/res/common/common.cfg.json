@@ -1,0 +1,21 @@
+{
+    "common.cfg": {
+        "modified": "2005-10-10 13:30:02",
+        "size": "0.24KB",
+        "md5": "3db9997116f36e3cb40370793356ac54",
+        "sha256": "5992242adc6faacaa95e1e702e8e0c36332aa570bc914008a87657574ed29561"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'common.cfg'"
+    }
+}

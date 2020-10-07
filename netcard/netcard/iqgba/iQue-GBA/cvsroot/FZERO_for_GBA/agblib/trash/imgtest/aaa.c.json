@@ -1,0 +1,21 @@
+{
+    "aaa.c": {
+        "modified": "2020-10-06 13:40:49.457860",
+        "size": "100.15KB",
+        "md5": "bb23657aa4759f72a3d5a49250ac2269",
+        "sha256": "208648f2a151fc32cf13d0b992e32775d2b869433ac06bebc1065766a4fdeedb"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "14",
+        "csv:delimiter": "comma",
+        "resourceName": "b'aaa.c'"
+    }
+}

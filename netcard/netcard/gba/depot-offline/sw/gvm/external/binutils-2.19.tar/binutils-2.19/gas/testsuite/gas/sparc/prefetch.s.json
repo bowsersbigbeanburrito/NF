@@ -1,0 +1,21 @@
+{
+    "prefetch.s": {
+        "modified": "1999-05-03 00:28:52",
+        "size": "0.26KB",
+        "md5": "0b615422f6c8ad3fe5c42f2a8c7af1e4",
+        "sha256": "58f3ffd8d2eddb66701f02861d5f101e75293165b981dfa88761cc5e5f2e3059"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'prefetch.s'"
+    }
+}

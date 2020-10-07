@@ -1,0 +1,110 @@
+{
+    "TestMultiple.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.14KB",
+        "md5": "4f9943f236db3022b9e6bde73d3d217d",
+        "sha256": "e913fa45039d71fd7c0a4685e14aef54f11a946de3450a9ef74f688e59a8d881"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'TestMultiple.jar'",
+            "META-INF/MANIFEST.MF",
+            "MyLoader.class",
+            "TestMultiple.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "320",
+            "697"
+        ],
+        "Last-Modified": [
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/MyLoader.class",
+            "/TestMultiple.class"
+        ],
+        "date": [
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "MyLoader.class",
+            "TestMultiple.class"
+        ],
+        "meta:save-date": [
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z"
+        ],
+        "modified": [
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z",
+            "2007-01-03T16:34:14Z"
+        ],
+        "dc:title": [
+            "MyLoader",
+            "TestMultiple"
+        ],
+        "title": [
+            "MyLoader",
+            "TestMultiple"
+        ]
+    }
+}

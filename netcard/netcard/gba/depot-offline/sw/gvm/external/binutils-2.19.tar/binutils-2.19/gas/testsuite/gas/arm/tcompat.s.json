@@ -1,0 +1,21 @@
+{
+    "tcompat.s": {
+        "modified": "2005-05-17 22:40:10",
+        "size": "0.65KB",
+        "md5": "01845494d89206ee162c2fa3b961445f",
+        "sha256": "ff6f0bdbf59925bde19b197187746081f70cc09b76317c903c841496e98906ad"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tcompat.s'"
+    }
+}

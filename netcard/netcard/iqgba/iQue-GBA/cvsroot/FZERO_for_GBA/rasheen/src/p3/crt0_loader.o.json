@@ -1,0 +1,22 @@
+{
+    "crt0_loader.o": {
+        "modified": "2020-10-06 13:40:50.129465",
+        "size": "29.64KB",
+        "md5": "8ab7b6e37c0a80bd5986193e078a1cbf",
+        "sha256": "9610dbfc821563e0ee4e0bc47cedd77576982225643ac1b0239448602c4145cf"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'crt0_loader.o'"
+    }
+}

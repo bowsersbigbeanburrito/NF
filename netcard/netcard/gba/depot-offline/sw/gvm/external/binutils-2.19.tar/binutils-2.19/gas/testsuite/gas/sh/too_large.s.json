@@ -1,0 +1,20 @@
+{
+    "too_large.s": {
+        "modified": "2006-07-12 02:02:00",
+        "size": "0.5KB",
+        "md5": "314ff5a57af40c641f3b7a2ceb003074",
+        "sha256": "358726c5c89f52bded4be1f79e6fc35181263994957b08952082b2f50f021553"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'too_large.s'"
+    }
+}

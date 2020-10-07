@@ -1,0 +1,21 @@
+{
+    "prefix.d": {
+        "modified": "2003-06-15 16:46:37",
+        "size": "5.79KB",
+        "md5": "4dc221a639f050b33118fee5c2ece649",
+        "sha256": "fecdaa560881995d113ccb5a8880cbe69358bba2788152ae416ca536a63ddbd6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'prefix.d'"
+    }
+}

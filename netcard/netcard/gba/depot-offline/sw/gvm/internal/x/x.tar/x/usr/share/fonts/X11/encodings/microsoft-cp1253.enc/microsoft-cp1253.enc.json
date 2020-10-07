@@ -1,0 +1,21 @@
+{
+    "microsoft-cp1253.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "4.13KB",
+        "md5": "daa2b7c00bcacdd11725070c9101ff58",
+        "sha256": "7551c45d52385a86ba26a01393874c632ad43c27553a6445b63613fd52e3e2db"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'microsoft-cp1253.enc'"
+    }
+}

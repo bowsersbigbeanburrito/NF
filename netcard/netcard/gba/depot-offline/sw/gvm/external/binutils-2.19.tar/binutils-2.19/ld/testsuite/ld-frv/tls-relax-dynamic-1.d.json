@@ -1,0 +1,21 @@
+{
+    "tls-relax-dynamic-1.d": {
+        "modified": "2006-12-04 18:40:57",
+        "size": "2.25KB",
+        "md5": "8961a52a62db16458dc6252a46f492db",
+        "sha256": "8928d03c87ed5e373447d2fc853ddf16e0d31a23aa6c489ebc0b03a4888737a2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tls-relax-dynamic-1.d'"
+    }
+}

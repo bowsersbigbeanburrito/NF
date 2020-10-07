@@ -1,0 +1,22 @@
+{
+    "rom_header.o": {
+        "modified": "2020-10-06 13:40:49.867465",
+        "size": "0.73KB",
+        "md5": "3ba201ab4700e5060b8d844d378dee8c",
+        "sha256": "4eddae0839c29f5887dd3fd10791ec8ca5f6d866c59665a25f81944be801d41c"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'rom_header.o'"
+    }
+}

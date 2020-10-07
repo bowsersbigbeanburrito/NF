@@ -1,0 +1,20 @@
+{
+    "TEST.DOC": {
+        "modified": "2009-01-18 10:45:37",
+        "size": "7.72KB",
+        "md5": "a94fa6b95125bb01331afb2afe4e8b83",
+        "sha256": "14219276ef76eaecef6deef4900f89cd8c7be7d046f302cf38462a93aafc67c5"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/plain; charset=UTF-8",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'TEST.DOC'"
+    }
+}

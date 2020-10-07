@@ -1,0 +1,87 @@
+{
+    "other.lzp": {
+        "modified": "2005-10-13 04:49:59",
+        "size": "0.37KB",
+        "md5": "247be6fb8004da26f426c33a24bf6104",
+        "sha256": "21d3a29b13aca2ca634890a10170bf6a8d4c520f8b4db3930bfd45e510ca0615"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/x-matlab; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'other.lzp'",
+            "data/other.dat",
+            "data/x86_linuxother01001.lvd"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "22",
+            "159"
+        ],
+        "Last-Modified": [
+            "2002-03-01T23:22:48Z",
+            "2000-02-04T21:36:42Z"
+        ],
+        "Last-Save-Date": [
+            "2002-03-01T23:22:48Z",
+            "2000-02-04T21:36:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/other.dat",
+            "/x86_linuxother01001.lvd"
+        ],
+        "date": [
+            "2002-03-01T23:22:48Z",
+            "2000-02-04T21:36:42Z"
+        ],
+        "dcterms:modified": [
+            "2002-03-01T23:22:48Z",
+            "2000-02-04T21:36:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "data/other.dat",
+            "data/x86_linuxother01001.lvd"
+        ],
+        "meta:save-date": [
+            "2002-03-01T23:22:48Z",
+            "2000-02-04T21:36:42Z"
+        ],
+        "modified": [
+            "2002-03-01T23:22:48Z",
+            "2000-02-04T21:36:42Z"
+        ]
+    }
+}

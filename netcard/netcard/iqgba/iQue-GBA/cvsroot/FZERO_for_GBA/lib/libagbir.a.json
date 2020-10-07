@@ -1,0 +1,149 @@
+{
+    "libagbir.a": {
+        "modified": "2020-10-06 13:40:49.597127",
+        "size": "69.7KB",
+        "md5": "1013e0ed1cfa0dfa4e0db6284d697a41",
+        "sha256": "65818c9090a7fbcd83bbf773fae04082eacd23577e87b9786d87d323b28f7910"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libagbir.a'",
+            "irlib.o",
+            "irThumblib.o",
+            "irArmCoreCopier.o",
+            "irArmlib.o"
+        ],
+        "Content-Length": [
+            "336",
+            "20876",
+            "17032",
+            "14716",
+            "18020"
+        ],
+        "Last-Modified": [
+            "2000-12-14T02:28:45Z",
+            "2000-12-14T02:28:46Z",
+            "2000-12-14T02:21:40Z",
+            "2000-12-14T02:21:46Z",
+            "2000-12-09T12:29:26Z"
+        ],
+        "Last-Save-Date": [
+            "2000-12-14T02:28:45Z",
+            "2000-12-14T02:28:46Z",
+            "2000-12-14T02:21:40Z",
+            "2000-12-14T02:21:46Z",
+            "2000-12-09T12:29:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/irlib.o",
+            "/irThumblib.o",
+            "/irArmCoreCopier.o",
+            "/irArmlib.o"
+        ],
+        "date": [
+            "2000-12-14T02:28:45Z",
+            "2000-12-14T02:28:46Z",
+            "2000-12-14T02:21:40Z",
+            "2000-12-14T02:21:46Z",
+            "2000-12-09T12:29:26Z"
+        ],
+        "dcterms:modified": [
+            "2000-12-14T02:28:45Z",
+            "2000-12-14T02:28:46Z",
+            "2000-12-14T02:21:40Z",
+            "2000-12-14T02:21:46Z",
+            "2000-12-09T12:29:26Z"
+        ],
+        "meta:save-date": [
+            "2000-12-14T02:28:45Z",
+            "2000-12-14T02:28:46Z",
+            "2000-12-14T02:21:40Z",
+            "2000-12-14T02:21:46Z",
+            "2000-12-09T12:29:26Z"
+        ],
+        "modified": [
+            "2000-12-14T02:28:45Z",
+            "2000-12-14T02:28:46Z",
+            "2000-12-14T02:21:40Z",
+            "2000-12-14T02:21:46Z",
+            "2000-12-09T12:29:26Z"
+        ],
+        "embeddedRelationshipId": [
+            "irlib.o",
+            "irThumblib.o",
+            "irArmCoreCopier.o",
+            "irArmlib.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

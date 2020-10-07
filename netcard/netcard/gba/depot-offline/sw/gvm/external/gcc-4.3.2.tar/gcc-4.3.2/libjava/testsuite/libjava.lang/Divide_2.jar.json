@@ -1,0 +1,86 @@
+{
+    "Divide_2.jar": {
+        "modified": "2007-02-13 10:25:47",
+        "size": "0.67KB",
+        "md5": "14a55f63fd4848504bc7c4cbab2a6765",
+        "sha256": "55120a427d2bcdea6fca2dc4c824a3b750cf27789c987fbe6f398c13bbd30e49"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'Divide_2.jar'",
+            "META-INF/MANIFEST.MF",
+            "Divide_2.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "431"
+        ],
+        "Last-Modified": [
+            "2007-02-14T02:22:30Z",
+            "2007-02-14T02:22:26Z"
+        ],
+        "Last-Save-Date": [
+            "2007-02-14T02:22:30Z",
+            "2007-02-14T02:22:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Divide_2.class"
+        ],
+        "date": [
+            "2007-02-14T02:22:30Z",
+            "2007-02-14T02:22:26Z"
+        ],
+        "dcterms:modified": [
+            "2007-02-14T02:22:30Z",
+            "2007-02-14T02:22:26Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Divide_2.class"
+        ],
+        "meta:save-date": [
+            "2007-02-14T02:22:30Z",
+            "2007-02-14T02:22:26Z"
+        ],
+        "modified": [
+            "2007-02-14T02:22:30Z",
+            "2007-02-14T02:22:26Z"
+        ],
+        "dc:title": "Divide_2",
+        "title": "Divide_2"
+    }
+}

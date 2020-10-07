@@ -1,0 +1,86 @@
+{
+    "pr100.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.69KB",
+        "md5": "76fe2fead2225da9de590784dfed76d7",
+        "sha256": "6f4a88f0d4f80b8c5e6e5eceedf3a5130781d21601b918672f744f429b591528"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'pr100.jar'",
+            "META-INF/MANIFEST.MF",
+            "pr100.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "487"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:03:50Z",
+            "2007-01-02T23:03:50Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:03:50Z",
+            "2007-01-02T23:03:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/pr100.class"
+        ],
+        "date": [
+            "2007-01-02T23:03:50Z",
+            "2007-01-02T23:03:50Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:03:50Z",
+            "2007-01-02T23:03:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "pr100.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:03:50Z",
+            "2007-01-02T23:03:50Z"
+        ],
+        "modified": [
+            "2007-01-02T23:03:50Z",
+            "2007-01-02T23:03:50Z"
+        ],
+        "dc:title": "pr100",
+        "title": "pr100"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "Array_3.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.95KB",
+        "md5": "351cb186f61220682866ea02b3c485f8",
+        "sha256": "cd49ee8e8f6651631274e03ebd642c75c6cbef95d9de5dd8e6e108917d3e3982"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'Array_3.jar'",
+            "META-INF/MANIFEST.MF",
+            "Array_3.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1017"
+        ],
+        "Last-Modified": [
+            "2007-01-02T22:59:28Z",
+            "2007-01-02T22:59:28Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T22:59:28Z",
+            "2007-01-02T22:59:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Array_3.class"
+        ],
+        "date": [
+            "2007-01-02T22:59:28Z",
+            "2007-01-02T22:59:28Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T22:59:28Z",
+            "2007-01-02T22:59:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Array_3.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T22:59:28Z",
+            "2007-01-02T22:59:28Z"
+        ],
+        "modified": [
+            "2007-01-02T22:59:28Z",
+            "2007-01-02T22:59:28Z"
+        ],
+        "dc:title": "Array_3",
+        "title": "Array_3"
+    }
+}

@@ -1,0 +1,669 @@
+{
+    "kxd94-spec.doc": {
+        "modified": "2020-10-06 13:40:44.417965",
+        "size": "745.0KB",
+        "md5": "3ee9234b7767f2935413602a3ec72892",
+        "sha256": "559a3b4b553f6ef44c2a199fee51984a830d5e02e66dccc7fd6b665c58b1e4fc"
+    },
+    "Metadata": {
+        "Application-Name": [
+            "Microsoft Office Word",
+            "Microsoft Visio",
+            "Microsoft Word 9.0"
+        ],
+        "Author": [
+            "John Bergstrom-Scott Miller",
+            "Ken Foust",
+            "jbergstrom",
+            "John Bergstrom",
+            "jshady",
+            "jshady"
+        ],
+        "Character Count": "7897",
+        "Comments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Company": [
+            "Kionix, Inc.",
+            "Kionix, Inc.",
+            "Kionix, Inc.",
+            "Kionix, Inc.",
+            "Kionix Inc",
+            "Kionix Inc"
+        ],
+        "Content-Type": [
+            "application/msword",
+            "image/wmf",
+            "image/wmf",
+            "image/wmf",
+            "image/png",
+            "image/png",
+            "image/emf",
+            "image/png",
+            "image/wmf",
+            "image/wmf",
+            "image/wmf",
+            "image/wmf",
+            "image/wmf",
+            "application/vnd.visio",
+            "application/vnd.ms-equation",
+            "application/vnd.visio",
+            "image/png",
+            "application/msword",
+            "application/vnd.ms-equation",
+            "application/vnd.visio",
+            "application/vnd.ms-equation",
+            "application/vnd.visio"
+        ],
+        "Creation-Date": [
+            "2008-03-24T13:45:00Z",
+            "2008-03-13T21:16:00Z"
+        ],
+        "Edit-Time": [
+            "90000000000",
+            "600000000"
+        ],
+        "Keywords": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Last-Author": [
+            "Tim Davis",
+            "Smiller",
+            "John Bergstrom",
+            "John Bergstrom"
+        ],
+        "Last-Modified": [
+            "2008-03-25T18:08:00Z",
+            "2007-08-06T17:32:38Z",
+            "2008-03-25T13:10:05Z",
+            "2008-03-13T21:17:00Z"
+        ],
+        "Last-Printed": "2008-03-11T16:50:00Z",
+        "Last-Save-Date": [
+            "2008-03-25T18:08:00Z",
+            "2007-08-06T17:32:38Z",
+            "2008-03-25T13:10:05Z",
+            "2008-03-13T21:17:00Z"
+        ],
+        "Manager": [
+            "John Bergstrom",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Page-Count": [
+            "1",
+            "1"
+        ],
+        "Revision-Number": [
+            "19",
+            "2"
+        ],
+        "Template": [
+            "Normal.dot",
+            "",
+            "",
+            "Normal.dot",
+            "",
+            ""
+        ],
+        "Word-Count": "1385",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "189",
+            "3",
+            "2",
+            "2",
+            "2",
+            "1",
+            "85",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "21",
+            "0",
+            "6",
+            "1",
+            "3",
+            "1",
+            "5",
+            "0",
+            "6"
+        ],
+        "comment": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "cp:revision": [
+            "19",
+            "2"
+        ],
+        "cp:subject": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "creator": [
+            "John Bergstrom-Scott Miller",
+            "Ken Foust",
+            "jbergstrom",
+            "John Bergstrom",
+            "jshady",
+            "jshady"
+        ],
+        "date": [
+            "2008-03-25T18:08:00Z",
+            "2007-08-06T17:32:38Z",
+            "2008-03-25T13:10:05Z",
+            "2008-03-13T21:17:00Z"
+        ],
+        "dc:creator": [
+            "John Bergstrom-Scott Miller",
+            "Ken Foust",
+            "jbergstrom",
+            "John Bergstrom",
+            "jshady",
+            "jshady"
+        ],
+        "dc:subject": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "dc:title": [
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "dcterms:created": [
+            "2008-03-24T13:45:00Z",
+            "2008-03-13T21:16:00Z"
+        ],
+        "dcterms:modified": [
+            "2008-03-25T18:08:00Z",
+            "2007-08-06T17:32:38Z",
+            "2008-03-25T13:10:05Z",
+            "2008-03-13T21:17:00Z"
+        ],
+        "extended-properties:Application": [
+            "Microsoft Office Word",
+            "Microsoft Visio",
+            "Microsoft Word 9.0"
+        ],
+        "extended-properties:Company": [
+            "Kionix, Inc.",
+            "Kionix, Inc.",
+            "Kionix, Inc.",
+            "Kionix, Inc.",
+            "Kionix Inc",
+            "Kionix Inc"
+        ],
+        "extended-properties:Manager": [
+            "John Bergstrom",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "extended-properties:Template": [
+            "Normal.dot",
+            "",
+            "",
+            "Normal.dot",
+            "",
+            ""
+        ],
+        "meta:author": [
+            "John Bergstrom-Scott Miller",
+            "Ken Foust",
+            "jbergstrom",
+            "John Bergstrom",
+            "jshady",
+            "jshady"
+        ],
+        "meta:character-count": "7897",
+        "meta:creation-date": [
+            "2008-03-24T13:45:00Z",
+            "2008-03-13T21:16:00Z"
+        ],
+        "meta:keyword": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "meta:last-author": [
+            "Tim Davis",
+            "Smiller",
+            "John Bergstrom",
+            "John Bergstrom"
+        ],
+        "meta:page-count": [
+            "1",
+            "1"
+        ],
+        "meta:print-date": "2008-03-11T16:50:00Z",
+        "meta:save-date": [
+            "2008-03-25T18:08:00Z",
+            "2007-08-06T17:32:38Z",
+            "2008-03-25T13:10:05Z",
+            "2008-03-13T21:17:00Z"
+        ],
+        "meta:word-count": "1385",
+        "modified": [
+            "2008-03-25T18:08:00Z",
+            "2007-08-06T17:32:38Z",
+            "2008-03-25T13:10:05Z",
+            "2008-03-13T21:17:00Z"
+        ],
+        "resourceName": [
+            "b'kxd94-spec.doc'",
+            "image7.wmf",
+            "image8.wmf",
+            "image1.wmf",
+            "image9.png",
+            "image10.png",
+            "image11.emf",
+            "image12.png",
+            "image2.wmf",
+            "image3.wmf",
+            "image4.wmf",
+            "image5.wmf",
+            "image6.wmf",
+            "_1247911913.vsd",
+            "_1259166064.unknown",
+            "_1267937689.vsd",
+            "image1.png",
+            "_1266930192.doc",
+            "_1259036184.unknown",
+            "_1114610028.vsd",
+            "_1173806231.unknown",
+            "_1114610015.vsd"
+        ],
+        "subject": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "title": [
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "w:comments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "xmpTPg:NPages": [
+            "1",
+            "1"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/image7.wmf",
+            "/image8.wmf",
+            "/image1.wmf",
+            "/image9.png",
+            "/image10.png",
+            "/image11.emf",
+            "/image12.png",
+            "/image2.wmf",
+            "/image3.wmf",
+            "/image4.wmf",
+            "/image5.wmf",
+            "/image6.wmf",
+            "/_1247911913.vsd",
+            "/_1259166064.unknown",
+            "/_1267937689.vsd",
+            "/_1266930192.doc/image1.png",
+            "/_1266930192.doc",
+            "/_1259036184.unknown",
+            "/_1114610028.vsd",
+            "/_1173806231.unknown",
+            "/_1114610015.vsd"
+        ],
+        "tika.mime.file": [
+            "image7.wmf",
+            "image8.wmf",
+            "image1.wmf",
+            "image9.png",
+            "image10.png",
+            "image11.emf",
+            "image12.png",
+            "image2.wmf",
+            "image3.wmf",
+            "image4.wmf",
+            "image5.wmf",
+            "image6.wmf",
+            "image1.png"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "GRAY"
+        ],
+        "Chroma NumChannels": [
+            "3",
+            "3",
+            "3",
+            "1"
+        ],
+        "Compression CompressionTypeName": [
+            "deflate",
+            "deflate",
+            "deflate",
+            "deflate"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "Data BitsPerSample": [
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "1"
+        ],
+        "Data PlanarConfiguration": [
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved"
+        ],
+        "Data SampleFormat": [
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension PixelAspectRatio": [
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0006089"
+        ],
+        "IHDR": [
+            "width=134, height=55, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=597, height=449, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=660, height=279, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=640, height=480, bitDepth=1, colorType=Grayscale, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none"
+        ],
+        "Transparency Alpha": [
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "height": [
+            "55",
+            "449",
+            "279",
+            "480"
+        ],
+        "sRGB": [
+            "Perceptual",
+            "Perceptual",
+            "Perceptual"
+        ],
+        "tiff:BitsPerSample": [
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "1"
+        ],
+        "tiff:ImageLength": [
+            "55",
+            "449",
+            "279",
+            "480"
+        ],
+        "tiff:ImageWidth": [
+            "134",
+            "597",
+            "660",
+            "640"
+        ],
+        "width": [
+            "134",
+            "597",
+            "660",
+            "640"
+        ],
+        "Dimension HorizontalPixelSize": [
+            "0.26462027",
+            "0.08466683",
+            "0.20283976"
+        ],
+        "Dimension VerticalPixelSize": [
+            "0.26462027",
+            "0.08466683",
+            "0.20296326"
+        ],
+        "pHYs": [
+            "pixelsPerUnitXAxis=3779, pixelsPerUnitYAxis=3779, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=11811, pixelsPerUnitYAxis=11811, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=4930, pixelsPerUnitYAxis=4927, unitSpecifier=meter"
+        ],
+        "Text TextEntry": "keyword=Software, value=Oi/GFS, writer v00.06.02, encoding=ISO-8859-1, compression=none",
+        "tEXt tEXtEntry": "keyword=Software, value=Oi/GFS, writer v00.06.02",
+        "Category": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "cp:category": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "custom:_VPID_ALTERNATENAMES": [
+            "",
+            ""
+        ],
+        "embeddedRelationshipId": [
+            "_1247911913",
+            "_1259166064",
+            "_1267937689",
+            "_1266930192",
+            "_1259036184",
+            "_1114610028",
+            "_1173806231",
+            "_1114610015"
+        ],
+        "embeddedStorageClassId": [
+            "{00021A14-0000-0000-C000-000000000046}",
+            "{0002CE02-0000-0000-C000-000000000046}",
+            "{00021A14-0000-0000-C000-000000000046}",
+            "{00020907-0000-0000-C000-000000000046}",
+            "{0002CE02-0000-0000-C000-000000000046}",
+            "{00021A13-0000-0000-C000-000000000046}",
+            "{0002CE02-0000-0000-C000-000000000046}",
+            "{00021A13-0000-0000-C000-000000000046}"
+        ],
+        "Chroma Gamma": "0.45453998",
+        "gAMA": "45454",
+        "custom:_VPID_ALTERNATENAMES\u0000¿ï": [
+            "",
+            ""
+        ]
+    }
+}

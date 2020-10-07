@@ -1,0 +1,110 @@
+{
+    "private_direct_write.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.45KB",
+        "md5": "9869a8a5eae37d9899d76e1ad9570fda",
+        "sha256": "6631ec6718f582e7b83478759e2c42b29dad75faa63ed4cec7067b8c864663bd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'private_direct_write.jar'",
+            "META-INF/MANIFEST.MF",
+            "private_direct_write.class",
+            "private_direct_write$private_direct_write_inner.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1062",
+            "522"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/private_direct_write.class",
+            "/private_direct_write$private_direct_write_inner.class"
+        ],
+        "date": [
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "private_direct_write.class",
+            "private_direct_write$private_direct_write_inner.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z"
+        ],
+        "modified": [
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z",
+            "2007-01-02T23:09:50Z"
+        ],
+        "dc:title": [
+            "private_direct_write",
+            "private_direct_write$private_direct_write_inner"
+        ],
+        "title": [
+            "private_direct_write",
+            "private_direct_write$private_direct_write_inner"
+        ]
+    }
+}

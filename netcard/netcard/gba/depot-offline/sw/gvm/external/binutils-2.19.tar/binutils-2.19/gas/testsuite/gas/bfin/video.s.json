@@ -1,0 +1,21 @@
+{
+    "video.s": {
+        "modified": "2005-09-30 08:10:16",
+        "size": "1.32KB",
+        "md5": "213f9eea8da19afe265602c0c9b123f3",
+        "sha256": "eba7f745d796ad6582c13e13c6a6a20bf64d33c0676e8e43531e5f655488520c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'video.s'"
+    }
+}

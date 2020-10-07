@@ -1,0 +1,86 @@
+{
+    "simple.jar": {
+        "modified": "2004-01-07 10:54:00",
+        "size": "0.65KB",
+        "md5": "c95a29b2bd827bf60f47c9fbd5a55635",
+        "sha256": "ef4be899c9fb2dcdb3002155bbaec9932f5b3119d5ed7c60cf0b27f814a3ebe3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'simple.jar'",
+            "META-INF/MANIFEST.MF",
+            "simple.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "62",
+            "392"
+        ],
+        "Last-Modified": [
+            "2004-01-04T23:33:12Z",
+            "2004-01-04T23:33:28Z"
+        ],
+        "Last-Save-Date": [
+            "2004-01-04T23:33:12Z",
+            "2004-01-04T23:33:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/simple.class"
+        ],
+        "date": [
+            "2004-01-04T23:33:12Z",
+            "2004-01-04T23:33:28Z"
+        ],
+        "dcterms:modified": [
+            "2004-01-04T23:33:12Z",
+            "2004-01-04T23:33:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "simple.class"
+        ],
+        "meta:save-date": [
+            "2004-01-04T23:33:12Z",
+            "2004-01-04T23:33:28Z"
+        ],
+        "modified": [
+            "2004-01-04T23:33:12Z",
+            "2004-01-04T23:33:28Z"
+        ],
+        "dc:title": "simple",
+        "title": "simple"
+    }
+}

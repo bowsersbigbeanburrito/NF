@@ -1,0 +1,20 @@
+{
+    "tst-cleanupx0.expect": {
+        "modified": "2003-06-07 22:27:35",
+        "size": "0.02KB",
+        "md5": "bb22e90abd42e0e33296cd655e121cf5",
+        "sha256": "fdc46ad12c4837b20a94407fac9ab687f4437a3633c42fdf95ea6c43e847ebae"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'tst-cleanupx0.expect'"
+    }
+}

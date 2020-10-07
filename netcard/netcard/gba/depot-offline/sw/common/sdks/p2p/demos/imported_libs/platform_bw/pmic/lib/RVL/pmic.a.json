@@ -1,0 +1,223 @@
+{
+    "pmic.a": {
+        "modified": "2020-10-06 13:40:46.257921",
+        "size": "150.66KB",
+        "md5": "24a049312b786e68371e5a4db3b68e4c",
+        "sha256": "176b3a7e62cfd841530fdc513acb3f7de5ea17f3865a20fcbc8c78f5b7e1abab"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'pmic.a'",
+            "pmic_core.o",
+            "pmic_data.o",
+            "pmic_freq.o",
+            "pmic_sp.o",
+            "pmic_level.o",
+            "pmic_es.o",
+            "pmic_gain.o",
+            "pmic_reset.o"
+        ],
+        "Content-Length": [
+            "1376",
+            "130384",
+            "6472",
+            "2256",
+            "2272",
+            "1856",
+            "4584",
+            "2264",
+            "2264"
+        ],
+        "Last-Modified": [
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:18Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z"
+        ],
+        "Last-Save-Date": [
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:18Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/pmic_core.o",
+            "/pmic_data.o",
+            "/pmic_freq.o",
+            "/pmic_sp.o",
+            "/pmic_level.o",
+            "/pmic_es.o",
+            "/pmic_gain.o",
+            "/pmic_reset.o"
+        ],
+        "date": [
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:18Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z"
+        ],
+        "dcterms:modified": [
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:18Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z"
+        ],
+        "meta:save-date": [
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:18Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z"
+        ],
+        "modified": [
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:18Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:19Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z",
+            "2008-12-22T17:31:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "pmic_core.o",
+            "pmic_data.o",
+            "pmic_freq.o",
+            "pmic_sp.o",
+            "pmic_level.o",
+            "pmic_es.o",
+            "pmic_gain.o",
+            "pmic_reset.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "opcode.d": {
+        "modified": "2004-01-02 09:26:11",
+        "size": "1.8KB",
+        "md5": "9bf928c45624dccd08f6738ba89d135e",
+        "sha256": "70599f2145f0345a3b702a4f5af5781d518578e0f78484ca545d7e3dd40f048b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'opcode.d'"
+    }
+}

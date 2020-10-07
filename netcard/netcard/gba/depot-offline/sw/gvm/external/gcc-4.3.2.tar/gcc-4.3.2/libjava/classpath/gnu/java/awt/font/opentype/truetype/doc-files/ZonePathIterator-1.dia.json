@@ -1,0 +1,39 @@
+{
+    "ZonePathIterator-1.dia": {
+        "modified": "2006-05-17 05:49:17",
+        "size": "1.54KB",
+        "md5": "3959f5d483acb492a3f8c8bfc5c75607",
+        "sha256": "c0ecb81a45220a730ef004efb6aa09b2ac67f0ad7208db8c6d3a235eac879423"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'ZonePathIterator-1.dia'",
+            "b'ZonePathIterator-1.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'ZonePathIterator-1.dia'"
+    }
+}

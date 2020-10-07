@@ -1,0 +1,86 @@
+{
+    "pr29812.jar": {
+        "modified": "2007-01-22 15:04:16",
+        "size": "0.94KB",
+        "md5": "4e976fcb620c79f3ad7d111eba800fe9",
+        "sha256": "218f86201b8768110cb955f61ae722b63ad5a32254ea030f47f2c90403fa5879"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'pr29812.jar'",
+            "META-INF/MANIFEST.MF",
+            "pr29812.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1007"
+        ],
+        "Last-Modified": [
+            "2007-01-22T21:17:44Z",
+            "2007-01-22T21:16:44Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-22T21:17:44Z",
+            "2007-01-22T21:16:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/pr29812.class"
+        ],
+        "date": [
+            "2007-01-22T21:17:44Z",
+            "2007-01-22T21:16:44Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-22T21:17:44Z",
+            "2007-01-22T21:16:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "pr29812.class"
+        ],
+        "meta:save-date": [
+            "2007-01-22T21:17:44Z",
+            "2007-01-22T21:16:44Z"
+        ],
+        "modified": [
+            "2007-01-22T21:17:44Z",
+            "2007-01-22T21:16:44Z"
+        ],
+        "dc:title": "pr29812",
+        "title": "pr29812"
+    }
+}

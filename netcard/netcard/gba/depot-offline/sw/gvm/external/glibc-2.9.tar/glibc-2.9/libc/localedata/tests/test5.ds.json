@@ -1,0 +1,21 @@
+{
+    "test5.ds": {
+        "modified": "2000-01-24 17:00:10",
+        "size": "0.36KB",
+        "md5": "89b1e9ec337e7f58692c18a5deafa166",
+        "sha256": "6042d4fcc91bfe776d97da03d76ad932b20e65a137ad8235f7a1229416b513bf"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test5.ds'"
+    }
+}

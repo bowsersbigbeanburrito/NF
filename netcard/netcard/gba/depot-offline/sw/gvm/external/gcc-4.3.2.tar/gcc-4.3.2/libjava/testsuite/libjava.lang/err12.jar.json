@@ -1,0 +1,86 @@
+{
+    "err12.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.84KB",
+        "md5": "23b86431c8ba71057826a365858398d0",
+        "sha256": "264b41aaad5fd2aed363d054fbe379d255172ed6bc5b75820726ed9fe18b5877"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'err12.jar'",
+            "META-INF/MANIFEST.MF",
+            "err12.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "774"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:00:14Z",
+            "2007-01-02T23:00:14Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:00:14Z",
+            "2007-01-02T23:00:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/err12.class"
+        ],
+        "date": [
+            "2007-01-02T23:00:14Z",
+            "2007-01-02T23:00:14Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:00:14Z",
+            "2007-01-02T23:00:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "err12.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:00:14Z",
+            "2007-01-02T23:00:14Z"
+        ],
+        "modified": [
+            "2007-01-02T23:00:14Z",
+            "2007-01-02T23:00:14Z"
+        ],
+        "dc:title": "err12",
+        "title": "err12"
+    }
+}

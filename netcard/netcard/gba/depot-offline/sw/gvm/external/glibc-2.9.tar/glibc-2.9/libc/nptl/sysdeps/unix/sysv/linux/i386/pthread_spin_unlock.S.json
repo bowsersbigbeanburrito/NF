@@ -1,0 +1,20 @@
+{
+    "pthread_spin_unlock.S": {
+        "modified": "2003-03-17 18:52:02",
+        "size": "0.05KB",
+        "md5": "1e2430ba4cf8d3252778339682d12e8c",
+        "sha256": "7ddbf8da5c0422a73e8be23831382a25a7c69190f8b4bb19959b055fb6c4fe78"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/x-csrc; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'pthread_spin_unlock.S'"
+    }
+}

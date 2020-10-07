@@ -1,0 +1,130 @@
+{
+    "initfield.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.28KB",
+        "md5": "6617b681657f8a3f5df01e74fac652e1",
+        "sha256": "c3c91074e901d80557b04521036baea0c88107d06342d7bc475aa662fd44b9ea"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'initfield.jar'",
+            "META-INF/MANIFEST.MF",
+            "iface.class",
+            "initfield.class",
+            "value.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "252",
+            "497",
+            "260"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/iface.class",
+            "/initfield.class",
+            "/value.class"
+        ],
+        "date": [
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "iface.class",
+            "initfield.class",
+            "value.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z"
+        ],
+        "modified": [
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z",
+            "2007-01-02T23:01:54Z"
+        ],
+        "dc:title": [
+            "iface",
+            "initfield",
+            "value"
+        ],
+        "title": [
+            "iface",
+            "initfield",
+            "value"
+        ]
+    }
+}

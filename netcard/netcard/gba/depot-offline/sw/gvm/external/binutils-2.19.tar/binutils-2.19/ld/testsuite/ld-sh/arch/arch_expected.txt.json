@@ -1,0 +1,20 @@
+{
+    "arch_expected.txt": {
+        "modified": "2008-06-09 15:22:05",
+        "size": "22.74KB",
+        "md5": "78ec6e7ed56d41b67e395d890b2b9a19",
+        "sha256": "ba73a1fd7720b195966983093232de2ece0bdcbdc721c3ed790bc47ca93bcf4a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'arch_expected.txt'"
+    }
+}

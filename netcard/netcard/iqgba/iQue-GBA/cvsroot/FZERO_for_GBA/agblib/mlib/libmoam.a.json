@@ -1,0 +1,149 @@
+{
+    "libmoam.a": {
+        "modified": "2020-10-06 13:40:49.426907",
+        "size": "19.43KB",
+        "md5": "9c156b6aa16e1c3d31cc58b020f830fc",
+        "sha256": "58515c5befb556944b17725c7e4dcd2235d3007bc7c5242d45b20e3d1b543d3c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'libmoam.a'",
+            "soamlist.o",
+            "soamlistnode.o",
+            "soamaff.o",
+            "moam.o"
+        ],
+        "Content-Length": [
+            "204",
+            "958",
+            "716",
+            "1212",
+            "16496"
+        ],
+        "Last-Modified": [
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z"
+        ],
+        "Last-Save-Date": [
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/soamlist.o",
+            "/soamlistnode.o",
+            "/soamaff.o",
+            "/moam.o"
+        ],
+        "date": [
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z"
+        ],
+        "dcterms:modified": [
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z"
+        ],
+        "meta:save-date": [
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z"
+        ],
+        "modified": [
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z",
+            "2005-11-07T02:56:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "soamlist.o",
+            "soamlistnode.o",
+            "soamaff.o",
+            "moam.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

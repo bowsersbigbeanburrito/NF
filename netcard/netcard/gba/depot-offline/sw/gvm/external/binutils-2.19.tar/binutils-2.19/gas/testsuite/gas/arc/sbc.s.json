@@ -1,0 +1,21 @@
+{
+    "sbc.s": {
+        "modified": "2001-01-11 13:20:18",
+        "size": "1.01KB",
+        "md5": "6d4e549168ccb7340e4c87d6c3ca9f06",
+        "sha256": "fa7256593c98fcc8d814eb0b083e1ecb4f36ae0cac4f300a63cf33884cd7c790"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'sbc.s'"
+    }
+}

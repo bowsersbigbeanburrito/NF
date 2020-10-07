@@ -1,0 +1,21 @@
+{
+    "tis620-2.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "3.79KB",
+        "md5": "6d10b98799d54d37ea92e1df7ffea3ea",
+        "sha256": "5cbb7e2682031c7e4f6914792d240210074e3267013725a872bab416ad650c8f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tis620-2.enc'"
+    }
+}

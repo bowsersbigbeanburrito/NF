@@ -1,0 +1,76 @@
+{
+    "libmimg.a": {
+        "modified": "2020-10-06 13:40:49.425908",
+        "size": "29.05KB",
+        "md5": "5cee013bb60bf52c66c39202031fdd09",
+        "sha256": "4884cf89354a3ae29139d47cae59ac1a3066bd5a485ea651fba2e0e35c483d17"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "2"
+        ],
+        "resourceName": [
+            "b'libmimg.a'",
+            "sanchdma.o"
+        ],
+        "Content-Length": [
+            "38",
+            "29584"
+        ],
+        "Last-Modified": [
+            "2000-08-31T03:30:15Z",
+            "2000-08-31T03:30:16Z"
+        ],
+        "Last-Save-Date": [
+            "2000-08-31T03:30:15Z",
+            "2000-08-31T03:30:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sanchdma.o"
+        ],
+        "date": [
+            "2000-08-31T03:30:15Z",
+            "2000-08-31T03:30:16Z"
+        ],
+        "dcterms:modified": [
+            "2000-08-31T03:30:15Z",
+            "2000-08-31T03:30:16Z"
+        ],
+        "meta:save-date": [
+            "2000-08-31T03:30:15Z",
+            "2000-08-31T03:30:16Z"
+        ],
+        "modified": [
+            "2000-08-31T03:30:15Z",
+            "2000-08-31T03:30:16Z"
+        ],
+        "embeddedRelationshipId": "sanchdma.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

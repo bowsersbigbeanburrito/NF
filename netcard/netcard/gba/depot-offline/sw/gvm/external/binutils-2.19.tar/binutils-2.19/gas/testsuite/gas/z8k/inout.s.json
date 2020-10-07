@@ -1,0 +1,21 @@
+{
+    "inout.s": {
+        "modified": "2003-06-21 05:20:08",
+        "size": "10.43KB",
+        "md5": "bc612d839839a7edd8a6edb414fcaece",
+        "sha256": "a17925181563c47753b9a154662e1f0ae786d6c60b150204bad8cc560b4a0ee7"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'inout.s'"
+    }
+}

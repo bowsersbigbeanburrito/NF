@@ -1,0 +1,21 @@
+{
+    "nc_management.cfg": {
+        "modified": "2005-10-09 13:30:14",
+        "size": "0.31KB",
+        "md5": "5dec64cebf3e8721a530988bb16ec1d9",
+        "sha256": "0f97d9770b93b2a90fa76cbc29dbf50ffd565bfd9aeeadb7821599df4316fdb0"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'nc_management.cfg'"
+    }
+}

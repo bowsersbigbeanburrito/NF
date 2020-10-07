@@ -1,0 +1,130 @@
+{
+    "PR19870_2.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.66KB",
+        "md5": "746b13741105c974631724ce8fa364d6",
+        "sha256": "794cc6504053bd8c4db4270a41d34ad70d3f5a0e6578b7e715f794e70d7f8b02"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'PR19870_2.jar'",
+            "META-INF/MANIFEST.MF",
+            "PR19870_2$A.class",
+            "PR19870_2$B.class",
+            "PR19870_2.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "663",
+            "386",
+            "669"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/PR19870_2$A.class",
+            "/PR19870_2$B.class",
+            "/PR19870_2.class"
+        ],
+        "date": [
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "PR19870_2$A.class",
+            "PR19870_2$B.class",
+            "PR19870_2.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z"
+        ],
+        "modified": [
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z",
+            "2007-01-02T23:04:56Z"
+        ],
+        "dc:title": [
+            "PR19870_2$A",
+            "PR19870_2$B",
+            "PR19870_2"
+        ],
+        "title": [
+            "PR19870_2$A",
+            "PR19870_2$B",
+            "PR19870_2"
+        ]
+    }
+}

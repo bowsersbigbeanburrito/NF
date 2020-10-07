@@ -1,0 +1,86 @@
+{
+    "instance.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.92KB",
+        "md5": "b35206dc55ce19dda1433e9eec612d46",
+        "sha256": "b10113068854ac654685542d801b2ae2142b0edb27345faa55c5882b45009bae"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'instance.jar'",
+            "META-INF/MANIFEST.MF",
+            "instance.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "917"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:02:20Z",
+            "2007-01-02T23:02:20Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:02:20Z",
+            "2007-01-02T23:02:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/instance.class"
+        ],
+        "date": [
+            "2007-01-02T23:02:20Z",
+            "2007-01-02T23:02:20Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:02:20Z",
+            "2007-01-02T23:02:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "instance.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:02:20Z",
+            "2007-01-02T23:02:20Z"
+        ],
+        "modified": [
+            "2007-01-02T23:02:20Z",
+            "2007-01-02T23:02:20Z"
+        ],
+        "dc:title": "instance",
+        "title": "instance"
+    }
+}

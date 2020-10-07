@@ -1,0 +1,21 @@
+{
+    "float03.d": {
+        "modified": "2003-08-03 19:45:05",
+        "size": "1.67KB",
+        "md5": "c6c100da2e2965efaefc00a111af4185",
+        "sha256": "07695fee56fc1b0f7367d8a5e2e34e6c4f2e061e18363d67a4951bff90fac548"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'float03.d'"
+    }
+}

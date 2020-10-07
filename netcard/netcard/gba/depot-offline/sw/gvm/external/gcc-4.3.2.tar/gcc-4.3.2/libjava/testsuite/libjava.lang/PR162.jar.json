@@ -1,0 +1,150 @@
+{
+    "PR162.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.78KB",
+        "md5": "48c2d0ba6b152e8c8aec0766b5058c3a",
+        "sha256": "3540e2ea60f445ae28bc1ade6f55c8897c9983330c6e6f12c0763a17ae961a34"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'PR162.jar'",
+            "META-INF/MANIFEST.MF",
+            "I.class",
+            "J.class",
+            "K.class",
+            "PR162.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "300",
+            "302",
+            "271",
+            "831"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/I.class",
+            "/J.class",
+            "/K.class",
+            "/PR162.class"
+        ],
+        "date": [
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "I.class",
+            "J.class",
+            "K.class",
+            "PR162.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z"
+        ],
+        "modified": [
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z",
+            "2007-01-02T23:04:32Z"
+        ],
+        "dc:title": [
+            "I",
+            "J",
+            "K",
+            "PR162"
+        ],
+        "title": [
+            "I",
+            "J",
+            "K",
+            "PR162"
+        ]
+    }
+}

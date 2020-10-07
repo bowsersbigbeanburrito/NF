@@ -1,0 +1,21 @@
+{
+    "ldst01.d": {
+        "modified": "2003-08-03 19:45:05",
+        "size": "1.32KB",
+        "md5": "ef617fda8f52baa1f59cc4b57469dc8c",
+        "sha256": "41cdf2108ea46e1190d51a319116aa19417ad7787c87910cca388ec30f67f8f4"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ldst01.d'"
+    }
+}

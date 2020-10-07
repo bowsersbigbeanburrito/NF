@@ -1,0 +1,199 @@
+{
+    "SC-App-Impl-Spec.doc": {
+        "modified": "2020-10-06 13:40:52.030839",
+        "size": "263.0KB",
+        "md5": "385cda0a3b66450d0df61ba790dfa1f9",
+        "sha256": "4fc2f15a6d1a3b0dd24588d2f74015ea7b07a3d1bb99fd65af56634f55d1dd1a"
+    },
+    "Metadata": {
+        "Application-Name": [
+            "Microsoft Office Word",
+            "Microsoft Visio"
+        ],
+        "Author": [
+            "Raymond Lo",
+            "BroadOn"
+        ],
+        "Character Count": "35809",
+        "Comments": [
+            "",
+            ""
+        ],
+        "Company": [
+            "",
+            ""
+        ],
+        "Content-Type": [
+            "application/msword",
+            "image/wmf",
+            "image/wmf",
+            "application/vnd.visio"
+        ],
+        "Creation-Date": "2005-06-08T20:25:00Z",
+        "Edit-Time": "4978200000000",
+        "Keywords": [
+            "",
+            ""
+        ],
+        "Last-Author": [
+            "BroadOn",
+            "BroadOn"
+        ],
+        "Last-Modified": [
+            "2005-08-08T22:19:00Z",
+            "2005-07-20T23:07:33Z"
+        ],
+        "Last-Printed": "2005-07-22T23:48:00Z",
+        "Last-Save-Date": [
+            "2005-08-08T22:19:00Z",
+            "2005-07-20T23:07:33Z"
+        ],
+        "Page-Count": "1",
+        "Revision-Number": "53",
+        "Template": [
+            "Normal",
+            ""
+        ],
+        "Word-Count": "7048",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "47",
+            "2",
+            "2",
+            "11"
+        ],
+        "comment": [
+            "",
+            ""
+        ],
+        "cp:revision": "53",
+        "cp:subject": [
+            "",
+            ""
+        ],
+        "creator": [
+            "Raymond Lo",
+            "BroadOn"
+        ],
+        "date": [
+            "2005-08-08T22:19:00Z",
+            "2005-07-20T23:07:33Z"
+        ],
+        "dc:creator": [
+            "Raymond Lo",
+            "BroadOn"
+        ],
+        "dc:subject": [
+            "",
+            ""
+        ],
+        "dc:title": [
+            "VNG API Document",
+            ""
+        ],
+        "dcterms:created": "2005-06-08T20:25:00Z",
+        "dcterms:modified": [
+            "2005-08-08T22:19:00Z",
+            "2005-07-20T23:07:33Z"
+        ],
+        "extended-properties:Application": [
+            "Microsoft Office Word",
+            "Microsoft Visio"
+        ],
+        "extended-properties:Company": [
+            "",
+            ""
+        ],
+        "extended-properties:Template": [
+            "Normal",
+            ""
+        ],
+        "meta:author": [
+            "Raymond Lo",
+            "BroadOn"
+        ],
+        "meta:character-count": "35809",
+        "meta:creation-date": "2005-06-08T20:25:00Z",
+        "meta:keyword": [
+            "",
+            ""
+        ],
+        "meta:last-author": [
+            "BroadOn",
+            "BroadOn"
+        ],
+        "meta:page-count": "1",
+        "meta:print-date": "2005-07-22T23:48:00Z",
+        "meta:save-date": [
+            "2005-08-08T22:19:00Z",
+            "2005-07-20T23:07:33Z"
+        ],
+        "meta:word-count": "7048",
+        "modified": [
+            "2005-08-08T22:19:00Z",
+            "2005-07-20T23:07:33Z"
+        ],
+        "resourceName": [
+            "b'SC-App-Impl-Spec.doc'",
+            "image1.wmf",
+            "image2.wmf",
+            "_1183380636.vsd"
+        ],
+        "subject": [
+            "",
+            ""
+        ],
+        "title": [
+            "VNG API Document",
+            ""
+        ],
+        "w:comments": [
+            "",
+            ""
+        ],
+        "xmpTPg:NPages": "1",
+        "X-TIKA:embedded_resource_path": [
+            "/image1.wmf",
+            "/image2.wmf",
+            "/_1183380636.vsd"
+        ],
+        "tika.mime.file": [
+            "image1.wmf",
+            "image2.wmf"
+        ],
+        "Category": "",
+        "Manager": "",
+        "cp:category": "",
+        "custom:_VPID_ALTERNATENAMES": "",
+        "embeddedRelationshipId": "_1183380636",
+        "embeddedStorageClassId": "{00021A14-0000-0000-C000-000000000046}",
+        "extended-properties:Manager": ""
+    }
+}

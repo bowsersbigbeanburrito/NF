@@ -1,0 +1,110 @@
+{
+    "StackTrace2.jar": {
+        "modified": "2007-09-06 11:58:20",
+        "size": "1.94KB",
+        "md5": "3085c831e316217eff33f44e50c7260e",
+        "sha256": "f696ed4e3140301815507cc797b32fc1cc7d9ca8bd8e8b9feae4f6419b8c19a2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'StackTrace2.jar'",
+            "META-INF/MANIFEST.MF",
+            "StackTrace2.class",
+            "StackTrace2$Inner.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "2190",
+            "528"
+        ],
+        "Last-Modified": [
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z"
+        ],
+        "Last-Save-Date": [
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/StackTrace2.class",
+            "/StackTrace2$Inner.class"
+        ],
+        "date": [
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z"
+        ],
+        "dcterms:modified": [
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "StackTrace2.class",
+            "StackTrace2$Inner.class"
+        ],
+        "meta:save-date": [
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z"
+        ],
+        "modified": [
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z",
+            "2007-09-06T19:29:08Z"
+        ],
+        "dc:title": [
+            "StackTrace2",
+            "StackTrace2$Inner"
+        ],
+        "title": [
+            "StackTrace2",
+            "StackTrace2$Inner"
+        ]
+    }
+}

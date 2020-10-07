@@ -1,0 +1,229 @@
+{
+    "Viewer-Impl-Spec.doc": {
+        "modified": "2020-10-06 13:40:37.425145",
+        "size": "141.0KB",
+        "md5": "07d7355d64bb121618af94bd5d64d825",
+        "sha256": "33724e6de37f8cf4472a93163e276a16075d7efa19a5f59b4f03a4425dccde38"
+    },
+    "Metadata": {
+        "Application-Name": [
+            "Microsoft Office Word",
+            "Microsoft Visio"
+        ],
+        "Author": [
+            "Xu Ming",
+            "BroadOn"
+        ],
+        "Character Count": "6048",
+        "Comments": [
+            "",
+            ""
+        ],
+        "Company": [
+            "IQue",
+            ""
+        ],
+        "Content-Type": [
+            "application/msword",
+            "image/wmf",
+            "image/jpeg",
+            "image/wmf",
+            "application/vnd.visio"
+        ],
+        "Creation-Date": "2005-11-14T02:28:00Z",
+        "Edit-Time": "13200000000",
+        "Keywords": [
+            "",
+            ""
+        ],
+        "Last-Author": [
+            "YuBo Liu",
+            "俞挺"
+        ],
+        "Last-Modified": [
+            "2005-11-16T01:31:00Z",
+            "2005-11-10T07:11:42Z"
+        ],
+        "Last-Printed": "2005-11-15T07:37:00Z",
+        "Last-Save-Date": [
+            "2005-11-16T01:31:00Z",
+            "2005-11-10T07:11:42Z"
+        ],
+        "Page-Count": "1",
+        "Revision-Number": "6",
+        "Template": [
+            "Normal.dot",
+            ""
+        ],
+        "Word-Count": "1060",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.jpeg.JpegParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "20",
+            "4",
+            "2",
+            "2",
+            "5"
+        ],
+        "comment": [
+            "",
+            ""
+        ],
+        "cp:revision": "6",
+        "cp:subject": [
+            "",
+            ""
+        ],
+        "creator": [
+            "Xu Ming",
+            "BroadOn"
+        ],
+        "date": [
+            "2005-11-16T01:31:00Z",
+            "2005-11-10T07:11:42Z"
+        ],
+        "dc:creator": [
+            "Xu Ming",
+            "BroadOn"
+        ],
+        "dc:subject": [
+            "",
+            ""
+        ],
+        "dc:title": [
+            "Viewer Function Brief",
+            ""
+        ],
+        "dcterms:created": "2005-11-14T02:28:00Z",
+        "dcterms:modified": [
+            "2005-11-16T01:31:00Z",
+            "2005-11-10T07:11:42Z"
+        ],
+        "extended-properties:Application": [
+            "Microsoft Office Word",
+            "Microsoft Visio"
+        ],
+        "extended-properties:Company": [
+            "IQue",
+            ""
+        ],
+        "extended-properties:Template": [
+            "Normal.dot",
+            ""
+        ],
+        "meta:author": [
+            "Xu Ming",
+            "BroadOn"
+        ],
+        "meta:character-count": "6048",
+        "meta:creation-date": "2005-11-14T02:28:00Z",
+        "meta:keyword": [
+            "",
+            ""
+        ],
+        "meta:last-author": [
+            "YuBo Liu",
+            "俞挺"
+        ],
+        "meta:page-count": "1",
+        "meta:print-date": "2005-11-15T07:37:00Z",
+        "meta:save-date": [
+            "2005-11-16T01:31:00Z",
+            "2005-11-10T07:11:42Z"
+        ],
+        "meta:word-count": "1060",
+        "modified": [
+            "2005-11-16T01:31:00Z",
+            "2005-11-10T07:11:42Z"
+        ],
+        "resourceName": [
+            "b'Viewer-Impl-Spec.doc'",
+            "image1.wmf",
+            "image2.jpg",
+            "image3.wmf",
+            "_1193140665.vsd"
+        ],
+        "subject": [
+            "",
+            ""
+        ],
+        "title": [
+            "Viewer Function Brief",
+            ""
+        ],
+        "w:comments": [
+            "",
+            ""
+        ],
+        "xmpTPg:NPages": "1",
+        "X-TIKA:embedded_resource_path": [
+            "/image1.wmf",
+            "/image2.jpg",
+            "/image3.wmf",
+            "/_1193140665.vsd"
+        ],
+        "tika.mime.file": [
+            "image1.wmf",
+            "image2.jpg",
+            "image3.wmf"
+        ],
+        "Component 1": "Y component: Quantization table 0, Sampling factors 2 horiz/2 vert",
+        "Component 2": "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+        "Component 3": "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+        "Compression Type": "Baseline",
+        "Data Precision": "8 bits",
+        "File Modified Date": "Tue Oct 06 18:21:03 -07:00 2020",
+        "File Name": "apache-tika-1697333949743801501.tmp",
+        "File Size": "7831 bytes",
+        "Image Height": "77 pixels",
+        "Image Width": "162 pixels",
+        "Number of Components": "3",
+        "Number of Tables": "4 Huffman tables",
+        "Resolution Units": "inch",
+        "Thumbnail Height Pixels": "0",
+        "Thumbnail Width Pixels": "0",
+        "X Resolution": "100 dots",
+        "Y Resolution": "100 dots",
+        "tiff:BitsPerSample": "8",
+        "tiff:ImageLength": "77",
+        "tiff:ImageWidth": "162",
+        "Category": "",
+        "Manager": "",
+        "cp:category": "",
+        "custom:_VPID_ALTERNATENAMES": "",
+        "embeddedRelationshipId": "_1193140665",
+        "embeddedStorageClassId": "{00021A14-0000-0000-C000-000000000046}",
+        "extended-properties:Manager": ""
+    }
+}

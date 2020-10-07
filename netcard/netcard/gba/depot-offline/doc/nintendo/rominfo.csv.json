@@ -1,0 +1,21 @@
+{
+    "rominfo.csv": {
+        "modified": "2020-10-06 13:40:36.819146",
+        "size": "158.31KB",
+        "md5": "5897ba333e3c3e87878b00ec9da1f930",
+        "sha256": "3ef3b4169543434a28840f54d476f890b8fb53c62ad4e6341e6ceac3e8a8c3f8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "18",
+        "csv:delimiter": "comma",
+        "resourceName": "b'rominfo.csv'"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "ipcD.a": {
+        "modified": "2020-10-06 13:40:46.255921",
+        "size": "96.12KB",
+        "md5": "cfeddfa8e87b112fe8eb46a3148e4c94",
+        "sha256": "45e8a4e8a15bef354e4d22db7b52064a8cb626ae7e10cc80ef41820e7ab4ceb5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'ipcD.a'",
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o",
+            "ipcProfile.o"
+        ],
+        "Content-Length": [
+            "6619",
+            "9768",
+            "58256",
+            "13392",
+            "10080"
+        ],
+        "Last-Modified": [
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:27Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z"
+        ],
+        "Last-Save-Date": [
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:27Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ipcMain.o",
+            "/ipcclt.o",
+            "/memory.o",
+            "/ipcProfile.o"
+        ],
+        "date": [
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:27Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z"
+        ],
+        "dcterms:modified": [
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:27Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z"
+        ],
+        "meta:save-date": [
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:27Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z"
+        ],
+        "modified": [
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:27Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z",
+            "2008-12-22T18:05:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o",
+            "ipcProfile.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

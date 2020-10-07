@@ -1,0 +1,21 @@
+{
+    "tcvn-0.enc": {
+        "modified": "2006-11-08 05:40:32",
+        "size": "3.96KB",
+        "md5": "c1b931b17f0d30c2d058300517db8ac4",
+        "sha256": "2eae5a6b1f8f374be0f61214e524929870849ba66e63c5d6afc5609fe8f4c2c8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tcvn-0.enc'"
+    }
+}

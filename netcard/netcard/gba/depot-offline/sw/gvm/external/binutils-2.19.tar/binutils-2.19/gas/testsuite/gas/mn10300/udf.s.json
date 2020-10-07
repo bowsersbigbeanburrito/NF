@@ -1,0 +1,21 @@
+{
+    "udf.s": {
+        "modified": "1999-05-03 00:28:52",
+        "size": "1.9KB",
+        "md5": "961a51d51720b650cb383a6aa510d4d9",
+        "sha256": "7c7776cfb65b668b49ffd1583d71026f225dc4fcc7678ab6320d5aebec323e6b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'udf.s'"
+    }
+}

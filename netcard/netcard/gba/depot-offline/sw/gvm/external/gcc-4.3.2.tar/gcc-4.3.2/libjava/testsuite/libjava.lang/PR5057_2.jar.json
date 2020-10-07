@@ -1,0 +1,110 @@
+{
+    "PR5057_2.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.97KB",
+        "md5": "e54c526a3aa380650c0c290139987631",
+        "sha256": "990ed3202b0844f156d844af7e577eb5a7fb444f2947e6088885e5ae0d737725"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'PR5057_2.jar'",
+            "META-INF/MANIFEST.MF",
+            "PR5057_2.class",
+            "R.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "450",
+            "268"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/PR5057_2.class",
+            "/R.class"
+        ],
+        "date": [
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "PR5057_2.class",
+            "R.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z"
+        ],
+        "modified": [
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z",
+            "2007-01-02T23:08:48Z"
+        ],
+        "dc:title": [
+            "PR5057_2",
+            "R"
+        ],
+        "title": [
+            "PR5057_2",
+            "R"
+        ]
+    }
+}

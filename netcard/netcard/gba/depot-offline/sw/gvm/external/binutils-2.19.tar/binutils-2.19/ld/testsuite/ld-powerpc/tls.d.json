@@ -1,0 +1,21 @@
+{
+    "tls.d": {
+        "modified": "2004-03-15 17:58:43",
+        "size": "1.9KB",
+        "md5": "bfecc74ae4a9b993f413069c788cd0ac",
+        "sha256": "f5a161eb496cdab6fd498c4d2fca7d740c65311c480950bc206a93d34fd94dca"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tls.d'"
+    }
+}

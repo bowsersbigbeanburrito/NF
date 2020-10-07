@@ -1,0 +1,20 @@
+{
+    "baddata1.s": {
+        "modified": "2002-09-18 14:05:59",
+        "size": "0.14KB",
+        "md5": "b412b27903c83a7e1d80e6ceadb05db1",
+        "sha256": "5fb32a839d8ea962b70b28996cb24d48d7ca32249630c0cd747c6bbf1c863fa6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'baddata1.s'"
+    }
+}

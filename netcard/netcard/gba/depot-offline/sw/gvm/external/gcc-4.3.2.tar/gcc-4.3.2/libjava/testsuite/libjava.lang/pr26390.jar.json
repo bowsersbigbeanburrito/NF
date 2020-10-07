@@ -1,0 +1,250 @@
+{
+    "pr26390.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "3.31KB",
+        "md5": "11adff5e9d1694ba7dc30557f635f976",
+        "sha256": "2e9d054075a8972c5a0414ac4610e9b57eb5e9d1ceca084633496a54e145e397"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'pr26390.jar'",
+            "META-INF/MANIFEST.MF",
+            "pr26390.class",
+            "pr26390$ComponentPeer.class",
+            "pr26390$ContainerPeer.class",
+            "pr26390$FramePeer.class",
+            "pr26390$SwingComponentPeer.class",
+            "pr26390$SwingContainerPeer.class",
+            "pr26390$SwingFramePeer.class",
+            "pr26390$SwingWindowPeer.class",
+            "pr26390$WindowPeer.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "749",
+            "195",
+            "198",
+            "187",
+            "352",
+            "311",
+            "365",
+            "302",
+            "192"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/pr26390.class",
+            "/pr26390$ComponentPeer.class",
+            "/pr26390$ContainerPeer.class",
+            "/pr26390$FramePeer.class",
+            "/pr26390$SwingComponentPeer.class",
+            "/pr26390$SwingContainerPeer.class",
+            "/pr26390$SwingFramePeer.class",
+            "/pr26390$SwingWindowPeer.class",
+            "/pr26390$WindowPeer.class"
+        ],
+        "date": [
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "pr26390.class",
+            "pr26390$ComponentPeer.class",
+            "pr26390$ContainerPeer.class",
+            "pr26390$FramePeer.class",
+            "pr26390$SwingComponentPeer.class",
+            "pr26390$SwingContainerPeer.class",
+            "pr26390$SwingFramePeer.class",
+            "pr26390$SwingWindowPeer.class",
+            "pr26390$WindowPeer.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z"
+        ],
+        "modified": [
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z",
+            "2007-01-02T23:05:38Z"
+        ],
+        "dc:title": [
+            "pr26390",
+            "pr26390$ComponentPeer",
+            "pr26390$ContainerPeer",
+            "pr26390$FramePeer",
+            "pr26390$SwingComponentPeer",
+            "pr26390$SwingContainerPeer",
+            "pr26390$SwingFramePeer",
+            "pr26390$SwingWindowPeer",
+            "pr26390$WindowPeer"
+        ],
+        "title": [
+            "pr26390",
+            "pr26390$ComponentPeer",
+            "pr26390$ContainerPeer",
+            "pr26390$FramePeer",
+            "pr26390$SwingComponentPeer",
+            "pr26390$SwingContainerPeer",
+            "pr26390$SwingFramePeer",
+            "pr26390$SwingWindowPeer",
+            "pr26390$WindowPeer"
+        ]
+    }
+}

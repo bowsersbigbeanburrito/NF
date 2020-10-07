@@ -1,0 +1,21 @@
+{
+    "store.d": {
+        "modified": "2008-03-26 09:48:32",
+        "size": "1.75KB",
+        "md5": "a6de01518793db5197c923b41aabf7f1",
+        "sha256": "b12b7d69495fb59a6d67e4391bf23fae00b86ea803ea1fd13b97595bac74678b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'store.d'"
+    }
+}

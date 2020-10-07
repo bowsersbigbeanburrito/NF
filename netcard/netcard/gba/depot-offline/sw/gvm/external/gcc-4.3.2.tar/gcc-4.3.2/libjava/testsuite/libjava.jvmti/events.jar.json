@@ -1,0 +1,86 @@
+{
+    "events.jar": {
+        "modified": "2007-01-16 11:58:18",
+        "size": "0.73KB",
+        "md5": "89d40ce588c903c9fec485c47bfe7a78",
+        "sha256": "ef3cda6b4d9c77eb428bbac4d98d10d7715ff1e6139ee4347aafb38915952845"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'events.jar'",
+            "META-INF/MANIFEST.MF",
+            "events.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "583"
+        ],
+        "Last-Modified": [
+            "2007-01-16T06:44:16Z",
+            "2007-01-16T06:44:00Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-16T06:44:16Z",
+            "2007-01-16T06:44:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/events.class"
+        ],
+        "date": [
+            "2007-01-16T06:44:16Z",
+            "2007-01-16T06:44:00Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-16T06:44:16Z",
+            "2007-01-16T06:44:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "events.class"
+        ],
+        "meta:save-date": [
+            "2007-01-16T06:44:16Z",
+            "2007-01-16T06:44:00Z"
+        ],
+        "modified": [
+            "2007-01-16T06:44:16Z",
+            "2007-01-16T06:44:00Z"
+        ],
+        "dc:title": "events",
+        "title": "events"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "libutl.a": {
+        "modified": "2020-10-06 13:40:50.133466",
+        "size": "45.0KB",
+        "md5": "637a52cd074638fe2d2296c76e39ab6d",
+        "sha256": "04955217634aea5e3bcb80ef954044c4c10655f029c3ad93ccce0c5c2d0d7f08"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libutl.a'",
+            "sring_alloc.o",
+            "sdatatrans.o",
+            "util.o",
+            "ring_alloc.o",
+            "datatrans.o"
+        ],
+        "Content-Length": [
+            "198",
+            "575",
+            "1603",
+            "14776",
+            "11972",
+            "16584"
+        ],
+        "Last-Modified": [
+            "2000-09-20T06:39:25Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-09-20T06:39:26Z"
+        ],
+        "Last-Save-Date": [
+            "2000-09-20T06:39:25Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-09-20T06:39:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sring_alloc.o",
+            "/sdatatrans.o",
+            "/util.o",
+            "/ring_alloc.o",
+            "/datatrans.o"
+        ],
+        "date": [
+            "2000-09-20T06:39:25Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-09-20T06:39:26Z"
+        ],
+        "dcterms:modified": [
+            "2000-09-20T06:39:25Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-09-20T06:39:26Z"
+        ],
+        "meta:save-date": [
+            "2000-09-20T06:39:25Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-09-20T06:39:26Z"
+        ],
+        "modified": [
+            "2000-09-20T06:39:25Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-08-31T03:32:12Z",
+            "2000-09-20T06:39:26Z"
+        ],
+        "embeddedRelationshipId": [
+            "sring_alloc.o",
+            "sdatatrans.o",
+            "util.o",
+            "ring_alloc.o",
+            "datatrans.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

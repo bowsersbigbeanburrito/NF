@@ -1,0 +1,86 @@
+{
+    "PR3096.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.06KB",
+        "md5": "14bff6ddcf30f9f597d8ed7e0355ac5e",
+        "sha256": "625e4cdfe2e1c797b14e7e65146f557012f10a0cd4fa20129be46578b3f5f1bd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'PR3096.jar'",
+            "META-INF/MANIFEST.MF",
+            "PR3096.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1252"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:08:40Z",
+            "2007-01-02T23:08:40Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:08:40Z",
+            "2007-01-02T23:08:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/PR3096.class"
+        ],
+        "date": [
+            "2007-01-02T23:08:40Z",
+            "2007-01-02T23:08:40Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:08:40Z",
+            "2007-01-02T23:08:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "PR3096.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:08:40Z",
+            "2007-01-02T23:08:40Z"
+        ],
+        "modified": [
+            "2007-01-02T23:08:40Z",
+            "2007-01-02T23:08:40Z"
+        ],
+        "dc:title": "PR3096",
+        "title": "PR3096"
+    }
+}

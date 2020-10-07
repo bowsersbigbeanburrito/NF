@@ -1,0 +1,21 @@
+{
+    "ISIRI-3342.irreversible": {
+        "modified": "2000-09-04 18:47:55",
+        "size": "0.61KB",
+        "md5": "276700c97b411048c4dfeb197d0e7dd3",
+        "sha256": "9fc07af4d408c2b17eb24a42c5b77b00d72ceb8fa88908308cd825ad3288a67a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ISIRI-3342.irreversible'"
+    }
+}

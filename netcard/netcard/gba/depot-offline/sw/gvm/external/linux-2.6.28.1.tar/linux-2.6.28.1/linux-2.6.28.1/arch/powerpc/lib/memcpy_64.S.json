@@ -1,0 +1,21 @@
+{
+    "memcpy_64.S": {
+        "modified": "2009-01-18 10:45:37",
+        "size": "2.89KB",
+        "md5": "d428eb6fdf49521f86ade1839ba1ffd7",
+        "sha256": "93bc13f392c4c459fbe9e98d91c73d78d09b32c0a3046c612dc3b3fd99fed3f3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'memcpy_64.S'"
+    }
+}

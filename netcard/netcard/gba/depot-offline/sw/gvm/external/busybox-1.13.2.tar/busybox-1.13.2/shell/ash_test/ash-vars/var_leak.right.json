@@ -1,0 +1,20 @@
+{
+    "var_leak.right": {
+        "modified": "2008-11-09 09:28:05",
+        "size": "0.04KB",
+        "md5": "864fa8a26c845146abd91783942020bb",
+        "sha256": "e3e2a81c79e5b7eed14fb41250e065951f8de9b5dacc0e346bd4ab013ea97097"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'var_leak.right'"
+    }
+}

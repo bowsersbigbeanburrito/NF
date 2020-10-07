@@ -1,0 +1,130 @@
+{
+    "Thread_Monitor.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.71KB",
+        "md5": "c085b27e76b3591d2256fc31bca571c4",
+        "sha256": "76a1e222fb36088dcf49ff149acdbac6fcca147bf1fc4e05d6276c2c54f697ce"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'Thread_Monitor.jar'",
+            "META-INF/MANIFEST.MF",
+            "Counter.class",
+            "T.class",
+            "Thread_Monitor.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "301",
+            "495",
+            "853"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Counter.class",
+            "/T.class",
+            "/Thread_Monitor.class"
+        ],
+        "date": [
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Counter.class",
+            "T.class",
+            "Thread_Monitor.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z"
+        ],
+        "modified": [
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z",
+            "2007-01-02T23:11:42Z"
+        ],
+        "dc:title": [
+            "Counter",
+            "T",
+            "Thread_Monitor"
+        ],
+        "title": [
+            "Counter",
+            "T",
+            "Thread_Monitor"
+        ]
+    }
+}

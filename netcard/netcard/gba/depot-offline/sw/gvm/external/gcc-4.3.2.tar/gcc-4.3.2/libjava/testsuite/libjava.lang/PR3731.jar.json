@@ -1,0 +1,110 @@
+{
+    "PR3731.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.02KB",
+        "md5": "d16812ac2be6dc399baabcf97bc756d8",
+        "sha256": "a592e5fcd2580f531923c49de2d9f34f558d93507b6c4f5a352363aa742d328f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'PR3731.jar'",
+            "META-INF/MANIFEST.MF",
+            "B.class",
+            "PR3731.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "391",
+            "422"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/B.class",
+            "/PR3731.class"
+        ],
+        "date": [
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "B.class",
+            "PR3731.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z"
+        ],
+        "modified": [
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z",
+            "2007-01-02T23:08:44Z"
+        ],
+        "dc:title": [
+            "B",
+            "PR3731"
+        ],
+        "title": [
+            "B",
+            "PR3731"
+        ]
+    }
+}

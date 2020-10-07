@@ -1,0 +1,22 @@
+{
+    "loader.elf": {
+        "modified": "2020-10-06 13:40:50.168465",
+        "size": "301.83KB",
+        "md5": "5a992b750bb9894922ca5626ddc15980",
+        "sha256": "595987795ea8ce1d97b1f0e35d6503a7c3b4f4f3063cc8063d3b90ab6c06de43"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'loader.elf'"
+    }
+}

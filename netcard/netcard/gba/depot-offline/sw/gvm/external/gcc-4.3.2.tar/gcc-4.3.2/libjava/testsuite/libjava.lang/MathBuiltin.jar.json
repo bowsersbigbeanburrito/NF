@@ -1,0 +1,86 @@
+{
+    "MathBuiltin.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "0.97KB",
+        "md5": "01e0c2a637e0df47b94f30fc3e59b2eb",
+        "sha256": "d5c5c705197861cdb5092025f37f6bac7abb280101dc7df2a71d85ac62853cfa"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'MathBuiltin.jar'",
+            "META-INF/MANIFEST.MF",
+            "MathBuiltin.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1439"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:03:00Z",
+            "2007-01-02T23:03:00Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:03:00Z",
+            "2007-01-02T23:03:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/MathBuiltin.class"
+        ],
+        "date": [
+            "2007-01-02T23:03:00Z",
+            "2007-01-02T23:03:00Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:03:00Z",
+            "2007-01-02T23:03:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "MathBuiltin.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:03:00Z",
+            "2007-01-02T23:03:00Z"
+        ],
+        "modified": [
+            "2007-01-02T23:03:00Z",
+            "2007-01-02T23:03:00Z"
+        ],
+        "dc:title": "MathBuiltin",
+        "title": "MathBuiltin"
+    }
+}

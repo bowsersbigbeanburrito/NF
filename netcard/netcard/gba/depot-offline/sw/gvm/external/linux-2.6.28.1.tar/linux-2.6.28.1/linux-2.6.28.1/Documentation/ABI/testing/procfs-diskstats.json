@@ -1,0 +1,21 @@
+{
+    "procfs-diskstats": {
+        "modified": "2009-01-18 10:45:37",
+        "size": "0.64KB",
+        "md5": "b0ba6f4055ae687fd114b29bbff6afcd",
+        "sha256": "4d457a39ae6268cdc9ff3761a4c45794c9cf878cca89d06ff4c4e18aabf3fc81"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'procfs-diskstats'"
+    }
+}

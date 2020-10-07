@@ -1,0 +1,86 @@
+{
+    "getstacktrace.jar": {
+        "modified": "2007-01-29 14:05:56",
+        "size": "1.21KB",
+        "md5": "d4676b72ad843c675f3ec9decbbf907d",
+        "sha256": "a32129a28a9b9ddc01487c18e3f301ef4507a9130aa0c7ee36f55838f8d01522"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'getstacktrace.jar'",
+            "META-INF/MANIFEST.MF",
+            "getstacktrace.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "1386"
+        ],
+        "Last-Modified": [
+            "2007-01-29T20:54:00Z",
+            "2007-01-29T20:53:44Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-29T20:54:00Z",
+            "2007-01-29T20:53:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/getstacktrace.class"
+        ],
+        "date": [
+            "2007-01-29T20:54:00Z",
+            "2007-01-29T20:53:44Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-29T20:54:00Z",
+            "2007-01-29T20:53:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "getstacktrace.class"
+        ],
+        "meta:save-date": [
+            "2007-01-29T20:54:00Z",
+            "2007-01-29T20:53:44Z"
+        ],
+        "modified": [
+            "2007-01-29T20:54:00Z",
+            "2007-01-29T20:53:44Z"
+        ],
+        "dc:title": "getstacktrace",
+        "title": "getstacktrace"
+    }
+}

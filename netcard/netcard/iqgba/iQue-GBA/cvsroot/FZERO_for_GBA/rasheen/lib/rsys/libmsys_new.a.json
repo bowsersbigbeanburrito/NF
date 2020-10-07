@@ -1,0 +1,149 @@
+{
+    "libmsys_new.a": {
+        "modified": "2020-10-06 13:40:49.688127",
+        "size": "45.29KB",
+        "md5": "84a2e3fce60bf6b204a3cab574d2af9b",
+        "sha256": "03d461cafece02cc092217c11788f6f1d39bb4b6e0e9ab021ade34915fdd8009"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libmsys_new.a'",
+            "sramclear.o",
+            "controller.o",
+            "intr.o",
+            "sysinit.o"
+        ],
+        "Content-Length": [
+            "188",
+            "617",
+            "11140",
+            "19068",
+            "15060"
+        ],
+        "Last-Modified": [
+            "2006-03-16T09:29:31Z",
+            "2005-08-10T06:19:08Z",
+            "2005-08-10T06:19:08Z",
+            "2006-03-16T09:29:32Z",
+            "2005-08-15T02:38:40Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-16T09:29:31Z",
+            "2005-08-10T06:19:08Z",
+            "2005-08-10T06:19:08Z",
+            "2006-03-16T09:29:32Z",
+            "2005-08-15T02:38:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sramclear.o",
+            "/controller.o",
+            "/intr.o",
+            "/sysinit.o"
+        ],
+        "date": [
+            "2006-03-16T09:29:31Z",
+            "2005-08-10T06:19:08Z",
+            "2005-08-10T06:19:08Z",
+            "2006-03-16T09:29:32Z",
+            "2005-08-15T02:38:40Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-16T09:29:31Z",
+            "2005-08-10T06:19:08Z",
+            "2005-08-10T06:19:08Z",
+            "2006-03-16T09:29:32Z",
+            "2005-08-15T02:38:40Z"
+        ],
+        "meta:save-date": [
+            "2006-03-16T09:29:31Z",
+            "2005-08-10T06:19:08Z",
+            "2005-08-10T06:19:08Z",
+            "2006-03-16T09:29:32Z",
+            "2005-08-15T02:38:40Z"
+        ],
+        "modified": [
+            "2006-03-16T09:29:31Z",
+            "2005-08-10T06:19:08Z",
+            "2005-08-10T06:19:08Z",
+            "2006-03-16T09:29:32Z",
+            "2005-08-15T02:38:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "sramclear.o",
+            "controller.o",
+            "intr.o",
+            "sysinit.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

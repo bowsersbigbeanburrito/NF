@@ -1,0 +1,107 @@
+{
+    "libvng.a": {
+        "modified": "2020-10-06 13:40:49.591127",
+        "size": "102.17KB",
+        "md5": "cbfdc7825f698b82a44ca6282d8c2d7f",
+        "sha256": "5fb88b9c3de23fc16851f1779bd1a5c4f303e4e4c401af7dd1c8e09d80943380"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libvng.a'",
+            "libvngrpc.o",
+            "vna_api.o"
+        ],
+        "Content-Length": [
+            "1322",
+            "60028",
+            "43080"
+        ],
+        "Last-Modified": [
+            "2005-11-02T00:36:35Z",
+            "2005-11-02T00:34:36Z",
+            "2005-11-02T00:30:14Z"
+        ],
+        "Last-Save-Date": [
+            "2005-11-02T00:36:35Z",
+            "2005-11-02T00:34:36Z",
+            "2005-11-02T00:30:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libvngrpc.o",
+            "/vna_api.o"
+        ],
+        "date": [
+            "2005-11-02T00:36:35Z",
+            "2005-11-02T00:34:36Z",
+            "2005-11-02T00:30:14Z"
+        ],
+        "dcterms:modified": [
+            "2005-11-02T00:36:35Z",
+            "2005-11-02T00:34:36Z",
+            "2005-11-02T00:30:14Z"
+        ],
+        "meta:save-date": [
+            "2005-11-02T00:36:35Z",
+            "2005-11-02T00:34:36Z",
+            "2005-11-02T00:30:14Z"
+        ],
+        "modified": [
+            "2005-11-02T00:36:35Z",
+            "2005-11-02T00:34:36Z",
+            "2005-11-02T00:30:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "libvngrpc.o",
+            "vna_api.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

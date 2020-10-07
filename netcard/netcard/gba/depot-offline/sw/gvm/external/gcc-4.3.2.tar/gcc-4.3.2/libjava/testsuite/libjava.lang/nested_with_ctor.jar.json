@@ -1,0 +1,110 @@
+{
+    "nested_with_ctor.jar": {
+        "modified": "2007-01-09 11:58:05",
+        "size": "1.5KB",
+        "md5": "02931c8422dad87b5d4e0685bd5e93fe",
+        "sha256": "ed7c3d783de1ffad38ab74dfdb5ac5e6ae66ccf24ed5aad744ca419235e46327"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'nested_with_ctor.jar'",
+            "META-INF/MANIFEST.MF",
+            "nested_with_ctor$1$nested.class",
+            "nested_with_ctor.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "44",
+            "960",
+            "862"
+        ],
+        "Last-Modified": [
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z"
+        ],
+        "Last-Save-Date": [
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/nested_with_ctor$1$nested.class",
+            "/nested_with_ctor.class"
+        ],
+        "date": [
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z"
+        ],
+        "dcterms:modified": [
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "nested_with_ctor$1$nested.class",
+            "nested_with_ctor.class"
+        ],
+        "meta:save-date": [
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z"
+        ],
+        "modified": [
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z",
+            "2007-01-02T23:03:36Z"
+        ],
+        "dc:title": [
+            "nested_with_ctor$1$nested",
+            "nested_with_ctor"
+        ],
+        "title": [
+            "nested_with_ctor$1$nested",
+            "nested_with_ctor"
+        ]
+    }
+}
