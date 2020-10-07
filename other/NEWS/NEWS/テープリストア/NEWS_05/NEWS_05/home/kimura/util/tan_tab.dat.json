@@ -1,0 +1,21 @@
+{
+    "tan_tab.dat": {
+        "modified": "1993-07-20 18:28:23",
+        "size": "1.93KB",
+        "md5": "18886759f4dec12360829a6e540a082f",
+        "sha256": "32b4ca29f7295d38cd683f1d2cfe61c4c24e39026c3f22ab918071fd5b5ba180"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tan_tab.dat'"
+    }
+}

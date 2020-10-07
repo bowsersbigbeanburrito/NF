@@ -1,0 +1,26 @@
+{
+    "rom1.DAT": {
+        "modified": "1992-04-12 23:34:44",
+        "size": "128.0KB",
+        "md5": "1eb72bf34bde3387fa1df8c02dde616e",
+        "sha256": "90ef596b363c0a623b1abe7f68486e5fc686c95ad35c174937eed3e8268ed178"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "channels": "1",
+        "resourceName": "b'rom1.DAT'",
+        "samplerate": "44100",
+        "version": "MPEG 3 Layer III Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "44100",
+        "xmpDM:duration": "862.9386596679688"
+    }
+}

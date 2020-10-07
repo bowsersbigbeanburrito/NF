@@ -1,0 +1,21 @@
+{
+    "tr-all": {
+        "modified": "1992-02-12 23:48:37",
+        "size": "1.46KB",
+        "md5": "c2ac31b3a9bfc917cb8e758b9fe94643",
+        "sha256": "73837eac09ca9c4372027934941d27cb4d1a4c8f1c5a3c8cf66bf552a2e6f88e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tr-all'"
+    }
+}

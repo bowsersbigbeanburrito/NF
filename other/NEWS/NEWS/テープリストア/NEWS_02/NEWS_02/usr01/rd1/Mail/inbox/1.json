@@ -1,0 +1,37 @@
+{
+    "1": {
+        "modified": "1993-03-02 18:34:39",
+        "size": "24.09KB",
+        "md5": "cdb9e4a8126885ad9130fe264f157b5d",
+        "sha256": "28507f9bdc4de7d95d18ded750606dcdadc170d443f380276f1241ccf951b9fe"
+    },
+    "Metadata": {
+        "Author": "eng",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "1993-03-03T01:01:48Z",
+        "Message-From": "eng",
+        "Message-To": "rd1",
+        "Message:From-Name": "eng",
+        "Message:Raw-Header:Message-Id": "<9303030102.AA14565@donkey.domain>",
+        "Message:Raw-Header:Received": "by donkey.domain (4.2/SMI-4.0)\tid AA14565; Wed, 3 Mar 93 10:01:48 JST",
+        "Message:Raw-Header:Return-Path": [
+            "eng",
+            "<eng>"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "eng",
+        "dc:creator": "eng",
+        "dc:title": "minesweeper game",
+        "dcterms:created": "1993-03-03T01:01:48Z",
+        "meta:author": "eng",
+        "meta:creation-date": "1993-03-03T01:01:48Z",
+        "resourceName": "b'1'",
+        "subject": "minesweeper game"
+    }
+}

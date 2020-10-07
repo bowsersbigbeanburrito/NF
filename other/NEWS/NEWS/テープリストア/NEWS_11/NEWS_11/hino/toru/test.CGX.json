@@ -1,0 +1,26 @@
+{
+    "test.CGX": {
+        "modified": "1994-08-17 22:39:04",
+        "size": "33.25KB",
+        "md5": "456fb571be9b0d1f34c71413ab48cd86",
+        "sha256": "b49dd70063397ac757a9b39940c6f6190ee18015641a785582f6d169cb9ab8cc"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "2",
+        "resourceName": "b'test.CGX'",
+        "samplerate": "44100",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Stereo",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "44100",
+        "xmpDM:duration": "464.51708984375"
+    }
+}

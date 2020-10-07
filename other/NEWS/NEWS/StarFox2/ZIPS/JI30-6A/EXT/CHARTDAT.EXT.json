@@ -1,0 +1,21 @@
+{
+    "CHARTDAT.EXT": {
+        "modified": "1995-06-24 21:05:10",
+        "size": "1.12KB",
+        "md5": "0c58066b088f813345d58ae0851289a7",
+        "sha256": "7d5aeb22bc828997b429d17164049128b419b866cd73eef088184ea07a5485e4"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CHARTDAT.EXT'"
+    }
+}

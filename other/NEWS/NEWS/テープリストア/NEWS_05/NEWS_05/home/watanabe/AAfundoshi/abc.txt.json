@@ -1,0 +1,20 @@
+{
+    "abc.txt": {
+        "modified": "1994-10-28 01:22:07",
+        "size": "0.55KB",
+        "md5": "2ed446a5702c30d52a0d665218c04af3",
+        "sha256": "6b5b5472a811e54bca8ad478058233bd46d5a2a3cb4011893d7e56bb1bc10965"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'abc.txt'"
+    }
+}

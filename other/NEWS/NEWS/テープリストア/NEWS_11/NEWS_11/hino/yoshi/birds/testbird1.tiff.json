@@ -1,0 +1,37 @@
+{
+    "testbird1.tiff": {
+        "modified": "1995-04-13 05:44:46",
+        "size": "1.14KB",
+        "md5": "8bf4f9e0cd1b491d314d14f1ca8922fc",
+        "sha256": "81b01e437eadd581dcbd59818864452cfbde63b960a00303a9842d439af117ab"
+    },
+    "Metadata": {
+        "Content-Type": "image/tiff",
+        "Exif IFD0:Bits Per Sample": "8 8 8 bits/component/pixel",
+        "Exif IFD0:Compression": "LZW",
+        "Exif IFD0:Image Height": "64 pixels",
+        "Exif IFD0:Image Width": "64 pixels",
+        "Exif IFD0:Maximum Sample Value": "255 255 255",
+        "Exif IFD0:Minimum Sample Value": "0 0 0",
+        "Exif IFD0:Photometric Interpretation": "RGB",
+        "Exif IFD0:Planar Configuration": "Chunky (contiguous for each subsampling pixel)",
+        "Exif IFD0:Rows Per Strip": "42 rows/strip",
+        "Exif IFD0:Samples Per Pixel": "3 samples/pixel",
+        "Exif IFD0:Strip Byte Counts": "807 170 bytes",
+        "Exif IFD0:Strip Offsets": "8 815",
+        "File Modified Date": "Tue Oct 06 21:02:14 -07:00 2020",
+        "File Name": "apache-tika-279780363695875368.tmp",
+        "File Size": "1170 bytes",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.TiffParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "resourceName": "b'testbird1.tiff'",
+        "tiff:BitsPerSample": "8",
+        "tiff:ImageLength": "64",
+        "tiff:ImageWidth": "64",
+        "tiff:SamplesPerPixel": "3"
+    }
+}

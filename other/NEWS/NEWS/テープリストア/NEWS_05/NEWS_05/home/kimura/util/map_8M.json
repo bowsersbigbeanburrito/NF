@@ -1,0 +1,21 @@
+{
+    "map_8M": {
+        "modified": "1992-05-26 02:00:49",
+        "size": "0.85KB",
+        "md5": "583b89029119b712f253db35e038dbda",
+        "sha256": "169e96fd471f65dfcae3dbcc5e1294ba1778c50d17d04bb378e8fd6cfb0fa074"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'map_8M'"
+    }
+}

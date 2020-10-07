@@ -1,0 +1,75 @@
+{
+    "libagbsyscall98r2.a": {
+        "modified": "2020-10-06 13:41:06.404544",
+        "size": "30.5KB",
+        "md5": "91c1b6f1c8414a18bb1b64fa339facff",
+        "sha256": "14e50f08b5cfac51290a01f9fe4e2e826e617e8351196f9245969adc1c2defd9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libagbsyscall98r2.a'",
+            "AgbSyscall.o"
+        ],
+        "Content-Length": [
+            "762",
+            "30339"
+        ],
+        "Last-Modified": [
+            "2000-05-20T04:25:31Z",
+            "2000-05-20T04:25:32Z"
+        ],
+        "Last-Save-Date": [
+            "2000-05-20T04:25:31Z",
+            "2000-05-20T04:25:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/AgbSyscall.o"
+        ],
+        "date": [
+            "2000-05-20T04:25:31Z",
+            "2000-05-20T04:25:32Z"
+        ],
+        "dcterms:modified": [
+            "2000-05-20T04:25:31Z",
+            "2000-05-20T04:25:32Z"
+        ],
+        "meta:save-date": [
+            "2000-05-20T04:25:31Z",
+            "2000-05-20T04:25:32Z"
+        ],
+        "modified": [
+            "2000-05-20T04:25:31Z",
+            "2000-05-20T04:25:32Z"
+        ],
+        "embeddedRelationshipId": "AgbSyscall.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM"
+    }
+}

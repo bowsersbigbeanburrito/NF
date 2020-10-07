@@ -1,0 +1,20 @@
+{
+    "abc": {
+        "modified": "1993-02-18 20:08:01",
+        "size": "8.62KB",
+        "md5": "54ba3a2538d131010f3fbc6689ce54b4",
+        "sha256": "52ed96e3445a1281707d55b37d25326634b417326d5eb59bfee73d86edc81e66"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/plain; charset=Shift_JIS",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'abc'"
+    }
+}

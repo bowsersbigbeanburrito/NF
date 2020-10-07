@@ -1,0 +1,26 @@
+{
+    "aaa": {
+        "modified": "1994-03-30 22:27:54",
+        "size": "64.25KB",
+        "md5": "abad89197fd703070f04416cb965538d",
+        "sha256": "a54c37ab933a21a8bd1f0194da1fec49166d081753eb5cea46882c38e84d7ef4"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "1",
+        "resourceName": "b'aaa'",
+        "samplerate": "44100",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "44100",
+        "xmpDM:duration": "40.707481384277344"
+    }
+}

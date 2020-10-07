@@ -1,0 +1,21 @@
+{
+    "SPRDATA.EXT": {
+        "modified": "1995-06-24 00:21:40",
+        "size": "1.47KB",
+        "md5": "768d0880ffe834492b16390321940cf7",
+        "sha256": "5304a6252484cfd2f1d0f15e903fcebb9aeba52ed3032b94edf42868ca751da3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'SPRDATA.EXT'"
+    }
+}

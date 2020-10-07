@@ -1,0 +1,37 @@
+{
+    "3": {
+        "modified": "1993-03-15 10:42:21",
+        "size": "199.54KB",
+        "md5": "8aa2148c187217142d577bf673ee4b16",
+        "sha256": "5eeade9c0f83c5ab7802310190f9e7e34ff2c33678bd6bc9c67c82bcbbd6f7d6"
+    },
+    "Metadata": {
+        "Author": "rd1",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "1993-03-15T09:32:18Z",
+        "Message-From": "rd1",
+        "Message-To": "eng",
+        "Message:From-Name": "rd1",
+        "Message:Raw-Header:Message-Id": "<9303150932.AA19701@donkey.domain>",
+        "Message:Raw-Header:Received": "by donkey.domain (4.2/SMI-4.0)\tid AA19701; Mon, 15 Mar 93 18:32:18 JST",
+        "Message:Raw-Header:Return-Path": [
+            "rd1",
+            "<rd1>"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "creator": "rd1",
+        "dc:creator": "rd1",
+        "dc:title": "is_file",
+        "dcterms:created": "1993-03-15T09:32:18Z",
+        "meta:author": "rd1",
+        "meta:creation-date": "1993-03-15T09:32:18Z",
+        "resourceName": "b'3'",
+        "subject": "is_file"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "libisagbprn.a": {
+        "modified": "2020-10-06 13:41:06.405543",
+        "size": "1.9KB",
+        "md5": "26d244032bd2bcd190f1595d03067771",
+        "sha256": "4f8c5e62cb069849b5bc2f769ec3ffe0b10ac11889d8851d824aec8791ca8272"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "2"
+        ],
+        "resourceName": [
+            "b'libisagbprn.a'",
+            "ISAGBPRN.o"
+        ],
+        "Content-Length": [
+            "84",
+            "1736"
+        ],
+        "Last-Modified": [
+            "1999-12-13T01:29:30Z",
+            "1999-12-13T01:29:30Z"
+        ],
+        "Last-Save-Date": [
+            "1999-12-13T01:29:30Z",
+            "1999-12-13T01:29:30Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ISAGBPRN.o"
+        ],
+        "date": [
+            "1999-12-13T01:29:30Z",
+            "1999-12-13T01:29:30Z"
+        ],
+        "dcterms:modified": [
+            "1999-12-13T01:29:30Z",
+            "1999-12-13T01:29:30Z"
+        ],
+        "meta:save-date": [
+            "1999-12-13T01:29:30Z",
+            "1999-12-13T01:29:30Z"
+        ],
+        "modified": [
+            "1999-12-13T01:29:30Z",
+            "1999-12-13T01:29:30Z"
+        ],
+        "embeddedRelationshipId": "ISAGBPRN.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM"
+    }
+}

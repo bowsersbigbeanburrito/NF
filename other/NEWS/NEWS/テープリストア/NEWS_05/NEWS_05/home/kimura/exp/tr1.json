@@ -1,0 +1,21 @@
+{
+    "tr1": {
+        "modified": "1991-04-18 00:35:46",
+        "size": "1.01KB",
+        "md5": "c941a5468d66ec2659d1e4c924f055e8",
+        "sha256": "13bd7e415d56a67f38725107b2e619a7ffa70a87dcfd2d00d6b0aa0ee5478063"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tr1'"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "1": {
+        "modified": "1993-02-11 13:31:52",
+        "size": "82.57KB",
+        "md5": "0e24d41d8e20d3a38927a215763517f4",
+        "sha256": "31298d836f66a007bd7c222f50d589d97c36087fef606d453d2cd6f8b3a407af"
+    },
+    "Metadata": {
+        "Author": "rd1",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "1993-02-10T08:05:35Z",
+        "Message-From": "rd1",
+        "Message-To": "eng",
+        "Message:From-Name": "rd1",
+        "Message:Raw-Header:Message-Id": "<9302100805.AA06110@donkey.domain>",
+        "Message:Raw-Header:Received": "by donkey.domain (4.2/SMI-4.0)\tid AA06110; Wed, 10 Feb 93 17:05:35 JST",
+        "Message:Raw-Header:Return-Path": [
+            "rd1",
+            "<rd1>"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "95",
+        "creator": "rd1",
+        "dc:creator": "rd1",
+        "dc:title": "sromchk.lzh  To:Mr.Nishizawa From:Katoh",
+        "dcterms:created": "1993-02-10T08:05:35Z",
+        "meta:author": "rd1",
+        "meta:creation-date": "1993-02-10T08:05:35Z",
+        "resourceName": "b'1'",
+        "subject": "sromchk.lzh  To:Mr.Nishizawa From:Katoh"
+    }
+}
