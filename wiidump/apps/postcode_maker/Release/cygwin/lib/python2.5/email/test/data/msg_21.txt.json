@@ -1,0 +1,30 @@
+{
+    "msg_21.txt": {
+        "modified": "2007-05-19 06:01:32",
+        "size": "0.37KB",
+        "md5": "5e165ce977b0894106a802a1c2701b17",
+        "sha256": "395794cdc34731bce3ea1ff032b1c8bcbc275779325999641c052b771a28d8f9"
+    },
+    "Metadata": {
+        "Author": "aperson@dom.ain",
+        "Content-Type": "message/rfc822",
+        "Message-From": "aperson@dom.ain",
+        "Message-To": "bperson@dom.ain",
+        "Message:From-Email": "aperson@dom.ain",
+        "Multipart-Boundary": "BOUNDARY",
+        "Multipart-Subtype": "mixed",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "aperson@dom.ain",
+        "dc:creator": "aperson@dom.ain",
+        "dc:title": "Test",
+        "meta:author": "aperson@dom.ain",
+        "resourceName": "b'msg_21.txt'",
+        "subject": "Test"
+    }
+}

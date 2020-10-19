@@ -1,0 +1,123 @@
+{
+    "scD.a": {
+        "modified": "2006-03-04 03:56:28",
+        "size": "20.82KB",
+        "md5": "4cb5d09b8e8703b3fe1dfb7266eb5ea7",
+        "sha256": "de53433aa3f270c5dd6dd96426dfc8f2a17116be32e2f161597213ae974e7be5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'scD.a'",
+            "scsystem.o",
+            "scapi.o",
+            "scdump.o"
+        ],
+        "Content-Length": [
+            "1155",
+            "11200",
+            "4864",
+            "3856"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:34:49Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:49Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:34:49Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:49Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/scsystem.o",
+            "/scapi.o",
+            "/scdump.o"
+        ],
+        "date": [
+            "2006-03-03T15:34:49Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:49Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:34:49Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:49Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:34:49Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:49Z"
+        ],
+        "modified": [
+            "2006-03-03T15:34:49Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:48Z",
+            "2006-03-03T15:34:49Z"
+        ],
+        "embeddedRelationshipId": [
+            "scsystem.o",
+            "scapi.o",
+            "scdump.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

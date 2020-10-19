@@ -1,0 +1,21 @@
+{
+    "ON.pl": {
+        "modified": "2008-06-02 02:25:32",
+        "size": "1.65KB",
+        "md5": "4c2f91f3e42497a76832be38e33676be",
+        "sha256": "6c0dab5cf892b0075b0a3b7bd70dca295ffc4d6a04efeca7d03f7c893d918921"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ON.pl'"
+    }
+}

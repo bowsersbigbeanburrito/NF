@@ -1,0 +1,75 @@
+{
+    "sp.a": {
+        "modified": "2006-02-24 20:07:26",
+        "size": "3.56KB",
+        "md5": "3f6defa50a3b4a4b09905765b2192b23",
+        "sha256": "b79547b7a9192fff5f9218107c8f938b78732a976f49826b2eca696d3255f0db"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'sp.a'",
+            "sp.o"
+        ],
+        "Content-Length": [
+            "81",
+            "3440"
+        ],
+        "Last-Modified": [
+            "2006-02-21T16:28:57Z",
+            "2006-02-21T16:28:57Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-21T16:28:57Z",
+            "2006-02-21T16:28:57Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sp.o"
+        ],
+        "date": [
+            "2006-02-21T16:28:57Z",
+            "2006-02-21T16:28:57Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-21T16:28:57Z",
+            "2006-02-21T16:28:57Z"
+        ],
+        "meta:save-date": [
+            "2006-02-21T16:28:57Z",
+            "2006-02-21T16:28:57Z"
+        ],
+        "modified": [
+            "2006-02-21T16:28:57Z",
+            "2006-02-21T16:28:57Z"
+        ],
+        "embeddedRelationshipId": "sp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

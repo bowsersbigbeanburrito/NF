@@ -1,0 +1,21 @@
+{
+    "smp-toy.elf": {
+        "modified": "2006-02-24 06:47:18",
+        "size": "229.12KB",
+        "md5": "a9460888328b967565818ee1f7521d44",
+        "sha256": "ac2248279f589e8088d869a382a54407c1818b7cc328d7060ef597fcb89c0b1b"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'smp-toy.elf'"
+    }
+}

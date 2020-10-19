@@ -1,0 +1,21 @@
+{
+    "BMB": {
+        "modified": "2002-12-17 02:03:14",
+        "size": "8.86KB",
+        "md5": "f10a5c602bf31405bf4c6cd121b532ab",
+        "sha256": "01172962bc10e35ba0efefc6d6fed44823fb3279bdf013cc6c8e665924f68d42"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'BMB'"
+    }
+}

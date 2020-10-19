@@ -1,0 +1,123 @@
+{
+    "mccD.a": {
+        "modified": "2006-03-04 03:56:27",
+        "size": "53.41KB",
+        "md5": "83b3186877b0203740b04e40e2778443",
+        "sha256": "368dc24f9b798b996db40a8c648a3edda308a6b79c4fb43bb587b60c61f14d8e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'mccD.a'",
+            "mcc.o",
+            "fio.o",
+            "tty.o"
+        ],
+        "Content-Length": [
+            "839",
+            "28336",
+            "18952",
+            "6320"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:34:58Z",
+            "2006-03-03T15:34:56Z",
+            "2006-03-03T15:34:57Z",
+            "2006-03-03T15:34:58Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:34:58Z",
+            "2006-03-03T15:34:56Z",
+            "2006-03-03T15:34:57Z",
+            "2006-03-03T15:34:58Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mcc.o",
+            "/fio.o",
+            "/tty.o"
+        ],
+        "date": [
+            "2006-03-03T15:34:58Z",
+            "2006-03-03T15:34:56Z",
+            "2006-03-03T15:34:57Z",
+            "2006-03-03T15:34:58Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:34:58Z",
+            "2006-03-03T15:34:56Z",
+            "2006-03-03T15:34:57Z",
+            "2006-03-03T15:34:58Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:34:58Z",
+            "2006-03-03T15:34:56Z",
+            "2006-03-03T15:34:57Z",
+            "2006-03-03T15:34:58Z"
+        ],
+        "modified": [
+            "2006-03-03T15:34:58Z",
+            "2006-03-03T15:34:56Z",
+            "2006-03-03T15:34:57Z",
+            "2006-03-03T15:34:58Z"
+        ],
+        "embeddedRelationshipId": [
+            "mcc.o",
+            "fio.o",
+            "tty.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "BI": {
+        "modified": "2002-12-17 02:03:16",
+        "size": "7.26KB",
+        "md5": "a7e8ac3648331ce081f651137101d7e6",
+        "sha256": "b82960ff265dd302442c2530036da2309dc4984ba275c63d1d861600075026fb"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'BI'"
+    }
+}

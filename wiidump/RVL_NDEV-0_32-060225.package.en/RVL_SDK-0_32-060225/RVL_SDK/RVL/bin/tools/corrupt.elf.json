@@ -1,0 +1,21 @@
+{
+    "corrupt.elf": {
+        "modified": "2006-02-24 20:07:17",
+        "size": "220.04KB",
+        "md5": "b7d2900422caa1fa56dcd9ce36a0cb40",
+        "sha256": "faf5ecf80586b9ec90dd98efbf39b1ee6f2c1c934b9f7a2b862b8f10430110f2"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'corrupt.elf'"
+    }
+}

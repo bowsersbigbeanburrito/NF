@@ -1,0 +1,75 @@
+{
+    "amcnotstub.a": {
+        "modified": "2006-03-04 04:00:21",
+        "size": "0.64KB",
+        "md5": "8f0a057bccc5c29ac7009acf5a8734d9",
+        "sha256": "ceae9f5309963cd72b93c525f9dc549400326313655b92186aa5daf5f11cd991"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'amcnotstub.a'",
+            "amcnotstub.o"
+        ],
+        "Content-Length": [
+            "19",
+            "512"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:04:01Z",
+            "2006-03-03T16:04:00Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:04:01Z",
+            "2006-03-03T16:04:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/amcnotstub.o"
+        ],
+        "date": [
+            "2006-03-03T16:04:01Z",
+            "2006-03-03T16:04:00Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:04:01Z",
+            "2006-03-03T16:04:00Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:04:01Z",
+            "2006-03-03T16:04:00Z"
+        ],
+        "modified": [
+            "2006-03-03T16:04:01Z",
+            "2006-03-03T16:04:00Z"
+        ],
+        "embeddedRelationshipId": "amcnotstub.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

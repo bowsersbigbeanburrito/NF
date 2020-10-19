@@ -1,0 +1,21 @@
+{
+    "boot.elf": {
+        "modified": "2006-03-04 03:56:43",
+        "size": "198.65KB",
+        "md5": "e10c180fc08a2bf834ec39527097e9f8",
+        "sha256": "b62018abe48b95fce0f2a591e6d92abd941a24df1ab9ec5bc911f8d8d4d87576"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'boot.elf'"
+    }
+}

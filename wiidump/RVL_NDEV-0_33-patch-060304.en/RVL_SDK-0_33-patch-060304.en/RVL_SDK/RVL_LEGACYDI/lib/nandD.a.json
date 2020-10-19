@@ -1,0 +1,103 @@
+{
+    "nandD.a": {
+        "modified": "2006-03-04 04:00:26",
+        "size": "16.84KB",
+        "md5": "6f9c12b1b2e3fabb8c4367782846c369",
+        "sha256": "2478f81d85921ba332a71c9fa9aca0c7024cfa303233d314334b243cb902669e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'nandD.a'",
+            "nand.o",
+            "util.o"
+        ],
+        "Content-Length": [
+            "524",
+            "11584",
+            "4944"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:56:03Z",
+            "2006-03-03T15:56:02Z",
+            "2006-03-03T15:56:02Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:56:03Z",
+            "2006-03-03T15:56:02Z",
+            "2006-03-03T15:56:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nand.o",
+            "/util.o"
+        ],
+        "date": [
+            "2006-03-03T15:56:03Z",
+            "2006-03-03T15:56:02Z",
+            "2006-03-03T15:56:02Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:56:03Z",
+            "2006-03-03T15:56:02Z",
+            "2006-03-03T15:56:02Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:56:03Z",
+            "2006-03-03T15:56:02Z",
+            "2006-03-03T15:56:02Z"
+        ],
+        "modified": [
+            "2006-03-03T15:56:03Z",
+            "2006-03-03T15:56:02Z",
+            "2006-03-03T15:56:02Z"
+        ],
+        "embeddedRelationshipId": [
+            "nand.o",
+            "util.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

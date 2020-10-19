@@ -1,0 +1,103 @@
+{
+    "perf.a": {
+        "modified": "2006-03-22 17:18:04",
+        "size": "43.32KB",
+        "md5": "e8790f373083f55d3b2e107ba05db249",
+        "sha256": "0a97bff59dfa5942d5da02a33000b88d09101674682d5ea0b5ca67a23f7c66bb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'perf.a'",
+            "perf.o",
+            "perfdraw.o"
+        ],
+        "Content-Length": [
+            "729",
+            "18000",
+            "25440"
+        ],
+        "Last-Modified": [
+            "2006-03-22T17:18:04Z",
+            "2006-03-22T17:18:03Z",
+            "2006-03-22T17:18:04Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-22T17:18:04Z",
+            "2006-03-22T17:18:03Z",
+            "2006-03-22T17:18:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/perf.o",
+            "/perfdraw.o"
+        ],
+        "date": [
+            "2006-03-22T17:18:04Z",
+            "2006-03-22T17:18:03Z",
+            "2006-03-22T17:18:04Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-22T17:18:04Z",
+            "2006-03-22T17:18:03Z",
+            "2006-03-22T17:18:04Z"
+        ],
+        "meta:save-date": [
+            "2006-03-22T17:18:04Z",
+            "2006-03-22T17:18:03Z",
+            "2006-03-22T17:18:04Z"
+        ],
+        "modified": [
+            "2006-03-22T17:18:04Z",
+            "2006-03-22T17:18:03Z",
+            "2006-03-22T17:18:04Z"
+        ],
+        "embeddedRelationshipId": [
+            "perf.o",
+            "perfdraw.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

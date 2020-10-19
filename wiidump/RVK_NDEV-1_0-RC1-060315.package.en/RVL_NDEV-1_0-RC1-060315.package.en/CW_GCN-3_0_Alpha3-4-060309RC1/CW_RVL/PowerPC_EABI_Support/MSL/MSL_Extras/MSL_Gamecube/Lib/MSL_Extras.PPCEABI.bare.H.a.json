@@ -1,0 +1,123 @@
+{
+    "MSL_Extras.PPCEABI.bare.H.a": {
+        "modified": "2006-03-08 11:54:46",
+        "size": "9.37KB",
+        "md5": "c451575666ceaebe6a8330ae07d0f3f6",
+        "sha256": "9ebb9a0eaeb6890c4fb765dc4fd1d7d6a7f6443fc3e24c14a74536147d20c0d4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'MSL_Extras.PPCEABI.bare.H.a'",
+            "D:/Profiles/rat170/Desktop/New Folder/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o",
+            "D:/Profiles/rat170/Desktop/New Folder/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o",
+            "D:/Profiles/rat170/Desktop/New Folder/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o"
+        ],
+        "Content-Length": [
+            "600",
+            "7024",
+            "696",
+            "680"
+        ],
+        "Last-Modified": [
+            "2006-03-08T12:54:45Z",
+            "2006-02-08T14:32:48Z",
+            "2006-02-08T14:34:08Z",
+            "2006-02-08T14:34:08Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-08T12:54:45Z",
+            "2006-02-08T14:32:48Z",
+            "2006-02-08T14:34:08Z",
+            "2006-02-08T14:34:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/extras.o",
+            "/stat.o",
+            "/stdio_posix.o"
+        ],
+        "date": [
+            "2006-03-08T12:54:45Z",
+            "2006-02-08T14:32:48Z",
+            "2006-02-08T14:34:08Z",
+            "2006-02-08T14:34:08Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-08T12:54:45Z",
+            "2006-02-08T14:32:48Z",
+            "2006-02-08T14:34:08Z",
+            "2006-02-08T14:34:08Z"
+        ],
+        "meta:save-date": [
+            "2006-03-08T12:54:45Z",
+            "2006-02-08T14:32:48Z",
+            "2006-02-08T14:34:08Z",
+            "2006-02-08T14:34:08Z"
+        ],
+        "modified": [
+            "2006-03-08T12:54:45Z",
+            "2006-02-08T14:32:48Z",
+            "2006-02-08T14:34:08Z",
+            "2006-02-08T14:34:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "D:/Profiles/rat170/Desktop/New Folder/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o",
+            "D:/Profiles/rat170/Desktop/New Folder/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o",
+            "D:/Profiles/rat170/Desktop/New Folder/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

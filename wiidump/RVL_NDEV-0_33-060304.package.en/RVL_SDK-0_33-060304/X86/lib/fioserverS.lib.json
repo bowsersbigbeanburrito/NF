@@ -1,0 +1,97 @@
+{
+    "fioserverS.lib": {
+        "modified": "2006-03-04 18:20:52",
+        "size": "82.25KB",
+        "md5": "22f735f85a66f77dd32c22286e285cb5",
+        "sha256": "2c88842bd5e24713e0511f5260108961c703c872cf2fafee39e30981ce87ac70"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'fioserverS.lib'",
+            "./release/fioserver.obj",
+            "./release/dpci.obj"
+        ],
+        "Content-Length": [
+            "11876",
+            "11574",
+            "59194",
+            "1226"
+        ],
+        "Last-Modified": [
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:46Z",
+            "2006-03-03T06:04:48Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:46Z",
+            "2006-03-03T06:04:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/embedded-2",
+            "/fioserver.obj",
+            "/dpci.obj"
+        ],
+        "date": [
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:46Z",
+            "2006-03-03T06:04:48Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:46Z",
+            "2006-03-03T06:04:48Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:46Z",
+            "2006-03-03T06:04:48Z"
+        ],
+        "modified": [
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:48Z",
+            "2006-03-03T06:04:46Z",
+            "2006-03-03T06:04:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "./release/fioserver.obj",
+            "./release/dpci.obj"
+        ]
+    }
+}

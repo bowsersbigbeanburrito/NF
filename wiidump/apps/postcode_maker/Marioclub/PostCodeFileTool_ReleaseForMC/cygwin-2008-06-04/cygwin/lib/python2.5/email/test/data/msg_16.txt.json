@@ -1,0 +1,79 @@
+{
+    "msg_16.txt": {
+        "modified": "2007-05-19 06:01:32",
+        "size": "5.08KB",
+        "md5": "197aac66100ffb774044fe42a72b11fd",
+        "sha256": "fbb4ae9e31ddd26e43b7c051041bb3d9d6bebd418a858da67268920bc672afb9"
+    },
+    "Metadata": {
+        "Author": "Internet Mail Delivery <postmaster@ucla.edu>",
+        "Content-Type": [
+            "message/rfc822",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "Creation-Date": "2001-09-24T03:14:35Z",
+        "Message-From": "Internet Mail Delivery <postmaster@ucla.edu>",
+        "Message-To": "scr-admin@socal-raves.org",
+        "Message:From-Email": "postmaster@ucla.edu",
+        "Message:From-Name": "Internet Mail Delivery",
+        "Message:Raw-Header:Delivered-To": "scr-admin@socal-raves.org",
+        "Message:Raw-Header:Errors-To": "scr-owner@socal-raves.org",
+        "Message:Raw-Header:List-Archive": "<http://socal-raves.org/mailman/private/scr/>",
+        "Message:Raw-Header:List-Help": "<mailto:scr-request@socal-raves.org?subject=help>",
+        "Message:Raw-Header:List-Id": "SoCal-Raves <scr.socal-raves.org>",
+        "Message:Raw-Header:List-Post": "<mailto:scr@socal-raves.org>",
+        "Message:Raw-Header:List-Subscribe": "<http://socal-raves.org/mailman/listinfo/scr>,\t<mailto:scr-request@socal-raves.org?subject=subscribe>",
+        "Message:Raw-Header:List-Unsubscribe": "<http://socal-raves.org/mailman/listinfo/scr>,\t<mailto:scr-request@socal-raves.org?subject=unsubscribe>",
+        "Message:Raw-Header:MIME-version": "1.0",
+        "Message:Raw-Header:Message-id": "<0GK500B04D0B8X@cougar.noc.ucla.edu>",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from cougar.noc.ucla.edu (cougar.noc.ucla.edu [169.232.10.18])\tby babylon.socal-raves.org (Postfix) with ESMTP id CCC2C51B84\tfor <scr-admin@socal-raves.org>; Sun, 23 Sep 2001 20:13:54 -0700 (PDT)",
+            "from sims-ms-daemon by cougar.noc.ucla.edu (Sun Internet Mail Server sims.3.5.2000.03.23.18.03.p10) id <0GK500B01D0B8Y@cougar.noc.ucla.edu> for scr-admin@socal-raves.org; Sun, 23 Sep 2001 20:14:35 -0700 (PDT)",
+            "from cougar.noc.ucla.edu (Sun Internet Mail Server sims.3.5.2000.03.23.18.03.p10) id <0GK500B01D0B8X@cougar.noc.ucla.edu>; Sun, 23 Sep 2001 20:14:35 -0700 (PDT)"
+        ],
+        "Message:Raw-Header:Return-Path": "<>",
+        "Message:Raw-Header:Sender": "scr-owner@socal-raves.org",
+        "Message:Raw-Header:X-BeenThere": "scr@socal-raves.org",
+        "Message:Raw-Header:X-Mailman-Version": "2.1a3",
+        "Multipart-Boundary": [
+            "Boundary_(ID_PGS2F2a+z+/jL7hupKgRhA)",
+            "Boundary_(ID_PGS2F2a+z+/jL7hupKgRhA)"
+        ],
+        "Multipart-Subtype": [
+            "report",
+            "report"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0"
+        ],
+        "creator": "Internet Mail Delivery <postmaster@ucla.edu>",
+        "dc:creator": "Internet Mail Delivery <postmaster@ucla.edu>",
+        "dc:title": "Delivery Notification: Delivery has failed",
+        "dcterms:created": "2001-09-24T03:14:35Z",
+        "meta:author": "Internet Mail Delivery <postmaster@ucla.edu>",
+        "meta:creation-date": "2001-09-24T03:14:35Z",
+        "resourceName": "b'msg_16.txt'",
+        "subject": "Delivery Notification: Delivery has failed",
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "embeddedResourceType": "ATTACHMENT"
+    }
+}

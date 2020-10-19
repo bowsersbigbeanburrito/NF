@@ -1,0 +1,143 @@
+{
+    "exiD.a": {
+        "modified": "2006-03-22 17:06:32",
+        "size": "30.02KB",
+        "md5": "edb5fd7edfce048420a9e48765545b2f",
+        "sha256": "b7ee7d5b9f7138e97225c7ff7602d14f15a202464e6710fafccb34054b09570a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'exiD.a'",
+            "EXIBios.o",
+            "EXIUart.o",
+            "EXIAd16.o",
+            "EXICommon.o"
+        ],
+        "Content-Length": [
+            "566",
+            "21360",
+            "2248",
+            "2296",
+            "3960"
+        ],
+        "Last-Modified": [
+            "2006-03-22T17:06:32Z",
+            "2006-03-22T17:06:31Z",
+            "2006-03-21T12:26:08Z",
+            "2006-03-21T12:26:09Z",
+            "2006-03-22T17:06:31Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-22T17:06:32Z",
+            "2006-03-22T17:06:31Z",
+            "2006-03-21T12:26:08Z",
+            "2006-03-21T12:26:09Z",
+            "2006-03-22T17:06:31Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/EXIBios.o",
+            "/EXIUart.o",
+            "/EXIAd16.o",
+            "/EXICommon.o"
+        ],
+        "date": [
+            "2006-03-22T17:06:32Z",
+            "2006-03-22T17:06:31Z",
+            "2006-03-21T12:26:08Z",
+            "2006-03-21T12:26:09Z",
+            "2006-03-22T17:06:31Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-22T17:06:32Z",
+            "2006-03-22T17:06:31Z",
+            "2006-03-21T12:26:08Z",
+            "2006-03-21T12:26:09Z",
+            "2006-03-22T17:06:31Z"
+        ],
+        "meta:save-date": [
+            "2006-03-22T17:06:32Z",
+            "2006-03-22T17:06:31Z",
+            "2006-03-21T12:26:08Z",
+            "2006-03-21T12:26:09Z",
+            "2006-03-22T17:06:31Z"
+        ],
+        "modified": [
+            "2006-03-22T17:06:32Z",
+            "2006-03-22T17:06:31Z",
+            "2006-03-21T12:26:08Z",
+            "2006-03-21T12:26:09Z",
+            "2006-03-22T17:06:31Z"
+        ],
+        "embeddedRelationshipId": [
+            "EXIBios.o",
+            "EXIUart.o",
+            "EXIAd16.o",
+            "EXICommon.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

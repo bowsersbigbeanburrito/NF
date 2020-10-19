@@ -1,0 +1,75 @@
+{
+    "odemustubs.a": {
+        "modified": "2006-03-04 04:00:26",
+        "size": "1.0KB",
+        "md5": "39564707686a5c42891e618b6dec1dba",
+        "sha256": "4abfc5dcf56705f48b40446416f56ccb8424cfb68b0836b76df327fd9a759849"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'odemustubs.a'",
+            "odemustubs.o"
+        ],
+        "Content-Length": [
+            "116",
+            "784"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:05:19Z",
+            "2006-03-03T16:05:19Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:05:19Z",
+            "2006-03-03T16:05:19Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/odemustubs.o"
+        ],
+        "date": [
+            "2006-03-03T16:05:19Z",
+            "2006-03-03T16:05:19Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:05:19Z",
+            "2006-03-03T16:05:19Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:05:19Z",
+            "2006-03-03T16:05:19Z"
+        ],
+        "modified": [
+            "2006-03-03T16:05:19Z",
+            "2006-03-03T16:05:19Z"
+        ],
+        "embeddedRelationshipId": "odemustubs.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "seqD.a": {
+        "modified": "2006-03-04 18:20:42",
+        "size": "12.17KB",
+        "md5": "7301112dcbcd7285ef72916fe1a4335b",
+        "sha256": "9c1af5b1f6445d174e2bb85c0cfbc5c100f4ff39615a1cb48dddfc8b59e5ba40"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'seqD.a'",
+            "seq.o"
+        ],
+        "Content-Length": [
+            "222",
+            "12112"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:16:48Z",
+            "2006-03-03T16:16:48Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:16:48Z",
+            "2006-03-03T16:16:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/seq.o"
+        ],
+        "date": [
+            "2006-03-03T16:16:48Z",
+            "2006-03-03T16:16:48Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:16:48Z",
+            "2006-03-03T16:16:48Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:16:48Z",
+            "2006-03-03T16:16:48Z"
+        ],
+        "modified": [
+            "2006-03-03T16:16:48Z",
+            "2006-03-03T16:16:48Z"
+        ],
+        "embeddedRelationshipId": "seq.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

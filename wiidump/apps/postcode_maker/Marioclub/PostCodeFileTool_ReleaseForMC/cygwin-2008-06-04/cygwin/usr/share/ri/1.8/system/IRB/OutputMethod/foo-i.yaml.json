@@ -1,0 +1,20 @@
+{
+    "foo-i.yaml": {
+        "modified": "2008-05-08 21:12:04",
+        "size": "0.17KB",
+        "md5": "2ea4cdbb2ce8a04d4563a4dcdb1c9ef4",
+        "sha256": "246f6cbd4e036bbc5cf37dc1752c57d5de4e5939263223b82c21d245559f677b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'foo-i.yaml'"
+    }
+}

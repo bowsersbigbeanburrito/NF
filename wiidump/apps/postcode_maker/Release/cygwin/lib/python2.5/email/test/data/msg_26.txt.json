@@ -1,0 +1,95 @@
+{
+    "msg_26.txt": {
+        "modified": "2007-05-19 06:01:32",
+        "size": "2.05KB",
+        "md5": "f35f22ed2f588a3b527361f30596ad25",
+        "sha256": "3f3ac44808e8ba2e5c50bf31cf05a134da32822a4aaae6aaa56ee66c8a125b7a"
+    },
+    "Metadata": {
+        "Author": "Father Time <father.time@xcar.wooster.local>",
+        "Content-Type": [
+            "message/rfc822",
+            "image/bmp"
+        ],
+        "Creation-Date": "2002-05-12T07:56:15Z",
+        "Message-From": "Father Time <father.time@xcar.wooster.local>",
+        "Message-To": "timbo@jeeves.wooster.local",
+        "Message:From-Email": "father.time@xcar.wooster.local",
+        "Message:From-Name": "Father Time",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<6df65d354b.father.time@rpc.wooster.local>",
+        "Message:Raw-Header:Received": "from xcar [192.168.0.2] by jeeves.wooster.local  (SMTPD32-7.07 EVAL) id AFF92F0214; Sun, 12 May 2002 08:55:37 +0100",
+        "Message:Raw-Header:Status": "R",
+        "Message:Raw-Header:User-Agent": "Messenger-Pro/2.50a (MsgServe/1.50) (RISC-OS/4.02) POPstar/2.03",
+        "Message:Raw-Header:X-Organization": "Home",
+        "Message:Raw-Header:X-UIDL": "319998302",
+        "Multipart-Boundary": [
+            "1618492860--2051301190--113853680",
+            "1618492860--2051301190--113853680"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1"
+        ],
+        "creator": "Father Time <father.time@xcar.wooster.local>",
+        "dc:creator": "Father Time <father.time@xcar.wooster.local>",
+        "dc:title": "IMAP file test",
+        "dcterms:created": "2002-05-12T07:56:15Z",
+        "meta:author": "Father Time <father.time@xcar.wooster.local>",
+        "meta:creation-date": "2002-05-12T07:56:15Z",
+        "resourceName": [
+            "b'msg_26.txt'",
+            "clock.bmp"
+        ],
+        "subject": "IMAP file test",
+        "Chroma Palette": "4",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=0, green=0, blue=0",
+            "index=1, red=0, green=0, blue=0, alpha=-120",
+            "index=2, red=0, green=0, blue=-120",
+            "index=3, red=0, green=0, blue=0, alpha=-120",
+            "index=4, red=-120, green=0, blue=-120",
+            "index=5, red=0, green=0, blue=0, alpha=-120",
+            "index=6, red=0, green=-120, blue=0, alpha=-120",
+            "index=7, red=-120, green=0, blue=0, alpha=-69",
+            "index=8, red=-69, green=-69, blue=0, alpha=-120",
+            "index=9, red=-120, green=-120, blue=0, alpha=17",
+            "index=10, red=17, green=-35, blue=0, alpha=34",
+            "index=11, red=-18, green=34, blue=0, alpha=51",
+            "index=12, red=-1, green=-1, blue=0, alpha=-52",
+            "index=13, red=0, green=0, blue=0, alpha=-35",
+            "index=14, red=17, green=-35, blue=0, alpha=-18",
+            "index=15, red=-18, green=34, blue=0, alpha=-1"
+        ],
+        "Compression CompressionTypeName": "BI_RGB",
+        "Content-Disposition": "attachment; filename=\"clock.bmp\"",
+        "Data BitsPerSample": "",
+        "Dimension HorizontalPhysicalPixelSpacing": "0",
+        "Dimension PixelAspectRatio": "1.0",
+        "Dimension VerticalPhysicalPixelSpacing": "0",
+        "X-TIKA:embedded_resource_path": "/clock.bmp",
+        "embeddedResourceType": "ATTACHMENT",
+        "height": "32",
+        "tiff:BitsPerSample": "",
+        "tiff:ImageLength": "32",
+        "tiff:ImageWidth": "32",
+        "width": "32"
+    }
+}

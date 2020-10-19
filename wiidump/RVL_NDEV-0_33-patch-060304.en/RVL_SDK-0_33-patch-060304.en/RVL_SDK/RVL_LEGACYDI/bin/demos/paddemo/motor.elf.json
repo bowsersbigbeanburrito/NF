@@ -1,0 +1,21 @@
+{
+    "motor.elf": {
+        "modified": "2006-03-04 04:00:09",
+        "size": "169.29KB",
+        "md5": "b2562b12a265be88a98bea457ad7b0f5",
+        "sha256": "0cc207a59e12804633bd0541414180fd8c38c2a0f95ef9dd7c909bc216a9968f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'motor.elf'"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "amcstubs.a": {
+        "modified": "2006-03-21 12:37:48",
+        "size": "1.06KB",
+        "md5": "f94fb64d36c344c38b3d46c1c39a7aad",
+        "sha256": "12ada456d23b10c0495cacc2e275e20b80a712aafc16d9e1a3f88522569c6aa6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'amcstubs.a'",
+            "AmcExi2Stubs.o"
+        ],
+        "Content-Length": [
+            "140",
+            "816"
+        ],
+        "Last-Modified": [
+            "2006-03-21T12:37:48Z",
+            "2006-03-21T12:37:47Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-21T12:37:48Z",
+            "2006-03-21T12:37:47Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/AmcExi2Stubs.o"
+        ],
+        "date": [
+            "2006-03-21T12:37:48Z",
+            "2006-03-21T12:37:47Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-21T12:37:48Z",
+            "2006-03-21T12:37:47Z"
+        ],
+        "meta:save-date": [
+            "2006-03-21T12:37:48Z",
+            "2006-03-21T12:37:47Z"
+        ],
+        "modified": [
+            "2006-03-21T12:37:48Z",
+            "2006-03-21T12:37:47Z"
+        ],
+        "embeddedRelationshipId": "AmcExi2Stubs.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "libS3TC.a": {
+        "modified": "2000-03-31 13:50:00",
+        "size": "43.39KB",
+        "md5": "b1d3d1f706cd5e71fe3a6aab5c01525e",
+        "sha256": "582a5d93d74088840ab2213cb9bed8f5a8cd79b74171c32c203fdaf0e3b37df9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-archive",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libS3TC.a'",
+            "libS3TC.a",
+            "S3_intrf.o",
+            "S3_quant.o"
+        ],
+        "Content-Length": [
+            "210",
+            "8",
+            "8252",
+            "35712"
+        ],
+        "Last-Modified": [
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:46Z",
+            "2000-03-31T10:35:49Z"
+        ],
+        "Last-Save-Date": [
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:46Z",
+            "2000-03-31T10:35:49Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libS3TC.a",
+            "/S3_intrf.o",
+            "/S3_quant.o"
+        ],
+        "date": [
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:46Z",
+            "2000-03-31T10:35:49Z"
+        ],
+        "dcterms:modified": [
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:46Z",
+            "2000-03-31T10:35:49Z"
+        ],
+        "meta:save-date": [
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:46Z",
+            "2000-03-31T10:35:49Z"
+        ],
+        "modified": [
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:49Z",
+            "2000-03-31T10:35:46Z",
+            "2000-03-31T10:35:49Z"
+        ],
+        "embeddedRelationshipId": [
+            "libS3TC.a",
+            "S3_intrf.o",
+            "S3_quant.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

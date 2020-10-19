@@ -1,0 +1,123 @@
+{
+    "exi.a": {
+        "modified": "2006-02-24 06:48:51",
+        "size": "20.42KB",
+        "md5": "b2dac08984d0f1880fb1891ba0ef20af",
+        "sha256": "fe1a88dc9e83f7c714131f2f731d8bbe1f1cd3c83654099fe0e4bc3081f8736c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'exi.a'",
+            "EXIBios.o",
+            "EXIUart.o",
+            "EXIAd16.o"
+        ],
+        "Content-Length": [
+            "467",
+            "14520",
+            "3440",
+            "2232"
+        ],
+        "Last-Modified": [
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:46Z",
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:47Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:46Z",
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:47Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/EXIBios.o",
+            "/EXIUart.o",
+            "/EXIAd16.o"
+        ],
+        "date": [
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:46Z",
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:47Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:46Z",
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:47Z"
+        ],
+        "meta:save-date": [
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:46Z",
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:47Z"
+        ],
+        "modified": [
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:46Z",
+            "2006-02-21T15:21:47Z",
+            "2006-02-21T15:21:47Z"
+        ],
+        "embeddedRelationshipId": [
+            "EXIBios.o",
+            "EXIUart.o",
+            "EXIAd16.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

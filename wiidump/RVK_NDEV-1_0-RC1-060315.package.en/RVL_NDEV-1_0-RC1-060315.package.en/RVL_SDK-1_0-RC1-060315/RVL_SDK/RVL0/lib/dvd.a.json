@@ -1,0 +1,203 @@
+{
+    "dvd.a": {
+        "modified": "2006-03-15 08:20:07",
+        "size": "87.58KB",
+        "md5": "fd558e3c32084ae59325dbee6e0afbf4",
+        "sha256": "db47fe69d63b7b8476251eee2f4c0b915cbc781d9fe7c864841767678aa37ef3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'dvd.a'",
+            "dvdfs.o",
+            "dvd.o",
+            "dvdqueue.o",
+            "dvderror.o",
+            "dvdidutils.o",
+            "dvdFatal.o",
+            "dvdlow.o"
+        ],
+        "Content-Length": [
+            "3034",
+            "11512",
+            "38056",
+            "4096",
+            "1272",
+            "1232",
+            "3312",
+            "26680"
+        ],
+        "Last-Modified": [
+            "2006-03-15T18:23:03Z",
+            "2006-03-15T18:22:58Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:23:00Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:02Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-15T18:23:03Z",
+            "2006-03-15T18:22:58Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:23:00Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dvdfs.o",
+            "/dvd.o",
+            "/dvdqueue.o",
+            "/dvderror.o",
+            "/dvdidutils.o",
+            "/dvdFatal.o",
+            "/dvdlow.o"
+        ],
+        "date": [
+            "2006-03-15T18:23:03Z",
+            "2006-03-15T18:22:58Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:23:00Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:02Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-15T18:23:03Z",
+            "2006-03-15T18:22:58Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:23:00Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:02Z"
+        ],
+        "meta:save-date": [
+            "2006-03-15T18:23:03Z",
+            "2006-03-15T18:22:58Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:23:00Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:02Z"
+        ],
+        "modified": [
+            "2006-03-15T18:23:03Z",
+            "2006-03-15T18:22:58Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:22:59Z",
+            "2006-03-15T18:23:00Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:01Z",
+            "2006-03-15T18:23:02Z"
+        ],
+        "embeddedRelationshipId": [
+            "dvdfs.o",
+            "dvd.o",
+            "dvdqueue.o",
+            "dvderror.o",
+            "dvdidutils.o",
+            "dvdFatal.o",
+            "dvdlow.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

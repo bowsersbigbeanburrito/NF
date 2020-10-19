@@ -1,0 +1,20 @@
+{
+    "expected-i.yaml": {
+        "modified": "2008-05-08 21:12:10",
+        "size": "0.19KB",
+        "md5": "f87bddd7168d42125d87d892878d4dee",
+        "sha256": "60ec301d011b7d57707f7e83d3b8573702dff33b69e61753763b16b4a2262dbf"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'expected-i.yaml'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "CI": {
+        "modified": "2002-12-17 02:03:14",
+        "size": "2.71KB",
+        "md5": "fb661d264344f11d6ea8128339214f3c",
+        "sha256": "96d864d6d3474b0088596f3af8f7b3736bb808254554b8febeeae0b476793ff5"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CI'"
+    }
+}

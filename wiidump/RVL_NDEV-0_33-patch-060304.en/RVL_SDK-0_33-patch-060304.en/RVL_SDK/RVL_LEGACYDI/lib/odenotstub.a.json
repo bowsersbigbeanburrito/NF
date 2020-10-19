@@ -1,0 +1,75 @@
+{
+    "odenotstub.a": {
+        "modified": "2006-03-04 04:00:26",
+        "size": "0.64KB",
+        "md5": "fa385d037210133cab2ca6631441355a",
+        "sha256": "c7c43b4efb3a4620f0888056148bbc2ff72b57fd92b8924c349bb55b938177a9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'odenotstub.a'",
+            "odenotstub.o"
+        ],
+        "Content-Length": [
+            "18",
+            "512"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:05:21Z",
+            "2006-03-03T16:05:21Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:05:21Z",
+            "2006-03-03T16:05:21Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/odenotstub.o"
+        ],
+        "date": [
+            "2006-03-03T16:05:21Z",
+            "2006-03-03T16:05:21Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:05:21Z",
+            "2006-03-03T16:05:21Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:05:21Z",
+            "2006-03-03T16:05:21Z"
+        ],
+        "modified": [
+            "2006-03-03T16:05:21Z",
+            "2006-03-03T16:05:21Z"
+        ],
+        "embeddedRelationshipId": "odenotstub.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

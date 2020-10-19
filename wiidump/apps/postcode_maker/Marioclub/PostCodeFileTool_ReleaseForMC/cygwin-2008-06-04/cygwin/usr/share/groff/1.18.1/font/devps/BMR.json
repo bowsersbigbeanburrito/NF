@@ -1,0 +1,21 @@
+{
+    "BMR": {
+        "modified": "2002-12-17 02:03:14",
+        "size": "8.77KB",
+        "md5": "9756c230b015e7704a597ecdec06da12",
+        "sha256": "3e6e0d8e71b311b410b83112460eec13239df4bd92eca24c652ad9b002561116"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'BMR'"
+    }
+}

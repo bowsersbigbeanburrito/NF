@@ -1,0 +1,103 @@
+{
+    "pad.a": {
+        "modified": "2006-03-04 18:20:42",
+        "size": "17.75KB",
+        "md5": "3dc1025dd67bb402f5bf7254210cb35b",
+        "sha256": "e32527468c4454f5d2818e2430ecd45f027bdc8289dd2f1b6098f67c8348dba3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'pad.a'",
+            "Padclamp.o",
+            "Pad.o"
+        ],
+        "Content-Length": [
+            "387",
+            "2152",
+            "15448"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:26:54Z",
+            "2006-03-03T16:26:53Z",
+            "2006-03-03T16:26:54Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:26:54Z",
+            "2006-03-03T16:26:53Z",
+            "2006-03-03T16:26:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/Padclamp.o",
+            "/Pad.o"
+        ],
+        "date": [
+            "2006-03-03T16:26:54Z",
+            "2006-03-03T16:26:53Z",
+            "2006-03-03T16:26:54Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:26:54Z",
+            "2006-03-03T16:26:53Z",
+            "2006-03-03T16:26:54Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:26:54Z",
+            "2006-03-03T16:26:53Z",
+            "2006-03-03T16:26:54Z"
+        ],
+        "modified": [
+            "2006-03-03T16:26:54Z",
+            "2006-03-03T16:26:53Z",
+            "2006-03-03T16:26:54Z"
+        ],
+        "embeddedRelationshipId": [
+            "Padclamp.o",
+            "Pad.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

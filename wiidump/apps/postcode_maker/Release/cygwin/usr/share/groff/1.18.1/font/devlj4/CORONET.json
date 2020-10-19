@@ -1,0 +1,21 @@
+{
+    "CORONET": {
+        "modified": "2002-12-17 02:03:20",
+        "size": "5.68KB",
+        "md5": "79a6fff65fc5cacb8cf10b0ce4b13240",
+        "sha256": "ac1c49ac6b2f8a3102825a365c9c73b89e866a886cf0f57eb1733e30be9d0645"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CORONET'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Punct.pl": {
+        "modified": "2008-06-02 02:26:06",
+        "size": "1.19KB",
+        "md5": "7658e5880f058c0f0a8f5a61c042317a",
+        "sha256": "80b98922e7f632917ad7a17c2a80deda6f9a89e92eea09d79c9114d6e847fd62"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'Punct.pl'"
+    }
+}

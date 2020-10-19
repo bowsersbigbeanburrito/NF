@@ -1,0 +1,21 @@
+{
+    "A.pl": {
+        "modified": "2008-06-02 02:25:36",
+        "size": "1.6KB",
+        "md5": "c2f850f4dc36a9e91a9377f32740e1df",
+        "sha256": "8c3cc9d9af73c1ba1a78846087a402f1de23fa8c6fdedd10d27f80f94de48f66"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'A.pl'"
+    }
+}

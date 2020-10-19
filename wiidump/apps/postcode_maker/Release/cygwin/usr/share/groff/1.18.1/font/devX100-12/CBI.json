@@ -1,0 +1,21 @@
+{
+    "CBI": {
+        "modified": "2002-12-17 02:03:16",
+        "size": "3.03KB",
+        "md5": "b5d11a8579ef63b46903a9599337a57f",
+        "sha256": "ced978dc30c7fd26af94d5cc0c922e2bf7d1a25475b769008df988a015fa295e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CBI'"
+    }
+}

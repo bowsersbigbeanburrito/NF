@@ -1,0 +1,21 @@
+{
+    "simple.dlf": {
+        "modified": "2009-03-04 19:13:16",
+        "size": "0.37KB",
+        "md5": "30a2eedae9ac05ff66195a967f7d9dd1",
+        "sha256": "13acf706611d988b42dfd038f1c3931bfda6bda51e85218c5249dceda56b9e90"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'simple.dlf'"
+    }
+}

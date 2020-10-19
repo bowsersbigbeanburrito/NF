@@ -1,0 +1,143 @@
+{
+    "trk_udp_server.a": {
+        "modified": "2005-12-07 07:37:44",
+        "size": "28.05KB",
+        "md5": "708d21e48198fe987851d2661de2ad04",
+        "sha256": "ebcb57198ae0b3de05deac865fc2bb1d6b3a981b624d91ca0a03f508dea651d5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'trk_udp_server.a'",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/cc/udp/gc_server/CC_UDP_GC_Common.o",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.o",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/cc/udp/gc_server/CC_UDP_GC_Event.o",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/cc/udp/gc_server/Packet_Buffer.o"
+        ],
+        "Content-Length": [
+            "572",
+            "22856",
+            "1904",
+            "1336",
+            "1336"
+        ],
+        "Last-Modified": [
+            "2004-07-22T17:28:08Z",
+            "2003-03-11T15:34:54Z",
+            "2003-01-21T10:20:48Z",
+            "2003-02-11T14:40:40Z",
+            "2003-01-17T16:44:34Z"
+        ],
+        "Last-Save-Date": [
+            "2004-07-22T17:28:08Z",
+            "2003-03-11T15:34:54Z",
+            "2003-01-21T10:20:48Z",
+            "2003-02-11T14:40:40Z",
+            "2003-01-17T16:44:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/CC_UDP_GC_Common.o",
+            "/CircleBuffer.o",
+            "/CC_UDP_GC_Event.o",
+            "/Packet_Buffer.o"
+        ],
+        "date": [
+            "2004-07-22T17:28:08Z",
+            "2003-03-11T15:34:54Z",
+            "2003-01-21T10:20:48Z",
+            "2003-02-11T14:40:40Z",
+            "2003-01-17T16:44:34Z"
+        ],
+        "dcterms:modified": [
+            "2004-07-22T17:28:08Z",
+            "2003-03-11T15:34:54Z",
+            "2003-01-21T10:20:48Z",
+            "2003-02-11T14:40:40Z",
+            "2003-01-17T16:44:34Z"
+        ],
+        "meta:save-date": [
+            "2004-07-22T17:28:08Z",
+            "2003-03-11T15:34:54Z",
+            "2003-01-21T10:20:48Z",
+            "2003-02-11T14:40:40Z",
+            "2003-01-17T16:44:34Z"
+        ],
+        "modified": [
+            "2004-07-22T17:28:08Z",
+            "2003-03-11T15:34:54Z",
+            "2003-01-21T10:20:48Z",
+            "2003-02-11T14:40:40Z",
+            "2003-01-17T16:44:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/cc/udp/gc_server/CC_UDP_GC_Common.o",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.o",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/cc/udp/gc_server/CC_UDP_GC_Event.o",
+            "C:/Products/GCN/runtime_libs/gamedev/cust_connection/cc/udp/gc_server/Packet_Buffer.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

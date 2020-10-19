@@ -1,0 +1,20 @@
+{
+    "taint-i.yaml": {
+        "modified": "2008-05-08 21:11:40",
+        "size": "0.16KB",
+        "md5": "e8d5de0f1c66fba362c02fc8eff23dfe",
+        "sha256": "db60ef458752449525023d67d9c9e76e71db476c20ec67ed8fc8c148e29056d6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'taint-i.yaml'"
+    }
+}

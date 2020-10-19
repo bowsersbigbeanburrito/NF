@@ -1,0 +1,143 @@
+{
+    "dspD.a": {
+        "modified": "2006-03-04 18:20:40",
+        "size": "15.23KB",
+        "md5": "336cae7bccb32666747b769942e023c7",
+        "sha256": "c80fc1c577eeac6b4fb2c9fe86f11d0f4e4239ce3b1b4eb1ad84ea085dc0ac95"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'dspD.a'",
+            "dsp.o",
+            "dsp_debug.o",
+            "dsp_perf.o",
+            "dsp_task.o"
+        ],
+        "Content-Length": [
+            "586",
+            "5032",
+            "744",
+            "392",
+            "8536"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:14:39Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:38Z",
+            "2006-03-03T16:14:39Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:14:39Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:38Z",
+            "2006-03-03T16:14:39Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dsp.o",
+            "/dsp_debug.o",
+            "/dsp_perf.o",
+            "/dsp_task.o"
+        ],
+        "date": [
+            "2006-03-03T16:14:39Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:38Z",
+            "2006-03-03T16:14:39Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:14:39Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:38Z",
+            "2006-03-03T16:14:39Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:14:39Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:38Z",
+            "2006-03-03T16:14:39Z"
+        ],
+        "modified": [
+            "2006-03-03T16:14:39Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:37Z",
+            "2006-03-03T16:14:38Z",
+            "2006-03-03T16:14:39Z"
+        ],
+        "embeddedRelationshipId": [
+            "dsp.o",
+            "dsp_debug.o",
+            "dsp_perf.o",
+            "dsp_task.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

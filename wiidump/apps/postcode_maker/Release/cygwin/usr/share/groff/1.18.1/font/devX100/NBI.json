@@ -1,0 +1,21 @@
+{
+    "NBI": {
+        "modified": "2002-12-17 02:03:16",
+        "size": "2.92KB",
+        "md5": "68a963772e6bdb09535b2394a2465262",
+        "sha256": "0ff00e3423b6691ca864e5191b52923e6b62aa8c2cd472457a019d671d766b5c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'NBI'"
+    }
+}

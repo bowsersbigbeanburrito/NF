@@ -1,0 +1,75 @@
+{
+    "wpadEmuD.a": {
+        "modified": "2006-02-24 06:48:55",
+        "size": "43.12KB",
+        "md5": "1bb246ed5ee885fc2f25d09b803fb271",
+        "sha256": "6b90968ee13a88f92a486956335119ab566d674c87bbaf28786e8f3621628463"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'wpadEmuD.a'",
+            "wpadv3.o"
+        ],
+        "Content-Length": [
+            "1176",
+            "42856"
+        ],
+        "Last-Modified": [
+            "2006-02-21T15:09:30Z",
+            "2006-02-21T15:09:29Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-21T15:09:30Z",
+            "2006-02-21T15:09:29Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wpadv3.o"
+        ],
+        "date": [
+            "2006-02-21T15:09:30Z",
+            "2006-02-21T15:09:29Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-21T15:09:30Z",
+            "2006-02-21T15:09:29Z"
+        ],
+        "meta:save-date": [
+            "2006-02-21T15:09:30Z",
+            "2006-02-21T15:09:29Z"
+        ],
+        "modified": [
+            "2006-02-21T15:09:30Z",
+            "2006-02-21T15:09:29Z"
+        ],
+        "embeddedRelationshipId": "wpadv3.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

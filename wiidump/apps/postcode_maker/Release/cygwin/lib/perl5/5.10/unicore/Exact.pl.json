@@ -1,0 +1,21 @@
+{
+    "Exact.pl": {
+        "modified": "2008-06-02 02:25:30",
+        "size": "1.3KB",
+        "md5": "24a511e1ca388c12ed529224bdf6387e",
+        "sha256": "1d93cd6e8746cd07d46de41484cacb1bf2840ae4159ff462977acf159966aabc"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'Exact.pl'"
+    }
+}

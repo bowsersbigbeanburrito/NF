@@ -1,0 +1,103 @@
+{
+    "baseD.a": {
+        "modified": "2006-03-04 03:56:26",
+        "size": "4.97KB",
+        "md5": "c91cfa8fbea921c0d8b1c1e7bb0d380d",
+        "sha256": "d1f49c31f21744453ee02f4381d71ff366cce01480926fb954bbebfcad81be26"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'baseD.a'",
+            "PPCArch.o",
+            "PPCPm.o"
+        ],
+        "Content-Length": [
+            "747",
+            "2648",
+            "1504"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:31:44Z",
+            "2006-03-03T15:31:43Z",
+            "2006-03-03T15:31:44Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:31:44Z",
+            "2006-03-03T15:31:43Z",
+            "2006-03-03T15:31:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/PPCArch.o",
+            "/PPCPm.o"
+        ],
+        "date": [
+            "2006-03-03T15:31:44Z",
+            "2006-03-03T15:31:43Z",
+            "2006-03-03T15:31:44Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:31:44Z",
+            "2006-03-03T15:31:43Z",
+            "2006-03-03T15:31:44Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:31:44Z",
+            "2006-03-03T15:31:43Z",
+            "2006-03-03T15:31:44Z"
+        ],
+        "modified": [
+            "2006-03-03T15:31:44Z",
+            "2006-03-03T15:31:43Z",
+            "2006-03-03T15:31:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "PPCArch.o",
+            "PPCPm.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

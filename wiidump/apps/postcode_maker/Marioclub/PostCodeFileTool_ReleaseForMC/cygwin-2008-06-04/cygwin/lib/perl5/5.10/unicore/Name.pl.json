@@ -1,0 +1,21 @@
+{
+    "Name.pl": {
+        "modified": "2008-06-02 02:25:32",
+        "size": "586.86KB",
+        "md5": "9ff05130e37e3737ce5c2a7ec49b2dd8",
+        "sha256": "d3d8de34b584c6a2b6e9b4c15eb95d89fbca2e5dff60b4089b5aba5bced12b93"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "19",
+        "csv:delimiter": "tab",
+        "resourceName": "b'Name.pl'"
+    }
+}

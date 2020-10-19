@@ -1,0 +1,75 @@
+{
+    "db.a": {
+        "modified": "2006-03-04 03:58:43",
+        "size": "2.32KB",
+        "md5": "d11a031bf974c1be5c564cc41fb6285d",
+        "sha256": "1f85ec03ab86cdca43ac48f6bd593ce9b6b1a4e2a83c5a5eaacd6c31135d65a0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'db.a'",
+            "db.o"
+        ],
+        "Content-Length": [
+            "239",
+            "2008"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:21:54Z",
+            "2006-03-03T15:21:54Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:21:54Z",
+            "2006-03-03T15:21:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/db.o"
+        ],
+        "date": [
+            "2006-03-03T15:21:54Z",
+            "2006-03-03T15:21:54Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:21:54Z",
+            "2006-03-03T15:21:54Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:21:54Z",
+            "2006-03-03T15:21:54Z"
+        ],
+        "modified": [
+            "2006-03-03T15:21:54Z",
+            "2006-03-03T15:21:54Z"
+        ],
+        "embeddedRelationshipId": "db.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

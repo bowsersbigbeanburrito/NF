@@ -1,0 +1,103 @@
+{
+    "fs.a": {
+        "modified": "2006-03-22 17:18:28",
+        "size": "677.34KB",
+        "md5": "ef8fe0c088bba97128146b6d279d831b",
+        "sha256": "6170d2b435fa874bfdb61d0b65fc4bf095274ee7929a0550fb8984d9743377a0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'fs.a'",
+            "fs.o",
+            "fb.o"
+        ],
+        "Content-Length": [
+            "655",
+            "16408",
+            "676344"
+        ],
+        "Last-Modified": [
+            "2006-03-22T17:18:28Z",
+            "2006-03-22T17:18:28Z",
+            "2006-03-21T12:41:00Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-22T17:18:28Z",
+            "2006-03-22T17:18:28Z",
+            "2006-03-21T12:41:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fs.o",
+            "/fb.o"
+        ],
+        "date": [
+            "2006-03-22T17:18:28Z",
+            "2006-03-22T17:18:28Z",
+            "2006-03-21T12:41:00Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-22T17:18:28Z",
+            "2006-03-22T17:18:28Z",
+            "2006-03-21T12:41:00Z"
+        ],
+        "meta:save-date": [
+            "2006-03-22T17:18:28Z",
+            "2006-03-22T17:18:28Z",
+            "2006-03-21T12:41:00Z"
+        ],
+        "modified": [
+            "2006-03-22T17:18:28Z",
+            "2006-03-22T17:18:28Z",
+            "2006-03-21T12:41:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "fs.o",
+            "fb.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

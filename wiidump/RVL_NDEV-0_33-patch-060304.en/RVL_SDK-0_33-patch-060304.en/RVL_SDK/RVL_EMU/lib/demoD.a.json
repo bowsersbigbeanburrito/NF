@@ -1,0 +1,183 @@
+{
+    "demoD.a": {
+        "modified": "2006-03-04 03:58:43",
+        "size": "56.93KB",
+        "md5": "86d5c0d6ec61dc15568b979aee768840",
+        "sha256": "0249888b97cc7266a23cbc5e1f741c90fb0803eb1332e0a4696c1d1bac78f7ef"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'demoD.a'",
+            "DEMOInit.o",
+            "DEMOPuts.o",
+            "DEMOFont.o",
+            "DEMOPad.o",
+            "DEMOWin.o",
+            "DEMOAVX.o"
+        ],
+        "Content-Length": [
+            "1387",
+            "7480",
+            "12200",
+            "3592",
+            "3208",
+            "26288",
+            "3712"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:12:21Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:18Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:20Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:12:21Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:18Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/DEMOInit.o",
+            "/DEMOPuts.o",
+            "/DEMOFont.o",
+            "/DEMOPad.o",
+            "/DEMOWin.o",
+            "/DEMOAVX.o"
+        ],
+        "date": [
+            "2006-03-03T15:12:21Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:18Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:20Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:12:21Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:18Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:20Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:12:21Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:18Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:20Z"
+        ],
+        "modified": [
+            "2006-03-03T15:12:21Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:17Z",
+            "2006-03-03T15:12:18Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:19Z",
+            "2006-03-03T15:12:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "DEMOInit.o",
+            "DEMOPuts.o",
+            "DEMOFont.o",
+            "DEMOPad.o",
+            "DEMOWin.o",
+            "DEMOAVX.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

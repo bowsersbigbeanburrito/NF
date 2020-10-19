@@ -1,0 +1,183 @@
+{
+    "mem.a": {
+        "modified": "2006-03-04 04:00:25",
+        "size": "21.3KB",
+        "md5": "6fe0b3ed8be849ec7e6306e74e48a30c",
+        "sha256": "fdef93a8a56e19b534c7f4f45772dbb4809998701a112d5fc754aa1cdcdcb9b7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'mem.a'",
+            "mem_heapCommon.o",
+            "mem_expHeap.o",
+            "mem_frameHeap.o",
+            "mem_unitHeap.o",
+            "mem_allocator.o",
+            "mem_list.o"
+        ],
+        "Content-Length": [
+            "1414",
+            "5168",
+            "5672",
+            "3144",
+            "2000",
+            "2312",
+            "1592"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:05:09Z",
+            "2006-03-03T16:05:05Z",
+            "2006-03-03T16:05:06Z",
+            "2006-03-03T16:05:07Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:09Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:05:09Z",
+            "2006-03-03T16:05:05Z",
+            "2006-03-03T16:05:06Z",
+            "2006-03-03T16:05:07Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:09Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mem_heapCommon.o",
+            "/mem_expHeap.o",
+            "/mem_frameHeap.o",
+            "/mem_unitHeap.o",
+            "/mem_allocator.o",
+            "/mem_list.o"
+        ],
+        "date": [
+            "2006-03-03T16:05:09Z",
+            "2006-03-03T16:05:05Z",
+            "2006-03-03T16:05:06Z",
+            "2006-03-03T16:05:07Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:09Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:05:09Z",
+            "2006-03-03T16:05:05Z",
+            "2006-03-03T16:05:06Z",
+            "2006-03-03T16:05:07Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:09Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:05:09Z",
+            "2006-03-03T16:05:05Z",
+            "2006-03-03T16:05:06Z",
+            "2006-03-03T16:05:07Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:09Z"
+        ],
+        "modified": [
+            "2006-03-03T16:05:09Z",
+            "2006-03-03T16:05:05Z",
+            "2006-03-03T16:05:06Z",
+            "2006-03-03T16:05:07Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:08Z",
+            "2006-03-03T16:05:09Z"
+        ],
+        "embeddedRelationshipId": [
+            "mem_heapCommon.o",
+            "mem_expHeap.o",
+            "mem_frameHeap.o",
+            "mem_unitHeap.o",
+            "mem_allocator.o",
+            "mem_list.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

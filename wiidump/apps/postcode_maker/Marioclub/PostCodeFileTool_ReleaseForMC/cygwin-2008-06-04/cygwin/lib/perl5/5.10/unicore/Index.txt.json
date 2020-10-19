@@ -1,0 +1,21 @@
+{
+    "Index.txt": {
+        "modified": "2008-06-02 02:25:30",
+        "size": "143.37KB",
+        "md5": "4542d4ce7df6d369c1f721ce3285f054",
+        "sha256": "cd5fb06018da52b1c5cc54c12705f4f0f71d313d601f15df91421721a725728f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'Index.txt'"
+    }
+}

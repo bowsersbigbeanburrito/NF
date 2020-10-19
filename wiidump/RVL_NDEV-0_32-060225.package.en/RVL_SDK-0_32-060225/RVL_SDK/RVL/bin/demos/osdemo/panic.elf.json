@@ -1,0 +1,21 @@
+{
+    "panic.elf": {
+        "modified": "2006-02-24 20:06:38",
+        "size": "171.51KB",
+        "md5": "bc73d78955bd5a0f2c4b9dd939cf57ba",
+        "sha256": "1f898b3bce607bd2da6742e93ea1bd14d980165435d6701925354cd90abe6df6"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'panic.elf'"
+    }
+}

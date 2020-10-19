@@ -1,0 +1,21 @@
+{
+    "face.bmp": {
+        "modified": "2008-04-20 23:30:22",
+        "size": "12.42KB",
+        "md5": "72289219c6e1cf81933695ba5ac5ccbc",
+        "sha256": "4562864428e9ab64e7069a53df022d6b4e6b4bd6c5a56b8cbc22606e2b73bc15"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'face.bmp'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "TBI": {
+        "modified": "2002-12-17 02:03:16",
+        "size": "2.92KB",
+        "md5": "3fb54e282074f922b3f841a05f0caba4",
+        "sha256": "0e11b4afba2d6e7bc9dae36c20e36940f660b2478ca62329b21fe8e551b544e1"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'TBI'"
+    }
+}

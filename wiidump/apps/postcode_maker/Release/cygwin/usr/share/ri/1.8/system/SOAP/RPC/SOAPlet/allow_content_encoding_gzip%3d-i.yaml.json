@@ -1,0 +1,20 @@
+{
+    "allow_content_encoding_gzip%3d-i.yaml": {
+        "modified": "2008-05-08 21:12:18",
+        "size": "0.22KB",
+        "md5": "0dda3f7c20fc5b0120c5e8e4d5793aaf",
+        "sha256": "616bbefd05c015e2f25c8cb4147486463bc082d9dc4ba927a6cfc4ec20befee0"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'allow_content_encoding_gzip%3d-i.yaml'"
+    }
+}

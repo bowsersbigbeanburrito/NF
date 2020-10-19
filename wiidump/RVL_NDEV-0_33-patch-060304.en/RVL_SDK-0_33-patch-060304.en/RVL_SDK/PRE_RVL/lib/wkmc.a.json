@@ -1,0 +1,75 @@
+{
+    "wkmc.a": {
+        "modified": "2006-03-04 03:56:29",
+        "size": "9.72KB",
+        "md5": "8080602265dece7d3d1eb73da483abdc",
+        "sha256": "1d4fa33219114b5f122be077eecf2678d426e574ddf685ec09a7ca90fdb009fc"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'wkmc.a'",
+            "wkmc.o"
+        ],
+        "Content-Length": [
+            "132",
+            "9696"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:45:43Z",
+            "2006-03-03T15:45:42Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:45:43Z",
+            "2006-03-03T15:45:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wkmc.o"
+        ],
+        "date": [
+            "2006-03-03T15:45:43Z",
+            "2006-03-03T15:45:42Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:45:43Z",
+            "2006-03-03T15:45:42Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:45:43Z",
+            "2006-03-03T15:45:42Z"
+        ],
+        "modified": [
+            "2006-03-03T15:45:43Z",
+            "2006-03-03T15:45:42Z"
+        ],
+        "embeddedRelationshipId": "wkmc.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "ipc.a": {
+        "modified": "2006-03-21 12:40:34",
+        "size": "19.64KB",
+        "md5": "635dddd47a2b8692b912be1005271636",
+        "sha256": "2aa8e6f25705fa447280a4ca20c0a4b67cf20f54104f924c6390ccd31a56def4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ipc.a'",
+            "ipcMain.o",
+            "ipcclt.o"
+        ],
+        "Content-Length": [
+            "377",
+            "1424",
+            "18120"
+        ],
+        "Last-Modified": [
+            "2006-03-21T12:40:32Z",
+            "2006-03-21T12:40:31Z",
+            "2006-03-21T12:40:32Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-21T12:40:32Z",
+            "2006-03-21T12:40:31Z",
+            "2006-03-21T12:40:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ipcMain.o",
+            "/ipcclt.o"
+        ],
+        "date": [
+            "2006-03-21T12:40:32Z",
+            "2006-03-21T12:40:31Z",
+            "2006-03-21T12:40:32Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-21T12:40:32Z",
+            "2006-03-21T12:40:31Z",
+            "2006-03-21T12:40:32Z"
+        ],
+        "meta:save-date": [
+            "2006-03-21T12:40:32Z",
+            "2006-03-21T12:40:31Z",
+            "2006-03-21T12:40:32Z"
+        ],
+        "modified": [
+            "2006-03-21T12:40:32Z",
+            "2006-03-21T12:40:31Z",
+            "2006-03-21T12:40:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "ipcMain.o",
+            "ipcclt.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

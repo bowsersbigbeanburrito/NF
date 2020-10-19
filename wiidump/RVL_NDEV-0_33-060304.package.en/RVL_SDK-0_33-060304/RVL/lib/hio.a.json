@@ -1,0 +1,75 @@
+{
+    "hio.a": {
+        "modified": "2006-03-04 18:20:40",
+        "size": "9.75KB",
+        "md5": "46ae68139ecb9df7208c2d81c0b039d3",
+        "sha256": "b82aa46beb8db277bb56d85fa151580a41c9828a7ed1910649a08bcbb03182af"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'hio.a'",
+            "hio.o"
+        ],
+        "Content-Length": [
+            "183",
+            "9672"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:28:04Z",
+            "2006-03-03T16:28:03Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:28:04Z",
+            "2006-03-03T16:28:03Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/hio.o"
+        ],
+        "date": [
+            "2006-03-03T16:28:04Z",
+            "2006-03-03T16:28:03Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:28:04Z",
+            "2006-03-03T16:28:03Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:28:04Z",
+            "2006-03-03T16:28:03Z"
+        ],
+        "modified": [
+            "2006-03-03T16:28:04Z",
+            "2006-03-03T16:28:03Z"
+        ],
+        "embeddedRelationshipId": "hio.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

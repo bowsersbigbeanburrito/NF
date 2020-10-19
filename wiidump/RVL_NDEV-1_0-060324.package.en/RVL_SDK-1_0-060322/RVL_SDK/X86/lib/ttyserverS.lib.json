@@ -1,0 +1,97 @@
+{
+    "ttyserverS.lib": {
+        "modified": "2006-03-22 16:58:48",
+        "size": "5.25KB",
+        "md5": "c4696374ac61de945ec18297250ec6b5",
+        "sha256": "e864db7cc9bc2119d5637735632d936195a2200fd57a8d7cf756b6b5f22379b0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'ttyserverS.lib'",
+            "./Release/ttyserver.obj",
+            "./Release/dpci.obj"
+        ],
+        "Content-Length": [
+            "101",
+            "103",
+            "3592",
+            "1226"
+        ],
+        "Last-Modified": [
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:45Z",
+            "2006-03-22T07:58:47Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:45Z",
+            "2006-03-22T07:58:47Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/embedded-2",
+            "/ttyserver.obj",
+            "/dpci.obj"
+        ],
+        "date": [
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:45Z",
+            "2006-03-22T07:58:47Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:45Z",
+            "2006-03-22T07:58:47Z"
+        ],
+        "meta:save-date": [
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:45Z",
+            "2006-03-22T07:58:47Z"
+        ],
+        "modified": [
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:47Z",
+            "2006-03-22T07:58:45Z",
+            "2006-03-22T07:58:47Z"
+        ],
+        "embeddedRelationshipId": [
+            "./Release/ttyserver.obj",
+            "./Release/dpci.obj"
+        ]
+    }
+}

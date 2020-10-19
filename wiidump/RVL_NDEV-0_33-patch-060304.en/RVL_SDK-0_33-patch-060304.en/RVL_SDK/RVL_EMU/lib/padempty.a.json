@@ -1,0 +1,75 @@
+{
+    "padempty.a": {
+        "modified": "2006-03-04 03:58:46",
+        "size": "2.4KB",
+        "md5": "b013dcc4fd97af346f48367b44f7298f",
+        "sha256": "265b20833135162d1a86ce69c4522a5480a828350717128dac9f4f0cf2f56d50"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'padempty.a'",
+            "PADEmpty.o"
+        ],
+        "Content-Length": [
+            "392",
+            "1936"
+        ],
+        "Last-Modified": [
+            "2006-03-03T15:23:09Z",
+            "2006-03-03T15:23:08Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T15:23:09Z",
+            "2006-03-03T15:23:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/PADEmpty.o"
+        ],
+        "date": [
+            "2006-03-03T15:23:09Z",
+            "2006-03-03T15:23:08Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T15:23:09Z",
+            "2006-03-03T15:23:08Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T15:23:09Z",
+            "2006-03-03T15:23:08Z"
+        ],
+        "modified": [
+            "2006-03-03T15:23:09Z",
+            "2006-03-03T15:23:08Z"
+        ],
+        "embeddedRelationshipId": "PADEmpty.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

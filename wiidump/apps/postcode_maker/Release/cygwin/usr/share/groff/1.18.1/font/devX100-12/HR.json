@@ -1,0 +1,21 @@
+{
+    "HR": {
+        "modified": "2002-12-17 02:03:16",
+        "size": "2.92KB",
+        "md5": "4a158730cf7feaa5279b3decfa4bd9b2",
+        "sha256": "1f95cc3922a7f6521e15269c44c5a331895529eecde3486416d300d0d91d8f32"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'HR'"
+    }
+}

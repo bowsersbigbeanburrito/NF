@@ -1,0 +1,75 @@
+{
+    "euart.a": {
+        "modified": "2006-03-04 18:20:40",
+        "size": "3.72KB",
+        "md5": "936649ef12f0105347382ada6ca99c7e",
+        "sha256": "c1f303e8eb3fbd9c4ed7fb841431946ba4823dacde672c9735df0725962498da"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'euart.a'",
+            "euart.o"
+        ],
+        "Content-Length": [
+            "156",
+            "3528"
+        ],
+        "Last-Modified": [
+            "2006-03-03T16:28:02Z",
+            "2006-03-03T16:28:02Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-03T16:28:02Z",
+            "2006-03-03T16:28:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/euart.o"
+        ],
+        "date": [
+            "2006-03-03T16:28:02Z",
+            "2006-03-03T16:28:02Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-03T16:28:02Z",
+            "2006-03-03T16:28:02Z"
+        ],
+        "meta:save-date": [
+            "2006-03-03T16:28:02Z",
+            "2006-03-03T16:28:02Z"
+        ],
+        "modified": [
+            "2006-03-03T16:28:02Z",
+            "2006-03-03T16:28:02Z"
+        ],
+        "embeddedRelationshipId": "euart.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

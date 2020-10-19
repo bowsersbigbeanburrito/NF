@@ -1,0 +1,21 @@
+{
+    "simple.elf": {
+        "modified": "2006-03-22 18:14:00",
+        "size": "243.64KB",
+        "md5": "834782dd9c557167859cbc20298f2ffa",
+        "sha256": "b0055b9a1cbfd271a79f15d34f7cbed6a7293719b730b8493fb2da7c092bb85d"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'simple.elf'"
+    }
+}

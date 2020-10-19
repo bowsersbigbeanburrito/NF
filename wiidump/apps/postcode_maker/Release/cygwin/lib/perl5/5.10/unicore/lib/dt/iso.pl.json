@@ -1,0 +1,21 @@
+{
+    "iso.pl": {
+        "modified": "2008-06-02 02:25:36",
+        "size": "0.89KB",
+        "md5": "2caaf2e9cd1d34f5f6344b65940ee1d9",
+        "sha256": "f0364b3a80f2f1fcbdfea89ab557f839a62bc6a285fa05dbd438127631535a8f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso.pl'"
+    }
+}

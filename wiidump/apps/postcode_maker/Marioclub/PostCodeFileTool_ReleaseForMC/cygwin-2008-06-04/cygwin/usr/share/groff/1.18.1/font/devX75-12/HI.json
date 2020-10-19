@@ -1,0 +1,21 @@
+{
+    "HI": {
+        "modified": "2002-12-17 02:03:14",
+        "size": "2.76KB",
+        "md5": "52dd5ac3e5540a9dc4bb4fc05b2ef357",
+        "sha256": "85727b7befa4fda590e41c9528a23a3ee60385c79fcf4da5b05797ca55c43a31"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'HI'"
+    }
+}

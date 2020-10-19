@@ -1,0 +1,123 @@
+{
+    "MSL_Extras.PPCEABI.bare.H.a": {
+        "modified": "2006-02-20 12:07:54",
+        "size": "9.39KB",
+        "md5": "a6ea38821f88ed7c41eb998aec44cc79",
+        "sha256": "f692b184e879baaec2fb6fbe5ccbe732eb7fc1456387b3bde72f7315dd1f8543"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'MSL_Extras.PPCEABI.bare.H.a'",
+            "C:/Program Files/Metrowerks/CW_GCN_3.0_Alpha3/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o",
+            "C:/Program Files/Metrowerks/CW_GCN_3.0_Alpha3/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o",
+            "C:/Program Files/Metrowerks/CW_GCN_3.0_Alpha3/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o"
+        ],
+        "Content-Length": [
+            "600",
+            "7024",
+            "696",
+            "680"
+        ],
+        "Last-Modified": [
+            "2006-02-20T13:07:52Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-20T13:07:52Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/extras.o",
+            "/stat.o",
+            "/stdio_posix.o"
+        ],
+        "date": [
+            "2006-02-20T13:07:52Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-20T13:07:52Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "meta:save-date": [
+            "2006-02-20T13:07:52Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "modified": [
+            "2006-02-20T13:07:52Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "C:/Program Files/Metrowerks/CW_GCN_3.0_Alpha3/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o",
+            "C:/Program Files/Metrowerks/CW_GCN_3.0_Alpha3/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o",
+            "C:/Program Files/Metrowerks/CW_GCN_3.0_Alpha3/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

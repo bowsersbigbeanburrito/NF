@@ -1,0 +1,21 @@
+{
+    "HBI": {
+        "modified": "2002-12-17 02:03:16",
+        "size": "2.88KB",
+        "md5": "491f70e5c3fa29c83253762a323b97a5",
+        "sha256": "7cd19536a09914a8c46110621ad0c1fda06cc42bb0ad286d2b83a19d1a80a14b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'HBI'"
+    }
+}

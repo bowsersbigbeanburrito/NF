@@ -1,0 +1,21 @@
+{
+    "exp-1.elf": {
+        "modified": "2006-03-22 18:10:06",
+        "size": "149.2KB",
+        "md5": "7499c6755599451552ab3c34e31764bd",
+        "sha256": "356725dda81457ed96820deb2c9d857fa658f10f8738b31125a4131a6936e5df"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'exp-1.elf'"
+    }
+}

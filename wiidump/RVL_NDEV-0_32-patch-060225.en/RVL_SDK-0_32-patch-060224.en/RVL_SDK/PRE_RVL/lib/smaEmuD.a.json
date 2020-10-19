@@ -1,0 +1,75 @@
+{
+    "smaEmuD.a": {
+        "modified": "2006-02-24 06:44:49",
+        "size": "11.77KB",
+        "md5": "a08fa81f988b605a20028b0ad6a40035",
+        "sha256": "00e7609c6dcaa771d44ae00cbc33e2c7a939c2f1b4912e653c68e183b489acfb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'smaEmuD.a'",
+            "SMAEMU.o"
+        ],
+        "Content-Length": [
+            "214",
+            "11712"
+        ],
+        "Last-Modified": [
+            "2006-02-21T15:32:34Z",
+            "2006-02-21T15:32:33Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-21T15:32:34Z",
+            "2006-02-21T15:32:33Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/SMAEMU.o"
+        ],
+        "date": [
+            "2006-02-21T15:32:34Z",
+            "2006-02-21T15:32:33Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-21T15:32:34Z",
+            "2006-02-21T15:32:33Z"
+        ],
+        "meta:save-date": [
+            "2006-02-21T15:32:34Z",
+            "2006-02-21T15:32:33Z"
+        ],
+        "modified": [
+            "2006-02-21T15:32:34Z",
+            "2006-02-21T15:32:33Z"
+        ],
+        "embeddedRelationshipId": "SMAEMU.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

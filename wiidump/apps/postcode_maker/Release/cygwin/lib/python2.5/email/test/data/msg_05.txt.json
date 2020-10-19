@@ -1,0 +1,32 @@
+{
+    "msg_05.txt": {
+        "modified": "2007-05-19 06:01:30",
+        "size": "0.54KB",
+        "md5": "0e05fa635ef13e72c6ef864f69a3a913",
+        "sha256": "845bca9a59de1959c1501cbc1f2c90fa9ab73a38653175fe94073c012fa555b1"
+    },
+    "Metadata": {
+        "Author": "foo",
+        "Content-Type": "message/rfc822",
+        "Message-From": "foo",
+        "Message-To": "baz",
+        "Message:From-Name": "foo",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-Id": "<20010803162810.0CA8AA7ACC@mail.example.com>",
+        "Multipart-Boundary": "D1690A7AC1.996856090/mail.example.com",
+        "Multipart-Subtype": "report",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "foo",
+        "dc:creator": "foo",
+        "dc:title": "bar",
+        "meta:author": "foo",
+        "resourceName": "b'msg_05.txt'",
+        "subject": "bar"
+    }
+}

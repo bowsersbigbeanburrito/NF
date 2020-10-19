@@ -1,0 +1,338 @@
+{
+    "msg_43.txt": {
+        "modified": "2007-05-19 06:01:34",
+        "size": "8.95KB",
+        "md5": "93992f3bebc941e5c45a95ffb6a29799",
+        "sha256": "045797ff45987136a2a5712f8f8310710e0944e4b4547bab2dc99933edd1bc9a"
+    },
+    "Metadata": {
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1",
+            "us-ascii"
+        ],
+        "Content-Type": [
+            "application/mbox",
+            "text/plain; charset=ISO-8859-1",
+            "message/rfc822",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1",
+            "2"
+        ],
+        "resourceName": "b'msg_43.txt'",
+        "Content-Disposition": [
+            "inline",
+            "inline"
+        ],
+        "Multipart-Boundary": [
+            "----------=_1101526904-1956-5",
+            "====67bd2b7a5.f99f7",
+            "----------=_1101526904-1956-5"
+        ],
+        "Multipart-Subtype": [
+            "report",
+            "mixed",
+            "report"
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1/embedded-2",
+            "/embedded-1/embedded-3",
+            "/embedded-1"
+        ],
+        "embeddedResourceType": [
+            "INLINE",
+            "INLINE"
+        ],
+        "Author": [
+            "webmaster@python.org",
+            [
+                "webmaster@python.org",
+                "MAILER DAEMON <>",
+                ">"
+            ]
+        ],
+        "Creation-Date": [
+            "2004-11-27T03:35:30Z",
+            "2004-11-27T03:41:44Z"
+        ],
+        "Message-From": [
+            "webmaster@python.org",
+            [
+                "MAILER DAEMON <>",
+                ">"
+            ]
+        ],
+        "Message-To": [
+            "xxxxx@dot.ca.gov",
+            [
+                "<webmaster@python.org>",
+                "xxxxx@dot.ca.gov",
+                "webmaster@python.org"
+            ]
+        ],
+        "Message:From-Email": [
+            "webmaster@python.org",
+            "webmaster@python.org"
+        ],
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Importance": "Normal",
+        "Message:Raw-Header:MIME-Version": [
+            "1.0",
+            "1.0"
+        ],
+        "Message:Raw-Header:Message-ID": "<edab.7804f5cb8070@python.org>",
+        "Message:Raw-Header:Received": "from kgsav.org (ppp-70-242-162-63.dsl.spfdmo.swbell.net [70.242.162.63])\tby sacspam01.dot.ca.gov (Spam Firewall) with SMTP\tid A232AD03DE3A; Fri, 26 Nov 2004 19:41:35 -0800 (PST)",
+        "Message:Raw-Header:X-MSMail-Priority": "Normal",
+        "Message:Raw-Header:X-Priority": "3 (Normal)",
+        "creator": [
+            "webmaster@python.org",
+            [
+                "webmaster@python.org",
+                "MAILER DAEMON <>",
+                ">"
+            ]
+        ],
+        "dc:creator": [
+            "webmaster@python.org",
+            [
+                "webmaster@python.org",
+                "MAILER DAEMON <>",
+                ">"
+            ]
+        ],
+        "dc:title": [
+            "Delivery_failure_notice",
+            "Banned file: auto__mail.python.bat in mail from you"
+        ],
+        "dcterms:created": [
+            "2004-11-27T03:35:30Z",
+            "2004-11-27T03:41:44Z"
+        ],
+        "meta:author": [
+            "webmaster@python.org",
+            [
+                "webmaster@python.org",
+                "MAILER DAEMON <>",
+                ">"
+            ]
+        ],
+        "meta:creation-date": [
+            "2004-11-27T03:35:30Z",
+            "2004-11-27T03:41:44Z"
+        ],
+        "subject": [
+            "Delivery_failure_notice",
+            "Banned file: auto__mail.python.bat in mail from you"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "MboxParser-action": [
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed",
+            "failed"
+        ],
+        "MboxParser-arrival-date": "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+        "MboxParser-content-description": [
+            "Delivery error report",
+            "Undelivered-message headers"
+        ],
+        "MboxParser-content-disposition": [
+            "inline",
+            "inline",
+            "inline"
+        ],
+        "MboxParser-content-transfer-encoding": [
+            "7bit",
+            "7bit",
+            "7bit",
+            "7bit"
+        ],
+        "MboxParser-diagnostic-code": [
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat",
+            "smtp; 550 5.7.1 Message content rejected, id=01956-02-2 - BANNED: auto__mail.python.bat"
+        ],
+        "MboxParser-final-recipient": [
+            "rfc822; xxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxx@dot.ca.gov",
+            "rfc822; xxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxx@dot.ca.gov",
+            "rfc822; xxx@dot.ca.gov",
+            "rfc822; xxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxxxxx@dot.ca.gov",
+            "rfc822; xxxxxxx@dot.ca.gov"
+        ],
+        "MboxParser-from": "SRS0=aO/p=ON=bag.python.org=None@bounce2.pobox.com  Fri Nov 26 21:40:36 2004",
+        "MboxParser-importance": "Normal",
+        "MboxParser-last-attempt-date": [
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)",
+            "Fri, 26 Nov 2004 19:41:44 -0800 (PST)"
+        ],
+        "MboxParser-mime-version": [
+            "1.0 boundary=\"----------=_1101526904-1956-5\"",
+            "1.0"
+        ],
+        "MboxParser-received": "from kgsav.org (ppp-70-242-162-63.dsl.spfdmo.swbell.net [70.242.162.63])",
+        "MboxParser-received-from-mta": "smtp; sacspam01.dot.ca.gov ([127.0.0.1])",
+        "MboxParser-reporting-mta": "dns; sacspam01.dot.ca.gov",
+        "MboxParser-status": [
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1",
+            "5.7.1"
+        ],
+        "MboxParser-x-msmail-priority": "Normal",
+        "MboxParser-x-priority": "3 (Normal)",
+        "MboxParser-x-uidl": "4\\G!!!<c\"!UV[\"!M7C!!",
+        "MboxParser-x-virus-scanned": "by XS4ALL Virus Scanner",
+        "MboxParser-x-vm-v5-data": "([nil nil nil nil nil nil nil nil nil] [nil nil nil nil nil nil nil \"MAILER DAEMON <>\" \"MAILER DAEMON <>\" nil nil \"Banned file: auto__mail.python.bat in mail from you\" \"^From:\" nil nil nil nil \"Banned file: auto__mail.python.bat in mail from you\" nil nil nil nil nil nil nil] nil) charset=utf-8;",
+        "Message-Recipient-Address": [
+            "webmaster@python.org",
+            "xxxxx@dot.ca.gov"
+        ],
+        "Message:From-Name": "MAILER DAEMON",
+        "Message:Raw-Header:Message-Id": "<edab.7804f5cb8070@python.org>",
+        "Message:Raw-Header:X-UIDL": "4\\G!!!<c\"!UV[\"!M7C!!",
+        "Message:Raw-Header:X-VM-v5-Data": "([nil nil nil nil nil nil nil nil nil]\t[nil nil nil nil nil nil nil \"MAILER DAEMON <>\" \"MAILER DAEMON <>\" nil nil \"Banned file: auto__mail.python.bat in mail from you\" \"^From:\" nil nil nil nil \"Banned file: auto__mail.python.bat in mail from you\" nil nil nil nil nil nil nil]\tnil)",
+        "Message:Raw-Header:X-Virus-Scanned": "by XS4ALL Virus Scanner",
+        "dc:format": "multipart/mixed; boundary=\"====67bd2b7a5.f99f7\"",
+        "dc:identifier": "<edab.7804f5cb8070@python.org>",
+        "format": "multipart/mixed; boundary=\"====67bd2b7a5.f99f7\"",
+        "identifier": "<edab.7804f5cb8070@python.org>"
+    }
+}
