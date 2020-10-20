@@ -1,0 +1,170 @@
+{
+    "libmp3.a": {
+        "modified": "2006-08-09 12:37:28",
+        "size": "41.92KB",
+        "md5": "cf88b306ad282d814e15937d9d40d999",
+        "sha256": "ae2b23366dd78b4c4b143f95c38d0ac7154b92bd03756d19a3040242c43aed44"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libmp3.a'",
+            "mp3dec_vsofts.o",
+            "mp3.o",
+            "mp3utils.o",
+            "mp3dec_thread.o",
+            "mp3_lib.o"
+        ],
+        "Content-Length": [
+            "732",
+            "2968",
+            "15208",
+            "17052",
+            "4324",
+            "2276"
+        ],
+        "Last-Modified": [
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:27Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:27Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mp3dec_vsofts.o",
+            "/mp3.o",
+            "/mp3utils.o",
+            "/mp3dec_thread.o",
+            "/mp3_lib.o"
+        ],
+        "date": [
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:27Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:27Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z"
+        ],
+        "meta:save-date": [
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:27Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z"
+        ],
+        "modified": [
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:27Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z",
+            "2006-08-09T19:37:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "mp3dec_vsofts.o",
+            "mp3.o",
+            "mp3utils.o",
+            "mp3dec_thread.o",
+            "mp3_lib.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

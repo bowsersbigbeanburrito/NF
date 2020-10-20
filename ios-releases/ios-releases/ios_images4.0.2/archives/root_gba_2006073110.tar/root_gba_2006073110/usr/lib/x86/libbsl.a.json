@@ -1,0 +1,143 @@
+{
+    "libbsl.a": {
+        "modified": "2006-07-31 10:01:09",
+        "size": "63.04KB",
+        "md5": "6644a52001faca1d9315c45b587e465f",
+        "sha256": "f48eb9b7345ec5d59aa1cea880f688d83af5a02394eb1a4b2dfce22ae8d652bc"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libbsl.a'",
+            "keystore.o",
+            "bslutils.o",
+            "bsl.o",
+            "prng.o"
+        ],
+        "Content-Length": [
+            "1104",
+            "13660",
+            "11772",
+            "31476",
+            "6236"
+        ],
+        "Last-Modified": [
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:09Z"
+        ],
+        "Last-Save-Date": [
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:09Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/keystore.o",
+            "/bslutils.o",
+            "/bsl.o",
+            "/prng.o"
+        ],
+        "date": [
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:09Z"
+        ],
+        "dcterms:modified": [
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:09Z"
+        ],
+        "meta:save-date": [
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:09Z"
+        ],
+        "modified": [
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:08Z",
+            "2006-07-31T17:01:09Z",
+            "2006-07-31T17:01:09Z"
+        ],
+        "embeddedRelationshipId": [
+            "keystore.o",
+            "bslutils.o",
+            "bsl.o",
+            "prng.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

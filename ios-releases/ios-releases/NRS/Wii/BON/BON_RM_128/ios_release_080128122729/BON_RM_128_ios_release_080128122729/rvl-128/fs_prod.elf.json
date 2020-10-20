@@ -1,0 +1,22 @@
+{
+    "fs_prod.elf": {
+        "modified": "2008-01-28 12:03:16",
+        "size": "85.62KB",
+        "md5": "db219fb20fb26e64bd83c406bd7af4f2",
+        "sha256": "ca48ca8faac70636d835455cffb7d21953cd2933dd155fdf92252226d3e25164"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'fs_prod.elf'"
+    }
+}

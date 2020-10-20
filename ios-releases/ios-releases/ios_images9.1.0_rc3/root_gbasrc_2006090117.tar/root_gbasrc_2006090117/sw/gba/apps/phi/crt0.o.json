@@ -1,0 +1,22 @@
+{
+    "crt0.o": {
+        "modified": "2006-09-01 17:11:34",
+        "size": "29.05KB",
+        "md5": "b2d02f5aec1e1a1c9855630bae3b8774",
+        "sha256": "281ccffa8004906a8732ac33c03574471bb41270599a4400db1087980535b4db"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'crt0.o'"
+    }
+}

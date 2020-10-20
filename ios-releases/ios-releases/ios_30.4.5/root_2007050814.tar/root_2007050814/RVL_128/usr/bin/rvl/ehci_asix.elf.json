@@ -1,0 +1,22 @@
+{
+    "ehci_asix.elf": {
+        "modified": "2007-05-08 14:15:55",
+        "size": "91.67KB",
+        "md5": "057798e08c8faf5ffe5c73f46aa2b14a",
+        "sha256": "859aefd18c6f3a2024fd0f062f69f545fe5d7297bf026463c05f3176b9d4365b"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_asix.elf'"
+    }
+}

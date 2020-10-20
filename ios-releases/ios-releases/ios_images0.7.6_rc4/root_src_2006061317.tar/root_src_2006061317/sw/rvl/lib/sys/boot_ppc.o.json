@@ -1,0 +1,22 @@
+{
+    "boot_ppc.o": {
+        "modified": "2006-06-13 14:23:00",
+        "size": "1.1KB",
+        "md5": "4fcc6a675b6b84a6053a18e17cfca1a6",
+        "sha256": "2e3bfe372c6ad9f852b9e748d6041570b24aae467cec420d67b51c10d54ac268"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot_ppc.o'"
+    }
+}

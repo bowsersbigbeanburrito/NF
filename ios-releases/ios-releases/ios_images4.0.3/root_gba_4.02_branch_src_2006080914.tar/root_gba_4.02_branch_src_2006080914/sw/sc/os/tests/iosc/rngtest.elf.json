@@ -1,0 +1,22 @@
+{
+    "rngtest.elf": {
+        "modified": "2006-08-09 12:45:25",
+        "size": "75.47KB",
+        "md5": "5f9e0a834c7cc74548187cb172f9ea60",
+        "sha256": "5d5867ada68b88b004ed0e9c3fe5f058fb2494522cb7ab6554b4f1b2767b89dc"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'rngtest.elf'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ehci_flash.elf": {
+        "modified": "2007-05-09 19:57:19",
+        "size": "86.75KB",
+        "md5": "b60a71babdb443a5413f1603f2006674",
+        "sha256": "adafb90f410817013b9d3a3ce865b39734c13ea19e7725459362de9e34d2bac6"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_flash.elf'"
+    }
+}

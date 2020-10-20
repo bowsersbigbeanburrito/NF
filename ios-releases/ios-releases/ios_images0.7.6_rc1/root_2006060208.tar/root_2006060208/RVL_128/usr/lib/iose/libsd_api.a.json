@@ -1,0 +1,75 @@
+{
+    "libsd_api.a": {
+        "modified": "2006-06-02 08:15:11",
+        "size": "23.72KB",
+        "md5": "d893289c274e1dfa759e11ff47dad02e",
+        "sha256": "67b9f0265f0a113cbb40901d4dced844754883c8878bee97abe670b8f3e90ad6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libsd_api.a'",
+            "sd_api.o"
+        ],
+        "Content-Length": [
+            "604",
+            "23556"
+        ],
+        "Last-Modified": [
+            "2006-06-02T15:15:11Z",
+            "2006-06-02T15:15:11Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-02T15:15:11Z",
+            "2006-06-02T15:15:11Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sd_api.o"
+        ],
+        "date": [
+            "2006-06-02T15:15:11Z",
+            "2006-06-02T15:15:11Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-02T15:15:11Z",
+            "2006-06-02T15:15:11Z"
+        ],
+        "meta:save-date": [
+            "2006-06-02T15:15:11Z",
+            "2006-06-02T15:15:11Z"
+        ],
+        "modified": [
+            "2006-06-02T15:15:11Z",
+            "2006-06-02T15:15:11Z"
+        ],
+        "embeddedRelationshipId": "sd_api.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "boot1_old.list": {
+        "modified": "2006-06-13 14:30:49",
+        "size": "156.31KB",
+        "md5": "279e3232eb6c83d06f3fef3fbb4881e0",
+        "sha256": "89ecb0f0b66c93ba677c0e2883c19e94266814d4ee1d54b2a1da22439a8f0f2c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "tab",
+        "resourceName": "b'boot1_old.list'"
+    }
+}

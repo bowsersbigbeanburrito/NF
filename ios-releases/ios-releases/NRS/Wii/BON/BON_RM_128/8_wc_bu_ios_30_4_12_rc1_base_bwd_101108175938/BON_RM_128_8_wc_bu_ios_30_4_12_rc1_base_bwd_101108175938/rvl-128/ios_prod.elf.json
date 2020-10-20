@@ -1,0 +1,22 @@
+{
+    "ios_prod.elf": {
+        "modified": "2010-11-08 18:06:57",
+        "size": "205.53KB",
+        "md5": "696d676a2c9e6f910bd05c6886ca7379",
+        "sha256": "a69c139646aee0373493dc6c7156f71224daf45d935f1b3a239c9e4155f1e88f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ios_prod.elf'"
+    }
+}

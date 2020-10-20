@@ -1,0 +1,22 @@
+{
+    "memchecktest.elf": {
+        "modified": "2006-08-13 17:29:57",
+        "size": "76.46KB",
+        "md5": "6b5fefb4950f9af13c617f4d3db60f61",
+        "sha256": "93d332ee0ede319c9e9b97eb296ad9f3f545e633ff08f2aa245ce348dbb8efcf"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'memchecktest.elf'"
+    }
+}

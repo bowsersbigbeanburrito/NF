@@ -1,0 +1,149 @@
+{
+    "libintfs.a": {
+        "modified": "2006-08-13 17:22:10",
+        "size": "32.86KB",
+        "md5": "4a49afda8bace1699856f904b58d7765",
+        "sha256": "b90ff08f8f1838f6953708d4f1de7b16941155a5f97fecfb7e9ea1a91f8e2896"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libintfs.a'",
+            "fl_ops.o",
+            "fs_block.o",
+            "fs_fat.o",
+            "fs_ops.o"
+        ],
+        "Content-Length": [
+            "820",
+            "9700",
+            "2504",
+            "3220",
+            "17092"
+        ],
+        "Last-Modified": [
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fl_ops.o",
+            "/fs_block.o",
+            "/fs_fat.o",
+            "/fs_ops.o"
+        ],
+        "date": [
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z"
+        ],
+        "meta:save-date": [
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z"
+        ],
+        "modified": [
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z",
+            "2006-08-14T00:22:09Z"
+        ],
+        "embeddedRelationshipId": [
+            "fl_ops.o",
+            "fs_block.o",
+            "fs_fat.o",
+            "fs_ops.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

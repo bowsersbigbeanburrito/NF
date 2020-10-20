@@ -1,0 +1,22 @@
+{
+    "fiq.elf": {
+        "modified": "2006-09-01 17:11:31",
+        "size": "44.01KB",
+        "md5": "08eae1ecb1975f753ce12e27049463a8",
+        "sha256": "c6def6f7fe3a55ce521a495219c1db5923e31d11aebb64a93608c2232b73a320"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'fiq.elf'"
+    }
+}

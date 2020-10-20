@@ -1,0 +1,22 @@
+{
+    "eccreftest.elf": {
+        "modified": "2006-08-13 17:29:57",
+        "size": "75.43KB",
+        "md5": "3ee1112f47f43d677a3f80ac9e6fb598",
+        "sha256": "e0d6945fbe0c14c74c61c98c3bf1cdf082aa0fd6781f73282e9cf9a51715551e"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'eccreftest.elf'"
+    }
+}

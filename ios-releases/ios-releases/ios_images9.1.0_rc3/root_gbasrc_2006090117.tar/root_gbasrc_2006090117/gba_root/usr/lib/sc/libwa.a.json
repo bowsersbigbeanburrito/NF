@@ -1,0 +1,76 @@
+{
+    "libwa.a": {
+        "modified": "2006-09-01 17:04:52",
+        "size": "1.12KB",
+        "md5": "6aaea20c00f9189b3e84d82afb4d56eb",
+        "sha256": "267c3e025a7d9aff00b3052b5231abf1eb029576583e99cbb4a0a4d88932cc15"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libwa.a'",
+            "wa.o"
+        ],
+        "Content-Length": [
+            "28",
+            "987"
+        ],
+        "Last-Modified": [
+            "2006-09-02T00:04:52Z",
+            "2006-09-02T00:04:52Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-02T00:04:52Z",
+            "2006-09-02T00:04:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wa.o"
+        ],
+        "date": [
+            "2006-09-02T00:04:52Z",
+            "2006-09-02T00:04:52Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-02T00:04:52Z",
+            "2006-09-02T00:04:52Z"
+        ],
+        "meta:save-date": [
+            "2006-09-02T00:04:52Z",
+            "2006-09-02T00:04:52Z"
+        ],
+        "modified": [
+            "2006-09-02T00:04:52Z",
+            "2006-09-02T00:04:52Z"
+        ],
+        "embeddedRelationshipId": "wa.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

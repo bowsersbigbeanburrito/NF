@@ -1,0 +1,203 @@
+{
+    "libioslibc.a": {
+        "modified": "2006-06-02 08:16:12",
+        "size": "15.91KB",
+        "md5": "2619846011ebf7abd03b8b3a231fe613",
+        "sha256": "ac431a36265f1f42a078a6cec67b0f832fdd58a1e3676b71a2f54c923285cd09"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libioslibc.a'",
+            "exit.o",
+            "printf.o",
+            "string.o",
+            "perror.o",
+            "millisleep.o",
+            "usb.o",
+            "iobuf.o"
+        ],
+        "Content-Length": [
+            "562",
+            "868",
+            "870",
+            "870",
+            "1624",
+            "1384",
+            "5992",
+            "3632"
+        ],
+        "Last-Modified": [
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:12Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/exit.o",
+            "/printf.o",
+            "/string.o",
+            "/perror.o",
+            "/millisleep.o",
+            "/usb.o",
+            "/iobuf.o"
+        ],
+        "date": [
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:12Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:12Z"
+        ],
+        "meta:save-date": [
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:12Z"
+        ],
+        "modified": [
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:11Z",
+            "2006-06-02T15:16:12Z",
+            "2006-06-02T15:16:12Z"
+        ],
+        "embeddedRelationshipId": [
+            "exit.o",
+            "printf.o",
+            "string.o",
+            "perror.o",
+            "millisleep.o",
+            "usb.o",
+            "iobuf.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

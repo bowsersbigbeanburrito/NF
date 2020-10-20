@@ -1,0 +1,22 @@
+{
+    "prottest.elf": {
+        "modified": "2006-07-31 10:09:02",
+        "size": "75.35KB",
+        "md5": "ece294a4084750d99497ed7427a8e4f9",
+        "sha256": "3478703d0f21c81d8568cd9c1d678912faf9ad9540e8ab000c333eed9bb327a8"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'prottest.elf'"
+    }
+}

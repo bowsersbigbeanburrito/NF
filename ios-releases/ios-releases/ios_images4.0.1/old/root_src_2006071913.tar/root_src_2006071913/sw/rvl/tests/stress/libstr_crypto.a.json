@@ -1,0 +1,233 @@
+{
+    "libstr_crypto.a": {
+        "modified": "2006-07-19 13:17:16",
+        "size": "64.03KB",
+        "md5": "78aadbce4e862e3e8bdf3b4e20b9a2b1",
+        "sha256": "b52286bbef04bf318ecefd23dba63ce8ba2fc272a1c72a1da87ee595359f4b97"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libstr_crypto.a'",
+            "aes_crypto.o",
+            "sha_crypto.o",
+            "sdi_stress.o",
+            "sotcp_stress.o",
+            "soudp_stress.o",
+            "fla_stress.o",
+            "newTcp_stress.o",
+            "es_stress.o"
+        ],
+        "Content-Length": [
+            "636",
+            "6748",
+            "6740",
+            "8080",
+            "4976",
+            "4220",
+            "8840",
+            "4868",
+            "19912"
+        ],
+        "Last-Modified": [
+            "2006-07-19T20:17:16Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:06Z",
+            "2006-07-19T20:17:06Z"
+        ],
+        "Last-Save-Date": [
+            "2006-07-19T20:17:16Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:06Z",
+            "2006-07-19T20:17:06Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/aes_crypto.o",
+            "/sha_crypto.o",
+            "/sdi_stress.o",
+            "/sotcp_stress.o",
+            "/soudp_stress.o",
+            "/fla_stress.o",
+            "/newTcp_stress.o",
+            "/es_stress.o"
+        ],
+        "date": [
+            "2006-07-19T20:17:16Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:06Z",
+            "2006-07-19T20:17:06Z"
+        ],
+        "dcterms:modified": [
+            "2006-07-19T20:17:16Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:06Z",
+            "2006-07-19T20:17:06Z"
+        ],
+        "meta:save-date": [
+            "2006-07-19T20:17:16Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:06Z",
+            "2006-07-19T20:17:06Z"
+        ],
+        "modified": [
+            "2006-07-19T20:17:16Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:05Z",
+            "2006-07-19T20:17:06Z",
+            "2006-07-19T20:17:06Z"
+        ],
+        "embeddedRelationshipId": [
+            "aes_crypto.o",
+            "sha_crypto.o",
+            "sdi_stress.o",
+            "sotcp_stress.o",
+            "soudp_stress.o",
+            "fla_stress.o",
+            "newTcp_stress.o",
+            "es_stress.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

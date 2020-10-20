@@ -1,0 +1,75 @@
+{
+    "libioscrypto.a": {
+        "modified": "2006-08-09 12:37:49",
+        "size": "3.96KB",
+        "md5": "840364bde358d0ad643ce1f857597dc9",
+        "sha256": "2adfd2713b59e34190dbebaa43d7d283ccf23fc89eb3669fd9ab4f1d942d8eda"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libioscrypto.a'",
+            "ioscrypto.o"
+        ],
+        "Content-Length": [
+            "646",
+            "3284"
+        ],
+        "Last-Modified": [
+            "2006-08-09T19:37:49Z",
+            "2006-08-09T19:37:49Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-09T19:37:49Z",
+            "2006-08-09T19:37:49Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ioscrypto.o"
+        ],
+        "date": [
+            "2006-08-09T19:37:49Z",
+            "2006-08-09T19:37:49Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-09T19:37:49Z",
+            "2006-08-09T19:37:49Z"
+        ],
+        "meta:save-date": [
+            "2006-08-09T19:37:49Z",
+            "2006-08-09T19:37:49Z"
+        ],
+        "modified": [
+            "2006-08-09T19:37:49Z",
+            "2006-08-09T19:37:49Z"
+        ],
+        "embeddedRelationshipId": "ioscrypto.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

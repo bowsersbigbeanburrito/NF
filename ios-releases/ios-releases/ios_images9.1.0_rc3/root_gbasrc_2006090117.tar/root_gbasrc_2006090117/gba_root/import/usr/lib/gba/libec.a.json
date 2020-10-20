@@ -1,0 +1,107 @@
+{
+    "libec.a": {
+        "modified": "2006-08-31 10:42:01",
+        "size": "21.75KB",
+        "md5": "ec89cf061b032fe297798e360a5f4504",
+        "sha256": "41589f3a4c763dcd5b3cf7b74193a54eec4ffe831fe70da03d228f19620e910f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libec.a'",
+            "ec_api.o",
+            "ec_common.o"
+        ],
+        "Content-Length": [
+            "644",
+            "20440",
+            "1004"
+        ],
+        "Last-Modified": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ec_api.o",
+            "/ec_common.o"
+        ],
+        "date": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z"
+        ],
+        "meta:save-date": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z"
+        ],
+        "modified": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:54Z"
+        ],
+        "embeddedRelationshipId": [
+            "ec_api.o",
+            "ec_common.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

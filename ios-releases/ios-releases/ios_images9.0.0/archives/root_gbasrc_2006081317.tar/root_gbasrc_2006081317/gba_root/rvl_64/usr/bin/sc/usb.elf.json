@@ -1,0 +1,22 @@
+{
+    "usb.elf": {
+        "modified": "2006-08-13 17:12:17",
+        "size": "84.72KB",
+        "md5": "e48200f0a8f4454f1d734191b7d8a3c7",
+        "sha256": "82369a3e3cc91e68e2b990f15b8745e1f6213788109d1eff010a7c473af1c9e8"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'usb.elf'"
+    }
+}

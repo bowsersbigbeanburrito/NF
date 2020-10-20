@@ -1,0 +1,22 @@
+{
+    "aes_reset.elf": {
+        "modified": "2006-08-15 17:17:31",
+        "size": "133.39KB",
+        "md5": "17c953cc319e38098f31016c97250fb2",
+        "sha256": "66900a476a24181fed7f54ccd1cc4eb9349d23ce100365b4caa267c9aa255ffa"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'aes_reset.elf'"
+    }
+}

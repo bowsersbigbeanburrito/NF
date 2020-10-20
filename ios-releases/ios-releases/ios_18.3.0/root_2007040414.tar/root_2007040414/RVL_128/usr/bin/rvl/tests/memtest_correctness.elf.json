@@ -1,0 +1,22 @@
+{
+    "memtest_correctness.elf": {
+        "modified": "2007-04-04 14:16:04",
+        "size": "50.57KB",
+        "md5": "ea51072c29a7a8cd3e2b453cbe437b17",
+        "sha256": "0853effa3e498fbef867b43f6d1d2365c1dd3f6e5b343cfcff19ca2977cae494"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'memtest_correctness.elf'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "crti.o": {
+        "modified": "2006-03-21 16:18:37",
+        "size": "0.79KB",
+        "md5": "03517aab51aaa086dedd9d43828ff4be",
+        "sha256": "3ba0c3744a120ab35cf8ea022d1d99b5238e4e449c38a55a77f6eab7af223dcd"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'crti.o'"
+    }
+}

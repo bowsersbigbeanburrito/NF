@@ -1,0 +1,103 @@
+{
+    "libncmedia.a": {
+        "modified": "2006-08-13 17:22:03",
+        "size": "8.1KB",
+        "md5": "af2d396a46e386d70360cd3a717b1e8e",
+        "sha256": "28bea4a14e7cb53ababf11611224cfe0b89374f96247d6861b85c18ea47f0f3a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libncmedia.a'",
+            "ncmedia.o",
+            "utils.o"
+        ],
+        "Content-Length": [
+            "418",
+            "6204",
+            "1480"
+        ],
+        "Last-Modified": [
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ncmedia.o",
+            "/utils.o"
+        ],
+        "date": [
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z"
+        ],
+        "meta:save-date": [
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z"
+        ],
+        "modified": [
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z",
+            "2006-08-14T00:22:03Z"
+        ],
+        "embeddedRelationshipId": [
+            "ncmedia.o",
+            "utils.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

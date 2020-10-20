@@ -1,0 +1,22 @@
+{
+    "sd_app.elf": {
+        "modified": "2006-07-20 12:17:11",
+        "size": "65.16KB",
+        "md5": "049debd5ad7483bb432004ad58bba6e7",
+        "sha256": "c89d3c89a0740363bde5af90c3eb0a5b896afd5ec4abd60dfcb56da5e321d7bf"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'sd_app.elf'"
+    }
+}

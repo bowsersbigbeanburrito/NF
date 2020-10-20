@@ -1,0 +1,76 @@
+{
+    "libisfs.a": {
+        "modified": "2006-07-31 10:01:32",
+        "size": "4.8KB",
+        "md5": "3ed4dc711c973ca002db26d12522471b",
+        "sha256": "1847c5f05758b63647f1fd1df249c7d8038fc0df9d571b64d5efeb11a278eef7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libisfs.a'",
+            "fs.o"
+        ],
+        "Content-Length": [
+            "300",
+            "4492"
+        ],
+        "Last-Modified": [
+            "2006-07-31T17:01:32Z",
+            "2006-07-31T17:01:32Z"
+        ],
+        "Last-Save-Date": [
+            "2006-07-31T17:01:32Z",
+            "2006-07-31T17:01:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fs.o"
+        ],
+        "date": [
+            "2006-07-31T17:01:32Z",
+            "2006-07-31T17:01:32Z"
+        ],
+        "dcterms:modified": [
+            "2006-07-31T17:01:32Z",
+            "2006-07-31T17:01:32Z"
+        ],
+        "meta:save-date": [
+            "2006-07-31T17:01:32Z",
+            "2006-07-31T17:01:32Z"
+        ],
+        "modified": [
+            "2006-07-31T17:01:32Z",
+            "2006-07-31T17:01:32Z"
+        ],
+        "embeddedRelationshipId": "fs.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

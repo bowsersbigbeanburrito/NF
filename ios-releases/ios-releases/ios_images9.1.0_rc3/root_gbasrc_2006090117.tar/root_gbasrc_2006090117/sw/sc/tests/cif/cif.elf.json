@@ -1,0 +1,22 @@
+{
+    "cif.elf": {
+        "modified": "2006-09-01 17:11:33",
+        "size": "44.89KB",
+        "md5": "3e4114086b3c63bbe61da157189d1287",
+        "sha256": "de2e5bd1e017c490c6cb824a8486d2173a78394aa668000cda5b7d6ba73838d2"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'cif.elf'"
+    }
+}

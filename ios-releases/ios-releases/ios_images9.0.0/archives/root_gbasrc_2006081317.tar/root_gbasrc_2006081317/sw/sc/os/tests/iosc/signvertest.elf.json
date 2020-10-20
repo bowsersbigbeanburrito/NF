@@ -1,0 +1,22 @@
+{
+    "signvertest.elf": {
+        "modified": "2006-08-13 17:29:57",
+        "size": "75.8KB",
+        "md5": "47144bf49eadcf02c6621cd9856a692f",
+        "sha256": "1a7034dfd4437cb1a01af175a68d5ed3a6efa37f15f6c3ec6d2b5488e4d0fdfc"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'signvertest.elf'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "randtest.elf": {
+        "modified": "2006-07-31 10:09:02",
+        "size": "77.28KB",
+        "md5": "f6a77e616960d228f53c10c2ded99dbe",
+        "sha256": "75a1468f9974312b8e780021aa7696eaa369c202537c561be1ea9bfa8e2b582d"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'randtest.elf'"
+    }
+}

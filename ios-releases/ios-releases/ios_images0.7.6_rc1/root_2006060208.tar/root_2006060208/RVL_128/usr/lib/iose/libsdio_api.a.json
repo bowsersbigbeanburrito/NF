@@ -1,0 +1,75 @@
+{
+    "libsdio_api.a": {
+        "modified": "2006-06-02 08:15:10",
+        "size": "37.06KB",
+        "md5": "6996281de233e373205b3c8023638e99",
+        "sha256": "30b2820d6fb8909c1c1841dc1814cb4995937203f36f0542b2a3ce7d5e7b9d21"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libsdio_api.a'",
+            "sdio_api.o"
+        ],
+        "Content-Length": [
+            "762",
+            "37064"
+        ],
+        "Last-Modified": [
+            "2006-06-02T15:15:10Z",
+            "2006-06-02T15:15:10Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-02T15:15:10Z",
+            "2006-06-02T15:15:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sdio_api.o"
+        ],
+        "date": [
+            "2006-06-02T15:15:10Z",
+            "2006-06-02T15:15:10Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-02T15:15:10Z",
+            "2006-06-02T15:15:10Z"
+        ],
+        "meta:save-date": [
+            "2006-06-02T15:15:10Z",
+            "2006-06-02T15:15:10Z"
+        ],
+        "modified": [
+            "2006-06-02T15:15:10Z",
+            "2006-06-02T15:15:10Z"
+        ],
+        "embeddedRelationshipId": "sdio_api.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

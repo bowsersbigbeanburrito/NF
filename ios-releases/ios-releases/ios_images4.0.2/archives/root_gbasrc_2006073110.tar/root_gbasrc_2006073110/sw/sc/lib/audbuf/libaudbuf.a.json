@@ -1,0 +1,76 @@
+{
+    "libaudbuf.a": {
+        "modified": "2006-07-31 10:08:31",
+        "size": "5.88KB",
+        "md5": "6e4472f9ab76cb3e518a0a5b8fbcfe76",
+        "sha256": "71a26285462b1b0738d963ae7de3651b09b6adedf1e847f2ddef80689a196641"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libaudbuf.a'",
+            "audbuf.o"
+        ],
+        "Content-Length": [
+            "320",
+            "5576"
+        ],
+        "Last-Modified": [
+            "2006-07-31T17:08:31Z",
+            "2006-07-31T17:08:31Z"
+        ],
+        "Last-Save-Date": [
+            "2006-07-31T17:08:31Z",
+            "2006-07-31T17:08:31Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/audbuf.o"
+        ],
+        "date": [
+            "2006-07-31T17:08:31Z",
+            "2006-07-31T17:08:31Z"
+        ],
+        "dcterms:modified": [
+            "2006-07-31T17:08:31Z",
+            "2006-07-31T17:08:31Z"
+        ],
+        "meta:save-date": [
+            "2006-07-31T17:08:31Z",
+            "2006-07-31T17:08:31Z"
+        ],
+        "modified": [
+            "2006-07-31T17:08:31Z",
+            "2006-07-31T17:08:31Z"
+        ],
+        "embeddedRelationshipId": "audbuf.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

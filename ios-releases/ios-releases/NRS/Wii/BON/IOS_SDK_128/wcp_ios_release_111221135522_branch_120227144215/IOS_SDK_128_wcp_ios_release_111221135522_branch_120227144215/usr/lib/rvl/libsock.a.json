@@ -1,0 +1,76 @@
+{
+    "libsock.a": {
+        "modified": "2012-02-27 14:48:01",
+        "size": "13.92KB",
+        "md5": "f58bb52f1d0e0a03010a6fc9bd4100ce",
+        "sha256": "4baf6fe54a6e63913f5902d190a50421f2400e1a35b34e3a00f4f13df30e4757"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libsock.a'",
+            "socket.o"
+        ],
+        "Content-Length": [
+            "710",
+            "13412"
+        ],
+        "Last-Modified": [
+            "2012-02-27T22:48:01Z",
+            "2012-02-27T22:48:01Z"
+        ],
+        "Last-Save-Date": [
+            "2012-02-27T22:48:01Z",
+            "2012-02-27T22:48:01Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/socket.o"
+        ],
+        "date": [
+            "2012-02-27T22:48:01Z",
+            "2012-02-27T22:48:01Z"
+        ],
+        "dcterms:modified": [
+            "2012-02-27T22:48:01Z",
+            "2012-02-27T22:48:01Z"
+        ],
+        "meta:save-date": [
+            "2012-02-27T22:48:01Z",
+            "2012-02-27T22:48:01Z"
+        ],
+        "modified": [
+            "2012-02-27T22:48:01Z",
+            "2012-02-27T22:48:01Z"
+        ],
+        "embeddedRelationshipId": "socket.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

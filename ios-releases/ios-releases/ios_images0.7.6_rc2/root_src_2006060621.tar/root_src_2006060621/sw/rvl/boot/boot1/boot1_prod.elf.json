@@ -1,0 +1,22 @@
+{
+    "boot1_prod.elf": {
+        "modified": "2006-06-06 21:16:39",
+        "size": "58.83KB",
+        "md5": "1ed98db53df7efddb4b5885c4699e8d1",
+        "sha256": "4bdbd026546a0e2cb9bb812a54e610c18345ba78444c8d8373d7f97d3b58e8f2"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot1_prod.elf'"
+    }
+}

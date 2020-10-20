@@ -1,0 +1,22 @@
+{
+    "boot1_ppcboot_nintendo.elf": {
+        "modified": "2006-06-06 18:16:49",
+        "size": "73.49KB",
+        "md5": "b011df60c73bcc8545623b4212e1e9d8",
+        "sha256": "067e12083effdf56558f69352175c9c099b0205219a35cec207a807cf765e67e"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot1_ppcboot_nintendo.elf'"
+    }
+}

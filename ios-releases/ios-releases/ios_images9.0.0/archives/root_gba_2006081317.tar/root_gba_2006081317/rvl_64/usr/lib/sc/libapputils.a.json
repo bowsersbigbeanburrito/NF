@@ -1,0 +1,76 @@
+{
+    "libapputils.a": {
+        "modified": "2006-08-13 17:29:31",
+        "size": "2.48KB",
+        "md5": "b0deca880d816adff6ada83c52478ad2",
+        "sha256": "467f9d515bdbaed8135f7143ce0d8c831dcc30e5a525c9c397f4a8409f620746"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libapputils.a'",
+            "apputils.o"
+        ],
+        "Content-Length": [
+            "98",
+            "2316"
+        ],
+        "Last-Modified": [
+            "2006-08-14T00:29:31Z",
+            "2006-08-14T00:29:31Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-14T00:29:31Z",
+            "2006-08-14T00:29:31Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/apputils.o"
+        ],
+        "date": [
+            "2006-08-14T00:29:31Z",
+            "2006-08-14T00:29:31Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-14T00:29:31Z",
+            "2006-08-14T00:29:31Z"
+        ],
+        "meta:save-date": [
+            "2006-08-14T00:29:31Z",
+            "2006-08-14T00:29:31Z"
+        ],
+        "modified": [
+            "2006-08-14T00:29:31Z",
+            "2006-08-14T00:29:31Z"
+        ],
+        "embeddedRelationshipId": "apputils.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

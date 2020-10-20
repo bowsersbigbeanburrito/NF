@@ -1,0 +1,22 @@
+{
+    "pwrloop1.elf": {
+        "modified": "2006-08-09 12:45:27",
+        "size": "42.3KB",
+        "md5": "d9c6471ece65dfdd2ea3889dec878332",
+        "sha256": "0ef747cb2b349e64a281112ae4e06610abac550b0c0b20bf9a06f2628cdafcf9"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'pwrloop1.elf'"
+    }
+}

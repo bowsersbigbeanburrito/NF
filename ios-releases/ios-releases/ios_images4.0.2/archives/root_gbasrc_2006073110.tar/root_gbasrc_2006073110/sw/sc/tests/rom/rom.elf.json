@@ -1,0 +1,22 @@
+{
+    "rom.elf": {
+        "modified": "2006-07-31 10:09:05",
+        "size": "36.38KB",
+        "md5": "eb1411530ff9f403e5c7cbc3fb5a0290",
+        "sha256": "6ea76477d7dff5a2528b0d814f41fc8bd1c7b7602471677c62d5bb5a6308aacc"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'rom.elf'"
+    }
+}

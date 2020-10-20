@@ -1,0 +1,22 @@
+{
+    "wfs_test2.elf": {
+        "modified": "2010-04-04 16:57:24",
+        "size": "766.64KB",
+        "md5": "27d0b6e42e843968496958311e19dc55",
+        "sha256": "c320c4860e4c9438129eda4421875e18f688c529aea2202a93a3e81b3b0f704e"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'wfs_test2.elf'"
+    }
+}

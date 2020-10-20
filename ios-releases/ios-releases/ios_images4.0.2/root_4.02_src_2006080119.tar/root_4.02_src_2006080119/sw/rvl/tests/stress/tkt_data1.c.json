@@ -1,0 +1,21 @@
+{
+    "tkt_data1.c": {
+        "modified": "2006-07-31 10:17:27",
+        "size": "4.1KB",
+        "md5": "b72404d2422da889e479beaa8670c53b",
+        "sha256": "e60a2452ae9c9ab4ccb99b1d96a301077ae05dfd4366508117ac280c3ec80507"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tkt_data1.c'"
+    }
+}

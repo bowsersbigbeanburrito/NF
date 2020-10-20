@@ -1,0 +1,22 @@
+{
+    "test_read_rvl.elf": {
+        "modified": "2006-08-01 15:24:28",
+        "size": "55.98KB",
+        "md5": "1bd8f7d0695612d8a6b5971f24fb1bfe",
+        "sha256": "90d72700a3e6c78a40bbe46a507580fed281df9083a07d7e82ef172ace39c5a3"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'test_read_rvl.elf'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "test_read_iop.elf": {
+        "modified": "2006-08-01 19:34:03",
+        "size": "52.73KB",
+        "md5": "b2f1039b68b64969f7ca237c55818898",
+        "sha256": "0a43746d3f1a86a9e45af5515547205fbb83b8812bfb8bea64a2331c7ba056ba"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'test_read_iop.elf'"
+    }
+}

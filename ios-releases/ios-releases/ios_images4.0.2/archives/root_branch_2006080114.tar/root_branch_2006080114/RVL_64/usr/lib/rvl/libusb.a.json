@@ -1,0 +1,76 @@
+{
+    "libusb.a": {
+        "modified": "2006-08-01 14:28:27",
+        "size": "2.99KB",
+        "md5": "a1e4e06d9b32a30e7951e7b47970c0c0",
+        "sha256": "ab986de166a1645bd013c59ca0441fa7130fb81609a1b9f00ed975f867e1c35c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libusb.a'",
+            "libusb.o"
+        ],
+        "Content-Length": [
+            "342",
+            "2596"
+        ],
+        "Last-Modified": [
+            "2006-08-01T21:28:24Z",
+            "2006-08-01T21:28:24Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-01T21:28:24Z",
+            "2006-08-01T21:28:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libusb.o"
+        ],
+        "date": [
+            "2006-08-01T21:28:24Z",
+            "2006-08-01T21:28:24Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-01T21:28:24Z",
+            "2006-08-01T21:28:24Z"
+        ],
+        "meta:save-date": [
+            "2006-08-01T21:28:24Z",
+            "2006-08-01T21:28:24Z"
+        ],
+        "modified": [
+            "2006-08-01T21:28:24Z",
+            "2006-08-01T21:28:24Z"
+        ],
+        "embeddedRelationshipId": "libusb.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "sample.elf": {
+        "modified": "2006-09-01 17:11:30",
+        "size": "42.33KB",
+        "md5": "1fd830e71f02dec68da46fab7addf9cd",
+        "sha256": "5c66cd5a8cd78b8723cd94515fc4e133af8b8406a09f9505bdee43472ad58f01"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'sample.elf'"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "libvng.a": {
+        "modified": "2006-08-31 10:42:01",
+        "size": "78.44KB",
+        "md5": "f4776a4fba97b7b5fb256cb56877655f",
+        "sha256": "42fcad2f84f395694b3505cc1f2fea042eb6d0d1ba714f2282a505a510b5df78"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libvng.a'",
+            "vna_api.o",
+            "vna_errmsg.o",
+            "vnp_rm_api.o",
+            "vnp_gballoc.o",
+            "shr_trace.o"
+        ],
+        "Content-Length": [
+            "2138",
+            "12900",
+            "4824",
+            "18520",
+            "33728",
+            "7840"
+        ],
+        "Last-Modified": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/vna_api.o",
+            "/vna_errmsg.o",
+            "/vnp_rm_api.o",
+            "/vnp_gballoc.o",
+            "/shr_trace.o"
+        ],
+        "date": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z"
+        ],
+        "meta:save-date": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z"
+        ],
+        "modified": [
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:54Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z",
+            "2006-08-31T13:30:53Z"
+        ],
+        "embeddedRelationshipId": [
+            "vna_api.o",
+            "vna_errmsg.o",
+            "vnp_rm_api.o",
+            "vnp_gballoc.o",
+            "shr_trace.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

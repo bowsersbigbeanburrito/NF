@@ -1,0 +1,22 @@
+{
+    "ohci1.elf": {
+        "modified": "2007-06-25 14:15:55",
+        "size": "65.68KB",
+        "md5": "17ef6461b2f45023362444f7bda7c866",
+        "sha256": "5fec695b7bb329577013b19b8747a5bdc107f5d44f9d30fd155ec04666c7fd8e"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ohci1.elf'"
+    }
+}

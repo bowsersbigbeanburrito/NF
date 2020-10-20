@@ -1,0 +1,22 @@
+{
+    "launchPPC.elf": {
+        "modified": "2007-04-04 14:16:04",
+        "size": "45.84KB",
+        "md5": "ded26f279e7abd41370cf9d15b9ad67f",
+        "sha256": "96acc983c99c06c54271080eea4a9c57cd8b57d18aff2da8ef85211bc04f6e3c"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'launchPPC.elf'"
+    }
+}

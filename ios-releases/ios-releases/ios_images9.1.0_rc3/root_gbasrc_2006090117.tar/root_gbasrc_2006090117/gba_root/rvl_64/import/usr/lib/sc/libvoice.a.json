@@ -1,0 +1,170 @@
+{
+    "libvoice.a": {
+        "modified": "2006-08-31 10:42:01",
+        "size": "22.4KB",
+        "md5": "3344fb1642ade2cb707ffd508dfc7ba6",
+        "sha256": "1c73242a7f7e7ddc28094e69c29fabf1aba7ceac194cd0545664f95ff0725973"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libvoice.a'",
+            "libvoice.o",
+            "platform.o",
+            "rm.o",
+            "rm_jt.o",
+            "g726.o"
+        ],
+        "Content-Length": [
+            "1220",
+            "6952",
+            "3808",
+            "3776",
+            "1144",
+            "5672"
+        ],
+        "Last-Modified": [
+            "2006-08-31T17:42:00Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:50Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-31T17:42:00Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libvoice.o",
+            "/platform.o",
+            "/rm.o",
+            "/rm_jt.o",
+            "/g726.o"
+        ],
+        "date": [
+            "2006-08-31T17:42:00Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:50Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-31T17:42:00Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:50Z"
+        ],
+        "meta:save-date": [
+            "2006-08-31T17:42:00Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:50Z"
+        ],
+        "modified": [
+            "2006-08-31T17:42:00Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:49Z",
+            "2006-08-31T13:30:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "libvoice.o",
+            "platform.o",
+            "rm.o",
+            "rm_jt.o",
+            "g726.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

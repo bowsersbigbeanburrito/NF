@@ -1,0 +1,22 @@
+{
+    "sd_boot.elf": {
+        "modified": "2007-06-25 14:19:29",
+        "size": "101.74KB",
+        "md5": "79724a00ed44138aae53e90b8fb5af11",
+        "sha256": "5688e1916ab0484943b6f185628ff77f67aafdfeb6da05824efa1bdcecf4f8ab"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'sd_boot.elf'"
+    }
+}

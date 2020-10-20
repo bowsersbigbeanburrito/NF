@@ -1,0 +1,76 @@
+{
+    "libios.a": {
+        "modified": "2006-08-13 17:22:15",
+        "size": "2.0KB",
+        "md5": "3e6f2ab61cea95f10c3711aab251d88d",
+        "sha256": "25284bc5b1d799762463387705a2617543564cd76cd35f6533b02683320b3580"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libios.a'",
+            "ios.o"
+        ],
+        "Content-Length": [
+            "100",
+            "1824"
+        ],
+        "Last-Modified": [
+            "2006-08-14T00:22:15Z",
+            "2006-08-14T00:22:15Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-14T00:22:15Z",
+            "2006-08-14T00:22:15Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ios.o"
+        ],
+        "date": [
+            "2006-08-14T00:22:15Z",
+            "2006-08-14T00:22:15Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-14T00:22:15Z",
+            "2006-08-14T00:22:15Z"
+        ],
+        "meta:save-date": [
+            "2006-08-14T00:22:15Z",
+            "2006-08-14T00:22:15Z"
+        ],
+        "modified": [
+            "2006-08-14T00:22:15Z",
+            "2006-08-14T00:22:15Z"
+        ],
+        "embeddedRelationshipId": "ios.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

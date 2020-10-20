@@ -1,0 +1,76 @@
+{
+    "libios.a": {
+        "modified": "2012-04-03 13:00:35",
+        "size": "9.08KB",
+        "md5": "5c618bd027463dd3547204d42dfdc19e",
+        "sha256": "533c1f407c6ef441d595967fefcaf1692b314d7a479de8b40c73cc77e32835d1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libios.a'",
+            "syscall.o"
+        ],
+        "Content-Length": [
+            "1932",
+            "7237"
+        ],
+        "Last-Modified": [
+            "2012-04-03T20:00:35Z",
+            "2012-04-03T20:00:35Z"
+        ],
+        "Last-Save-Date": [
+            "2012-04-03T20:00:35Z",
+            "2012-04-03T20:00:35Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/syscall.o"
+        ],
+        "date": [
+            "2012-04-03T20:00:35Z",
+            "2012-04-03T20:00:35Z"
+        ],
+        "dcterms:modified": [
+            "2012-04-03T20:00:35Z",
+            "2012-04-03T20:00:35Z"
+        ],
+        "meta:save-date": [
+            "2012-04-03T20:00:35Z",
+            "2012-04-03T20:00:35Z"
+        ],
+        "modified": [
+            "2012-04-03T20:00:35Z",
+            "2012-04-03T20:00:35Z"
+        ],
+        "embeddedRelationshipId": "syscall.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

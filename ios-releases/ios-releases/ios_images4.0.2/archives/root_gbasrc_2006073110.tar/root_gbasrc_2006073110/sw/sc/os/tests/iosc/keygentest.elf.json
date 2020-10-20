@@ -1,0 +1,22 @@
+{
+    "keygentest.elf": {
+        "modified": "2006-07-31 10:09:01",
+        "size": "76.56KB",
+        "md5": "3e8cb7c17eda09301de8254722010595",
+        "sha256": "363ec8e83168bf5f45c4be6b83ba49dc42b0c72d3ad84e3a85089781d0cd7219"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'keygentest.elf'"
+    }
+}

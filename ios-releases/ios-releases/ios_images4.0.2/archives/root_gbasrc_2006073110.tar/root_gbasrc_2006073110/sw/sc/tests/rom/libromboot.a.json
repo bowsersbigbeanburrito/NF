@@ -1,0 +1,107 @@
+{
+    "libromboot.a": {
+        "modified": "2006-07-31 10:09:05",
+        "size": "5.43KB",
+        "md5": "58fbab9aec1d8a147f1abf8f6b0de4db",
+        "sha256": "ef6a282141a49f9b39dedc1f55dec496729203b2f49f8ea0b47cf0aacbcc726c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libromboot.a'",
+            "boots.o",
+            "bootc.o"
+        ],
+        "Content-Length": [
+            "408",
+            "1908",
+            "3052"
+        ],
+        "Last-Modified": [
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z"
+        ],
+        "Last-Save-Date": [
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/boots.o",
+            "/bootc.o"
+        ],
+        "date": [
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z"
+        ],
+        "dcterms:modified": [
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z"
+        ],
+        "meta:save-date": [
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z"
+        ],
+        "modified": [
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z",
+            "2006-07-31T17:09:05Z"
+        ],
+        "embeddedRelationshipId": [
+            "boots.o",
+            "bootc.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

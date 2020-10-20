@@ -1,0 +1,149 @@
+{
+    "libgcov.a": {
+        "modified": "2006-03-21 16:18:31",
+        "size": "10.01KB",
+        "md5": "d7c1c93f4a149b15c6fe9ec0d4a07627",
+        "sha256": "15196deef229c1532b3250dd22190f54b08cdd0355e46e81ddc01fa23f57d489"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libgcov.a'",
+            "_gcov.o",
+            "_gcov_merge_add.o",
+            "_gcov_merge_single.o",
+            "_gcov_merge_delta.o"
+        ],
+        "Content-Length": [
+            "106",
+            "3072",
+            "2208",
+            "2216",
+            "2216"
+        ],
+        "Last-Modified": [
+            "2006-03-21T23:18:31Z",
+            "2006-03-21T20:43:06Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:08Z"
+        ],
+        "Last-Save-Date": [
+            "2006-03-21T23:18:31Z",
+            "2006-03-21T20:43:06Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/_gcov.o",
+            "/_gcov_merge_add.o",
+            "/_gcov_merge_single.o",
+            "/_gcov_merge_delta.o"
+        ],
+        "date": [
+            "2006-03-21T23:18:31Z",
+            "2006-03-21T20:43:06Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:08Z"
+        ],
+        "dcterms:modified": [
+            "2006-03-21T23:18:31Z",
+            "2006-03-21T20:43:06Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:08Z"
+        ],
+        "meta:save-date": [
+            "2006-03-21T23:18:31Z",
+            "2006-03-21T20:43:06Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:08Z"
+        ],
+        "modified": [
+            "2006-03-21T23:18:31Z",
+            "2006-03-21T20:43:06Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:07Z",
+            "2006-03-21T20:43:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "_gcov.o",
+            "_gcov_merge_add.o",
+            "_gcov_merge_single.o",
+            "_gcov_merge_delta.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

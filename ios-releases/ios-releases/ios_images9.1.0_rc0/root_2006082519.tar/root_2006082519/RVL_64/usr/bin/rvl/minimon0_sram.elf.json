@@ -1,0 +1,22 @@
+{
+    "minimon0_sram.elf": {
+        "modified": "2006-08-25 19:16:41",
+        "size": "74.22KB",
+        "md5": "6386a3f6ad05d955b7c6d5d940f944a9",
+        "sha256": "0edeca05b2c08a48d97c98785260c5be2152570220bc7bde9804262eecf0500d"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'minimon0_sram.elf'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "eepromtest.elf": {
+        "modified": "2006-08-13 17:30:08",
+        "size": "54.54KB",
+        "md5": "14256f9a3aee496918231cef1fe67282",
+        "sha256": "847e50961ad1624839a7b935ff2c387d07c401653827579caf0ba7308eddb580"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'eepromtest.elf'"
+    }
+}
