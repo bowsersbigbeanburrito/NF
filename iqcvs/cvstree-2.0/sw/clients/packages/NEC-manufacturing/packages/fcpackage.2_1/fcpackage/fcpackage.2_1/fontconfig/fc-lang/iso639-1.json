@@ -1,0 +1,21 @@
+{
+    "iso639-1": {
+        "modified": "2002-08-12 15:20:11",
+        "size": "10.34KB",
+        "md5": "23cde1cba3d5122f1a78fcbfc61f674a",
+        "sha256": "122d113d5fcccef15ff87927d8d446c1d82d3c3946da5d8590295eb524d14090"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso639-1'"
+    }
+}

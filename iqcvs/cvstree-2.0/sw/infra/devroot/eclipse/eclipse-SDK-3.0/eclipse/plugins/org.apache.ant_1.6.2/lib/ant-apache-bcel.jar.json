@@ -1,0 +1,150 @@
+{
+    "ant-apache-bcel.jar": {
+        "modified": "2004-09-16 09:04:43",
+        "size": "8.41KB",
+        "md5": "ade26ad6c1f7bc7b57cb1be8ecaa658f",
+        "sha256": "24afae4fef8b385aa2766e89a7a2bc8f37b0cff6353fd8ca48c513448536f61e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ant-apache-bcel.jar'",
+            "META-INF/MANIFEST.MF",
+            "JavaClassHelper.class",
+            "AncestorAnalyzer.class",
+            "DependencyVisitor.class",
+            "FullAnalyzer.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "2204",
+            "3236",
+            "4107",
+            "3335"
+        ],
+        "Last-Modified": [
+            "2004-07-16T16:38:48Z",
+            "2004-07-16T16:38:28Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "Last-Save-Date": [
+            "2004-07-16T16:38:48Z",
+            "2004-07-16T16:38:28Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/JavaClassHelper.class",
+            "/AncestorAnalyzer.class",
+            "/DependencyVisitor.class",
+            "/FullAnalyzer.class"
+        ],
+        "date": [
+            "2004-07-16T16:38:48Z",
+            "2004-07-16T16:38:28Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "dcterms:modified": [
+            "2004-07-16T16:38:48Z",
+            "2004-07-16T16:38:28Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/filters/util/JavaClassHelper.class",
+            "org/apache/tools/ant/util/depend/bcel/AncestorAnalyzer.class",
+            "org/apache/tools/ant/util/depend/bcel/DependencyVisitor.class",
+            "org/apache/tools/ant/util/depend/bcel/FullAnalyzer.class"
+        ],
+        "meta:save-date": [
+            "2004-07-16T16:38:48Z",
+            "2004-07-16T16:38:28Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "modified": [
+            "2004-07-16T16:38:48Z",
+            "2004-07-16T16:38:28Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "dc:title": [
+            "JavaClassHelper",
+            "AncestorAnalyzer",
+            "DependencyVisitor",
+            "FullAnalyzer"
+        ],
+        "title": [
+            "JavaClassHelper",
+            "AncestorAnalyzer",
+            "DependencyVisitor",
+            "FullAnalyzer"
+        ]
+    }
+}

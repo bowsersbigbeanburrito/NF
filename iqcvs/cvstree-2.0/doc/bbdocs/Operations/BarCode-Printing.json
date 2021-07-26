@@ -1,0 +1,54 @@
+{
+    "BarCode-Printing": {
+        "modified": "2021-07-24 17:28:49.664765",
+        "size": "6.88KB",
+        "md5": "b57cf01b1726f427ef2a19321edac222",
+        "sha256": "eeb9d3156571f534c1eb95d2b20c73277dc535d99201ae5e1a82bc87874073bf"
+    },
+    "Metadata": {
+        "Author": "Christopher Nguyen <cnguyen@broadon.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2003-10-23T02:53:33Z",
+        "Message-Cc": [
+            "tigerwu <tigerwu@ique.com>",
+            "Dean Lin <deanlin@ique.com>",
+            "AuYeung Stephen <sauyeung@broadon.com>",
+            "lo@broadon.com"
+        ],
+        "Message-From": "Christopher Nguyen <cnguyen@broadon.com>",
+        "Message-To": "luke <luke@ique.com>",
+        "Message:From-Email": "cnguyen@broadon.com",
+        "Message:From-Name": "Christopher Nguyen",
+        "Message:Raw-Header:Delivery-date": "Thu, 23 Oct 2003 02:51:41 +0000",
+        "Message:Raw-Header:Envelope-to": "lo@broadon.com",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<087a01c39910$d8e7eb30$5400000a@draco2000>",
+        "Message:Raw-Header:Received": [
+            "from system by broadon.com with smtp-csscannedok (BroadOn)\tid 1ACVZd-0005CA-00; Thu, 23 Oct 2003 02:51:41 +0000",
+            "from [10.0.0.84] (helo=draco2000)\tby broadon.com with smtp (BroadOn)\tid 1ACVZ1-0005BT-00; Thu, 23 Oct 2003 02:51:03 +0000"
+        ],
+        "Message:Raw-Header:References": "<003801c398f5$8cc2ec20$3ac8a8c0@ique.net>",
+        "Message:Raw-Header:Return-path": "<cnguyen@broadon.com>",
+        "Message:Raw-Header:X-MSMail-Priority": "Normal",
+        "Message:Raw-Header:X-Mailer": "Microsoft Outlook Express 6.00.2600.0000",
+        "Message:Raw-Header:X-MimeOLE": "Produced By Microsoft MimeOLE V6.00.2600.0000",
+        "Message:Raw-Header:X-Priority": "3",
+        "Multipart-Boundary": "----=_NextPart_000_0877_01C398D6.2C690810",
+        "Multipart-Subtype": "alternative",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "15",
+        "creator": "Christopher Nguyen <cnguyen@broadon.com>",
+        "dc:creator": "Christopher Nguyen <cnguyen@broadon.com>",
+        "dc:title": "Re: Bar Code Number for Game Ticket",
+        "dcterms:created": "2003-10-23T02:53:33Z",
+        "meta:author": "Christopher Nguyen <cnguyen@broadon.com>",
+        "meta:creation-date": "2003-10-23T02:53:33Z",
+        "resourceName": "b'BarCode-Printing'",
+        "subject": "Re: Bar Code Number for Game Ticket"
+    }
+}

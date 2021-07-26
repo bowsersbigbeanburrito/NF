@@ -1,0 +1,120 @@
+{
+    "msg_02.txt": {
+        "modified": "2005-10-03 03:18:15",
+        "size": "2.75KB",
+        "md5": "e465da3072c69b7a3106e5dd91d0c033",
+        "sha256": "a5c95581c19494f9d7aa882ffd79f11ec0f44fcd44c11530a312b2d31e91478a"
+    },
+    "Metadata": {
+        "Author": "ppp-request@zzz.org",
+        "Content-Type": [
+            "message/rfc822",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII"
+        ],
+        "Creation-Date": "2001-04-21T00:18:00Z",
+        "Message-From": "ppp-request@zzz.org",
+        "Message-To": "ppp@zzz.org",
+        "Message:From-Email": "ppp-request@zzz.org",
+        "Message:Raw-Header:MIME-version": "1.0",
+        "Message:Raw-Header:Sender": "ppp-admin@zzz.org",
+        "Message:Raw-Header:X-Mailer": "Mailman v2.0.4",
+        "Message:Raw-Header:X-Mailman-Version": "2.0.4",
+        "Multipart-Boundary": [
+            "192.168.1.2.889.32614.987812255.500.21814",
+            "__--__--",
+            "__--__--",
+            "__--__--",
+            "__--__--",
+            "__--__--"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "digest",
+            "digest",
+            "digest",
+            "digest",
+            "digest"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "creator": "ppp-request@zzz.org",
+        "dc:creator": "ppp-request@zzz.org",
+        "dc:title": "Ppp digest, Vol 1 #2 - 5 msgs",
+        "dcterms:created": "2001-04-21T00:18:00Z",
+        "meta:author": "ppp-request@zzz.org",
+        "meta:creation-date": "2001-04-21T00:18:00Z",
+        "resourceName": "b'msg_02.txt'",
+        "subject": "Ppp digest, Vol 1 #2 - 5 msgs",
+        "Content-Encoding": [
+            "US-ASCII",
+            "US-ASCII",
+            "US-ASCII",
+            "US-ASCII",
+            "US-ASCII"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/embedded-2",
+            "/embedded-3",
+            "/embedded-4",
+            "/embedded-5"
+        ],
+        "embeddedResourceType": [
+            "ATTACHMENT",
+            "ATTACHMENT",
+            "ATTACHMENT",
+            "ATTACHMENT",
+            "ATTACHMENT"
+        ]
+    }
+}

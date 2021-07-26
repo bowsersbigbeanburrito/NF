@@ -1,0 +1,20 @@
+{
+    "example.xml": {
+        "modified": "2021-07-24 17:28:48.548018",
+        "size": "1.56KB",
+        "md5": "a47e9480898714ee7f82656c1b178fa4",
+        "sha256": "b32e12b0e20f1378aa558995c7ed8941a8f938daa829cefee6ec1be4de1b1e67"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'example.xml'"
+    }
+}

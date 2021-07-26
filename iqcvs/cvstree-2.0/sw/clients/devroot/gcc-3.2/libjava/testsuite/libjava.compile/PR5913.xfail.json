@@ -1,0 +1,20 @@
+{
+    "PR5913.xfail": {
+        "modified": "2021-07-24 18:49:43.278251",
+        "size": "0.02KB",
+        "md5": "a7cb2a00704b6a5ad921bcc92dc28d8d",
+        "sha256": "158dd7a7f2ad0de2c2cbe800a0896b8ceeaab2f376d6cd0718ac08989021fa4c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'PR5913.xfail'"
+    }
+}

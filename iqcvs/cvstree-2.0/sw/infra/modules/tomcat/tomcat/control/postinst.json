@@ -1,0 +1,20 @@
+{
+    "postinst": {
+        "modified": "2021-07-24 18:50:00.541261",
+        "size": "0.79KB",
+        "md5": "aaa13ed1f19b736e0f309534d9839c27",
+        "sha256": "e28d4881bbca65cd9d17ceb2f286cc0b5d25452f11e7a6d73261e51114afa463"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'postinst'"
+    }
+}

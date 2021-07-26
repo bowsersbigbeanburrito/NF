@@ -1,0 +1,130 @@
+{
+    "ApacheJMeter.jar": {
+        "modified": "2021-07-24 18:50:00.587927",
+        "size": "4.39KB",
+        "md5": "ed2681e9f8cd3c61d7cb48718d9ff527",
+        "sha256": "bd924ce41b99be9aa64c57bf30d1ca074013adc32431bfe43daf039234c8bfa5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ApacheJMeter.jar'",
+            "META-INF/MANIFEST.MF",
+            "DynamicClassLoader.class",
+            "NewDriver$1.class",
+            "NewDriver.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "147",
+            "1218",
+            "614",
+            "4671"
+        ],
+        "Last-Modified": [
+            "2005-09-30T06:06:00Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-30T06:06:00Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/DynamicClassLoader.class",
+            "/NewDriver$1.class",
+            "/NewDriver.class"
+        ],
+        "date": [
+            "2005-09-30T06:06:00Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-30T06:06:00Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/jmeter/DynamicClassLoader.class",
+            "org/apache/jmeter/NewDriver$1.class",
+            "org/apache/jmeter/NewDriver.class"
+        ],
+        "meta:save-date": [
+            "2005-09-30T06:06:00Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z"
+        ],
+        "modified": [
+            "2005-09-30T06:06:00Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z",
+            "2005-09-30T06:05:14Z"
+        ],
+        "dc:title": [
+            "DynamicClassLoader",
+            "NewDriver$1",
+            "NewDriver"
+        ],
+        "title": [
+            "DynamicClassLoader",
+            "NewDriver$1",
+            "NewDriver"
+        ]
+    }
+}

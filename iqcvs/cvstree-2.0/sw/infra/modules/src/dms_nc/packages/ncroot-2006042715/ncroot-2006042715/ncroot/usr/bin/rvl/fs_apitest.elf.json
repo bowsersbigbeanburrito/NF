@@ -1,0 +1,22 @@
+{
+    "fs_apitest.elf": {
+        "modified": "2006-04-27 14:04:25",
+        "size": "54.01KB",
+        "md5": "479ebf39efeea8a8d7ef22beb15270da",
+        "sha256": "a50cc5b4cd95cac08d2f1ceb4d57024e3868a0d28c3d248c264ff0a84c9fe9bf"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'fs_apitest.elf'"
+    }
+}

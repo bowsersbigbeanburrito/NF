@@ -1,0 +1,76 @@
+{
+    "msg_07.txt": {
+        "modified": "2005-10-03 03:18:15",
+        "size": "5.1KB",
+        "md5": "beb3d7cfa4d5b77be8b37d1c433539c4",
+        "sha256": "8358092b45c8631df6466a2e4dc23278263b2dd2ba5765e99caba47c304dd3b5"
+    },
+    "Metadata": {
+        "Author": "Barry <barry@digicool.com>",
+        "Content-Type": [
+            "message/rfc822",
+            "image/gif"
+        ],
+        "Creation-Date": "2001-04-20T23:35:02Z",
+        "Message-From": "Barry <barry@digicool.com>",
+        "Message-To": "Dingus Lovers <cravindogs@cravindogs.com>",
+        "Message:From-Email": "barry@digicool.com",
+        "Message:From-Name": "Barry",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Multipart-Boundary": [
+            "BOUNDARY",
+            "BOUNDARY"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "creator": "Barry <barry@digicool.com>",
+        "dc:creator": "Barry <barry@digicool.com>",
+        "dc:title": "Here is your dingus fish",
+        "dcterms:created": "2001-04-20T23:35:02Z",
+        "meta:author": "Barry <barry@digicool.com>",
+        "meta:creation-date": "2001-04-20T23:35:02Z",
+        "resourceName": [
+            "b'msg_07.txt'",
+            "dingusfish.gif"
+        ],
+        "subject": "Here is your dingus fish",
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Disposition": "attachment; filename=\"dingusfish.gif\"",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=none, userInputFlag=false, transparentColorFlag=false, delayTime=0, transparentColorIndex=0",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=256, imageHeight=256, interlaceFlag=false",
+        "X-TIKA:embedded_resource_path": "/dingusfish.gif",
+        "embeddedResourceType": "ATTACHMENT",
+        "height": "256",
+        "tiff:ImageLength": "256",
+        "tiff:ImageWidth": "256",
+        "width": "256"
+    }
+}

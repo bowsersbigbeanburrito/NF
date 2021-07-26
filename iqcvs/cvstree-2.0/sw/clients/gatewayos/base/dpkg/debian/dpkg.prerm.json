@@ -1,0 +1,20 @@
+{
+    "dpkg.prerm": {
+        "modified": "2021-07-24 18:49:46.248195",
+        "size": "0.43KB",
+        "md5": "43e96352b0309c15684bea3b002d5e8a",
+        "sha256": "b76d3e7dd19d9f5d5151570514add1a4a9f9d5ef639c8744f2ed23406c588495"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'dpkg.prerm'"
+    }
+}

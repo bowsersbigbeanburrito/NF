@@ -1,0 +1,291 @@
+{
+    "tomcatwrapper.jar": {
+        "modified": "2006-01-18 13:30:40",
+        "size": "20.32KB",
+        "md5": "3948f7a011d30cddd156933c44264c2a",
+        "sha256": "efc8b50d9f2d3773113c03e9ccd811986683605faf676236cdc72590169bcfbd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'tomcatwrapper.jar'",
+            "META-INF/MANIFEST.MF",
+            "EclipseErrorReportValve.class",
+            "JndiURLHandler.class",
+            "SocketUtil.class",
+            "TomcatAppServer$1.class",
+            "TomcatAppServer$2.class",
+            "TomcatAppServer.class",
+            "TomcatPlugin.class",
+            "TomcatResources.class",
+            "org/eclipse/tomcat/internal/TomcatResources.properties",
+            "WebAppClassLoader.class",
+            "IRealmFactory.class"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "93",
+            "7343",
+            "2582",
+            "1978",
+            "1041",
+            "1041",
+            "14347",
+            "3732",
+            "1620",
+            "2106",
+            "1697",
+            "200"
+        ],
+        "Last-Modified": [
+            "2006-01-19T00:17:30Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-19T00:17:30Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/EclipseErrorReportValve.class",
+            "/JndiURLHandler.class",
+            "/SocketUtil.class",
+            "/TomcatAppServer$1.class",
+            "/TomcatAppServer$2.class",
+            "/TomcatAppServer.class",
+            "/TomcatPlugin.class",
+            "/TomcatResources.class",
+            "/TomcatResources.properties",
+            "/WebAppClassLoader.class",
+            "/IRealmFactory.class"
+        ],
+        "date": [
+            "2006-01-19T00:17:30Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-19T00:17:30Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/tomcat/internal/EclipseErrorReportValve.class",
+            "org/eclipse/tomcat/internal/JndiURLHandler.class",
+            "org/eclipse/tomcat/internal/SocketUtil.class",
+            "org/eclipse/tomcat/internal/TomcatAppServer$1.class",
+            "org/eclipse/tomcat/internal/TomcatAppServer$2.class",
+            "org/eclipse/tomcat/internal/TomcatAppServer.class",
+            "org/eclipse/tomcat/internal/TomcatPlugin.class",
+            "org/eclipse/tomcat/internal/TomcatResources.class",
+            "org/eclipse/tomcat/internal/TomcatResources.properties",
+            "org/eclipse/tomcat/internal/WebAppClassLoader.class",
+            "org/eclipse/tomcat/internal/extensions/IRealmFactory.class"
+        ],
+        "meta:save-date": [
+            "2006-01-19T00:17:30Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z"
+        ],
+        "modified": [
+            "2006-01-19T00:17:30Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z",
+            "2006-01-19T00:17:32Z"
+        ],
+        "dc:title": [
+            "EclipseErrorReportValve",
+            "JndiURLHandler",
+            "SocketUtil",
+            "TomcatAppServer$1",
+            "TomcatAppServer$2",
+            "TomcatAppServer",
+            "TomcatPlugin",
+            "TomcatResources",
+            "WebAppClassLoader",
+            "IRealmFactory"
+        ],
+        "title": [
+            "EclipseErrorReportValve",
+            "JndiURLHandler",
+            "SocketUtil",
+            "TomcatAppServer$1",
+            "TomcatAppServer$2",
+            "TomcatAppServer",
+            "TomcatPlugin",
+            "TomcatResources",
+            "WebAppClassLoader",
+            "IRealmFactory"
+        ]
+    }
+}

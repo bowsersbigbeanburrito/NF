@@ -1,0 +1,554 @@
+{
+    "org.eclipse.emf.ecore.sdo.edit_2.1.0.jar": {
+        "modified": "2005-07-07 01:05:00",
+        "size": "23.56KB",
+        "md5": "b053cd2a5077055cb5644196c2438ecd",
+        "sha256": "bdea55596ec54c1a44311756216897ef9eb5f4e27bb8d2f19df08c05d9256412"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "11",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'org.eclipse.emf.ecore.sdo.edit_2.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/obj16/EDataGraph.gif",
+            "icons/full/obj16/EDataObjectAnyType.gif",
+            "icons/full/obj16/EDataObjectSimpleAnyType.gif",
+            "icons/full/obj16/EProperty.gif",
+            "icons/full/obj16/EType.gif",
+            "EChangeSummaryItemProvider.class",
+            "EChangeSummarySettingItemProvider.class",
+            "EDataGraphItemProvider.class",
+            "EDataObjectAnyTypeItemProvider.class",
+            "EDataObjectItemProvider.class",
+            "EDataObjectSimpleAnyTypeItemProvider.class",
+            "EPropertyItemProvider.class",
+            "ETypeItemProvider.class",
+            "SDOEditPlugin$Implementation.class",
+            "SDOEditPlugin.class",
+            "SDOItemProviderAdapterFactory.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "736",
+            "1229",
+            "152",
+            "129",
+            "129",
+            "129",
+            "129",
+            "4157",
+            "3200",
+            "3568",
+            "3357",
+            "1805",
+            "5544",
+            "6337",
+            "5840",
+            "600",
+            "1468",
+            "6494",
+            "3023",
+            "630"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/EDataGraph.gif",
+            "/EDataObjectAnyType.gif",
+            "/EDataObjectSimpleAnyType.gif",
+            "/EProperty.gif",
+            "/EType.gif",
+            "/EChangeSummaryItemProvider.class",
+            "/EChangeSummarySettingItemProvider.class",
+            "/EDataGraphItemProvider.class",
+            "/EDataObjectAnyTypeItemProvider.class",
+            "/EDataObjectItemProvider.class",
+            "/EDataObjectSimpleAnyTypeItemProvider.class",
+            "/EPropertyItemProvider.class",
+            "/ETypeItemProvider.class",
+            "/SDOEditPlugin$Implementation.class",
+            "/SDOEditPlugin.class",
+            "/SDOItemProviderAdapterFactory.class",
+            "/plugin.properties",
+            "/plugin.xml"
+        ],
+        "date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/obj16/EDataGraph.gif",
+            "icons/full/obj16/EDataObjectAnyType.gif",
+            "icons/full/obj16/EDataObjectSimpleAnyType.gif",
+            "icons/full/obj16/EProperty.gif",
+            "icons/full/obj16/EType.gif",
+            "org/eclipse/emf/ecore/sdo/provider/EChangeSummaryItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/EChangeSummarySettingItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/EDataGraphItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/EDataObjectAnyTypeItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/EDataObjectItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/EDataObjectSimpleAnyTypeItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/EPropertyItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/ETypeItemProvider.class",
+            "org/eclipse/emf/ecore/sdo/provider/SDOEditPlugin$Implementation.class",
+            "org/eclipse/emf/ecore/sdo/provider/SDOEditPlugin.class",
+            "org/eclipse/emf/ecore/sdo/provider/SDOItemProviderAdapterFactory.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": [
+            "About",
+            "EChangeSummaryItemProvider",
+            "EChangeSummarySettingItemProvider",
+            "EDataGraphItemProvider",
+            "EDataObjectAnyTypeItemProvider",
+            "EDataObjectItemProvider",
+            "EDataObjectSimpleAnyTypeItemProvider",
+            "EPropertyItemProvider",
+            "ETypeItemProvider",
+            "SDOEditPlugin$Implementation",
+            "SDOEditPlugin",
+            "SDOItemProviderAdapterFactory"
+        ],
+        "title": [
+            "About",
+            "EChangeSummaryItemProvider",
+            "EChangeSummarySettingItemProvider",
+            "EDataGraphItemProvider",
+            "EDataObjectAnyTypeItemProvider",
+            "EDataObjectItemProvider",
+            "EDataObjectSimpleAnyTypeItemProvider",
+            "EPropertyItemProvider",
+            "ETypeItemProvider",
+            "SDOEditPlugin$Implementation",
+            "SDOEditPlugin",
+            "SDOItemProviderAdapterFactory"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "4",
+            "4",
+            "4",
+            "4",
+            "4"
+        ],
+        "Compression CompressionTypeName": [
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "Data SampleFormat": [
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index"
+        ],
+        "Dimension HorizontalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension VerticalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "GraphicControlExtension": [
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=12",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=9",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=9",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=9",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=9"
+        ],
+        "ImageDescriptor": [
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false"
+        ],
+        "Transparency TransparentIndex": [
+            "12",
+            "9",
+            "9",
+            "9",
+            "9"
+        ],
+        "height": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ],
+        "tiff:ImageLength": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ],
+        "tiff:ImageWidth": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ],
+        "width": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ]
+    }
+}

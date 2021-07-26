@@ -1,0 +1,20 @@
+{
+    "tst-svc.expect": {
+        "modified": "2021-07-24 18:49:43.961572",
+        "size": "0.17KB",
+        "md5": "66c43e77232faa332ffe6beae7c3ffbb",
+        "sha256": "c5f1c306d73030195b9b37834a6f6f5f292085d2e7942011589900a9e3cff15c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'tst-svc.expect'"
+    }
+}

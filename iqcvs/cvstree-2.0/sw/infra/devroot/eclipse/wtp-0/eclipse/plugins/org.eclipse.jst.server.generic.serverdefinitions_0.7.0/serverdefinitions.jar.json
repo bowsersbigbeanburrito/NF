@@ -1,0 +1,86 @@
+{
+    "serverdefinitions.jar": {
+        "modified": "2005-07-29 07:23:20",
+        "size": "2.2KB",
+        "md5": "c73c4dd66f1afcff9eb98b3ac81a55c5",
+        "sha256": "0f22443ce44373057d99dbfae45a4a5a49669357541a0f38cdc855f7d6228c48"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'serverdefinitions.jar'",
+            "META-INF/MANIFEST.MF",
+            "ServerdefinitionsPlugin.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "1666"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:22:24Z",
+            "2005-07-29T14:22:24Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:22:24Z",
+            "2005-07-29T14:22:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/ServerdefinitionsPlugin.class"
+        ],
+        "date": [
+            "2005-07-29T14:22:24Z",
+            "2005-07-29T14:22:24Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:22:24Z",
+            "2005-07-29T14:22:24Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/jst/server/generic/internal/serverdefinitions/ServerdefinitionsPlugin.class"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:22:24Z",
+            "2005-07-29T14:22:24Z"
+        ],
+        "modified": [
+            "2005-07-29T14:22:24Z",
+            "2005-07-29T14:22:24Z"
+        ],
+        "dc:title": "ServerdefinitionsPlugin",
+        "title": "ServerdefinitionsPlugin"
+    }
+}

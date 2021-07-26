@@ -1,0 +1,110 @@
+{
+    "ant-xalan1.jar": {
+        "modified": "2006-01-18 13:31:07",
+        "size": "4.36KB",
+        "md5": "2bb3874d719060ecd72d07c86a8e866c",
+        "sha256": "3d7809a7d04b954fc81904758833e502f796beeeb16d6737e8f949f2242b9e50"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ant-xalan1.jar'",
+            "META-INF/MANIFEST.MF",
+            "XalanLiaison.class",
+            "Xalan1Executor.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "2536",
+            "3264"
+        ],
+        "Last-Modified": [
+            "2005-06-02T22:13:06Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-02T22:13:06Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/XalanLiaison.class",
+            "/Xalan1Executor.class"
+        ],
+        "date": [
+            "2005-06-02T22:13:06Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-02T22:13:06Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/XalanLiaison.class",
+            "org/apache/tools/ant/taskdefs/optional/junit/Xalan1Executor.class"
+        ],
+        "meta:save-date": [
+            "2005-06-02T22:13:06Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "modified": [
+            "2005-06-02T22:13:06Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "dc:title": [
+            "XalanLiaison",
+            "Xalan1Executor"
+        ],
+        "title": [
+            "XalanLiaison",
+            "Xalan1Executor"
+        ]
+    }
+}

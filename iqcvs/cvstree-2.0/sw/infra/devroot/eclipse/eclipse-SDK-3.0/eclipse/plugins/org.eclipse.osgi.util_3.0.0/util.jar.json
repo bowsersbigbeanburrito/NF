@@ -1,0 +1,151 @@
+{
+    "util.jar": {
+        "modified": "2004-09-16 09:04:43",
+        "size": "10.72KB",
+        "md5": "731e41aa8e0808419ead20b6361b7e5e",
+        "sha256": "8db18ca7a8aa381b076fed4b60fb69f08e1bc01622a45060d33fa35671c87eb8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'util.jar'",
+            "Measurement.class",
+            "State.class",
+            "Unit.class",
+            "Position.class",
+            "XMLParserActivator.class"
+        ],
+        "Content-Length": [
+            "3557",
+            "1251",
+            "6130",
+            "2660",
+            "6302"
+        ],
+        "Last-Modified": [
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z"
+        ],
+        "Last-Save-Date": [
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/Measurement.class",
+            "/State.class",
+            "/Unit.class",
+            "/Position.class",
+            "/XMLParserActivator.class"
+        ],
+        "date": [
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z"
+        ],
+        "dc:title": [
+            "Measurement",
+            "State",
+            "Unit",
+            "Position",
+            "XMLParserActivator"
+        ],
+        "dcterms:modified": [
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "org/osgi/util/measurement/Measurement.class",
+            "org/osgi/util/measurement/State.class",
+            "org/osgi/util/measurement/Unit.class",
+            "org/osgi/util/position/Position.class",
+            "org/osgi/util/xml/XMLParserActivator.class"
+        ],
+        "meta:save-date": [
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z"
+        ],
+        "modified": [
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z",
+            "2003-04-03T00:52:10Z"
+        ],
+        "title": [
+            "Measurement",
+            "State",
+            "Unit",
+            "Position",
+            "XMLParserActivator"
+        ]
+    }
+}

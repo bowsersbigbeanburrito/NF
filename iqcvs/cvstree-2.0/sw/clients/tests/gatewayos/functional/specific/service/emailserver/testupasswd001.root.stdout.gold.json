@@ -1,0 +1,20 @@
+{
+    "testupasswd001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.104789",
+        "size": "0.56KB",
+        "md5": "c2a1febf15f0297c5756cb597787eca4",
+        "sha256": "c84690c6106957c2afa4f968a083ee924c89f77f20ba7046c976de5f7bccffe0"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testupasswd001.root.stdout.gold'"
+    }
+}

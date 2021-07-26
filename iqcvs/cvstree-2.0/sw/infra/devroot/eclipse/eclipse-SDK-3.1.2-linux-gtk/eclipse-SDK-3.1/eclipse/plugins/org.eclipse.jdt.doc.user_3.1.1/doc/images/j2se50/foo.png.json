@@ -1,0 +1,45 @@
+{
+    "foo.png": {
+        "modified": "2005-06-22 11:11:10",
+        "size": "7.84KB",
+        "md5": "904e5ad4382a4dbb18dada7ef5282c3d",
+        "sha256": "c677b6aec31d2b5e2e0888f319d8260130de5ec0d014db148358c8d90bb83f48"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma Gamma": "0.45455",
+        "Chroma NumChannels": "3",
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "8 8 8",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "UnsignedIntegral",
+        "Dimension HorizontalPixelSize": "0.26462027",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "Dimension VerticalPixelSize": "0.26462027",
+        "Document ImageModificationTime": "year=2005, month=6, day=21, hour=13, minute=49, second=15",
+        "IHDR": "width=351, height=262, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "Text TextEntry": "keyword=Creation Time, value=Tue 21 Jun 2005 15:49:10 +0100, encoding=ISO-8859-1, compression=none",
+        "Transparency Alpha": "none",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "gAMA": "45455",
+        "height": "262",
+        "pHYs": "pixelsPerUnitXAxis=3779, pixelsPerUnitYAxis=3779, unitSpecifier=meter",
+        "resourceName": "b'foo.png'",
+        "tEXt tEXtEntry": "keyword=Creation Time, value=Tue 21 Jun 2005 15:49:10 +0100",
+        "tIME": "year=2005, month=6, day=21, hour=13, minute=49, second=15",
+        "tiff:BitsPerSample": "8 8 8",
+        "tiff:ImageLength": "262",
+        "tiff:ImageWidth": "351",
+        "width": "351"
+    }
+}

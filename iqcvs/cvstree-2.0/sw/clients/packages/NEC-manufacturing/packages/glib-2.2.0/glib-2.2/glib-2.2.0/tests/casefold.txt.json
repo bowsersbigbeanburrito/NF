@@ -1,0 +1,21 @@
+{
+    "casefold.txt": {
+        "modified": "2001-07-01 17:49:21",
+        "size": "5.58KB",
+        "md5": "6f269178a6912e923acdd6396a1fbd1f",
+        "sha256": "28977561466b5400871d5817fec478b060d082d276e0b52e0fcb9ba6b35aa74f"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/tsv; charset=UTF-8; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'casefold.txt'"
+    }
+}

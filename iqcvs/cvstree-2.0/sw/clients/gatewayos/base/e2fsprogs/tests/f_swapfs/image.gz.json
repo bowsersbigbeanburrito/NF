@@ -1,0 +1,33 @@
+{
+    "image.gz": {
+        "modified": "2021-07-24 18:49:46.318194",
+        "size": "3.69KB",
+        "md5": "14de4fa4f4327ae0b9a4bf3354b60fd7",
+        "sha256": "2729d7d545e0cd6913e2c90061475214e12ab0ab1f2626cbc40b5bf438eb53b5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'image.gz'",
+            "b'image.gz'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'image.gz'"
+    }
+}

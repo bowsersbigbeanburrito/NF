@@ -1,0 +1,20 @@
+{
+    "testdata-s3072-n1": {
+        "modified": "2005-09-29 05:56:26",
+        "size": "3.01KB",
+        "md5": "265568c294059f7924f32e62263e7915",
+        "sha256": "9d0bb91e6910808a5352a3f87190b77a4516bf58ab52af2fbfc492ac9cf1916b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'testdata-s3072-n1'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "hosts.allow": {
+        "modified": "2021-07-24 18:49:57.947976",
+        "size": "0.25KB",
+        "md5": "631b28e87704589b868d5c220f3a4461",
+        "sha256": "4935bc943f442e358d7a9c81f4ce2ae1ec098543e726868d423eac55beb91b7b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'hosts.allow'"
+    }
+}

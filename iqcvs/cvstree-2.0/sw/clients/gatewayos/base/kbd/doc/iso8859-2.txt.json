@@ -1,0 +1,21 @@
+{
+    "iso8859-2.txt": {
+        "modified": "2021-07-24 18:49:46.421525",
+        "size": "6.6KB",
+        "md5": "20da6e06eae0017c182e7ef025700c9a",
+        "sha256": "c57c6631a1d00bc9478648f341aa66dde32b28728d13afd043e2c875a2e2ce35"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso8859-2.txt'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "getVersion": {
+        "modified": "2003-05-01 16:19:00",
+        "size": "0.06KB",
+        "md5": "ef4f34dafff231aae9b7db3003cf648b",
+        "sha256": "318bed241c48e089b3fd3acff67bce666b79783883a0a93f0204d8f0c171830b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'getVersion'"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "initrd-2.4.18-14.img": {
+        "modified": "2021-07-24 18:49:39.721652",
+        "size": "126.66KB",
+        "md5": "edaaa201341adb25d10b8dfa2210716d",
+        "sha256": "7ed511b5988b2763e825f73fb9f0ae90eee330259e8a5070c849fd135ce4f023"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'initrd-2.4.18-14.img'",
+            "b'initrd-2.4.18-14.img'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'initrd-2.4.18-14.img'"
+    }
+}

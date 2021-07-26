@@ -1,0 +1,20 @@
+{
+    "testdata-s512-n1000": {
+        "modified": "2003-07-25 09:44:18",
+        "size": "511.72KB",
+        "md5": "ebabdb798eb4e910fd3a57a84c03e2c2",
+        "sha256": "e0c602476f9369d99cbbb83bab1242eac1dbf6ed2617a3be78680bddf1b1f4e3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "resourceName": "b'testdata-s512-n1000'"
+    }
+}

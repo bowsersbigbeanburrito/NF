@@ -1,0 +1,130 @@
+{
+    "j2eeCorePlugin.jar": {
+        "modified": "2005-07-29 06:23:00",
+        "size": "4.95KB",
+        "md5": "d8f669ea37db188cf088fbd21870302b",
+        "sha256": "835957f4401127312c2faebeef4ce181daaefa2222507f8c20393aacceceefa5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'j2eeCorePlugin.jar'",
+            "META-INF/MANIFEST.MF",
+            "EclipseEJBModelExtenderProvider$Descriptor.class",
+            "EclipseEJBModelExtenderProvider.class",
+            "J2EECorePlugin.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "2463",
+            "2773",
+            "2057"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:22:06Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:22:06Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/EclipseEJBModelExtenderProvider$Descriptor.class",
+            "/EclipseEJBModelExtenderProvider.class",
+            "/J2EECorePlugin.class"
+        ],
+        "date": [
+            "2005-07-29T14:22:06Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:22:06Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/jst/j2ee/core/internal/plugin/EclipseEJBModelExtenderProvider$Descriptor.class",
+            "org/eclipse/jst/j2ee/core/internal/plugin/EclipseEJBModelExtenderProvider.class",
+            "org/eclipse/jst/j2ee/core/internal/plugin/J2EECorePlugin.class"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:22:06Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z"
+        ],
+        "modified": [
+            "2005-07-29T14:22:06Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z",
+            "2005-07-29T14:22:08Z"
+        ],
+        "dc:title": [
+            "EclipseEJBModelExtenderProvider$Descriptor",
+            "EclipseEJBModelExtenderProvider",
+            "J2EECorePlugin"
+        ],
+        "title": [
+            "EclipseEJBModelExtenderProvider$Descriptor",
+            "EclipseEJBModelExtenderProvider",
+            "J2EECorePlugin"
+        ]
+    }
+}

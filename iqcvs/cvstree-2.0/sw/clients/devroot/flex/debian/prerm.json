@@ -1,0 +1,20 @@
+{
+    "prerm": {
+        "modified": "2021-07-24 18:49:40.958295",
+        "size": "0.07KB",
+        "md5": "50dc3a8c7770b1f21c758f92bca2456b",
+        "sha256": "f7a2149e607727beb533d752ef8989b4383c3ea12ede19482bff9703cc1ffee9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'prerm'"
+    }
+}

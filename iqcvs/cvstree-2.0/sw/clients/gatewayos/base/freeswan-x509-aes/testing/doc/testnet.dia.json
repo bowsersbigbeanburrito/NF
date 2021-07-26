@@ -1,0 +1,39 @@
+{
+    "testnet.dia": {
+        "modified": "2021-07-24 18:49:46.368193",
+        "size": "1.84KB",
+        "md5": "940d7afecbfd24527ad383ae5e4b37a0",
+        "sha256": "ae494287add797f7906668031e012735d28a0b675c4b847d9bc3d9af285f28c0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'testnet.dia'",
+            "b'testnet.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'testnet.dia'"
+    }
+}

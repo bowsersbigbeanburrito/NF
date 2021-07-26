@@ -1,0 +1,210 @@
+{
+    "indicim.jar": {
+        "modified": "2006-06-28 03:05:11",
+        "size": "9.99KB",
+        "md5": "a6161c37454f0e038991ff344a0c4332",
+        "sha256": "bca228954552eebcf74c3b73a28d29d8439e98e90932e6d2fb6ddd92d873bb7f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=windows-1252",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'indicim.jar'",
+            "META-INF/MANIFEST.MF",
+            "IndicInputMethod.class",
+            "IndicInputMethodImpl$ACIText.class",
+            "IndicInputMethodImpl.class",
+            "DevanagariInputMethodDescriptor.class",
+            "DevanagariTables.class",
+            "com/sun/inputmethods/internal/indicim/resources/DisplayNames.properties",
+            "META-INF/services/java.awt.im.spi.InputMethodDescriptor"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/IndicInputMethod.class",
+            "/IndicInputMethodImpl$ACIText.class",
+            "/IndicInputMethodImpl.class",
+            "/DevanagariInputMethodDescriptor.class",
+            "/DevanagariTables.class",
+            "/DisplayNames.properties",
+            "/java.awt.im.spi.InputMethodDescriptor"
+        ],
+        "date": [
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "com/sun/inputmethods/internal/indicim/IndicInputMethod.class",
+            "com/sun/inputmethods/internal/indicim/IndicInputMethodImpl$ACIText.class",
+            "com/sun/inputmethods/internal/indicim/IndicInputMethodImpl.class",
+            "com/sun/inputmethods/internal/indicim/DevanagariInputMethodDescriptor.class",
+            "com/sun/inputmethods/internal/indicim/DevanagariTables.class",
+            "com/sun/inputmethods/internal/indicim/resources/DisplayNames.properties",
+            "META-INF/services/java.awt.im.spi.InputMethodDescriptor"
+        ],
+        "meta:save-date": [
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z"
+        ],
+        "modified": [
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z",
+            "2006-06-28T10:05:10Z"
+        ],
+        "dc:title": [
+            "IndicInputMethod",
+            "IndicInputMethodImpl$ACIText",
+            "IndicInputMethodImpl",
+            "DevanagariInputMethodDescriptor",
+            "DevanagariTables"
+        ],
+        "title": [
+            "IndicInputMethod",
+            "IndicInputMethodImpl$ACIText",
+            "IndicInputMethodImpl",
+            "DevanagariInputMethodDescriptor",
+            "DevanagariTables"
+        ]
+    }
+}

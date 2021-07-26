@@ -1,0 +1,21 @@
+{
+    "CP1258.irreversible": {
+        "modified": "2021-07-24 18:49:44.111569",
+        "size": "2.5KB",
+        "md5": "c396d5ae4c940c4ffa9c02778abab3d2",
+        "sha256": "4a0d694b2b876b168c8aa977402f75a274f3bc63762e624f64f67f28cb096dc0"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CP1258.irreversible'"
+    }
+}

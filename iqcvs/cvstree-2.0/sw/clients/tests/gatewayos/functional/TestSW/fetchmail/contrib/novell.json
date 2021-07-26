@@ -1,0 +1,95 @@
+{
+    "novell": {
+        "modified": "2021-07-24 18:49:49.901460",
+        "size": "2.2KB",
+        "md5": "69e6ba540b3c4f5f84f9d357d5450a60",
+        "sha256": "533137528820977a7c4b8bec56ed86b727f67b8d28ddcc8222b105345bdabbd4"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": "b'novell'",
+        "Author": [
+            "User <USER@AA.clayton.edu>",
+            "Dan Newcombe <newcombe@mordor.clayton.edu>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1997-06-12T15:28:05Z",
+        "MboxParser-from": "newcombe@mordor.clayton.edu  Thu Jun 12 15:56:44 1997",
+        "MboxParser-mime-version": "1.0",
+        "MboxParser-received": [
+            "from imap.ccil.org (snark [10.0.2.15]) for <esr>; Thu, 12 Jun 1997 15:56:43 -0400 for <esr@snark.thyrsus.com>; Thu, 12 Jun 1997 11:29:02 -0400 (EDT)",
+            "from mordor.clayton.edu (root@mordor.clayton.edu [168.28.241.16]) by thrush.clayton.edu (8.8.5/8.7.6) with SMTP id LAA22880 for <esr@snark.thyrsus.com>; Thu, 12 Jun 1997 11:11:51 -0400 (EDT)",
+            "from thrush.clayton.edu (thrush.clayton.edu [168.28.242.117]) As per your request, here is my recipie for dealing with e-mail popped"
+        ],
+        "MboxParser-reply-to": "newcombe@mordor.clayton.edu",
+        "MboxParser-return-path": "<newcombe@mordor.clayton.edu> by snark.thyrsus.com (8.8.5/8.8.5) with ESMTP id PAA11433 by locke.ccil.org (8.8.5/8.8.5) with ESMTP id LAA17702 -Dan",
+        "MboxParser-status": "RO",
+        "MboxParser-x-sender": "root@mordor.clayton.edu",
+        "Message-From": "Dan Newcombe <newcombe@mordor.clayton.edu>",
+        "Message-Recipient-Address": [
+            "esr@snark.thyrsus.com",
+            "aa/user2,@aa.clayton.edu aa/newcombe"
+        ],
+        "Message-To": [
+            "esr@snark.thyrsus.com",
+            "aa/user2,@aa.clayton.edu aa/newcombe",
+            "esr@snark.thyrsus.com"
+        ],
+        "Message:From-Email": "newcombe@mordor.clayton.edu",
+        "Message:From-Name": "Dan Newcombe",
+        "Message:Raw-Header:Content-Type": "TEXT/PLAIN; charset=US-ASCII",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<Pine.LNX.3.96.970612112225.14988A-100000@mordor.clayton.edu>",
+        "Message:Raw-Header:Received": [
+            "from imap.ccil.org (snark [10.0.2.15])\tby snark.thyrsus.com (8.8.5/8.8.5) with ESMTP id PAA11433\tfor <esr>; Thu, 12 Jun 1997 15:56:43 -0400",
+            "from thrush.clayton.edu (thrush.clayton.edu [168.28.242.117])\tby locke.ccil.org (8.8.5/8.8.5) with ESMTP id LAA17702\tfor <esr@snark.thyrsus.com>; Thu, 12 Jun 1997 11:29:02 -0400 (EDT)",
+            "from mordor.clayton.edu (root@mordor.clayton.edu [168.28.241.16]) by thrush.clayton.edu (8.8.5/8.7.6) with SMTP id LAA22880 for <esr@snark.thyrsus.com>; Thu, 12 Jun 1997 11:11:51 -0400 (EDT)"
+        ],
+        "Message:Raw-Header:Reply-To": "newcombe@mordor.clayton.edu",
+        "Message:Raw-Header:Return-Path": "<newcombe@mordor.clayton.edu>",
+        "Message:Raw-Header:Status": "RO",
+        "Message:Raw-Header:X-Sender": "root@mordor.clayton.edu",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "User <USER@AA.clayton.edu>",
+            "Dan Newcombe <newcombe@mordor.clayton.edu>"
+        ],
+        "dc:creator": [
+            "User <USER@AA.clayton.edu>",
+            "Dan Newcombe <newcombe@mordor.clayton.edu>"
+        ],
+        "dc:format": "TEXT/PLAIN; charset=US-ASCII",
+        "dc:identifier": "<Pine.LNX.3.96.970612112225.14988A-100000@mordor.clayton.edu>",
+        "dc:title": "Novell Procmail recipie/problem",
+        "dcterms:created": "1997-06-12T15:28:05Z",
+        "format": "TEXT/PLAIN; charset=US-ASCII",
+        "identifier": "<Pine.LNX.3.96.970612112225.14988A-100000@mordor.clayton.edu>",
+        "meta:author": [
+            "User <USER@AA.clayton.edu>",
+            "Dan Newcombe <newcombe@mordor.clayton.edu>"
+        ],
+        "meta:creation-date": "1997-06-12T15:28:05Z",
+        "subject": "Novell Procmail recipie/problem"
+    }
+}

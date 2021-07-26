@@ -1,0 +1,39 @@
+{
+    "bb_act.dia": {
+        "modified": "2021-07-24 17:28:49.374744",
+        "size": "3.11KB",
+        "md5": "68cc32fe4fc4562924b462a51a7377fe",
+        "sha256": "5cb1e9ee43a9d43d568ba6833c5108da044861ee15f491bd942ea03d4df81713"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "3"
+        ],
+        "resourceName": [
+            "b'bb_act.dia'",
+            "b'bb_act.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'bb_act.dia'"
+    }
+}

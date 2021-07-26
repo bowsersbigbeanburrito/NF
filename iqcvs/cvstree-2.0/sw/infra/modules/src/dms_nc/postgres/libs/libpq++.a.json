@@ -1,0 +1,163 @@
+{
+    "libpq++.a": {
+        "modified": "2021-07-24 18:49:58.814626",
+        "size": "35.73KB",
+        "md5": "dafedafdf3149f23746e112ce6129513",
+        "sha256": "6068316b6dc536a80a08ab17bcedd3e471397b5a68eb3170ec3156997771c3ab"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libpq++.a'",
+            "pgconnection.o",
+            "pgdatabase.o",
+            "pgtransdb.o",
+            "pgcursordb.o",
+            "pglobject.o"
+        ],
+        "Content-Length": [
+            "3174",
+            "5344",
+            "5384",
+            "4824",
+            "7920",
+            "9572"
+        ],
+        "Last-Modified": [
+            "2002-11-14T22:22:46Z",
+            "2002-11-14T22:22:39Z",
+            "2002-11-14T22:22:41Z",
+            "2002-11-14T22:22:43Z",
+            "2002-11-14T22:22:44Z",
+            "2002-11-14T22:22:46Z"
+        ],
+        "Last-Save-Date": [
+            "2002-11-14T22:22:46Z",
+            "2002-11-14T22:22:39Z",
+            "2002-11-14T22:22:41Z",
+            "2002-11-14T22:22:43Z",
+            "2002-11-14T22:22:44Z",
+            "2002-11-14T22:22:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/pgconnection.o",
+            "/pgdatabase.o",
+            "/pgtransdb.o",
+            "/pgcursordb.o",
+            "/pglobject.o"
+        ],
+        "date": [
+            "2002-11-14T22:22:46Z",
+            "2002-11-14T22:22:39Z",
+            "2002-11-14T22:22:41Z",
+            "2002-11-14T22:22:43Z",
+            "2002-11-14T22:22:44Z",
+            "2002-11-14T22:22:46Z"
+        ],
+        "dcterms:modified": [
+            "2002-11-14T22:22:46Z",
+            "2002-11-14T22:22:39Z",
+            "2002-11-14T22:22:41Z",
+            "2002-11-14T22:22:43Z",
+            "2002-11-14T22:22:44Z",
+            "2002-11-14T22:22:46Z"
+        ],
+        "meta:save-date": [
+            "2002-11-14T22:22:46Z",
+            "2002-11-14T22:22:39Z",
+            "2002-11-14T22:22:41Z",
+            "2002-11-14T22:22:43Z",
+            "2002-11-14T22:22:44Z",
+            "2002-11-14T22:22:46Z"
+        ],
+        "modified": [
+            "2002-11-14T22:22:46Z",
+            "2002-11-14T22:22:39Z",
+            "2002-11-14T22:22:41Z",
+            "2002-11-14T22:22:43Z",
+            "2002-11-14T22:22:44Z",
+            "2002-11-14T22:22:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "pgconnection.o",
+            "pgdatabase.o",
+            "pgtransdb.o",
+            "pgcursordb.o",
+            "pglobject.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

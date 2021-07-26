@@ -1,0 +1,32 @@
+{
+    "WebPageTest.java": {
+        "modified": "2021-07-24 18:50:00.584593",
+        "size": "21.3KB",
+        "md5": "2a96cf78d2f974f1077ad374b3233998",
+        "sha256": "2a968472ab2ba5c3c2f637ce1e10aac2b91a8d909c7f8e48c0c090f4deff2c77"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-8",
+        "Content-Type": "text/html; charset=ISO-8859-8",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "\\\"Expires\\\"": "\\\"now\\\"/",
+        "\\\"keywords\\\"": [
+            "\\\"test\\\"/",
+            "\\\"demo\\\"/"
+        ],
+        "\\\"robots\\\"": "\\\"index,follow\\\"/",
+        "dc:title": "A Sample Page",
+        "refresh": [
+            "2;URL=\\\"NextPage.html\\\"></head>\\n\" +                       \"<body>This has no data\\n\" +                       \"</body></html>\\n\";         defineResource( \"SimplePage.html\", page );          WebConversation wc = new WebConversation();         WebRequest request = new GetMethodWebRequest( getHostPath() + \"/SimplePage.html\" );         WebResponse simplePage = wc.getResponse( request );          assertEquals( \"Refresh URL\", refreshURL, simplePage.getRefreshRequest().getURL().toExternalForm() );         assertEquals( \"Refresh delay\", 2, simplePage.getRefreshDelay() );      }       public void testMetaRefreshURLRequestNoDelay() throws Exception {         String refreshURL = getHostPath() + \"/NextPage.html\";         String page = \"<html><head><title>Sample</title>\" +                       \"<meta Http-equiv=refresh content=",
+            "5"
+        ],
+        "resourceName": "b'WebPageTest.java'",
+        "title": "A Sample Page"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "ant-xslp.jar": {
+        "modified": "2004-09-16 09:04:43",
+        "size": "2.18KB",
+        "md5": "068337f5c0ab203577311e8891104982",
+        "sha256": "046ecec5939f7061f22adc95d01d6adf97e27a30fdfc6b8923ef7384ff1002c5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ant-xslp.jar'",
+            "META-INF/MANIFEST.MF",
+            "XslpLiaison.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "1841"
+        ],
+        "Last-Modified": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "Last-Save-Date": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/XslpLiaison.class"
+        ],
+        "date": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "dcterms:modified": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/XslpLiaison.class"
+        ],
+        "meta:save-date": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "modified": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "dc:title": "XslpLiaison",
+        "title": "XslpLiaison"
+    }
+}

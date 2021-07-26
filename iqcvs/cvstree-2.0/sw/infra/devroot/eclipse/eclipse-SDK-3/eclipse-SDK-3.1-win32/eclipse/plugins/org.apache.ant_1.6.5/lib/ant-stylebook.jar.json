@@ -1,0 +1,86 @@
+{
+    "ant-stylebook.jar": {
+        "modified": "2005-06-27 14:12:32",
+        "size": "2.27KB",
+        "md5": "09a45d21eefca8357e3c7262f1b9a8aa",
+        "sha256": "bec113460b746bb6af010095269c7a74da375286b7357f61638d7aa0edeeaf93"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ant-stylebook.jar'",
+            "META-INF/MANIFEST.MF",
+            "StyleBook.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "2114"
+        ],
+        "Last-Modified": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/StyleBook.class"
+        ],
+        "date": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/StyleBook.class"
+        ],
+        "meta:save-date": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z"
+        ],
+        "modified": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z"
+        ],
+        "dc:title": "StyleBook",
+        "title": "StyleBook"
+    }
+}

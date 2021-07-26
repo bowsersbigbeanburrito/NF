@@ -1,0 +1,94 @@
+{
+    "dhcpid.txt": {
+        "modified": "2021-07-24 18:49:46.691520",
+        "size": "26.36KB",
+        "md5": "1db4a7720ffe4509345d8f7b9b1de461",
+        "sha256": "8bf6a455fd15ab2b4cbb27f5c06b291be801e58c944168e2b1972b4bdd93b887"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": "b'dhcpid.txt'",
+        "Author": [
+            "Daniel Shane <daniel@insu.com> allow members of \"iNdiskless-boot\"; #endif extern int inet_aton P((char *p, in_addr *i));",
+            "Daniel Shane <daniel@insu.com>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "2000-04-26T20:49:45Z",
+        "MboxParser-+\t\t\tprintf(\"[%s]": [
+            "Option %d (%s), invalid response. Wanted (%s).\\n\",",
+            "Option %d (%s), valid response.\\n\","
+        ],
+        "MboxParser-content-disposition": [
+            "inline; {",
+            "inline;",
+            "inline;",
+            "inline;"
+        ],
+        "MboxParser-content-transfer-encoding": [
+            "7bit hardware ethernet 00:50:ba:c8:db:d6; #endif\t/* NO_DHCP_SUPPORT */",
+            "7bit int await_reply(int type, int ival, void *ptr, int timeout)",
+            "7bit",
+            "7bit",
+            "7bit"
+        ],
+        "MboxParser-from": "daniel@insu.com Thu Apr 27 14:14:55 2000",
+        "MboxParser-mime-version": "1.0 next-server 10.4.1.1; printf(\"Trying floppy\");",
+        "MboxParser-references": "<20000425170804.6677127D8A@Goffman.iNsu.COM> host labo01 { #ifdef\tEMERGENCYDISKBOOT",
+        "MboxParser-sender": "root@iNsu.COM boundary=\"------------4734FDA0BF2F2FBDF8EB8DF6\" } int bootp()",
+        "MboxParser-x-accept-language": "en range 10.4.1.2 10.4.1.200; disk_init();",
+        "MboxParser-x-mailer": "Mozilla 4.72 [en] (X11; U; Linux 2.2.14-5.0 i686) deny unknown clients; #if\t(TRY_FLOPPY_FIRST > 0) && defined(FLOPPY)",
+        "Message-From": "Daniel Shane <daniel@insu.com>",
+        "Message:From-Email": "daniel@insu.com",
+        "Message:From-Name": "Daniel Shane",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<39075669.FAEB20F2@insu.com>",
+        "Message:Raw-Header:References": "<20000425170804.6677127D8A@Goffman.iNsu.COM>",
+        "Message:Raw-Header:Sender": "root@iNsu.COM",
+        "Message:Raw-Header:X-Accept-Language": "en",
+        "Message:Raw-Header:X-Mailer": "Mozilla 4.72 [en] (X11; U; Linux 2.2.14-5.0 i686)",
+        "Multipart-Boundary": "------------4734FDA0BF2F2FBDF8EB8DF6",
+        "Multipart-Subtype": "mixed",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Daniel Shane <daniel@insu.com> allow members of \"iNdiskless-boot\"; #endif extern int inet_aton P((char *p, in_addr *i));",
+            "Daniel Shane <daniel@insu.com>"
+        ],
+        "dc:creator": [
+            "Daniel Shane <daniel@insu.com> allow members of \"iNdiskless-boot\"; #endif extern int inet_aton P((char *p, in_addr *i));",
+            "Daniel Shane <daniel@insu.com>"
+        ],
+        "dc:format": "text/plain; charset=us-ascii;",
+        "dc:identifier": "<39075669.FAEB20F2@insu.com> match if substring(option iNdiskless-state,0,4) = \"BOOT\"; #endif #endif\t/* NO_DHCP_SUPPORT */",
+        "dc:title": "Re: New feature added to etherboot",
+        "dcterms:created": "2000-04-26T20:49:45Z",
+        "format": "text/plain; charset=us-ascii;",
+        "identifier": "<39075669.FAEB20F2@insu.com> match if substring(option iNdiskless-state,0,4) = \"BOOT\"; #endif #endif\t/* NO_DHCP_SUPPORT */",
+        "meta:author": [
+            "Daniel Shane <daniel@insu.com> allow members of \"iNdiskless-boot\"; #endif extern int inet_aton P((char *p, in_addr *i));",
+            "Daniel Shane <daniel@insu.com>"
+        ],
+        "meta:creation-date": "2000-04-26T20:49:45Z",
+        "subject": "Re: New feature added to etherboot"
+    }
+}

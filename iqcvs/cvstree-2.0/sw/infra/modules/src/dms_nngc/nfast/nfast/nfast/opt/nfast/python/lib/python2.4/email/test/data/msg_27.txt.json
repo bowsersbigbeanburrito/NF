@@ -1,0 +1,37 @@
+{
+    "msg_27.txt": {
+        "modified": "2005-09-29 05:56:22",
+        "size": "0.56KB",
+        "md5": "ecf907082425783fe2a94ac5b787f5ff",
+        "sha256": "3d33f36e79c3406c72aeac084df89c84d522fc9953ec3fbb31e8c90f53f87b21"
+    },
+    "Metadata": {
+        "Author": "aperson@dom.ain",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2002-06-05T01:46:59Z",
+        "Message-From": "aperson@dom.ain",
+        "Message-To": "bperson@dom.ain",
+        "Message:From-Email": "aperson@dom.ain",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=us-ascii",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<15613.28051.707126.569693@dom.ain>",
+        "Message:Raw-Header:Received": "by mail.dom.ain (Postfix, from userid 889)\tid B9D0AD35DB; Tue,  4 Jun 2002 21:46:59 -0400 (EDT)",
+        "Message:Raw-Header:Return-Path": "<aperson@dom.ain>",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "aperson@dom.ain",
+        "dc:creator": "aperson@dom.ain",
+        "dc:title": "bug demonstration\t12345678911234567892123456789312345678941234567895123456789612345678971234567898112345678911234567892123456789112345678911234567892123456789\tmore text",
+        "dcterms:created": "2002-06-05T01:46:59Z",
+        "meta:author": "aperson@dom.ain",
+        "meta:creation-date": "2002-06-05T01:46:59Z",
+        "resourceName": "b'msg_27.txt'",
+        "subject": "bug demonstration\t12345678911234567892123456789312345678941234567895123456789612345678971234567898112345678911234567892123456789112345678911234567892123456789\tmore text"
+    }
+}

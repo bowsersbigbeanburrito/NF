@@ -1,0 +1,39 @@
+{
+    "mgmt_ext.dia": {
+        "modified": "2021-07-24 17:28:48.794703",
+        "size": "4.81KB",
+        "md5": "914673acf8e5753458f3109ed235632e",
+        "sha256": "f5a57c0377d24d0ffcb3f351068769a799045e47be2650080ee84a6902536790"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "3"
+        ],
+        "resourceName": [
+            "b'mgmt_ext.dia'",
+            "b'mgmt_ext.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'mgmt_ext.dia'"
+    }
+}

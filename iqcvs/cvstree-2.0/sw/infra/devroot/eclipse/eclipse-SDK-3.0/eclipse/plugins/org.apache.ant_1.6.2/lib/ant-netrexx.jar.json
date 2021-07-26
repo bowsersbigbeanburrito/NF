@@ -1,0 +1,130 @@
+{
+    "ant-netrexx.jar": {
+        "modified": "2004-09-16 09:04:43",
+        "size": "9.76KB",
+        "md5": "586608f5378b8fc686930155a12aff59",
+        "sha256": "222e6c24edc620ab52eb753796418dcf59e303c9c59a4dbbbd2214e57f2eacbf"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ant-netrexx.jar'",
+            "META-INF/MANIFEST.MF",
+            "NetRexxC$TraceAttr.class",
+            "NetRexxC$VerboseAttr.class",
+            "NetRexxC.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "660",
+            "753",
+            "16774"
+        ],
+        "Last-Modified": [
+            "2004-07-16T16:38:50Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "Last-Save-Date": [
+            "2004-07-16T16:38:50Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/NetRexxC$TraceAttr.class",
+            "/NetRexxC$VerboseAttr.class",
+            "/NetRexxC.class"
+        ],
+        "date": [
+            "2004-07-16T16:38:50Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "dcterms:modified": [
+            "2004-07-16T16:38:50Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/NetRexxC$TraceAttr.class",
+            "org/apache/tools/ant/taskdefs/optional/NetRexxC$VerboseAttr.class",
+            "org/apache/tools/ant/taskdefs/optional/NetRexxC.class"
+        ],
+        "meta:save-date": [
+            "2004-07-16T16:38:50Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "modified": [
+            "2004-07-16T16:38:50Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z",
+            "2004-07-16T16:38:32Z"
+        ],
+        "dc:title": [
+            "NetRexxC$TraceAttr",
+            "NetRexxC$VerboseAttr",
+            "NetRexxC"
+        ],
+        "title": [
+            "NetRexxC$TraceAttr",
+            "NetRexxC$VerboseAttr",
+            "NetRexxC"
+        ]
+    }
+}

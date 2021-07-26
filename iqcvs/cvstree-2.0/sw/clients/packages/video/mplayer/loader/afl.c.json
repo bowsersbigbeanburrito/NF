@@ -1,0 +1,20 @@
+{
+    "afl.c": {
+        "modified": "2021-07-24 18:49:49.354804",
+        "size": "21.69KB",
+        "md5": "fa2ac734bf31c8c34400d136c836ee0c",
+        "sha256": "3aa5c75cda30df721d69a9e9dad8c4840667736fd688584104a1ffbd6c600b80"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'afl.c'"
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "cgic107_tar": {
+        "modified": "2001-01-06 22:12:34",
+        "size": "190.0KB",
+        "md5": "062f2052af5296bdae7dab4e87d47448",
+        "sha256": "ab47fcf9ed5a3bd958ba0121cd0ece7763734ad5c410bc5895bbbc0d03d9730d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-gtar",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "0",
+            "1",
+            "0",
+            "1",
+            "4",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'cgic107_tar'",
+            "cgic/Makefile",
+            "cgic/capture.c",
+            "cgic/cgic.c",
+            "cgic/cgic.h",
+            "cgic/cgic.html",
+            "cgic/cgictest.c",
+            "cgic/testform.html",
+            "cgic/cgic.txt",
+            "cgic/license.txt",
+            "cgic/support.txt",
+            "cgic/readme.txt"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "544",
+            "346",
+            "23428",
+            "4292",
+            "63989",
+            "5143",
+            "1557",
+            "75931",
+            "3440",
+            "1071",
+            "503"
+        ],
+        "Last-Modified": [
+            "2000-03-24T23:37:55Z",
+            "1996-02-15T21:20:09Z",
+            "2000-03-24T23:08:44Z",
+            "1999-01-11T16:24:03Z",
+            "2000-03-24T23:41:42Z",
+            "2000-03-24T23:31:55Z",
+            "1996-02-15T21:20:10Z",
+            "2000-03-24T23:41:54Z",
+            "2000-03-24T23:29:12Z",
+            "1999-01-11T16:40:04Z",
+            "2000-03-24T23:28:03Z"
+        ],
+        "Last-Save-Date": [
+            "2000-03-24T23:37:55Z",
+            "1996-02-15T21:20:09Z",
+            "2000-03-24T23:08:44Z",
+            "1999-01-11T16:24:03Z",
+            "2000-03-24T23:41:42Z",
+            "2000-03-24T23:31:55Z",
+            "1996-02-15T21:20:10Z",
+            "2000-03-24T23:41:54Z",
+            "2000-03-24T23:29:12Z",
+            "1999-01-11T16:40:04Z",
+            "2000-03-24T23:28:03Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/Makefile",
+            "/capture.c",
+            "/cgic.c",
+            "/cgic.h",
+            "/cgic.html",
+            "/cgictest.c",
+            "/testform.html",
+            "/cgic.txt",
+            "/license.txt",
+            "/support.txt",
+            "/readme.txt"
+        ],
+        "date": [
+            "2000-03-24T23:37:55Z",
+            "1996-02-15T21:20:09Z",
+            "2000-03-24T23:08:44Z",
+            "1999-01-11T16:24:03Z",
+            "2000-03-24T23:41:42Z",
+            "2000-03-24T23:31:55Z",
+            "1996-02-15T21:20:10Z",
+            "2000-03-24T23:41:54Z",
+            "2000-03-24T23:29:12Z",
+            "1999-01-11T16:40:04Z",
+            "2000-03-24T23:28:03Z"
+        ],
+        "dcterms:modified": [
+            "2000-03-24T23:37:55Z",
+            "1996-02-15T21:20:09Z",
+            "2000-03-24T23:08:44Z",
+            "1999-01-11T16:24:03Z",
+            "2000-03-24T23:41:42Z",
+            "2000-03-24T23:31:55Z",
+            "1996-02-15T21:20:10Z",
+            "2000-03-24T23:41:54Z",
+            "2000-03-24T23:29:12Z",
+            "1999-01-11T16:40:04Z",
+            "2000-03-24T23:28:03Z"
+        ],
+        "embeddedRelationshipId": [
+            "cgic/Makefile",
+            "cgic/capture.c",
+            "cgic/cgic.c",
+            "cgic/cgic.h",
+            "cgic/cgic.html",
+            "cgic/cgictest.c",
+            "cgic/testform.html",
+            "cgic/cgic.txt",
+            "cgic/license.txt",
+            "cgic/support.txt",
+            "cgic/readme.txt"
+        ],
+        "meta:save-date": [
+            "2000-03-24T23:37:55Z",
+            "1996-02-15T21:20:09Z",
+            "2000-03-24T23:08:44Z",
+            "1999-01-11T16:24:03Z",
+            "2000-03-24T23:41:42Z",
+            "2000-03-24T23:31:55Z",
+            "1996-02-15T21:20:10Z",
+            "2000-03-24T23:41:54Z",
+            "2000-03-24T23:29:12Z",
+            "1999-01-11T16:40:04Z",
+            "2000-03-24T23:28:03Z"
+        ],
+        "modified": [
+            "2000-03-24T23:37:55Z",
+            "1996-02-15T21:20:09Z",
+            "2000-03-24T23:08:44Z",
+            "1999-01-11T16:24:03Z",
+            "2000-03-24T23:41:42Z",
+            "2000-03-24T23:31:55Z",
+            "1996-02-15T21:20:10Z",
+            "2000-03-24T23:41:54Z",
+            "2000-03-24T23:29:12Z",
+            "1999-01-11T16:40:04Z",
+            "2000-03-24T23:28:03Z"
+        ],
+        "dc:title": [
+            "cgic: an ANSI C library for CGI Programming",
+            "CGI-C Test Form"
+        ],
+        "title": [
+            "cgic: an ANSI C library for CGI Programming",
+            "CGI-C Test Form"
+        ]
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "uriresolver.jar": {
+        "modified": "2005-07-29 07:23:32",
+        "size": "29.88KB",
+        "md5": "3596b95fb17ef8f14c01e6ed6479c500",
+        "sha256": "40df6c756bf0cac89d7c300f13e8236478431b70778913277643560fa5769024"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'uriresolver.jar'",
+            "META-INF/MANIFEST.MF",
+            "ExtensibleURIResolver.class",
+            "URI.class",
+            "URIResolverExtensionDescriptor.class",
+            "URIResolverExtensionRegistry.class",
+            "URIResolverExtensionRegistryReader.class",
+            "URIResolver.class",
+            "URIResolverExtension.class",
+            "URIResolverPlugin.class",
+            "URIEncoder.class",
+            "URIHelper.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "5711",
+            "29584",
+            "2195",
+            "3682",
+            "4225",
+            "288",
+            "306",
+            "1242",
+            "2699",
+            "7437"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/ExtensibleURIResolver.class",
+            "/URI.class",
+            "/URIResolverExtensionDescriptor.class",
+            "/URIResolverExtensionRegistry.class",
+            "/URIResolverExtensionRegistryReader.class",
+            "/URIResolver.class",
+            "/URIResolverExtension.class",
+            "/URIResolverPlugin.class",
+            "/URIEncoder.class",
+            "/URIHelper.class"
+        ],
+        "date": [
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/wst/common/uriresolver/internal/ExtensibleURIResolver.class",
+            "org/eclipse/wst/common/uriresolver/internal/URI.class",
+            "org/eclipse/wst/common/uriresolver/internal/URIResolverExtensionDescriptor.class",
+            "org/eclipse/wst/common/uriresolver/internal/URIResolverExtensionRegistry.class",
+            "org/eclipse/wst/common/uriresolver/internal/URIResolverExtensionRegistryReader.class",
+            "org/eclipse/wst/common/uriresolver/internal/provisional/URIResolver.class",
+            "org/eclipse/wst/common/uriresolver/internal/provisional/URIResolverExtension.class",
+            "org/eclipse/wst/common/uriresolver/internal/provisional/URIResolverPlugin.class",
+            "org/eclipse/wst/common/uriresolver/internal/util/URIEncoder.class",
+            "org/eclipse/wst/common/uriresolver/internal/util/URIHelper.class"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z"
+        ],
+        "modified": [
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z",
+            "2005-07-29T14:04:34Z"
+        ],
+        "dc:title": [
+            "ExtensibleURIResolver",
+            "URI",
+            "URIResolverExtensionDescriptor",
+            "URIResolverExtensionRegistry",
+            "URIResolverExtensionRegistryReader",
+            "URIResolver",
+            "URIResolverExtension",
+            "URIResolverPlugin",
+            "URIEncoder",
+            "URIHelper"
+        ],
+        "title": [
+            "ExtensibleURIResolver",
+            "URI",
+            "URIResolverExtensionDescriptor",
+            "URIResolverExtensionRegistry",
+            "URIResolverExtensionRegistryReader",
+            "URIResolver",
+            "URIResolverExtension",
+            "URIResolverPlugin",
+            "URIEncoder",
+            "URIHelper"
+        ]
+    }
+}

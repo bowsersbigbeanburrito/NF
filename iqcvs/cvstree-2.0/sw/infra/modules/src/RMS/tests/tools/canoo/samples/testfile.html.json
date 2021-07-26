@@ -1,0 +1,22 @@
+{
+    "testfile.html": {
+        "modified": "2021-07-24 18:49:57.544650",
+        "size": "0.08KB",
+        "md5": "18e8e244748e7551dd8501982fe96ea6",
+        "sha256": "9a0088cd1489e074379e4348e2cf6d7e0de52716b01d1b6fe4d470f5b01e062c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "dc:title": "Test File Title",
+        "resourceName": "b'testfile.html'",
+        "title": "Test File Title"
+    }
+}

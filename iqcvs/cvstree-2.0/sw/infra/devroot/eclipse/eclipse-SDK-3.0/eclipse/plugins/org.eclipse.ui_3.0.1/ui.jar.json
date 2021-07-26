@@ -1,0 +1,130 @@
+{
+    "ui.jar": {
+        "modified": "2004-09-16 09:04:40",
+        "size": "3.12KB",
+        "md5": "2aa8883d0f705bda98ade557e2c95305",
+        "sha256": "5a39653b46c3c0fd4825459280f9febff247d02e3d2279f71b2f3f21adafa954"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ui.jar'",
+            "META-INF/MANIFEST.MF",
+            "UIPlugin$1.class",
+            "UIPlugin.class",
+            "UIPreferenceInitializer.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "823",
+            "1440",
+            "1649"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/UIPlugin$1.class",
+            "/UIPlugin.class",
+            "/UIPreferenceInitializer.class"
+        ],
+        "date": [
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/ui/internal/UIPlugin$1.class",
+            "org/eclipse/ui/internal/UIPlugin.class",
+            "org/eclipse/ui/internal/UIPreferenceInitializer.class"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z"
+        ],
+        "modified": [
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z",
+            "2004-09-16T18:53:24Z"
+        ],
+        "dc:title": [
+            "UIPlugin$1",
+            "UIPlugin",
+            "UIPreferenceInitializer"
+        ],
+        "title": [
+            "UIPlugin$1",
+            "UIPlugin",
+            "UIPreferenceInitializer"
+        ]
+    }
+}

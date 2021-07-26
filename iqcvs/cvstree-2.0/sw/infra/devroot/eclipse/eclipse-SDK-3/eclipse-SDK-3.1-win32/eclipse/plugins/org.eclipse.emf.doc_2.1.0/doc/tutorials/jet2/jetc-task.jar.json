@@ -1,0 +1,86 @@
+{
+    "jetc-task.jar": {
+        "modified": "2004-06-03 01:55:50",
+        "size": "3.73KB",
+        "md5": "19a52fdfd8f77bc9b7ac1964e2600b3d",
+        "sha256": "2954efc3c13fabe6961a18e7d6a7c4599254099d01bb08f504c482632ce28361"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'jetc-task.jar'",
+            "META-INF/MANIFEST.MF",
+            "JETCTask.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2003-05-29T00:18:54Z",
+            "2003-05-29T00:12:04Z"
+        ],
+        "Last-Save-Date": [
+            "2003-05-29T00:18:54Z",
+            "2003-05-29T00:12:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/JETCTask.class"
+        ],
+        "date": [
+            "2003-05-29T00:18:54Z",
+            "2003-05-29T00:12:04Z"
+        ],
+        "dcterms:modified": [
+            "2003-05-29T00:18:54Z",
+            "2003-05-29T00:12:04Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "ch/paranor/epla/structure/JETCTask.class"
+        ],
+        "meta:save-date": [
+            "2003-05-29T00:18:54Z",
+            "2003-05-29T00:12:04Z"
+        ],
+        "modified": [
+            "2003-05-29T00:18:54Z",
+            "2003-05-29T00:12:04Z"
+        ],
+        "dc:title": "JETCTask",
+        "title": "JETCTask"
+    }
+}

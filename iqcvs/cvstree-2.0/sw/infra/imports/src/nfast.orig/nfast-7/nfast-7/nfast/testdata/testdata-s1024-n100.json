@@ -1,0 +1,20 @@
+{
+    "testdata-s1024-n100": {
+        "modified": "2003-07-25 09:44:18",
+        "size": "101.17KB",
+        "md5": "0e97b9a19e447d48c1fe488034d5e65c",
+        "sha256": "8f2dcd05ad16bc71d10f1d52646d49dcc9684fba37f40bf2203cb919f6efc492"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "resourceName": "b'testdata-s1024-n100'"
+    }
+}

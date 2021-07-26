@@ -1,0 +1,21 @@
+{
+    "bic.d": {
+        "modified": "2021-07-24 18:49:40.114978",
+        "size": "3.56KB",
+        "md5": "402522bfb20c4387e1faba27224186ac",
+        "sha256": "851ecdbf2de16952b22d0bfe85bae53d70334e3dd7ae3f7b94ce9f85d7214dc5"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'bic.d'"
+    }
+}

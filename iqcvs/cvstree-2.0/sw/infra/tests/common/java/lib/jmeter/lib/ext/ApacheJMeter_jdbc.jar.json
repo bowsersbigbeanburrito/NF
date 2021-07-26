@@ -1,0 +1,286 @@
+{
+    "ApacheJMeter_jdbc.jar": {
+        "modified": "2021-07-24 18:50:00.737924",
+        "size": "16.26KB",
+        "md5": "ddca41bb595e283c3012dfd70947c621",
+        "sha256": "179f27a3c47d33c565711735cbc5e9853f5451140ebe9855019bf8869244b327"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "1",
+            "1",
+            "0",
+            "1",
+            "2",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ApacheJMeter_jdbc.jar'",
+            "META-INF/MANIFEST.MF",
+            "DataSourceElement.class",
+            "DataSourceElementBeanInfo.class",
+            "SqlConfigGui.class",
+            "JDBCSampler.class",
+            "JDBCSamplerBeanInfo.class",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources.properties",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_es.properties",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_zh_TW.properties",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources.properties",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_es.properties",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_zh_TW.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "106",
+            "7637",
+            "2473",
+            "3231",
+            "5607",
+            "1962",
+            "1905",
+            "2282",
+            "2365",
+            "466",
+            "546",
+            "439"
+        ],
+        "Last-Modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2004-06-27T07:21:58Z",
+            "2005-07-11T03:23:48Z",
+            "2005-05-02T19:40:34Z",
+            "2005-07-16T04:34:24Z",
+            "2005-07-16T04:34:24Z",
+            "2005-05-02T19:40:34Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2004-06-27T07:21:58Z",
+            "2005-07-11T03:23:48Z",
+            "2005-05-02T19:40:34Z",
+            "2005-07-16T04:34:24Z",
+            "2005-07-16T04:34:24Z",
+            "2005-05-02T19:40:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/DataSourceElement.class",
+            "/DataSourceElementBeanInfo.class",
+            "/SqlConfigGui.class",
+            "/JDBCSampler.class",
+            "/JDBCSamplerBeanInfo.class",
+            "/DataSourceElementResources.properties",
+            "/DataSourceElementResources_es.properties",
+            "/DataSourceElementResources_zh_TW.properties",
+            "/JDBCSamplerResources.properties",
+            "/JDBCSamplerResources_es.properties",
+            "/JDBCSamplerResources_zh_TW.properties"
+        ],
+        "date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2004-06-27T07:21:58Z",
+            "2005-07-11T03:23:48Z",
+            "2005-05-02T19:40:34Z",
+            "2005-07-16T04:34:24Z",
+            "2005-07-16T04:34:24Z",
+            "2005-05-02T19:40:34Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2004-06-27T07:21:58Z",
+            "2005-07-11T03:23:48Z",
+            "2005-05-02T19:40:34Z",
+            "2005-07-16T04:34:24Z",
+            "2005-07-16T04:34:24Z",
+            "2005-05-02T19:40:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElement.class",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementBeanInfo.class",
+            "org/apache/jmeter/protocol/jdbc/config/gui/SqlConfigGui.class",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSampler.class",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerBeanInfo.class",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources.properties",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_es.properties",
+            "org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_zh_TW.properties",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources.properties",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_es.properties",
+            "org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_zh_TW.properties"
+        ],
+        "meta:save-date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2004-06-27T07:21:58Z",
+            "2005-07-11T03:23:48Z",
+            "2005-05-02T19:40:34Z",
+            "2005-07-16T04:34:24Z",
+            "2005-07-16T04:34:24Z",
+            "2005-05-02T19:40:34Z"
+        ],
+        "modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2005-09-30T06:05:48Z",
+            "2004-06-27T07:21:58Z",
+            "2005-07-11T03:23:48Z",
+            "2005-05-02T19:40:34Z",
+            "2005-07-16T04:34:24Z",
+            "2005-07-16T04:34:24Z",
+            "2005-05-02T19:40:34Z"
+        ],
+        "dc:title": [
+            "DataSourceElement",
+            "DataSourceElementBeanInfo",
+            "SqlConfigGui",
+            "JDBCSampler",
+            "JDBCSamplerBeanInfo"
+        ],
+        "title": [
+            "DataSourceElement",
+            "DataSourceElementBeanInfo",
+            "SqlConfigGui",
+            "JDBCSampler",
+            "JDBCSamplerBeanInfo"
+        ]
+    }
+}

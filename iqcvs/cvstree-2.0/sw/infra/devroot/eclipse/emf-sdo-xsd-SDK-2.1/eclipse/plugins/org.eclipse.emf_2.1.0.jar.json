@@ -1,0 +1,538 @@
+{
+    "org.eclipse.emf_2.1.0.jar": {
+        "modified": "2005-07-07 02:05:44",
+        "size": "35.91KB",
+        "md5": "28bd8a559d504619067f81395d80e2d0",
+        "sha256": "2bb5e730080ced7fd73951312a5920b5eda8af0609aee2d34e3629f9c95c403a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "text/x-ini; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "image/gif",
+            "image/png",
+            "image/gif",
+            "image/gif",
+            "image/png",
+            "image/gif",
+            "image/png",
+            "image/gif",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "11",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'org.eclipse.emf_2.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "about.ini",
+            "about.mappings",
+            "about.properties",
+            "eclipse.gif",
+            "eclipse.png",
+            "eclipse24.gif",
+            "eclipse32.gif",
+            "eclipse32.png",
+            "eclipse48.gif",
+            "eclipse48.png",
+            "eclipse_lg.gif",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "213",
+            "1229",
+            "601",
+            "174",
+            "1801",
+            "1058",
+            "3353",
+            "1328",
+            "1706",
+            "4594",
+            "2458",
+            "5529",
+            "12710",
+            "1297",
+            "76"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/about.ini",
+            "/about.mappings",
+            "/about.properties",
+            "/eclipse.gif",
+            "/eclipse.png",
+            "/eclipse24.gif",
+            "/eclipse32.gif",
+            "/eclipse32.png",
+            "/eclipse48.gif",
+            "/eclipse48.png",
+            "/eclipse_lg.gif",
+            "/plugin.properties",
+            "/plugin.xml"
+        ],
+        "date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "about.ini",
+            "about.mappings",
+            "about.properties",
+            "eclipse.gif",
+            "eclipse.png",
+            "eclipse24.gif",
+            "eclipse32.gif",
+            "eclipse32.png",
+            "eclipse48.gif",
+            "eclipse48.png",
+            "eclipse_lg.gif",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": "About",
+        "title": "About",
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "3"
+        ],
+        "Compression CompressionTypeName": [
+            "lzw",
+            "deflate",
+            "lzw",
+            "lzw",
+            "deflate",
+            "lzw",
+            "deflate",
+            "lzw"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "4"
+        ],
+        "Data SampleFormat": [
+            "Index",
+            "UnsignedIntegral",
+            "Index",
+            "Index",
+            "UnsignedIntegral",
+            "Index",
+            "UnsignedIntegral",
+            "Index"
+        ],
+        "Dimension HorizontalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension VerticalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "GraphicControlExtension": [
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=168",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=231",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=255",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=255",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=false, delayTime=0, transparentColorIndex=0"
+        ],
+        "ImageDescriptor": [
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=24, imageHeight=24, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=32, imageHeight=32, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=48, imageHeight=48, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=115, imageHeight=164, interlaceFlag=true"
+        ],
+        "Transparency TransparentIndex": [
+            "168",
+            "231",
+            "255",
+            "255"
+        ],
+        "height": [
+            "16",
+            "16",
+            "24",
+            "32",
+            "32",
+            "48",
+            "48",
+            "164"
+        ],
+        "tiff:ImageLength": [
+            "16",
+            "16",
+            "24",
+            "32",
+            "32",
+            "48",
+            "48",
+            "164"
+        ],
+        "tiff:ImageWidth": [
+            "16",
+            "16",
+            "24",
+            "32",
+            "32",
+            "48",
+            "48",
+            "115"
+        ],
+        "width": [
+            "16",
+            "16",
+            "24",
+            "32",
+            "32",
+            "48",
+            "48",
+            "115"
+        ],
+        "Chroma Gamma": [
+            "0.45453998",
+            "0.45453998",
+            "0.45453998"
+        ],
+        "Data BitsPerSample": [
+            "8 8 8 8",
+            "8 8 8 8",
+            "8 8 8 8"
+        ],
+        "Data PlanarConfiguration": [
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved"
+        ],
+        "Dimension HorizontalPixelSize": [
+            "0.35273367",
+            "0.35273367",
+            "0.35273367"
+        ],
+        "Dimension PixelAspectRatio": [
+            "1.0",
+            "1.0",
+            "1.0"
+        ],
+        "Dimension VerticalPixelSize": [
+            "0.35273367",
+            "0.35273367",
+            "0.35273367"
+        ],
+        "IHDR": [
+            "width=16, height=16, bitDepth=8, colorType=RGBAlpha, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=32, height=32, bitDepth=8, colorType=RGBAlpha, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=48, height=48, bitDepth=8, colorType=RGBAlpha, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none"
+        ],
+        "Transparency Alpha": [
+            "nonpremultipled",
+            "nonpremultipled",
+            "nonpremultipled"
+        ],
+        "cHRM": [
+            "whitePointX=31269, whitePointY=32899, redX=63999, redY=33001, greenX=30000, greenY=60000, blueX=15000, blueY=5999",
+            "whitePointX=31269, whitePointY=32899, redX=63999, redY=33001, greenX=30000, greenY=60000, blueX=15000, blueY=5999",
+            "whitePointX=31269, whitePointY=32899, redX=63999, redY=33001, greenX=30000, greenY=60000, blueX=15000, blueY=5999"
+        ],
+        "gAMA": [
+            "45454",
+            "45454",
+            "45454"
+        ],
+        "iCCP": [
+            "profileName=Photoshop ICC profile, compressionMethod=deflate",
+            "profileName=Photoshop ICC profile, compressionMethod=deflate",
+            "profileName=Photoshop ICC profile, compressionMethod=deflate"
+        ],
+        "pHYs": [
+            "pixelsPerUnitXAxis=2835, pixelsPerUnitYAxis=2835, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=2835, pixelsPerUnitYAxis=2835, unitSpecifier=meter",
+            "pixelsPerUnitXAxis=2835, pixelsPerUnitYAxis=2835, unitSpecifier=meter"
+        ],
+        "tiff:BitsPerSample": [
+            "8 8 8 8",
+            "8 8 8 8",
+            "8 8 8 8"
+        ]
+    }
+}

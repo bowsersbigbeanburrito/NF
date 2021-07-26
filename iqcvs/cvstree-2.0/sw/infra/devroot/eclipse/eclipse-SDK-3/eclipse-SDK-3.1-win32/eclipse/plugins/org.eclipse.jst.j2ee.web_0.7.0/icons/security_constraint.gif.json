@@ -1,0 +1,35 @@
+{
+    "security_constraint.gif": {
+        "modified": "2005-07-29 06:23:00",
+        "size": "0.25KB",
+        "md5": "2e9806c3818150b1fb0ab30461672c3e",
+        "sha256": "195dfafb14ac14e473d627c15b73192cf2b50f59bc11784dafa1ae0c6d707141"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=25",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+        "Transparency TransparentIndex": "25",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "height": "16",
+        "resourceName": "b'security_constraint.gif'",
+        "tiff:ImageLength": "16",
+        "tiff:ImageWidth": "16",
+        "width": "16"
+    }
+}

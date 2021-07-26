@@ -1,0 +1,21 @@
+{
+    "cp1252.txt": {
+        "modified": "2021-07-24 18:49:46.421525",
+        "size": "7.25KB",
+        "md5": "77ea0b84a26ae8b888f7558c19933b11",
+        "sha256": "1aa1f9aeb87751c07a62b46f7bc1bfe52afd8dc145857bc5e35cd0c4a796812d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'cp1252.txt'"
+    }
+}

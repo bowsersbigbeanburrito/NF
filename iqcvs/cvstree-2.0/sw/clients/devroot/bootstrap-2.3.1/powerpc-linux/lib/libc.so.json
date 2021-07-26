@@ -1,0 +1,21 @@
+{
+    "libc.so": {
+        "modified": "2021-07-24 18:49:40.954962",
+        "size": "9748.95KB",
+        "md5": "0ad80af5e9e804be0a4e03adb6bbcbee",
+        "sha256": "b64545c68fb9fcc870dc6f8d6a44419f656d107912fc644dfb1212480b884427"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-sharedlib",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'libc.so'"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "startup.jar": {
+        "modified": "2004-03-18 13:28:46",
+        "size": "3.38KB",
+        "md5": "100014e8b68fa24e035d9726ee9ea81f",
+        "sha256": "65939d80ac3be4a2073ed6cfea56b588d86d6c884827c933e6d1f329e73ea97f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'startup.jar'",
+            "META-INF/MANIFEST.MF",
+            "Main.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2004-03-18T22:24:12Z",
+            "2004-03-18T22:23:20Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-18T22:24:12Z",
+            "2004-03-18T22:23:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Main.class"
+        ],
+        "date": [
+            "2004-03-18T22:24:12Z",
+            "2004-03-18T22:23:20Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-18T22:24:12Z",
+            "2004-03-18T22:23:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/core/launcher/Main.class"
+        ],
+        "meta:save-date": [
+            "2004-03-18T22:24:12Z",
+            "2004-03-18T22:23:20Z"
+        ],
+        "modified": [
+            "2004-03-18T22:24:12Z",
+            "2004-03-18T22:23:20Z"
+        ],
+        "dc:title": "Main",
+        "title": "Main"
+    }
+}

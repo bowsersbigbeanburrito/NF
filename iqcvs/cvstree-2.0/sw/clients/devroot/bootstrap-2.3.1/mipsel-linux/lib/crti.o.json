@@ -1,0 +1,21 @@
+{
+    "crti.o": {
+        "modified": "2021-07-24 18:49:40.941629",
+        "size": "1.85KB",
+        "md5": "2e454a21841f7e65cb9b597ab8bb8a28",
+        "sha256": "4ef5c79c15ee22e824da658aeb9756bfb70b2d319ff768e311ceb0f0fd6d2d9a"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS",
+        "resourceName": "b'crti.o'"
+    }
+}

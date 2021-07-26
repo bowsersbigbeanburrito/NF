@@ -1,0 +1,21 @@
+{
+    "import.txt": {
+        "modified": "2021-07-24 17:34:24.765641",
+        "size": "52.72KB",
+        "md5": "2dcdc867bd5674965195f968f10c89c7",
+        "sha256": "c189a131332cbcf61ba0abc36d1469f9e114857a85e9be7c931824f5268c0962"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "tab",
+        "resourceName": "b'import.txt'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "CHANGES": {
+        "modified": "1999-09-28 12:20:17",
+        "size": "1.35KB",
+        "md5": "6ab9ae03c1acd0e78d70c1832cc3dee5",
+        "sha256": "4e0001c4fb4220abae9769da88a4f8c6d87d3c7725e37618a962f5c6eddc157c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CHANGES'"
+    }
+}

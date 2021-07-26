@@ -1,0 +1,47 @@
+{
+    "src_bal.gif": {
+        "modified": "2021-07-24 18:49:45.288213",
+        "size": "1.24KB",
+        "md5": "5a290ab6ad8f54f2be908aa9e17c1912",
+        "sha256": "7aa89885d4ae6d5156aea2841666bc2c7abba1d4fe503d6540e70beba33569b5"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=0, green=0, blue=0",
+            "index=1, red=198, green=166, blue=66",
+            "index=2, red=247, green=239, blue=214",
+            "index=3, red=255, green=255, blue=255"
+        ],
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=none, userInputFlag=false, transparentColorFlag=false, delayTime=0, transparentColorIndex=4",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=313, imageHeight=83, interlaceFlag=false",
+        "LocalColorTable": "sizeOfLocalColorTable=4, sortFlag=false",
+        "LocalColorTable ColorTableEntry": [
+            "index=0, red=0, green=0, blue=0",
+            "index=1, red=198, green=166, blue=66",
+            "index=2, red=247, green=239, blue=214",
+            "index=3, red=255, green=255, blue=255"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "83",
+        "resourceName": "b'src_bal.gif'",
+        "tiff:ImageLength": "83",
+        "tiff:ImageWidth": "313",
+        "width": "313"
+    }
+}

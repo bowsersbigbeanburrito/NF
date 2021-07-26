@@ -1,0 +1,190 @@
+{
+    "ApacheJMeter_tcp.jar": {
+        "modified": "2021-07-24 18:50:00.741257",
+        "size": "12.8KB",
+        "md5": "edc2af7f7251197f253782983a0f91e9",
+        "sha256": "cdb0aa4c180bf369b34d6ab751e0d83da2d955ee99da8e3cb3e338d02e06cc7c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ApacheJMeter_tcp.jar'",
+            "META-INF/MANIFEST.MF",
+            "TCPConfigGui.class",
+            "TCPSamplerGui.class",
+            "TCPClient.class",
+            "TCPClientImpl.class",
+            "TCPSampler$1.class",
+            "TCPSampler.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "4848",
+            "2612",
+            "420",
+            "2908",
+            "506",
+            "10526"
+        ],
+        "Last-Modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/TCPConfigGui.class",
+            "/TCPSamplerGui.class",
+            "/TCPClient.class",
+            "/TCPClientImpl.class",
+            "/TCPSampler$1.class",
+            "/TCPSampler.class"
+        ],
+        "date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/jmeter/protocol/tcp/config/gui/TCPConfigGui.class",
+            "org/apache/jmeter/protocol/tcp/control/gui/TCPSamplerGui.class",
+            "org/apache/jmeter/protocol/tcp/sampler/TCPClient.class",
+            "org/apache/jmeter/protocol/tcp/sampler/TCPClientImpl.class",
+            "org/apache/jmeter/protocol/tcp/sampler/TCPSampler$1.class",
+            "org/apache/jmeter/protocol/tcp/sampler/TCPSampler.class"
+        ],
+        "meta:save-date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z"
+        ],
+        "modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z",
+            "2005-09-30T06:05:52Z"
+        ],
+        "dc:title": [
+            "TCPConfigGui",
+            "TCPSamplerGui",
+            "TCPClient",
+            "TCPClientImpl",
+            "TCPSampler$1",
+            "TCPSampler"
+        ],
+        "title": [
+            "TCPConfigGui",
+            "TCPSamplerGui",
+            "TCPClient",
+            "TCPClientImpl",
+            "TCPSampler$1",
+            "TCPSampler"
+        ]
+    }
+}

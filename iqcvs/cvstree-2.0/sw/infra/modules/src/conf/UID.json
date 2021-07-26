@@ -1,0 +1,21 @@
+{
+    "UID": {
+        "modified": "2021-07-24 18:49:57.671314",
+        "size": "1.33KB",
+        "md5": "1ff3ebe725eaa83a3182a96d1e997594",
+        "sha256": "aa6aa3009084e154d2e82942c82ac23f66e889875bc505cf19b733f637ca6549"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'UID'"
+    }
+}

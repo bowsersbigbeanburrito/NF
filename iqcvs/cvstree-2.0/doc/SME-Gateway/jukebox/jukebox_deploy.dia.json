@@ -1,0 +1,39 @@
+{
+    "jukebox_deploy.dia": {
+        "modified": "2021-07-24 17:28:48.548018",
+        "size": "6.18KB",
+        "md5": "203376acee3670ea9b1fbd26bcf82202",
+        "sha256": "97e75053861b7c21eea18cb234120f742671996875014c2b066bcdf45c9b9201"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'jukebox_deploy.dia'",
+            "b'jukebox_deploy.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'jukebox_deploy.dia'"
+    }
+}

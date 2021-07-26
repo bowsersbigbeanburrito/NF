@@ -1,0 +1,39 @@
+{
+    "klips1_tdb.dia": {
+        "modified": "2021-07-24 18:49:46.338194",
+        "size": "2.55KB",
+        "md5": "473ec22ddc297e8496472f8dfc76760b",
+        "sha256": "a08c04a88b475455eefafb333c73819006b3bd830b56faa99cd7b29490c9f413"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'klips1_tdb.dia'",
+            "b'klips1_tdb.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'klips1_tdb.dia'"
+    }
+}

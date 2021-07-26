@@ -1,0 +1,110 @@
+{
+    "org.eclipse.update.core.linux_3.1.0.jar": {
+        "modified": "2006-01-18 13:32:05",
+        "size": "3.69KB",
+        "md5": "be710c25f95bf69d5de124c132f0fd11",
+        "sha256": "a22c315c7310b6779534beb23b28bd7ba23edfcc519e8c31b6ada8f658c6784c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "application/x-sharedlib"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'org.eclipse.update.core.linux_3.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "os/linux/x86/libupdate.so"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "320",
+            "1229",
+            "5993"
+        ],
+        "Last-Modified": [
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/libupdate.so"
+        ],
+        "date": [
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "os/linux/x86/libupdate.so"
+        ],
+        "meta:save-date": [
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z"
+        ],
+        "modified": [
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z",
+            "2006-01-19T00:30:44Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": "About",
+        "title": "About",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "ant-apache-resolver.jar": {
+        "modified": "2004-09-16 09:04:43",
+        "size": "3.98KB",
+        "md5": "6d7079eee29b17a85a6fb1217c1257f8",
+        "sha256": "1ca6f485452186309c4e9d178a3b139c4b0b7ad161922753b1200d5b863ae18b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ant-apache-resolver.jar'",
+            "META-INF/MANIFEST.MF",
+            "ApacheCatalog.class",
+            "ApacheCatalogResolver.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "2097",
+            "3538"
+        ],
+        "Last-Modified": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "Last-Save-Date": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/ApacheCatalog.class",
+            "/ApacheCatalogResolver.class"
+        ],
+        "date": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "dcterms:modified": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/types/resolver/ApacheCatalog.class",
+            "org/apache/tools/ant/types/resolver/ApacheCatalogResolver.class"
+        ],
+        "meta:save-date": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "modified": [
+            "2004-07-16T16:38:46Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "dc:title": [
+            "ApacheCatalog",
+            "ApacheCatalogResolver"
+        ],
+        "title": [
+            "ApacheCatalog",
+            "ApacheCatalogResolver"
+        ]
+    }
+}

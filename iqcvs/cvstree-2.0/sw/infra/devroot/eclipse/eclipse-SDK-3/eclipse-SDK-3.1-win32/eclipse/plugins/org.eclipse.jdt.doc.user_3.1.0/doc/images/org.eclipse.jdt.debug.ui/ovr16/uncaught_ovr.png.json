@@ -1,0 +1,49 @@
+{
+    "uncaught_ovr.png": {
+        "modified": "2005-06-17 09:19:02",
+        "size": "0.12KB",
+        "md5": "e4e0e3fec41092a97dd3c120b87983a2",
+        "sha256": "ad0ebc0cd517b09c976cfe83160a586ee214fd77faf9851b7915d2d2d0f09f06"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=255, green=255, blue=255, alpha=0",
+            "index=1, red=57, green=78, blue=108, alpha=255",
+            "index=2, red=255, green=255, blue=255, alpha=255",
+            "index=3, red=23, green=50, blue=93, alpha=255"
+        ],
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "2 2 2 2",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "Index",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=7, height=8, bitDepth=2, colorType=Palette, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "PLTE PLTEEntry": [
+            "index=0, red=255, green=255, blue=255",
+            "index=1, red=57, green=78, blue=108",
+            "index=2, red=255, green=255, blue=255",
+            "index=3, red=23, green=50, blue=93"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "8",
+        "resourceName": "b'uncaught_ovr.png'",
+        "tRNS tRNS_Palette tRNS_PaletteEntry": "index=0, alpha=0",
+        "tiff:BitsPerSample": "2 2 2 2",
+        "tiff:ImageLength": "8",
+        "tiff:ImageWidth": "7",
+        "width": "7"
+    }
+}

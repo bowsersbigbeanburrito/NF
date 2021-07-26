@@ -1,0 +1,86 @@
+{
+    "launchingsupport.jar": {
+        "modified": "2004-09-16 09:04:38",
+        "size": "1.7KB",
+        "md5": "3e3d91a818f96f21a5680afb2f3245c4",
+        "sha256": "3ae35126b8c42e515c2c435cf3fe6c551601e14d5a6172dc5b16ab9e2fe8c035"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'launchingsupport.jar'",
+            "META-INF/MANIFEST.MF",
+            "LibraryDetector.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "860"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:56:00Z",
+            "2004-09-16T18:56:02Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:56:00Z",
+            "2004-09-16T18:56:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/LibraryDetector.class"
+        ],
+        "date": [
+            "2004-09-16T18:56:00Z",
+            "2004-09-16T18:56:02Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:56:00Z",
+            "2004-09-16T18:56:02Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/jdt/internal/launching/support/LibraryDetector.class"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:56:00Z",
+            "2004-09-16T18:56:02Z"
+        ],
+        "modified": [
+            "2004-09-16T18:56:00Z",
+            "2004-09-16T18:56:02Z"
+        ],
+        "dc:title": "LibraryDetector",
+        "title": "LibraryDetector"
+    }
+}

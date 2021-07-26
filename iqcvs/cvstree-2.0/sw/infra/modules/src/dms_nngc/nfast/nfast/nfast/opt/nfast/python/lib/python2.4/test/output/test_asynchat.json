@@ -1,0 +1,19 @@
+{
+    "test_asynchat": {
+        "modified": "2005-09-29 05:56:21",
+        "size": "0.05KB",
+        "md5": "06718012dd1a36f39f5064110e668797",
+        "sha256": "1aa7525efbf13cc0f92144ba06f885ddbe19b598526c09b5aae4e38a92d12217"
+    },
+    "Metadata": {
+        "Content-Type": "message/rfc822",
+        "Message:Raw-Header:Received": "'hello world'",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test_asynchat'"
+    }
+}

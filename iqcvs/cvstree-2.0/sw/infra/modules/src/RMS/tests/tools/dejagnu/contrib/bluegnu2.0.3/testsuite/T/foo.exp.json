@@ -1,0 +1,20 @@
+{
+    "foo.exp": {
+        "modified": "2021-07-24 18:49:57.561316",
+        "size": "0.13KB",
+        "md5": "04798dafc71cd3dc043464f0b0e8d3cb",
+        "sha256": "590228c75ae7bed17ee69befc02da4c405639d2b1e5f3ca8ad4f7cc2de8d016c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'foo.exp'"
+    }
+}

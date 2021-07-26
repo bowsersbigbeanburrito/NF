@@ -1,0 +1,183 @@
+{
+    "libnflog.a": {
+        "modified": "2005-09-29 05:55:31",
+        "size": "193.54KB",
+        "md5": "12e5afc65db0bf3d499b72768a03fd19",
+        "sha256": "d833795e577a0525dd8eebdabaf7e803f3207195eb2383ef8f57e565a09d3712"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnflog.a'",
+            "core.o",
+            "config.o",
+            "driver.o",
+            "sys-unix.o",
+            "stdwriteblockbase.o",
+            "errprintbase.o"
+        ],
+        "Content-Length": [
+            "1162",
+            "59544",
+            "34700",
+            "48844",
+            "15636",
+            "19688",
+            "18096"
+        ],
+        "Last-Modified": [
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:11Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z"
+        ],
+        "Last-Save-Date": [
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:11Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/core.o",
+            "/config.o",
+            "/driver.o",
+            "/sys-unix.o",
+            "/stdwriteblockbase.o",
+            "/errprintbase.o"
+        ],
+        "date": [
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:11Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z"
+        ],
+        "dcterms:modified": [
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:11Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z"
+        ],
+        "meta:save-date": [
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:11Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z"
+        ],
+        "modified": [
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:11Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:12Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z",
+            "2005-03-31T15:10:13Z"
+        ],
+        "embeddedRelationshipId": [
+            "core.o",
+            "config.o",
+            "driver.o",
+            "sys-unix.o",
+            "stdwriteblockbase.o",
+            "errprintbase.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

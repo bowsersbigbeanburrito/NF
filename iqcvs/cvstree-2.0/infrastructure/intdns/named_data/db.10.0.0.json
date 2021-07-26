@@ -1,0 +1,21 @@
+{
+    "db.10.0.0": {
+        "modified": "2021-07-24 17:35:30.917939",
+        "size": "3.41KB",
+        "md5": "8bfaf4bb870593ede44622946ce06d71",
+        "sha256": "9a2def3a64dcba46caa17dae1eaa12b5a4e59e289f5dd4bea05a359ee441cda4"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'db.10.0.0'"
+    }
+}

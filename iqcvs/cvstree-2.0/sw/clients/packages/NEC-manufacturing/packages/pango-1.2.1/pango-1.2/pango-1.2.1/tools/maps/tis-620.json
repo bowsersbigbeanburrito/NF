@@ -1,0 +1,21 @@
+{
+    "tis-620": {
+        "modified": "2000-08-31 08:31:19",
+        "size": "2.35KB",
+        "md5": "0411c18ad4235a5de44b941759299488",
+        "sha256": "1762db42ae7c008ecf7997de056664e9e4669cf98a52398af4e622c3296efce9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tis-620'"
+    }
+}

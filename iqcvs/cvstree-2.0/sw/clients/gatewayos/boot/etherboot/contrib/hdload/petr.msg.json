@@ -1,0 +1,112 @@
+{
+    "petr.msg": {
+        "modified": "2021-07-24 18:49:46.691520",
+        "size": "4.6KB",
+        "md5": "ab3e1989076ac340b727b4cd417a5295",
+        "sha256": "f790d2b6ce6b61b7049fc9aa6de17472e70c9220b67a86d98bc4b92bbcdf4540"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": "b'petr.msg'",
+        "Author": [
+            "Petr Olivka <Petr.Olivka@vsb.cz> mov\tdi, 600h mov\tsi, OfsErr",
+            "Petr Olivka <Petr.Olivka@vsb.cz>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1999-09-15T11:10:28Z",
+        "MboxParser-@@chyba": "",
+        "MboxParser-@@jump": "cmp\tal,0",
+        "MboxParser-@@navrat": "",
+        "MboxParser-@@print": "",
+        "MboxParser-from": "netboot-owner@baghira.han.de Thu Sep 16 12:08:44 1999",
+        "MboxParser-mime-version": "1.0 dw\t0 lodsb",
+        "MboxParser-precedence": "bulk ; rozmery prvniho HD mov\tah,0Eh",
+        "MboxParser-received": [
+            "from nwfei1.vsb.cz (nwfei1.vsb.cz [158.196.146.13]) public \tmbrasm, mbrend rep     stosw",
+            "(from factotum@localhost) for netboot-outgoing; Wed, 15 Sep 1999 13:12:44 +0200 for <netboot@baghira.han.de>; Wed, 15 Sep 1999 13:11:02 +0200 for <netboot@baghira.han.de>; Wed, 15 Sep 1999 13:10:52 +0200 (MET DST) cli push    cs",
+            "from FEI1/SpoolDir by nwfei1.vsb.cz (Mercury 1.44); xor\tax, ax push    offset @@chyba",
+            "from vsb.cz (root@decsys.vsb.cz [158.196.149.9]) 15 Sep 99 13:10:50 +0100 mov\tss, ax mov     ax, ROMLOAD",
+            "from SpoolDir by FEI1 (Mercury 1.44); 15 Sep 99 13:10:27 +0100 mov\tsp, 7C00h mov     es, ax",
+            "from pcd403z.vsb.cz (158.196.146.9) by nwfei1.vsb.cz (Mercury 1.44) with ESMTP; mov\tsi, sp push    es",
+            "from oli10 by pcd403z.vsb.cz with local-esmtp (Exim 2.05 #1 (Debian)) mov\tds, ax mov     si,  es:[ 1ah ]",
+            "from hathi.han.de (root@hathi.han.de [192.109.225.1]) for <netboot@baghira.han.de>; Wed, 15 Sep 1999 13:11:00 +0200 id 11RCxI-0000oT-00; Wed, 15 Sep 1999 13:10:28 +0200 sti push    word ptr es:[ si + 1ah ] ; ...do bootrom v RAM"
+        ],
+        "MboxParser-reply-to": "netboot@baghira.han.de mov     ah, 8 int\t10h",
+        "MboxParser-return-path": "<netboot-owner@baghira.han.de> by baghira.han.de (8.9.3/8.9.3) id NAA23838 by baghira.han.de (8.9.3/8.9.3) with ESMTP id NAA23785 by vsb.cz (8.9.3/8.9.1) with ESMTP id NAA22363 org\t600h mov     word ptr [ di + 10h ], 0FFFFh",
+        "MboxParser-sender": "owner-netboot@baghira.han.de call\t@@print push\tsi",
+        "MboxParser-x-authentication-warning": "baghira.han.de: factotum set sender to owner-netboot using -f by hathi.han.de (8.9.3/8.9.3) with ESMTP id NAA04707 15 Sep 99 13:10:25 +0100 mov\tes, ax ; kouzelny jump....",
+        "MboxParser-x-moderator": "netboot-owner@baghira.han.de mov     dl, 80h pop\tsi",
+        "Message-From": "Petr Olivka <Petr.Olivka@vsb.cz>",
+        "Message-Recipient-Address": "netboot@baghira.han.de mov\tcx, 100h call\t@@print",
+        "Message-To": [
+            "netboot@baghira.han.de mov\tcx, 100h call\t@@print",
+            "netboot@baghira.han.de"
+        ],
+        "Message:From-Email": "Petr.Olivka@vsb.cz",
+        "Message:From-Name": "Petr Olivka",
+        "Message:Raw-Header:Content-Type": "TEXT/PLAIN; charset=US-ASCII",
+        "Message:Raw-Header:In-Reply-To": "<37DF4BD4.E8FFF8FC@gsmbox.com>",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<Pine.LNX.4.10.9909151247430.2936-100000@pcd403z.vsb.cz>",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "(from factotum@localhost)\tby baghira.han.de (8.9.3/8.9.3) id NAA23838\tfor netboot-outgoing; Wed, 15 Sep 1999 13:12:44 +0200",
+            "from hathi.han.de (root@hathi.han.de [192.109.225.1])\tby baghira.han.de (8.9.3/8.9.3) with ESMTP id NAA23785\tfor <netboot@baghira.han.de>; Wed, 15 Sep 1999 13:11:02 +0200",
+            "from vsb.cz (root@decsys.vsb.cz [158.196.149.9])\tby hathi.han.de (8.9.3/8.9.3) with ESMTP id NAA04707\tfor <netboot@baghira.han.de>; Wed, 15 Sep 1999 13:11:00 +0200",
+            "from nwfei1.vsb.cz (nwfei1.vsb.cz [158.196.146.13])\tby vsb.cz (8.9.3/8.9.1) with ESMTP id NAA22363\tfor <netboot@baghira.han.de>; Wed, 15 Sep 1999 13:10:52 +0200 (MET DST)",
+            "from FEI1/SpoolDir by nwfei1.vsb.cz (Mercury 1.44);    15 Sep 99 13:10:50 +0100",
+            "from SpoolDir by FEI1 (Mercury 1.44); 15 Sep 99 13:10:27 +0100",
+            "from pcd403z.vsb.cz (158.196.146.9) by nwfei1.vsb.cz (Mercury 1.44) with ESMTP;    15 Sep 99 13:10:25 +0100",
+            "from oli10 by pcd403z.vsb.cz with local-esmtp (Exim 2.05 #1 (Debian))\tid 11RCxI-0000oT-00; Wed, 15 Sep 1999 13:10:28 +0200"
+        ],
+        "Message:Raw-Header:Reply-To": "netboot@baghira.han.de",
+        "Message:Raw-Header:Return-Path": "<netboot-owner@baghira.han.de>",
+        "Message:Raw-Header:Sender": "owner-netboot@baghira.han.de",
+        "Message:Raw-Header:X-Authentication-Warning": "baghira.han.de: factotum set sender to owner-netboot using -f",
+        "Message:Raw-Header:X-Moderator": "netboot-owner@baghira.han.de",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Petr Olivka <Petr.Olivka@vsb.cz> mov\tdi, 600h mov\tsi, OfsErr",
+            "Petr Olivka <Petr.Olivka@vsb.cz>"
+        ],
+        "dc:creator": [
+            "Petr Olivka <Petr.Olivka@vsb.cz> mov\tdi, 600h mov\tsi, OfsErr",
+            "Petr Olivka <Petr.Olivka@vsb.cz>"
+        ],
+        "dc:format": "TEXT/PLAIN; charset=US-ASCII mov\tsi, offset Hlaska je\t@@navrat",
+        "dc:identifier": "<Pine.LNX.4.10.9909151247430.2936-100000@pcd403z.vsb.cz> dw\toffset @@jump jmp     @@chyba",
+        "dc:relation": "<37DF4BD4.E8FFF8FC@gsmbox.com> db\t0EAh call\t@@print",
+        "dc:title": "netboot image on hard disk - it is easy",
+        "dcterms:created": "1999-09-15T11:10:28Z",
+        "format": "TEXT/PLAIN; charset=US-ASCII mov\tsi, offset Hlaska je\t@@navrat",
+        "identifier": "<Pine.LNX.4.10.9909151247430.2936-100000@pcd403z.vsb.cz> dw\toffset @@jump jmp     @@chyba",
+        "meta:author": [
+            "Petr Olivka <Petr.Olivka@vsb.cz> mov\tdi, 600h mov\tsi, OfsErr",
+            "Petr Olivka <Petr.Olivka@vsb.cz>"
+        ],
+        "meta:creation-date": "1999-09-15T11:10:28Z",
+        "relation": "<37DF4BD4.E8FFF8FC@gsmbox.com> db\t0EAh call\t@@print",
+        "subject": "netboot image on hard disk - it is easy"
+    }
+}

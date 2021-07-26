@@ -1,0 +1,20 @@
+{
+    "testsenderfilter_blacklist001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.104789",
+        "size": "0.48KB",
+        "md5": "818d0ccb89754d02868acffb84540e60",
+        "sha256": "6bab026f47d224336bc229b391f6bd89f0992f231aa2ddf4de740658128a4ae8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testsenderfilter_blacklist001.root.stdout.gold'"
+    }
+}

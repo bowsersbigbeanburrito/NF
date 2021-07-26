@@ -1,0 +1,213 @@
+{
+    "org.eclipse.osgi.util_3.1.0.jar": {
+        "modified": "2005-06-27 14:14:16",
+        "size": "15.84KB",
+        "md5": "d0ecca1753a1f58066e452ed8f906cb1",
+        "sha256": "5fe9a18b6e9b8286d4f2a2b0c7b2bff383910c0721b78307437fb958c09c211f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'org.eclipse.osgi.util_3.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "Measurement.class",
+            "State.class",
+            "Unit.class",
+            "Position.class",
+            "XMLParserActivator.class",
+            "plugin.properties"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "511",
+            "2816",
+            "5254",
+            "1622",
+            "8270",
+            "3103",
+            "8254",
+            "954"
+        ],
+        "Last-Modified": [
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/Measurement.class",
+            "/State.class",
+            "/Unit.class",
+            "/Position.class",
+            "/XMLParserActivator.class",
+            "/plugin.properties"
+        ],
+        "date": [
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "org/osgi/util/measurement/Measurement.class",
+            "org/osgi/util/measurement/State.class",
+            "org/osgi/util/measurement/Unit.class",
+            "org/osgi/util/position/Position.class",
+            "org/osgi/util/xml/XMLParserActivator.class",
+            "plugin.properties"
+        ],
+        "meta:save-date": [
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z"
+        ],
+        "modified": [
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z",
+            "2005-06-27T22:11:30Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": [
+            "About",
+            "Measurement",
+            "State",
+            "Unit",
+            "Position",
+            "XMLParserActivator"
+        ],
+        "title": [
+            "About",
+            "Measurement",
+            "State",
+            "Unit",
+            "Position",
+            "XMLParserActivator"
+        ]
+    }
+}

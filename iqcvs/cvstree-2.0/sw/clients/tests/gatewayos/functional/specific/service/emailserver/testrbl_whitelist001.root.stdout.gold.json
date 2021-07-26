@@ -1,0 +1,20 @@
+{
+    "testrbl_whitelist001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.104789",
+        "size": "0.26KB",
+        "md5": "38f2e73fcf6be8318462114ba9c73957",
+        "sha256": "ac87e1710c7f6a70266c3f97f4b5ad525f31430b613347869cf982d66a67863c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testrbl_whitelist001.root.stdout.gold'"
+    }
+}

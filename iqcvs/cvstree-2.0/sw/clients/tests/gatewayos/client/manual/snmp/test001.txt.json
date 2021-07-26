@@ -1,0 +1,20 @@
+{
+    "test001.txt": {
+        "modified": "2021-07-24 18:49:49.854794",
+        "size": "0.86KB",
+        "md5": "b77e3a055d114b582d7bab55a0cca205",
+        "sha256": "4d0c633650c38f5ee474a502ed4ec709b16365b52f857227dd6095dbf4d3582e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test001.txt'"
+    }
+}

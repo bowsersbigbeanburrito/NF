@@ -1,0 +1,20 @@
+{
+    "tos-fix.patch": {
+        "modified": "2021-07-24 18:49:46.398192",
+        "size": "0.8KB",
+        "md5": "4cc0d43db6db9f090c125bbf4eca1a55",
+        "sha256": "6fbfdbe047892399fa2a2c69bcc13ee927867741debc934ff45f8079b4430251"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'tos-fix.patch'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "comerr-dev.postinst": {
+        "modified": "2021-07-24 18:49:46.278195",
+        "size": "0.17KB",
+        "md5": "17b3673260ea2ef778a0c23e35e704c7",
+        "sha256": "e1facde3e0f1d590c35877d8239779ed31672b9847f03f9097442abd0b02d677"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'comerr-dev.postinst'"
+    }
+}

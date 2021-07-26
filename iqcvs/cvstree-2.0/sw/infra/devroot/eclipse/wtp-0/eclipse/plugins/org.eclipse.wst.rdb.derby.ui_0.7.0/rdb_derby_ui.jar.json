@@ -1,0 +1,230 @@
+{
+    "rdb_derby_ui.jar": {
+        "modified": "2005-07-29 07:23:32",
+        "size": "17.51KB",
+        "md5": "2ca339e41df9914d9a3759ff653104f2",
+        "sha256": "e0a0b5054b2163a0edc835a5c30d00c2e718fd3aa5cd022136c32ab5791df9f8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'rdb_derby_ui.jar'",
+            "META-INF/MANIFEST.MF",
+            "DerbyUIPlugin.class",
+            "DerbyNewConnectionProvider$GenericJDBCURL.class",
+            "DerbyNewConnectionProvider.class",
+            "DerbyUniversalNewConnectionProvider$DerbyUniversalJDBCURL.class",
+            "DerbyUniversalNewConnectionProvider.class",
+            "org/eclipse/wst/rdb/derby/internal/ui/l10n/derbyUI.properties",
+            "ResourceLoader.class",
+            "org/eclipse/wst/rdb/derby/ui/l10n/derbyUI.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "522",
+            "1718",
+            "10798",
+            "2484",
+            "11975",
+            "1728",
+            "1131",
+            "1391"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/DerbyUIPlugin.class",
+            "/DerbyNewConnectionProvider$GenericJDBCURL.class",
+            "/DerbyNewConnectionProvider.class",
+            "/DerbyUniversalNewConnectionProvider$DerbyUniversalJDBCURL.class",
+            "/DerbyUniversalNewConnectionProvider.class",
+            "/derbyUI.properties",
+            "/ResourceLoader.class",
+            "/derbyUI.properties"
+        ],
+        "date": [
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/wst/rdb/derby/internal/ui/DerbyUIPlugin.class",
+            "org/eclipse/wst/rdb/derby/internal/ui/connection/dialogs/DerbyNewConnectionProvider$GenericJDBCURL.class",
+            "org/eclipse/wst/rdb/derby/internal/ui/connection/dialogs/DerbyNewConnectionProvider.class",
+            "org/eclipse/wst/rdb/derby/internal/ui/connection/dialogs/DerbyUniversalNewConnectionProvider$DerbyUniversalJDBCURL.class",
+            "org/eclipse/wst/rdb/derby/internal/ui/connection/dialogs/DerbyUniversalNewConnectionProvider.class",
+            "org/eclipse/wst/rdb/derby/internal/ui/l10n/derbyUI.properties",
+            "org/eclipse/wst/rdb/derby/internal/ui/util/ResourceLoader.class",
+            "org/eclipse/wst/rdb/derby/ui/l10n/derbyUI.properties"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z"
+        ],
+        "modified": [
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z",
+            "2005-07-29T14:05:52Z"
+        ],
+        "dc:title": [
+            "DerbyUIPlugin",
+            "DerbyNewConnectionProvider$GenericJDBCURL",
+            "DerbyNewConnectionProvider",
+            "DerbyUniversalNewConnectionProvider$DerbyUniversalJDBCURL",
+            "DerbyUniversalNewConnectionProvider",
+            "ResourceLoader"
+        ],
+        "title": [
+            "DerbyUIPlugin",
+            "DerbyNewConnectionProvider$GenericJDBCURL",
+            "DerbyNewConnectionProvider",
+            "DerbyUniversalNewConnectionProvider$DerbyUniversalJDBCURL",
+            "DerbyUniversalNewConnectionProvider",
+            "ResourceLoader"
+        ]
+    }
+}

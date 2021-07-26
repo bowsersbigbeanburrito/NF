@@ -1,0 +1,21 @@
+{
+    "batch": {
+        "modified": "2021-07-24 18:50:00.871255",
+        "size": "371.09KB",
+        "md5": "719cd0d91f26c86a13433c04117bf090",
+        "sha256": "a3669050979fa5724d8501e81ff2e7841261781e019936607df6dbec23e2ea10"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "16",
+        "csv:delimiter": "tab",
+        "resourceName": "b'batch'"
+    }
+}

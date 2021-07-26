@@ -1,0 +1,350 @@
+{
+    "nav-smime": {
+        "modified": "2021-07-24 18:49:45.951534",
+        "size": "8.14KB",
+        "md5": "0607db2c917e1d68ae4f80804a65f923",
+        "sha256": "c416a13db147c5ea8c7e28c524e643a7437fd8d04639a9a68d228e218b17a0b5"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "application/pkcs7-signature",
+            "message/rfc822",
+            "application/pkcs7-signature",
+            "message/rfc822",
+            "application/pkcs7-signature",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.crypto.Pkcs7Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.crypto.Pkcs7Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.crypto.Pkcs7Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "2",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'nav-smime'",
+            "smime.p7s",
+            "smime.p7s",
+            "smime.p7m"
+        ],
+        "Content-Disposition": [
+            "attachment; filename=\"smime.p7s\"",
+            "attachment; filename=\"smime.p7s\"",
+            "attachment; filename=\"smime.p7m\""
+        ],
+        "Multipart-Boundary": [
+            "------------ms9A58844C95949ECC78A1C54C",
+            "------------ms9A58844C95949ECC78A1C54C",
+            "------------msD7863B84BD61E02C407F2F5E",
+            "------------msD7863B84BD61E02C407F2F5E"
+        ],
+        "Multipart-Subtype": [
+            "signed",
+            "signed",
+            "signed",
+            "signed"
+        ],
+        "X-TIKA:EXCEPTION:embedded_exception": [
+            "org.apache.tika.exception.TikaException: cannot parse detached pkcs7 signature (no signed data to parse)\n\tat org.apache.tika.parser.crypto.Pkcs7Parser.parse(Pkcs7Parser.java:73)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.mail.MailContentHandler.handleEmbedded(MailContentHandler.java:284)\n\tat org.apache.tika.parser.mail.MailContentHandler.body(MailContentHandler.java:229)\n\tat org.apache.james.mime4j.parser.MimeStreamParser.parse(MimeStreamParser.java:133)\n\tat org.apache.tika.parser.mail.RFC822Parser.parse(RFC822Parser.java:100)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.mbox.MboxParser.parse(MboxParser.java:135)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\n",
+            "org.apache.tika.exception.TikaException: cannot parse detached pkcs7 signature (no signed data to parse)\n\tat org.apache.tika.parser.crypto.Pkcs7Parser.parse(Pkcs7Parser.java:73)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.mail.MailContentHandler.handleEmbedded(MailContentHandler.java:284)\n\tat org.apache.tika.parser.mail.MailContentHandler.body(MailContentHandler.java:229)\n\tat org.apache.james.mime4j.parser.MimeStreamParser.parse(MimeStreamParser.java:133)\n\tat org.apache.tika.parser.mail.RFC822Parser.parse(RFC822Parser.java:100)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.mbox.MboxParser.parse(MboxParser.java:135)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\n",
+            "org.apache.tika.exception.TikaException: Unexpected RuntimeException from org.apache.tika.parser.crypto.Pkcs7Parser@56e2d6ec\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:282)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.mail.MailContentHandler.handleEmbedded(MailContentHandler.java:284)\n\tat org.apache.tika.parser.mail.MailContentHandler.body(MailContentHandler.java:229)\n\tat org.apache.james.mime4j.parser.MimeStreamParser.parse(MimeStreamParser.java:133)\n\tat org.apache.tika.parser.mail.RFC822Parser.parse(RFC822Parser.java:100)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.mbox.MboxParser.parse(MboxParser.java:135)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\nCaused by: java.lang.IllegalArgumentException: Bad sequence size: 4\n\tat org.bouncycastle.asn1.x509.AlgorithmIdentifier.<init>(Unknown Source)\n\tat org.bouncycastle.asn1.x509.AlgorithmIdentifier.getInstance(Unknown Source)\n\tat org.bouncycastle.cms.CMSSignedDataParser.<init>(Unknown Source)\n\tat org.bouncycastle.cms.CMSSignedDataParser.<init>(Unknown Source)\n\tat org.apache.tika.parser.crypto.Pkcs7Parser.parse(Pkcs7Parser.java:68)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\t... 63 more\n"
+        ],
+        "X-TIKA:EXCEPTION:embedded_parser": [
+            "org.apache.tika.parser.AutoDetectParser",
+            "org.apache.tika.parser.AutoDetectParser",
+            "org.apache.tika.parser.AutoDetectParser"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1/smime.p7s",
+            "/embedded-1",
+            "/embedded-2/smime.p7s",
+            "/embedded-2",
+            "/embedded-3/smime.p7m",
+            "/embedded-3"
+        ],
+        "embeddedResourceType": [
+            "ATTACHMENT",
+            "ATTACHMENT",
+            "ATTACHMENT"
+        ],
+        "Author": [
+            "Angela van Lent <angela@c2.net.au>",
+            "Angela van Lent <angela@c2.net.au>",
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ],
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ]
+        ],
+        "Content-Type-Override": [
+            "message/rfc822",
+            "message/rfc822",
+            "message/rfc822"
+        ],
+        "Creation-Date": [
+            "1998-05-14T03:39:37Z",
+            "1998-05-14T03:40:27Z",
+            "1998-05-14T04:12:43Z"
+        ],
+        "MboxParser-content-description": [
+            "S/MIME Cryptographic Signature",
+            "S/MIME Cryptographic Signature",
+            "S/MIME Encrypted Message"
+        ],
+        "MboxParser-content-disposition": [
+            "attachment; filename=\"smime.p7s\"",
+            "attachment; filename=\"smime.p7s\"",
+            "attachment; filename=\"smime.p7m\""
+        ],
+        "MboxParser-content-length": [
+            "2604",
+            "2679",
+            "905"
+        ],
+        "MboxParser-content-transfer-encoding": [
+            "7bit",
+            "base64",
+            [
+                "7bit",
+                "base64"
+            ],
+            "base64"
+        ],
+        "MboxParser-from": [
+            "angela@c2.net.au Thu May 14 13:32:27 1998",
+            "angela@c2.net.au Thu May 14 13:33:16 1998",
+            "angela@c2.net.au Thu May 14 14:05:32 1998"
+        ],
+        "MboxParser-mime-version": [
+            "1.0",
+            "1.0",
+            "1.0"
+        ],
+        "MboxParser-received": [
+            "from cryptsoft.com (play.cryptsoft.com [203.56.44.3]) by pandora.cryptsoft.com (8.8.3/8.7.3) with ESMTP id NAA27838 for <tjh@cryptsoft.com>; Thu, 14 May 1998 13:32:26 +1000 (EST)",
+            "from cryptsoft.com (play.cryptsoft.com [203.56.44.3]) by pandora.cryptsoft.com (8.8.3/8.7.3) with ESMTP id NAA27847 for <tjh@cryptsoft.com>; Thu, 14 May 1998 13:33:15 +1000 (EST)",
+            "from cryptsoft.com (play.cryptsoft.com [203.56.44.3]) by pandora.cryptsoft.com (8.8.3/8.7.3) with ESMTP id OAA28033 for <tjh@cryptsoft.com>; Thu, 14 May 1998 14:05:32 +1000 (EST)"
+        ],
+        "MboxParser-return-path": [
+            "angela@c2.net.au",
+            "angela@c2.net.au",
+            "angela@c2.net.au"
+        ],
+        "MboxParser-status": [
+            "OR",
+            "OR",
+            "OR"
+        ],
+        "MboxParser-x-mailer": [
+            "Mozilla 4.03 [en] (Win95; U)",
+            "Mozilla 4.03 [en] (Win95; U)",
+            "Mozilla 4.03 [en] (Win95; U)"
+        ],
+        "MboxParser-x-uidl": [
+            "83c94dd550e54329bf9571b72038b8c8",
+            "8f076c44ff7c5967fd5b00c4588a8731",
+            "a7d629b4b9acacaee8b39371b860a32a"
+        ],
+        "Message-From": [
+            "Angela van Lent <angela@c2.net.au>",
+            "Angela van Lent <angela@c2.net.au>",
+            "Angela van Lent <angela@c2.net.au>"
+        ],
+        "Message-Recipient-Address": [
+            "tjh@cryptsoft.com",
+            "tjh@cryptsoft.com",
+            "tjh@cryptsoft.com"
+        ],
+        "Message-To": [
+            "tjh@cryptsoft.com",
+            "tjh@cryptsoft.com",
+            [
+                "tjh@cryptsoft.com",
+                "tjh@cryptsoft.com"
+            ],
+            [
+                "tjh@cryptsoft.com",
+                "tjh@cryptsoft.com"
+            ]
+        ],
+        "Message:From-Email": [
+            "angela@c2.net.au",
+            "angela@c2.net.au",
+            "angela@c2.net.au"
+        ],
+        "Message:From-Name": [
+            "Angela van Lent",
+            "Angela van Lent",
+            "Angela van Lent"
+        ],
+        "Message:Raw-Header:Content-Length": [
+            "2604",
+            "2679",
+            "905"
+        ],
+        "Message:Raw-Header:MIME-Version": [
+            "1.0",
+            "1.0",
+            "1.0"
+        ],
+        "Message:Raw-Header:Message-ID": [
+            "<355A6779.4B63E64C@cryptsoft.com>",
+            "<355A67AB.2AF38806@cryptsoft.com>",
+            "<355A6F3B.AC385981@cryptsoft.com>"
+        ],
+        "Message:Raw-Header:Received": [
+            "from cryptsoft.com (play.cryptsoft.com [203.56.44.3]) by pandora.cryptsoft.com (8.8.3/8.7.3) with ESMTP id NAA27838 for <tjh@cryptsoft.com>; Thu, 14 May 1998 13:32:26 +1000 (EST)",
+            "from cryptsoft.com (play.cryptsoft.com [203.56.44.3]) by pandora.cryptsoft.com (8.8.3/8.7.3) with ESMTP id NAA27847 for <tjh@cryptsoft.com>; Thu, 14 May 1998 13:33:15 +1000 (EST)",
+            "from cryptsoft.com (play.cryptsoft.com [203.56.44.3]) by pandora.cryptsoft.com (8.8.3/8.7.3) with ESMTP id OAA28033 for <tjh@cryptsoft.com>; Thu, 14 May 1998 14:05:32 +1000 (EST)"
+        ],
+        "Message:Raw-Header:Return-Path": [
+            "angela@c2.net.au",
+            "angela@c2.net.au",
+            "angela@c2.net.au"
+        ],
+        "Message:Raw-Header:Status": [
+            "OR",
+            "OR",
+            "OR"
+        ],
+        "Message:Raw-Header:X-Mailer": [
+            "Mozilla 4.03 [en] (Win95; U)",
+            "Mozilla 4.03 [en] (Win95; U)",
+            "Mozilla 4.03 [en] (Win95; U)"
+        ],
+        "Message:Raw-Header:X-UIDL": [
+            "83c94dd550e54329bf9571b72038b8c8",
+            "8f076c44ff7c5967fd5b00c4588a8731",
+            "a7d629b4b9acacaee8b39371b860a32a"
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "creator": [
+            "Angela van Lent <angela@c2.net.au>",
+            "Angela van Lent <angela@c2.net.au>",
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ],
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ]
+        ],
+        "dc:creator": [
+            "Angela van Lent <angela@c2.net.au>",
+            "Angela van Lent <angela@c2.net.au>",
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ],
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ]
+        ],
+        "dc:format": [
+            "application/x-pkcs7-signature; name=\"smime.p7s\"",
+            "application/x-pkcs7-signature; name=\"smime.p7s\"",
+            "application/x-pkcs7-mime; name=\"smime.p7m\""
+        ],
+        "dc:identifier": [
+            "<355A6779.4B63E64C@cryptsoft.com>",
+            "<355A67AB.2AF38806@cryptsoft.com>",
+            "<355A6F3B.AC385981@cryptsoft.com>"
+        ],
+        "dc:title": [
+            "signed",
+            "signed",
+            "encrypted"
+        ],
+        "dcterms:created": [
+            "1998-05-14T03:39:37Z",
+            "1998-05-14T03:40:27Z",
+            "1998-05-14T04:12:43Z"
+        ],
+        "format": [
+            "application/x-pkcs7-signature; name=\"smime.p7s\"",
+            "application/x-pkcs7-signature; name=\"smime.p7s\"",
+            "application/x-pkcs7-mime; name=\"smime.p7m\""
+        ],
+        "identifier": [
+            "<355A6779.4B63E64C@cryptsoft.com>",
+            "<355A67AB.2AF38806@cryptsoft.com>",
+            "<355A6F3B.AC385981@cryptsoft.com>"
+        ],
+        "meta:author": [
+            "Angela van Lent <angela@c2.net.au>",
+            "Angela van Lent <angela@c2.net.au>",
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ],
+            [
+                "Angela van Lent <angela@c2.net.au>",
+                "Angela van Lent <angela@c2.net.au>"
+            ]
+        ],
+        "meta:creation-date": [
+            "1998-05-14T03:39:37Z",
+            "1998-05-14T03:40:27Z",
+            "1998-05-14T04:12:43Z"
+        ],
+        "subject": [
+            "signed",
+            "signed",
+            "encrypted"
+        ],
+        "Message:Raw-Header:Content-Description": "S/MIME Encrypted Message",
+        "Message:Raw-Header:Content-Disposition": "attachment; filename=\"smime.p7m\"",
+        "Message:Raw-Header:Content-Transfer-Encoding": "base64",
+        "Message:Raw-Header:Content-Type": "application/x-pkcs7-mime; name=\"smime.p7m\""
+    }
+}

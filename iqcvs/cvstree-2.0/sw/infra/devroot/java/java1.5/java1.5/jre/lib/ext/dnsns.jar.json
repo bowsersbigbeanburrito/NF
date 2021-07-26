@@ -1,0 +1,191 @@
+{
+    "dnsns.jar": {
+        "modified": "2006-06-28 02:35:12",
+        "size": "7.98KB",
+        "md5": "fed282835961360c30edd9d89e463f8a",
+        "sha256": "08091621a560068e7df0c334e8e0315a85c5407e35c8f59422d2e9b72fdfb2ad"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'dnsns.jar'",
+            "META-INF/MANIFEST.MF",
+            "DNSNameServiceDescriptor.class",
+            "DNSNameService$ThreadContext.class",
+            "DNSNameService$1.class",
+            "DNSNameService$2.class",
+            "DNSNameService.class",
+            "META-INF/services/sun.net.spi.nameservice.NameServiceDescriptor"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2006-06-28T09:35:12Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-28T09:35:12Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/DNSNameServiceDescriptor.class",
+            "/DNSNameService$ThreadContext.class",
+            "/DNSNameService$1.class",
+            "/DNSNameService$2.class",
+            "/DNSNameService.class",
+            "/sun.net.spi.nameservice.NameServiceDescriptor"
+        ],
+        "date": [
+            "2006-06-28T09:35:12Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-28T09:35:12Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "sun/net/spi/nameservice/dns/DNSNameServiceDescriptor.class",
+            "sun/net/spi/nameservice/dns/DNSNameService$ThreadContext.class",
+            "sun/net/spi/nameservice/dns/DNSNameService$1.class",
+            "sun/net/spi/nameservice/dns/DNSNameService$2.class",
+            "sun/net/spi/nameservice/dns/DNSNameService.class",
+            "META-INF/services/sun.net.spi.nameservice.NameServiceDescriptor"
+        ],
+        "meta:save-date": [
+            "2006-06-28T09:35:12Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z"
+        ],
+        "modified": [
+            "2006-06-28T09:35:12Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z",
+            "2006-06-28T09:35:10Z"
+        ],
+        "dc:title": [
+            "DNSNameServiceDescriptor",
+            "DNSNameService$ThreadContext",
+            "DNSNameService$1",
+            "DNSNameService$2",
+            "DNSNameService"
+        ],
+        "title": [
+            "DNSNameServiceDescriptor",
+            "DNSNameService$ThreadContext",
+            "DNSNameService$1",
+            "DNSNameService$2",
+            "DNSNameService"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "testexecfilter001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.101456",
+        "size": "0.39KB",
+        "md5": "071a96a2abe2895a7098bd8e80236aad",
+        "sha256": "935d3be43c7a0351b5fbcd06468fa0a0312c7dee63f7a14367dd42c9d94a057d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testexecfilter001.root.stdout.gold'"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "HelloWorld.xml": {
+        "modified": "2004-09-16 09:04:32",
+        "size": "3.65KB",
+        "md5": "9db0377891e7188cc72b822356307834",
+        "sha256": "c96819506a47d84345579ec210f3b6067c0c6ea94fca729be86ac4d5f88c173f"
+    },
+    "Metadata": {
+        "Content-Type": "application/xml",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.xml.DcXMLParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'HelloWorld.xml'"
+    }
+}

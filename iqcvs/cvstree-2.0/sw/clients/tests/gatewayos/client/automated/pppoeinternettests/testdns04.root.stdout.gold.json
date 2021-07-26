@@ -1,0 +1,20 @@
+{
+    "testdns04.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:49.811462",
+        "size": "0.19KB",
+        "md5": "413a4647a9ebb14f4e0c5c02558bc948",
+        "sha256": "9cbc6b7eee7c45f0e65425e1451adc8dbc3df1da4454d693012f90febd7b8129"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'testdns04.root.stdout.gold'"
+    }
+}

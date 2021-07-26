@@ -1,0 +1,39 @@
+{
+    "jukebox_query.dia": {
+        "modified": "2021-07-24 17:28:48.551352",
+        "size": "3.54KB",
+        "md5": "1edee26a26c553196dbacf13f3a5a956",
+        "sha256": "c4347b8a61264ed663b0359fc812d865d3c4f7b934f8c823553692c29b6da196"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'jukebox_query.dia'",
+            "b'jukebox_query.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'jukebox_query.dia'"
+    }
+}

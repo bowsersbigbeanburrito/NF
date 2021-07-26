@@ -1,0 +1,136 @@
+{
+    "org.eclipse.core.resources.linux_3.1.0.jar": {
+        "modified": "2006-01-18 13:31:55",
+        "size": "26.87KB",
+        "md5": "f9d54cb2d4494560eb605f087b5de9e9",
+        "sha256": "a9a3055bac50beb7b66372e4741ee9691c305a1512d9de9170b78028f58a2216"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "application/x-sharedlib",
+            "application/x-sharedlib"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'org.eclipse.core.resources.linux_3.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "os/linux/x86/libcore_3_1_0.so",
+            "os/linux/x86_64/libcore_3_1_0.so"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "326",
+            "1229",
+            "31190",
+            "41147"
+        ],
+        "Last-Modified": [
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/libcore_3_1_0.so",
+            "/libcore_3_1_0.so"
+        ],
+        "date": [
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "os/linux/x86/libcore_3_1_0.so",
+            "os/linux/x86_64/libcore_3_1_0.so"
+        ],
+        "meta:save-date": [
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z"
+        ],
+        "modified": [
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z",
+            "2006-01-19T00:30:22Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": "About",
+        "title": "About",
+        "machine:architectureBits": [
+            "32",
+            "64"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-64"
+        ]
+    }
+}

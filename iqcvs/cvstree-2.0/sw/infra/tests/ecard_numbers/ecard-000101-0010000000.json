@@ -1,0 +1,21 @@
+{
+    "ecard-000101-0010000000": {
+        "modified": "2021-07-24 18:50:00.881254",
+        "size": "351.56KB",
+        "md5": "f0e4aefdc3a49600860cd9b5d2f37b45",
+        "sha256": "9e624286eabdebeba4bba08339bb02767be9994ab754fba8209ca22f90ea1157"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "16",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ecard-000101-0010000000'"
+    }
+}

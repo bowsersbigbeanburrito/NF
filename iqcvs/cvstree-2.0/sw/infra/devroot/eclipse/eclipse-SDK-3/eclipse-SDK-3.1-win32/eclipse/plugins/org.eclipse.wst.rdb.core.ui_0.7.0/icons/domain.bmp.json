@@ -1,0 +1,47 @@
+{
+    "domain.bmp": {
+        "modified": "2005-07-29 06:23:00",
+        "size": "0.34KB",
+        "md5": "cda3c9f502836664ad687c60e211bbca",
+        "sha256": "5c391c83b4160b7bca04fad6ff4f204ffab96fb1606c03e4242bdfed19bc4a4a"
+    },
+    "Metadata": {
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Chroma Palette PaletteEntry": [
+            "index=0, blue=0, green=0, red=0",
+            "index=1, blue=255, green=255, red=255",
+            "index=2, blue=96, green=48, red=48",
+            "index=3, blue=191, green=127, red=127",
+            "index=4, blue=216, green=160, red=160",
+            "index=5, blue=128, green=96, red=96",
+            "index=6, blue=224, green=184, red=184",
+            "index=7, blue=232, green=200, red=200",
+            "index=8, blue=240, green=224, red=224"
+        ],
+        "Compression CompressionTypeName": "BI_RGB",
+        "Compression Lossless": "true",
+        "Content-Type": "image/bmp",
+        "Data BitsPerSample": "8 8 8",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPhysicalPixelSpacing": "0.35285816",
+        "Dimension HorizontalPixelSize": "0.35285816",
+        "Dimension PixelAspectRatio": "1.0",
+        "Dimension VerticalPhysicalPixelSpacing": "0.35285816",
+        "Dimension VerticalPixelSize": "0.35285816",
+        "Document FormatVersion": "BMP v. 3.x",
+        "Transparency Alpha": "none",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "16",
+        "resourceName": "b'domain.bmp'",
+        "tiff:BitsPerSample": "8 8 8",
+        "tiff:ImageLength": "16",
+        "tiff:ImageWidth": "16",
+        "width": "16"
+    }
+}

@@ -1,0 +1,492 @@
+{
+    "xmlcomp2.jar": {
+        "modified": "2021-07-24 18:49:55.628019",
+        "size": "11.25KB",
+        "md5": "b33fbf9225866d2acfe551478f927a24",
+        "sha256": "a74907a678d55cddb49f790e741168a8fcbf74ea7e5902c5a51d8a8025a8565f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "application/java-vm",
+            "application/java-vm",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "application/octet-stream",
+            "text/plain; charset=windows-1252"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "11",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'xmlcomp2.jar'",
+            "META-INF/INDEX.LIST",
+            "XMLCompressBeanInfo.class",
+            "XMLCompress.class",
+            "oracle/xml/xmlcomp/xmlcomp16c.gif",
+            "oracle/xml/xmlcomp/xmlcomp16m.gif",
+            "oracle/xml/xmlcomp/xmlcomp32c.gif",
+            "oracle/xml/xmlcomp/xmlcomp32m.gif",
+            "XMLDBAccessBeanInfo.class",
+            "XMLDBAccess.class",
+            "oracle/xml/xmldbaccess/xmldbacc16c.gif",
+            "oracle/xml/xmldbaccess/xmldbacc16m.gif",
+            "oracle/xml/xmldbaccess/xmldbacc32c.gif",
+            "oracle/xml/xmldbaccess/xmldbacc32m.gif",
+            ".xdk_version_10.2.0.2.0_production",
+            "META-INF/MANIFEST.MF"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "0",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2006-01-24T03:09:08Z",
+            "2006-01-24T03:05:40Z",
+            "2006-01-24T03:05:40Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2006-01-24T03:05:44Z",
+            "2006-01-24T03:05:44Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2005-08-22T07:58:00Z",
+            "2006-01-24T03:09:08Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-24T03:09:08Z",
+            "2006-01-24T03:05:40Z",
+            "2006-01-24T03:05:40Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2006-01-24T03:05:44Z",
+            "2006-01-24T03:05:44Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2005-08-22T07:58:00Z",
+            "2006-01-24T03:09:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/INDEX.LIST",
+            "/XMLCompressBeanInfo.class",
+            "/XMLCompress.class",
+            "/xmlcomp16c.gif",
+            "/xmlcomp16m.gif",
+            "/xmlcomp32c.gif",
+            "/xmlcomp32m.gif",
+            "/XMLDBAccessBeanInfo.class",
+            "/XMLDBAccess.class",
+            "/xmldbacc16c.gif",
+            "/xmldbacc16m.gif",
+            "/xmldbacc32c.gif",
+            "/xmldbacc32m.gif",
+            "/.xdk_version_10.2.0.2.0_production",
+            "/MANIFEST.MF"
+        ],
+        "date": [
+            "2006-01-24T03:09:08Z",
+            "2006-01-24T03:05:40Z",
+            "2006-01-24T03:05:40Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2006-01-24T03:05:44Z",
+            "2006-01-24T03:05:44Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2005-08-22T07:58:00Z",
+            "2006-01-24T03:09:08Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-24T03:09:08Z",
+            "2006-01-24T03:05:40Z",
+            "2006-01-24T03:05:40Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2006-01-24T03:05:44Z",
+            "2006-01-24T03:05:44Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2005-08-22T07:58:00Z",
+            "2006-01-24T03:09:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/INDEX.LIST",
+            "oracle/xml/xmlcomp/XMLCompressBeanInfo.class",
+            "oracle/xml/xmlcomp/XMLCompress.class",
+            "oracle/xml/xmlcomp/xmlcomp16c.gif",
+            "oracle/xml/xmlcomp/xmlcomp16m.gif",
+            "oracle/xml/xmlcomp/xmlcomp32c.gif",
+            "oracle/xml/xmlcomp/xmlcomp32m.gif",
+            "oracle/xml/xmldbaccess/XMLDBAccessBeanInfo.class",
+            "oracle/xml/xmldbaccess/XMLDBAccess.class",
+            "oracle/xml/xmldbaccess/xmldbacc16c.gif",
+            "oracle/xml/xmldbaccess/xmldbacc16m.gif",
+            "oracle/xml/xmldbaccess/xmldbacc32c.gif",
+            "oracle/xml/xmldbaccess/xmldbacc32m.gif",
+            ".xdk_version_10.2.0.2.0_production",
+            "META-INF/MANIFEST.MF"
+        ],
+        "meta:save-date": [
+            "2006-01-24T03:09:08Z",
+            "2006-01-24T03:05:40Z",
+            "2006-01-24T03:05:40Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2006-01-24T03:05:44Z",
+            "2006-01-24T03:05:44Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2005-08-22T07:58:00Z",
+            "2006-01-24T03:09:08Z"
+        ],
+        "modified": [
+            "2006-01-24T03:09:08Z",
+            "2006-01-24T03:05:40Z",
+            "2006-01-24T03:05:40Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2006-01-24T03:05:44Z",
+            "2006-01-24T03:05:44Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2002-12-05T19:50:00Z",
+            "2005-08-22T07:58:00Z",
+            "2006-01-24T03:09:08Z"
+        ],
+        "dc:title": [
+            "XMLCompressBeanInfo",
+            "XMLCompress",
+            "XMLDBAccessBeanInfo",
+            "XMLDBAccess"
+        ],
+        "title": [
+            "XMLCompressBeanInfo",
+            "XMLCompress",
+            "XMLDBAccessBeanInfo",
+            "XMLDBAccess"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4"
+        ],
+        "Compression CompressionTypeName": [
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4"
+        ],
+        "Data SampleFormat": [
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index"
+        ],
+        "Dimension HorizontalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension VerticalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "GraphicControlExtension": [
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=0"
+        ],
+        "ImageDescriptor": [
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=32, imageHeight=32, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=32, imageHeight=32, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=32, imageHeight=32, interlaceFlag=true",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=32, imageHeight=32, interlaceFlag=true"
+        ],
+        "Transparency TransparentIndex": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "height": [
+            "16",
+            "16",
+            "32",
+            "32",
+            "16",
+            "16",
+            "32",
+            "32"
+        ],
+        "tiff:ImageLength": [
+            "16",
+            "16",
+            "32",
+            "32",
+            "16",
+            "16",
+            "32",
+            "32"
+        ],
+        "tiff:ImageWidth": [
+            "16",
+            "16",
+            "32",
+            "32",
+            "16",
+            "16",
+            "32",
+            "32"
+        ],
+        "width": [
+            "16",
+            "16",
+            "32",
+            "32",
+            "16",
+            "16",
+            "32",
+            "32"
+        ],
+        "X-TIKA:EXCEPTION:embedded_exception": "org.apache.tika.exception.ZeroByteFileException: InputStream must have > 0 bytes\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:122)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.parser.pkg.PackageParser.parseEntry(PackageParser.java:358)\n\tat org.apache.tika.parser.pkg.PackageParser.parse(PackageParser.java:295)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\n",
+        "X-TIKA:EXCEPTION:embedded_parser": "org.apache.tika.parser.AutoDetectParser"
+    }
+}

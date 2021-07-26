@@ -1,0 +1,19 @@
+{
+    "test.xml": {
+        "modified": "2021-07-24 18:49:53.538059",
+        "size": "1.09KB",
+        "md5": "9f6a6d16914bd3564653eab2ef19a156",
+        "sha256": "e3c46b45484357ceb9273d12b00c4fe0cf6e52737439fe4cdf1057176d80935a"
+    },
+    "Metadata": {
+        "Content-Type": "application/xml",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.xml.DcXMLParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test.xml'"
+    }
+}

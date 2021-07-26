@@ -1,0 +1,20 @@
+{
+    "configExample.txt": {
+        "modified": "2021-07-24 18:49:57.517984",
+        "size": "0.33KB",
+        "md5": "9642a8048467ec061b70b6cb5c1dfb48",
+        "sha256": "4703f74b053f9ac3adaeb8a34e962f0d236a4808fc9e63446dcbe7fc26ee9380"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'configExample.txt'"
+    }
+}

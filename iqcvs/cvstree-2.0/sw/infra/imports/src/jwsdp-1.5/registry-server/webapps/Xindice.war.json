@@ -1,0 +1,251 @@
+{
+    "Xindice.war": {
+        "modified": "2021-07-24 18:49:53.704722",
+        "size": "544.51KB",
+        "md5": "d88ae71b5f015a0b101cbc685579d5bf",
+        "sha256": "a62da2b0a6d3ab1cad582f38339d9ce29b3444c3de3527adf39fd11734a5e733"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-tika-java-web-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:EXCEPTION:runtime": "java.util.zip.ZipException: Unexpected record signature: 0XA04034B\n\tat org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry(ZipArchiveInputStream.java:286)\n\tat org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextEntry(ZipArchiveInputStream.java:435)\n\tat org.apache.tika.parser.pkg.PackageParser.parse(PackageParser.java:297)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\n",
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'Xindice.war'",
+            "META-INF/MANIFEST.MF",
+            "Stopwatch.class",
+            "CommonConfigurable.class",
+            "DatabaseImpl.class",
+            "ResourceIteratorImpl.class",
+            "ResourceSetImpl.class",
+            "XindiceCollection.class",
+            "CollectionImpl.class",
+            "DatabaseImpl.class",
+            "XMLResourceImpl.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "168",
+            "2247",
+            "1033",
+            "2581",
+            "1071",
+            "5576",
+            "4916",
+            "10430",
+            "4480",
+            "6294"
+        ],
+        "Last-Modified": [
+            "2004-11-22T21:31:24Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z"
+        ],
+        "Last-Save-Date": [
+            "2004-11-22T21:31:24Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Stopwatch.class",
+            "/CommonConfigurable.class",
+            "/DatabaseImpl.class",
+            "/ResourceIteratorImpl.class",
+            "/ResourceSetImpl.class",
+            "/XindiceCollection.class",
+            "/CollectionImpl.class",
+            "/DatabaseImpl.class",
+            "/XMLResourceImpl.class"
+        ],
+        "date": [
+            "2004-11-22T21:31:24Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z"
+        ],
+        "dcterms:modified": [
+            "2004-11-22T21:31:24Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "WEB-INF/classes/org/apache/xindice/Stopwatch.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/CommonConfigurable.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/DatabaseImpl.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/ResourceIteratorImpl.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/ResourceSetImpl.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/XindiceCollection.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/embed/CollectionImpl.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/embed/DatabaseImpl.class",
+            "WEB-INF/classes/org/apache/xindice/client/xmldb/resources/XMLResourceImpl.class"
+        ],
+        "meta:save-date": [
+            "2004-11-22T21:31:24Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z"
+        ],
+        "modified": [
+            "2004-11-22T21:31:24Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z",
+            "2004-11-22T21:31:18Z"
+        ],
+        "dc:title": [
+            "Stopwatch",
+            "CommonConfigurable",
+            "DatabaseImpl",
+            "ResourceIteratorImpl",
+            "ResourceSetImpl",
+            "XindiceCollection",
+            "CollectionImpl",
+            "DatabaseImpl",
+            "XMLResourceImpl"
+        ],
+        "title": [
+            "Stopwatch",
+            "CommonConfigurable",
+            "DatabaseImpl",
+            "ResourceIteratorImpl",
+            "ResourceSetImpl",
+            "XindiceCollection",
+            "CollectionImpl",
+            "DatabaseImpl",
+            "XMLResourceImpl"
+        ]
+    }
+}

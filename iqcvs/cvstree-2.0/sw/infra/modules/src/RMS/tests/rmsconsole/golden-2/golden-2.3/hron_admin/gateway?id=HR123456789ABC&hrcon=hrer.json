@@ -1,0 +1,24 @@
+{
+    "gateway?id=HR123456789ABC&hrcon=hrer": {
+        "modified": "2002-03-06 12:37:06",
+        "size": "6.46KB",
+        "md5": "f958cf3c56d4d7768fe2eac59c1be5ec",
+        "sha256": "b6b2667b75cb0ee54335de8b6a570452c24965babe5bd90f9d67ec99940bbada"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "Content-Type-Hint": "text/html; charset=iso-8859-1",
+        "Refresh": "300;URL=gateway?id=HR123456789ABC&hrcon=hrer",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "dc:title": "RMS Console - Gateway Monitoring",
+        "resourceName": "b'gateway?id=HR123456789ABC&hrcon=hrer'",
+        "title": "RMS Console - Gateway Monitoring"
+    }
+}

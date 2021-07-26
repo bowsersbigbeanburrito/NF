@@ -1,0 +1,20 @@
+{
+    "testbasicportfwd03.test.stdout.gold": {
+        "modified": "2021-07-24 18:49:49.854794",
+        "size": "3.92KB",
+        "md5": "6b0c9f729898379c2163a0385ff36c4e",
+        "sha256": "602ab4f0d80a5940a8f5a3b6b03ed8555026f58cdbe58ca6c068902e9a9d18fd"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testbasicportfwd03.test.stdout.gold'"
+    }
+}

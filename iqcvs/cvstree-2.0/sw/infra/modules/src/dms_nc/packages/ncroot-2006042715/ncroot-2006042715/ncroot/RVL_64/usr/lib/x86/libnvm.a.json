@@ -1,0 +1,75 @@
+{
+    "libnvm.a": {
+        "modified": "2006-04-27 15:09:15",
+        "size": "3.97KB",
+        "md5": "bd43710ef2211bbf685358107f8757f3",
+        "sha256": "f188bf75036edfc9536e94aee43166916147b1663e8b020a6b2dd8d708f1c3e9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnvm.a'",
+            "nvm.o"
+        ],
+        "Content-Length": [
+            "264",
+            "3676"
+        ],
+        "Last-Modified": [
+            "2006-04-27T22:09:15Z",
+            "2006-04-27T22:09:15Z"
+        ],
+        "Last-Save-Date": [
+            "2006-04-27T22:09:15Z",
+            "2006-04-27T22:09:15Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nvm.o"
+        ],
+        "date": [
+            "2006-04-27T22:09:15Z",
+            "2006-04-27T22:09:15Z"
+        ],
+        "dcterms:modified": [
+            "2006-04-27T22:09:15Z",
+            "2006-04-27T22:09:15Z"
+        ],
+        "meta:save-date": [
+            "2006-04-27T22:09:15Z",
+            "2006-04-27T22:09:15Z"
+        ],
+        "modified": [
+            "2006-04-27T22:09:15Z",
+            "2006-04-27T22:09:15Z"
+        ],
+        "embeddedRelationshipId": "nvm.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

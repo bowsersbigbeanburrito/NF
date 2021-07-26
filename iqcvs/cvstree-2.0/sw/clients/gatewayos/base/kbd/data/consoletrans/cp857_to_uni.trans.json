@@ -1,0 +1,21 @@
+{
+    "cp857_to_uni.trans": {
+        "modified": "2021-07-24 18:49:46.408192",
+        "size": "9.15KB",
+        "md5": "264b7088177d40eb97ab528f25a91235",
+        "sha256": "bb1897cd05dacd729643cf3e9d1c2af297f0b020ac98a4609cc7fe2c3cb4e7f5"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'cp857_to_uni.trans'"
+    }
+}

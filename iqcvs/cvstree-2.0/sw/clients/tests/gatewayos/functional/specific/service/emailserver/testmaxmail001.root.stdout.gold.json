@@ -1,0 +1,20 @@
+{
+    "testmaxmail001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.101456",
+        "size": "0.4KB",
+        "md5": "10c32c0de29c6f624ce971a9dd12dc79",
+        "sha256": "79abb73a805ffe63046d389ecfb12159a3bf7a42716d3b7d8f2051ae5a9c9fcf"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testmaxmail001.root.stdout.gold'"
+    }
+}

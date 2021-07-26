@@ -1,0 +1,35 @@
+{
+    "data_read_bank1.bmp": {
+        "modified": "2021-07-24 17:34:24.308958",
+        "size": "37.56KB",
+        "md5": "5c736d4ee4ecdda1d02c5db80b9e2adf",
+        "sha256": "356c554f5d87d43524cc41baaeb961d861ee44737c659ee47a6fc2b7dc0a8dc3"
+    },
+    "Metadata": {
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Chroma Palette PaletteEntry": [
+            "index=0, blue=0, green=0, red=0",
+            "index=1, blue=255, green=255, red=255"
+        ],
+        "Compression CompressionTypeName": "BI_RGB",
+        "Compression Lossless": "true",
+        "Content-Type": "image/bmp",
+        "Data BitsPerSample": "1 1 1",
+        "Data SampleFormat": "Index",
+        "Document FormatVersion": "BMP v. 3.x",
+        "Transparency Alpha": "none",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "480",
+        "resourceName": "b'data_read_bank1.bmp'",
+        "tiff:BitsPerSample": "1 1 1",
+        "tiff:ImageLength": "480",
+        "tiff:ImageWidth": "640",
+        "width": "640"
+    }
+}

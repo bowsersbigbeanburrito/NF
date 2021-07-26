@@ -1,0 +1,103 @@
+{
+    "libtkstub8.4.a": {
+        "modified": "2005-10-03 03:18:20",
+        "size": "3.59KB",
+        "md5": "2370c914cf647950dc14b13a2aab4378",
+        "sha256": "777b77f6898c4161c1d1278925afa6553f0b6d5ab6182b0cdf4b2ed9cc32bd1b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libtkstub8.4.a'",
+            "tkStubLib.o",
+            "tkStubImg.o"
+        ],
+        "Content-Length": [
+            "192",
+            "1652",
+            "1640"
+        ],
+        "Last-Modified": [
+            "2005-02-10T17:24:49Z",
+            "2005-02-10T17:23:56Z",
+            "2005-02-10T17:24:48Z"
+        ],
+        "Last-Save-Date": [
+            "2005-02-10T17:24:49Z",
+            "2005-02-10T17:23:56Z",
+            "2005-02-10T17:24:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/tkStubLib.o",
+            "/tkStubImg.o"
+        ],
+        "date": [
+            "2005-02-10T17:24:49Z",
+            "2005-02-10T17:23:56Z",
+            "2005-02-10T17:24:48Z"
+        ],
+        "dcterms:modified": [
+            "2005-02-10T17:24:49Z",
+            "2005-02-10T17:23:56Z",
+            "2005-02-10T17:24:48Z"
+        ],
+        "meta:save-date": [
+            "2005-02-10T17:24:49Z",
+            "2005-02-10T17:23:56Z",
+            "2005-02-10T17:24:48Z"
+        ],
+        "modified": [
+            "2005-02-10T17:24:49Z",
+            "2005-02-10T17:23:56Z",
+            "2005-02-10T17:24:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "tkStubLib.o",
+            "tkStubImg.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "klips_queues.dia": {
+        "modified": "2021-07-24 18:49:46.338194",
+        "size": "0.36KB",
+        "md5": "0ca3ed1d27e37efa70ac028314627718",
+        "sha256": "5218943717e0e4539b15f5b3150967a27d7b0345978f236fdaf9dafe8f96d724"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'klips_queues.dia'",
+            "b'klips_queues.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'klips_queues.dia'"
+    }
+}

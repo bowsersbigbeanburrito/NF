@@ -1,0 +1,35 @@
+{
+    "blank.gif": {
+        "modified": "2004-09-16 09:04:40",
+        "size": "1.65KB",
+        "md5": "4518ba454309fe0a30a48fcc8cb1f2c0",
+        "sha256": "93e0b87e0ffd4c314827a690d7116cf115d759a724c1f9541c058edb73bb10d4"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "4",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=7",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=true",
+        "Transparency TransparentIndex": "7",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "height": "16",
+        "resourceName": "b'blank.gif'",
+        "tiff:ImageLength": "16",
+        "tiff:ImageWidth": "16",
+        "width": "16"
+    }
+}

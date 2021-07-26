@@ -1,0 +1,21 @@
+{
+    "BIG5": {
+        "modified": "2021-07-24 18:49:44.218234",
+        "size": "342.63KB",
+        "md5": "33f96ca46035ae74ef4b231c5e42acd8",
+        "sha256": "043df48c70586ac33d6b2bb2ad86506c45e086588c0144ddf30607e79d6188fe"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "24",
+        "csv:delimiter": "tab",
+        "resourceName": "b'BIG5'"
+    }
+}

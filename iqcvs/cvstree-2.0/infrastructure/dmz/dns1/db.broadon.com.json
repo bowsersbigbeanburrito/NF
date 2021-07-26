@@ -1,0 +1,21 @@
+{
+    "db.broadon.com": {
+        "modified": "2021-07-24 17:35:30.911272",
+        "size": "2.44KB",
+        "md5": "d60de19b868b138589e545b093381204",
+        "sha256": "75d3410d0372cca47109d1374310abbaf5c4a0f40697bde67d0989fbd2eb8d17"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'db.broadon.com'"
+    }
+}

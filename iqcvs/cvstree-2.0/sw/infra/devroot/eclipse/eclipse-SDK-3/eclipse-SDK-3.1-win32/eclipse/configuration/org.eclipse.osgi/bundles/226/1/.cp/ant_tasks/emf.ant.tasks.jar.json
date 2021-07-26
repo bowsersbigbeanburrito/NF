@@ -1,0 +1,230 @@
+{
+    "emf.ant.tasks.jar": {
+        "modified": "2005-10-05 15:44:58",
+        "size": "11.79KB",
+        "md5": "21cee72ad4174dbd84aa75312f6ad69c",
+        "sha256": "6cacfbd5ec00147642d91c07c1c886dda753e0e3ae00eeb0c0e5f9500bad3585"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'emf.ant.tasks.jar'",
+            "META-INF/MANIFEST.MF",
+            "EMFTask.class",
+            "RemoveVersionTask.class",
+            "JETEmitterTask$Variable.class",
+            "JETEmitterTask.class",
+            "JMergerTask.class",
+            "GeneratorTask$ReconcileGenModelType.class",
+            "GeneratorTask.class",
+            "Util.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "1577",
+            "1397",
+            "902",
+            "4351",
+            "3154",
+            "712",
+            "5852",
+            "1599"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/EMFTask.class",
+            "/RemoveVersionTask.class",
+            "/JETEmitterTask$Variable.class",
+            "/JETEmitterTask.class",
+            "/JMergerTask.class",
+            "/GeneratorTask$ReconcileGenModelType.class",
+            "/GeneratorTask.class",
+            "/Util.class"
+        ],
+        "date": [
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/emf/ant/taskdefs/EMFTask.class",
+            "org/eclipse/emf/ant/taskdefs/RemoveVersionTask.class",
+            "org/eclipse/emf/ant/taskdefs/codegen/JETEmitterTask$Variable.class",
+            "org/eclipse/emf/ant/taskdefs/codegen/JETEmitterTask.class",
+            "org/eclipse/emf/ant/taskdefs/codegen/JMergerTask.class",
+            "org/eclipse/emf/ant/taskdefs/codegen/ecore/GeneratorTask$ReconcileGenModelType.class",
+            "org/eclipse/emf/ant/taskdefs/codegen/ecore/GeneratorTask.class",
+            "org/eclipse/emf/ant/util/Util.class"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z"
+        ],
+        "modified": [
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z",
+            "2005-07-07T09:03:28Z"
+        ],
+        "dc:title": [
+            "EMFTask",
+            "RemoveVersionTask",
+            "JETEmitterTask$Variable",
+            "JETEmitterTask",
+            "JMergerTask",
+            "GeneratorTask$ReconcileGenModelType",
+            "GeneratorTask",
+            "Util"
+        ],
+        "title": [
+            "EMFTask",
+            "RemoveVersionTask",
+            "JETEmitterTask$Variable",
+            "JETEmitterTask",
+            "JMergerTask",
+            "GeneratorTask$ReconcileGenModelType",
+            "GeneratorTask",
+            "Util"
+        ]
+    }
+}

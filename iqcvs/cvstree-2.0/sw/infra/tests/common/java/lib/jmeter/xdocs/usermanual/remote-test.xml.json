@@ -1,0 +1,19 @@
+{
+    "remote-test.xml": {
+        "modified": "2021-07-24 18:50:00.854588",
+        "size": "6.04KB",
+        "md5": "271a80025ca78099eb255c2220fad8fb",
+        "sha256": "43df4172e81585dc4f928d602229bc1f937a157c2fd57f6cdccdb037d8bcd1b3"
+    },
+    "Metadata": {
+        "Content-Type": "application/xml",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.xml.DcXMLParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'remote-test.xml'"
+    }
+}

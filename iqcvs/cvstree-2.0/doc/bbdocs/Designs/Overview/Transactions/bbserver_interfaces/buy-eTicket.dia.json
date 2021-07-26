@@ -1,0 +1,39 @@
+{
+    "buy-eTicket.dia": {
+        "modified": "2021-07-24 17:28:49.374744",
+        "size": "2.13KB",
+        "md5": "1e0822359f289a36e894ddc60221d56c",
+        "sha256": "91ee65795cb0c984971bfc6a089a491c11fbb2549f6af56cfa77fcdd3af2dd4d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "2"
+        ],
+        "resourceName": [
+            "b'buy-eTicket.dia'",
+            "b'buy-eTicket.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'buy-eTicket.dia'"
+    }
+}

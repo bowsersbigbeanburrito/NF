@@ -1,0 +1,20 @@
+{
+    "test_bad_certificate.out": {
+        "modified": "2021-07-24 18:49:57.494651",
+        "size": "0.13KB",
+        "md5": "42f4be7bfb188f77e516541914a4a08d",
+        "sha256": "bba922592bb18d31b88bbc45e701db931b91f37ef5c5a779960528a56025a334"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'test_bad_certificate.out'"
+    }
+}

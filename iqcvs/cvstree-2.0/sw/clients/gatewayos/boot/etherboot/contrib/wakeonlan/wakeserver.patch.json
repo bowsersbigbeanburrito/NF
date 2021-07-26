@@ -1,0 +1,80 @@
+{
+    "wakeserver.patch": {
+        "modified": "2021-07-24 18:49:46.694854",
+        "size": "6.6KB",
+        "md5": "5641f041f9524480398249bc136b9251",
+        "sha256": "c0f9e6c90aecedc5b52db4e683182d402704aa277b176f1a367d48a3ff9b0c5a"
+    },
+    "Metadata": {
+        "Author": "Tilmann Bubeck <bubeck@think-at-work.de>",
+        "Content-Type": [
+            "message/rfc822",
+            "text/x-diff; charset=ISO-8859-1"
+        ],
+        "Creation-Date": "2001-02-19T19:56:22Z",
+        "Message-From": "Tilmann Bubeck <bubeck@think-at-work.de>",
+        "Message-To": "etherboot-developers@lists.sourceforge.net",
+        "Message:From-Email": "bubeck@think-at-work.de",
+        "Message:From-Name": "Tilmann Bubeck",
+        "Message:Raw-Header:Content-Length": "5351",
+        "Message:Raw-Header:Errors-To": "etherboot-developers-admin@lists.sourceforge.net",
+        "Message:Raw-Header:Lines": "152",
+        "Message:Raw-Header:List-Archive": "<http://lists.sourceforge.net/archives//etherboot-developers/>",
+        "Message:Raw-Header:List-Help": "<mailto:etherboot-developers-request@lists.sourceforge.net?subject=help>",
+        "Message:Raw-Header:List-Id": "Discussion list for Etherboot developers <etherboot-developers.lists.sourceforge.net>",
+        "Message:Raw-Header:List-Post": "<mailto:etherboot-developers@lists.sourceforge.net>",
+        "Message:Raw-Header:List-Subscribe": "<http://lists.sourceforge.net/lists/listinfo/etherboot-developers>,\t<mailto:etherboot-developers-request@lists.sourceforge.net?subject=subscribe>",
+        "Message:Raw-Header:List-Unsubscribe": "<http://lists.sourceforge.net/lists/listinfo/etherboot-developers>,\t<mailto:etherboot-developers-request@lists.sourceforge.net?subject=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<20010219195622.C97A84ABD8@chaos.think-at-work.de>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Sender": "etherboot-developers-admin@lists.sourceforge.net",
+        "Message:Raw-Header:Status": "RO",
+        "Message:Raw-Header:X-BeenThere": "etherboot-developers@lists.sourceforge.net",
+        "Message:Raw-Header:X-Mailman-Version": "2.0",
+        "Message:Raw-Header:X-face": "#Qvg5o3u!)WoVDDi4-bFy`fl@\"\"4^pm68%_,`puon{0Q6lQ-O,)3D.J.\":A&^,#4O2vc8`? 3^1lhBh=EQH,\"Qq*e1vY\":she&t^8:!&Fb32Ed:nM2Y<E9|i[+z20G?CO=E=-IWv;bL\"=Y`+`q,ML6 ,!Me?==j&In1",
+        "Multipart-Boundary": [
+            "==_Exmh_-19971541890",
+            "==_Exmh_-19971541890"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0"
+        ],
+        "creator": "Tilmann Bubeck <bubeck@think-at-work.de>",
+        "dc:creator": "Tilmann Bubeck <bubeck@think-at-work.de>",
+        "dc:title": "[Etherboot-developers] Wake-on-LAN patch",
+        "dcterms:created": "2001-02-19T19:56:22Z",
+        "meta:author": "Tilmann Bubeck <bubeck@think-at-work.de>",
+        "meta:creation-date": "2001-02-19T19:56:22Z",
+        "resourceName": [
+            "b'wakeserver.patch'",
+            "etherboot-4.7.17-wol.patch"
+        ],
+        "subject": "[Etherboot-developers] Wake-on-LAN patch",
+        "Content-Disposition": "attachment; filename=\"etherboot-4.7.17-wol.patch\"",
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/etherboot-4.7.17-wol.patch",
+        "embeddedResourceType": "ATTACHMENT"
+    }
+}

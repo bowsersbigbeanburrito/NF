@@ -1,0 +1,25 @@
+{
+    "syntax.html": {
+        "modified": "2021-07-24 18:49:57.521317",
+        "size": "113.7KB",
+        "md5": "7dfbc42022045190881f4505a2cdd1fe",
+        "sha256": "b65fe7ff12c945b0b317f4bab7292afef79f822ceb0f37acf6f4fea8565eb9e9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "Content-Type-Hint": "text/html; charset=iso-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "10",
+        "dc:title": "Available Steps for ANT Test Specification",
+        "description": "This is the specification of the Test Steps that CWT understands. Test Steps are realized via ANT tasks, therefore this specification follows the ANT specification style. is the main entry point as it describes the enclosing task for all information about test steps. It must contain the nested elements and exactly once. can contain any number of , i.e. these elements: can contain and can contain can again contain can again contain The Locator elements , and help to find special sections in an HTML page. See the locator's description for its nesting restrictions.",
+        "keywords": "Canoo, WebTest, web application testing, automatic, XP, ANT, httpunit, acceptance testing, extreme programming, agile development, testSpec,config,steps,Test Steps,invoke,clicklink,clickbutton,verifytitle,verifytext,verifyelement,verifyelementtext,verifytextarea,verifyinputfield,verifyselectfield,verifylinks,verifyxpath,verifycheckbox,setinputfield,setcheckbox,setselectfield,previousresponse,not,repeat,storeregex,Form Locator,Table Locator,Index Locator,",
+        "resourceName": "b'syntax.html'",
+        "title": "Available Steps for ANT Test Specification"
+    }
+}

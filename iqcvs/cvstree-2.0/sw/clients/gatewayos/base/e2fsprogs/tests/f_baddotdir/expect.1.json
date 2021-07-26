@@ -1,0 +1,20 @@
+{
+    "expect.1": {
+        "modified": "2021-07-24 18:49:46.301528",
+        "size": "1.34KB",
+        "md5": "48fd5f9571f9c25f5dbb35bcfba79571",
+        "sha256": "cfbe61eb44f86ce37141f32719f8a4dfc8260fc2e1d8aade13ed9cc036974de2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'expect.1'"
+    }
+}

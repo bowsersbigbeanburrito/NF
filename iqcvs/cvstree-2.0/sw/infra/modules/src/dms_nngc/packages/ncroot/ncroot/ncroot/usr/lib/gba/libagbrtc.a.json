@@ -1,0 +1,107 @@
+{
+    "libagbrtc.a": {
+        "modified": "2006-04-09 17:04:01",
+        "size": "4.35KB",
+        "md5": "2b908480acc298bda0ece500cfadb8ee",
+        "sha256": "8d923f4f28c60d85f0599ed2ecc8e0665f42d025e0594a3b88830fde93b56602"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libagbrtc.a'",
+            "agbrtc.o",
+            "gpiorom.o"
+        ],
+        "Content-Length": [
+            "318",
+            "3132",
+            "820"
+        ],
+        "Last-Modified": [
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z"
+        ],
+        "Last-Save-Date": [
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/agbrtc.o",
+            "/gpiorom.o"
+        ],
+        "date": [
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z"
+        ],
+        "dcterms:modified": [
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z"
+        ],
+        "meta:save-date": [
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z"
+        ],
+        "modified": [
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z",
+            "2006-04-10T00:04:01Z"
+        ],
+        "embeddedRelationshipId": [
+            "agbrtc.o",
+            "gpiorom.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

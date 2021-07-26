@@ -1,0 +1,21 @@
+{
+    "ua.map": {
+        "modified": "2021-07-24 18:49:46.414859",
+        "size": "60.57KB",
+        "md5": "78bdacdcdb3365c5ac9669f72a5b987d",
+        "sha256": "092eaba8b70a80793397aa3a6e419cb1d60bc82f25519b593d102ee42d6b30e2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ua.map'"
+    }
+}

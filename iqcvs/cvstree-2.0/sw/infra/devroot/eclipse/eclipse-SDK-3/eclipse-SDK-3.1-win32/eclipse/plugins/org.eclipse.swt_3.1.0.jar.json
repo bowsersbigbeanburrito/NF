@@ -1,0 +1,109 @@
+{
+    "org.eclipse.swt_3.1.0.jar": {
+        "modified": "2005-06-27 14:13:54",
+        "size": "1.57KB",
+        "md5": "ba9ff0a225fa85c09665234e7978fc36",
+        "sha256": "9747fc3e57885918813488bc8fef7ea8b2a7e1c70a7d4e64dae3d8de1c59c01c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'org.eclipse.swt_3.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "plugin.properties"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "647",
+            "1229",
+            "593"
+        ],
+        "Last-Modified": [
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/plugin.properties"
+        ],
+        "date": [
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "plugin.properties"
+        ],
+        "meta:save-date": [
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z"
+        ],
+        "modified": [
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z",
+            "2005-06-27T22:06:32Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": "About",
+        "title": "About"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "mallocbug.c": {
+        "modified": "2021-07-24 18:49:44.788223",
+        "size": "1.68KB",
+        "md5": "2d11c8a0d012c2b76ed3f5b525d6ef7d",
+        "sha256": "0032e4a9c712dde82c45c75fee6e8bc40393f0f36d653346ebda3979a55e8bf7"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'mallocbug.c'"
+    }
+}

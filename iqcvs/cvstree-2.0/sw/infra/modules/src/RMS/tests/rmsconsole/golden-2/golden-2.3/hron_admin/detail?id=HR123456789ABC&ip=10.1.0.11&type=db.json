@@ -1,0 +1,24 @@
+{
+    "detail?id=HR123456789ABC&ip=10.1.0.11&type=db": {
+        "modified": "2002-03-06 12:37:06",
+        "size": "11.94KB",
+        "md5": "8ca2eb0ca28e6a688641f94c4771f9cf",
+        "sha256": "b856c25ac6ae0240e829aead0efa9448c6133865d7c434ca1a68fa7230b57021"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "Content-Type-Hint": "text/html; charset=iso-8859-1",
+        "Refresh": "300;URL=detail?id=HR123456789ABC&ip=10.1.0.11&type=db",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "dc:title": "RMS Console - Gateway Reported Settings",
+        "resourceName": "b'detail?id=HR123456789ABC&ip=10.1.0.11&type=db'",
+        "title": "RMS Console - Gateway Reported Settings"
+    }
+}

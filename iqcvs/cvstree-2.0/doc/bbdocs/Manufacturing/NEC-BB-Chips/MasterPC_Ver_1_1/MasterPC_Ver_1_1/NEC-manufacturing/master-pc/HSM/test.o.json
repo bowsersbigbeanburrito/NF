@@ -1,0 +1,21 @@
+{
+    "test.o": {
+        "modified": "2003-05-05 06:03:03",
+        "size": "3.04KB",
+        "md5": "4f6785e710797325c352a19c379d383a",
+        "sha256": "f07665ec5997f715b980360d090637873ece8837d5efa0cd56ce610b52474a60"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32",
+        "resourceName": "b'test.o'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "VERSION": {
+        "modified": "2021-07-24 18:49:46.358193",
+        "size": "15.56KB",
+        "md5": "4dcdcb3f103009191d798d4e37b7ded5",
+        "sha256": "092b88a912534e910b92db287e65701f5d1b760ad6758375e4735b983a80b292"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'VERSION'"
+    }
+}

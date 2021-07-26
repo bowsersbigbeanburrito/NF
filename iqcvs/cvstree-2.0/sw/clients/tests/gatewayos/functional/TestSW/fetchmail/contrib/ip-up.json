@@ -1,0 +1,113 @@
+{
+    "ip-up": {
+        "modified": "2021-07-24 18:49:49.901460",
+        "size": "2.51KB",
+        "md5": "b3bd88dcc642877dbab6296ed7f54e89",
+        "sha256": "a741eb4df8c3fabc74d0776dcda23aedc0552d3a4eee56f48f654a7920402d0b"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": "b'ip-up'",
+        "Author": [
+            "James Stevens <James.Stevens@jrcs.co.uk>",
+            "James Stevens <James.Stevens@jrcs.co.uk>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1997-08-18T09:55:57Z",
+        "MboxParser-content-transfer-encoding": "7bit",
+        "MboxParser-from": "James.Stevens@jrcs.co.uk  Mon Aug 25 18:11:36 1997",
+        "MboxParser-mime-version": "1.0",
+        "MboxParser-organization": "JRCS Ltd",
+        "MboxParser-precedence": "list",
+        "MboxParser-received": [
+            "(from slist@localhost) if (argc>1)",
+            "from locke.ccil.org (snark [10.0.2.15]) for <esr@snark.thyrsus.com>; Mon, 25 Aug 1997 18:11:34 -0400 for esr; Mon, 18 Aug 1997 06:17:07 -0500 (EST) sigfillset(&set);"
+        ],
+        "MboxParser-reply-to": "James.Stevens@jrcs.co.uk",
+        "MboxParser-resent-date": "Mon, 18 Aug 1997 06:17:07 -0500 (EST) sigprocmask(SIG_UNBLOCK,&set,NULL);",
+        "MboxParser-resent-from": "fetchmail-friends@ccil.org",
+        "MboxParser-resent-message-id": "<\"lhVgRB.A.FFE.bxC-z\"@locke.ccil.org>",
+        "MboxParser-resent-sender": "fetchmail-friends-request@ccil.org",
+        "MboxParser-return-path": "<James.Stevens@jrcs.co.uk> by snark.thyrsus.com (8.8.5/8.8.5) with ESMTP id SAA10394 by locke.ccil.org (8.8.5/8.8.5) id GAA17071 {",
+        "MboxParser-status": "RO",
+        "MboxParser-x-authentication-warning": "locke.ccil.org: slist set sender to fetchmail-friends-request@ccil.org using -f system(argv[1]);",
+        "MboxParser-x-loop": "fetchmail-friends@ccil.org",
+        "MboxParser-x-mailer": "Mozilla 4.01 [en] (Win95; I)",
+        "MboxParser-x-mailing-list": "<fetchmail-friends@ccil.org> archive/latest/725",
+        "MboxParser-x-ninlog": "[James.Stevens@jrcs.co.uk] [<fetchmail-friends@locke.ccil.org>] [199708180955.KAA04988] }",
+        "MboxParser-x-priority": "3 (Normal)",
+        "Message-From": "James Stevens <James.Stevens@jrcs.co.uk>",
+        "Message-Recipient-Address": "fetchmail-friends@locke.ccil.org",
+        "Message-To": [
+            "\"fetchmail-friends@locke.ccil.org\" <fetchmail-friends@locke.ccil.org>",
+            "fetchmail-friends@locke.ccil.org <fetchmail-friends@locke.ccil.org>"
+        ],
+        "Message:From-Email": "James.Stevens@jrcs.co.uk",
+        "Message:From-Name": "James Stevens",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=us-ascii",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<33F81C2D.AB822BBB@jrcs.co.uk>",
+        "Message:Raw-Header:Organization": "JRCS Ltd",
+        "Message:Raw-Header:Precedence": "list",
+        "Message:Raw-Header:Received": [
+            "from locke.ccil.org (snark [10.0.2.15])\tby snark.thyrsus.com (8.8.5/8.8.5) with ESMTP id SAA10394\tfor <esr@snark.thyrsus.com>; Mon, 25 Aug 1997 18:11:34 -0400",
+            "(from slist@localhost)\tby locke.ccil.org (8.8.5/8.8.5) id GAA17071\tfor esr; Mon, 18 Aug 1997 06:17:07 -0500 (EST)"
+        ],
+        "Message:Raw-Header:Reply-To": "James.Stevens@jrcs.co.uk",
+        "Message:Raw-Header:Resent-Date": "Mon, 18 Aug 1997 06:17:07 -0500 (EST)",
+        "Message:Raw-Header:Resent-From": "fetchmail-friends@ccil.org",
+        "Message:Raw-Header:Resent-Message-ID": "<\"lhVgRB.A.FFE.bxC-z\"@locke.ccil.org>",
+        "Message:Raw-Header:Resent-Sender": "fetchmail-friends-request@ccil.org",
+        "Message:Raw-Header:Return-Path": "<James.Stevens@jrcs.co.uk>",
+        "Message:Raw-Header:Status": "RO",
+        "Message:Raw-Header:X-Authentication-Warning": "locke.ccil.org: slist set sender to fetchmail-friends-request@ccil.org using -f",
+        "Message:Raw-Header:X-Loop": "fetchmail-friends@ccil.org",
+        "Message:Raw-Header:X-Mailer": "Mozilla 4.01 [en] (Win95; I)",
+        "Message:Raw-Header:X-Mailing-List": "<fetchmail-friends@ccil.org> archive/latest/725",
+        "Message:Raw-Header:X-NiNLog": "[James.Stevens@jrcs.co.uk] [<fetchmail-friends@locke.ccil.org>] [199708180955.KAA04988]",
+        "Message:Raw-Header:X-Priority": "3 (Normal)",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "James Stevens <James.Stevens@jrcs.co.uk>",
+            "James Stevens <James.Stevens@jrcs.co.uk>"
+        ],
+        "dc:creator": [
+            "James Stevens <James.Stevens@jrcs.co.uk>",
+            "James Stevens <James.Stevens@jrcs.co.uk>"
+        ],
+        "dc:format": "text/plain; charset=us-ascii",
+        "dc:identifier": "<33F81C2D.AB822BBB@jrcs.co.uk>",
+        "dc:title": "A Little Tip...",
+        "dcterms:created": "1997-08-18T09:55:57Z",
+        "format": "text/plain; charset=us-ascii",
+        "identifier": "<33F81C2D.AB822BBB@jrcs.co.uk>",
+        "meta:author": [
+            "James Stevens <James.Stevens@jrcs.co.uk>",
+            "James Stevens <James.Stevens@jrcs.co.uk>"
+        ],
+        "meta:creation-date": "1997-08-18T09:55:57Z",
+        "subject": "A Little Tip..."
+    }
+}

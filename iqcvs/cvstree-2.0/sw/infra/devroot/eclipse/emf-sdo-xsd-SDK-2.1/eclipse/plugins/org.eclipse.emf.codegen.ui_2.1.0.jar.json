@@ -1,0 +1,490 @@
+{
+    "org.eclipse.emf.codegen.ui_2.1.0.jar": {
+        "modified": "2005-07-07 02:05:46",
+        "size": "26.2KB",
+        "md5": "515657d5a9fcbaf7407bfc810346804a",
+        "sha256": "d7113e43ac0e79a0b7d3de1e6bb8f599d27d18c3e30f50ca801925d62aef5a87"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "image/gif",
+            "image/gif",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'org.eclipse.emf.codegen.ui_2.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/ctool16/ConvertToJETProjectWizard.gif",
+            "icons/full/wizban/ConvertToJETProjectWizard.gif",
+            "AddJETNatureAction$1.class",
+            "AddJETNatureAction.class",
+            "CompileTemplateAction$1.class",
+            "CompileTemplateAction.class",
+            "CodeGenUIPlugin.class",
+            "ConvertToJETProjectWizard$1.class",
+            "ConvertToJETProjectWizard$2.class",
+            "ConvertToJETProjectWizard$3.class",
+            "ConvertToJETProjectWizard$4.class",
+            "ConvertToJETProjectWizard$5.class",
+            "ConvertToJETProjectWizard$ConversionPage.class",
+            "ConvertToJETProjectWizard.class",
+            "JETPropertyPage.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "603",
+            "1229",
+            "597",
+            "3180",
+            "1306",
+            "2608",
+            "2142",
+            "2587",
+            "3244",
+            "1655",
+            "1848",
+            "1794",
+            "1673",
+            "1371",
+            "7338",
+            "3131",
+            "6223",
+            "2172",
+            "1454"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/ConvertToJETProjectWizard.gif",
+            "/ConvertToJETProjectWizard.gif",
+            "/AddJETNatureAction$1.class",
+            "/AddJETNatureAction.class",
+            "/CompileTemplateAction$1.class",
+            "/CompileTemplateAction.class",
+            "/CodeGenUIPlugin.class",
+            "/ConvertToJETProjectWizard$1.class",
+            "/ConvertToJETProjectWizard$2.class",
+            "/ConvertToJETProjectWizard$3.class",
+            "/ConvertToJETProjectWizard$4.class",
+            "/ConvertToJETProjectWizard$5.class",
+            "/ConvertToJETProjectWizard$ConversionPage.class",
+            "/ConvertToJETProjectWizard.class",
+            "/JETPropertyPage.class",
+            "/plugin.properties",
+            "/plugin.xml"
+        ],
+        "date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/ctool16/ConvertToJETProjectWizard.gif",
+            "icons/full/wizban/ConvertToJETProjectWizard.gif",
+            "org/eclipse/emf/codegen/action/AddJETNatureAction$1.class",
+            "org/eclipse/emf/codegen/action/AddJETNatureAction.class",
+            "org/eclipse/emf/codegen/action/CompileTemplateAction$1.class",
+            "org/eclipse/emf/codegen/action/CompileTemplateAction.class",
+            "org/eclipse/emf/codegen/presentation/CodeGenUIPlugin.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard$1.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard$2.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard$3.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard$4.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard$5.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard$ConversionPage.class",
+            "org/eclipse/emf/codegen/presentation/ConvertToJETProjectWizard.class",
+            "org/eclipse/emf/codegen/presentation/JETPropertyPage.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": [
+            "About",
+            "AddJETNatureAction$1",
+            "AddJETNatureAction",
+            "CompileTemplateAction$1",
+            "CompileTemplateAction",
+            "CodeGenUIPlugin",
+            "ConvertToJETProjectWizard$1",
+            "ConvertToJETProjectWizard$2",
+            "ConvertToJETProjectWizard$3",
+            "ConvertToJETProjectWizard$4",
+            "ConvertToJETProjectWizard$5",
+            "ConvertToJETProjectWizard$ConversionPage",
+            "ConvertToJETProjectWizard",
+            "JETPropertyPage"
+        ],
+        "title": [
+            "About",
+            "AddJETNatureAction$1",
+            "AddJETNatureAction",
+            "CompileTemplateAction$1",
+            "CompileTemplateAction",
+            "CodeGenUIPlugin",
+            "ConvertToJETProjectWizard$1",
+            "ConvertToJETProjectWizard$2",
+            "ConvertToJETProjectWizard$3",
+            "ConvertToJETProjectWizard$4",
+            "ConvertToJETProjectWizard$5",
+            "ConvertToJETProjectWizard$ConversionPage",
+            "ConvertToJETProjectWizard",
+            "JETPropertyPage"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "4",
+            "3"
+        ],
+        "Compression CompressionTypeName": [
+            "lzw",
+            "lzw"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1"
+        ],
+        "Data SampleFormat": [
+            "Index",
+            "Index"
+        ],
+        "Dimension HorizontalPixelOffset": [
+            "0",
+            "0"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal"
+        ],
+        "Dimension VerticalPixelOffset": [
+            "0",
+            "0"
+        ],
+        "GraphicControlExtension": [
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=98",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=false, delayTime=0, transparentColorIndex=0"
+        ],
+        "ImageDescriptor": [
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=75, imageHeight=66, interlaceFlag=false"
+        ],
+        "Transparency TransparentIndex": "98",
+        "height": [
+            "16",
+            "66"
+        ],
+        "tiff:ImageLength": [
+            "16",
+            "66"
+        ],
+        "tiff:ImageWidth": [
+            "16",
+            "75"
+        ],
+        "width": [
+            "16",
+            "75"
+        ]
+    }
+}

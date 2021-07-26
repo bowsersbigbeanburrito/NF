@@ -1,0 +1,39 @@
+{
+    "recover.dia": {
+        "modified": "2021-07-24 17:28:49.374744",
+        "size": "2.74KB",
+        "md5": "06ac6f1962836d7f068e0d6fd4f43dd4",
+        "sha256": "a62bc4b2edc022e92e1d327abad9cbd099e878e6b97528110049ac70195d4170"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "5"
+        ],
+        "resourceName": [
+            "b'recover.dia'",
+            "b'recover.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'recover.dia'"
+    }
+}

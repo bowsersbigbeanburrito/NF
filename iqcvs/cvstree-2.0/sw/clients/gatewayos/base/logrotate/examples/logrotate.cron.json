@@ -1,0 +1,20 @@
+{
+    "logrotate.cron": {
+        "modified": "2021-07-24 18:49:46.434859",
+        "size": "0.05KB",
+        "md5": "8e23d5d4cc29b1e055b24df87e355cdc",
+        "sha256": "b925366cb62d9c0d247fc4eb5b1cc3f71992a113c03d5e47ce69aeda9a3d294b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'logrotate.cron'"
+    }
+}

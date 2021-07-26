@@ -1,0 +1,23 @@
+{
+    "site_printable.vsl": {
+        "modified": "2021-07-24 18:50:00.851255",
+        "size": "14.99KB",
+        "md5": "37e6b34c8bc5830b677762131477d9bd",
+        "sha256": "dcbaed37e84f9671f5e2db9717ee6dc01f00a16dd006fb448e5477bab845eeed"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/html; charset=windows-1252",
+        "Content-Type-Hint": "text/html; charset=iso-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "dc:title": "$project.getChild(\"title\").getText() - $root.getChild(\"properties\").getChild(\"title\").getText()",
+        "resourceName": "b'site_printable.vsl'",
+        "title": "$project.getChild(\"title\").getText() - $root.getChild(\"properties\").getChild(\"title\").getText()"
+    }
+}

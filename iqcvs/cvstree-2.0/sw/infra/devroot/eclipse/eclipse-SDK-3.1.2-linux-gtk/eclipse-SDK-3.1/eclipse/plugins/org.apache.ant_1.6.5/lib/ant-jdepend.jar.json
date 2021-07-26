@@ -1,0 +1,110 @@
+{
+    "ant-jdepend.jar": {
+        "modified": "2006-01-18 13:31:07",
+        "size": "7.97KB",
+        "md5": "6c3596dc2eeae7eb2783a88269b27126",
+        "sha256": "c0d42b014c300cb98200aa9a911e08a82ea9351702c845983aa969f80f571a4c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'ant-jdepend.jar'",
+            "META-INF/MANIFEST.MF",
+            "JDependTask$FormatAttribute.class",
+            "JDependTask.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "737",
+            "13467"
+        ],
+        "Last-Modified": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:54Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:54Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/JDependTask$FormatAttribute.class",
+            "/JDependTask.class"
+        ],
+        "date": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:54Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:54Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask$FormatAttribute.class",
+            "org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.class"
+        ],
+        "meta:save-date": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:54Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "modified": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:54Z",
+            "2005-06-02T22:12:54Z"
+        ],
+        "dc:title": [
+            "JDependTask$FormatAttribute",
+            "JDependTask"
+        ],
+        "title": [
+            "JDependTask$FormatAttribute",
+            "JDependTask"
+        ]
+    }
+}

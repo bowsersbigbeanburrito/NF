@@ -1,0 +1,20 @@
+{
+    "test001.test.stdout.gold": {
+        "modified": "2021-07-24 18:49:49.848128",
+        "size": "0.13KB",
+        "md5": "25205a54a50f96d74326d82564a60fc9",
+        "sha256": "dc934e41584bb06f8d6e48f5e0d38d28224b3319cf0c3e9f5d76d0358ad8e17e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'test001.test.stdout.gold'"
+    }
+}

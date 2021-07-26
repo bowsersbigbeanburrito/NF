@@ -1,0 +1,39 @@
+{
+    "browse_eTicket.dia": {
+        "modified": "2021-07-24 17:28:49.374744",
+        "size": "2.22KB",
+        "md5": "f23e81cab0cc5063271f4236144f6428",
+        "sha256": "d5ccf292833bdbb16a8e571b773d5c827fefc61a4f63fec8b202decafc527827"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'browse_eTicket.dia'",
+            "b'browse_eTicket.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'browse_eTicket.dia'"
+    }
+}

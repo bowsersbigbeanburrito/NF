@@ -1,0 +1,112 @@
+{
+    "org.eclipse.update.core.win32_3.1.0.jar": {
+        "modified": "2005-06-27 14:14:42",
+        "size": "28.87KB",
+        "md5": "921a269c19ba6356816da9c1d9a86550",
+        "sha256": "06c61a12c8d10703d30487c7071cd9660f9a46adff40bfb96363a59163e97fe9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "application/x-msdownload"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'org.eclipse.update.core.win32_3.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "os/win32/x86/update.dll"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "318",
+            "1229",
+            "54784"
+        ],
+        "Last-Modified": [
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/update.dll"
+        ],
+        "date": [
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "os/win32/x86/update.dll"
+        ],
+        "meta:save-date": [
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z"
+        ],
+        "modified": [
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z",
+            "2005-06-27T22:13:10Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": "About",
+        "title": "About",
+        "Creation-Date": "2002-11-11T12:15:03Z",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32",
+        "machine:platform": "Windows"
+    }
+}

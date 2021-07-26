@@ -1,0 +1,20 @@
+{
+    "dpkg.postinst": {
+        "modified": "2021-07-24 18:49:46.248195",
+        "size": "5.38KB",
+        "md5": "b1d58f38daf9f6a60cd77893a5efaade",
+        "sha256": "b620c9a8c715efb33e216a3bbb3ccac66e0e683a696f919a9951be3c52b0b7e3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'dpkg.postinst'"
+    }
+}

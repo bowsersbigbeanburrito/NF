@@ -1,0 +1,21 @@
+{
+    "macros.txt": {
+        "modified": "2000-12-28 18:16:50",
+        "size": "3.37KB",
+        "md5": "060a3a2db406f842402fdd6546e919b4",
+        "sha256": "de0fef8e9bcea722d612dc800c623a9ad40dc8de4266f38dabe857fd3928f8a2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'macros.txt'"
+    }
+}

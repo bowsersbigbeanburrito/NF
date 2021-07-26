@@ -1,0 +1,123 @@
+{
+    "BB Player Label Spec-CPBG(ENG).doc": {
+        "modified": "2021-07-24 17:28:49.951452",
+        "size": "38.5KB",
+        "md5": "343eef3fff003bcf7e4cc6505f35994a",
+        "sha256": "34703cfdb85d4397ad2406c6cd5f1a2792f2d3c8392fa4e046a82ddd3446e6b4"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Word 10.0",
+        "Author": "jackzhang",
+        "Character Count": "699",
+        "Comments": "",
+        "Company": "foxconn",
+        "Content-Type": [
+            "application/msword",
+            "image/wmf",
+            "image/wmf",
+            "image/emf",
+            "image/wmf"
+        ],
+        "Creation-Date": "2004-02-24T07:40:00Z",
+        "Edit-Time": "3000000000",
+        "Keywords": "",
+        "Last-Author": "tommy",
+        "Last-Modified": "2004-02-28T05:45:00Z",
+        "Last-Printed": "2004-02-24T07:01:00Z",
+        "Last-Save-Date": "2004-02-28T05:45:00Z",
+        "Page-Count": "1",
+        "Revision-Number": "4",
+        "Template": "Normal.dot",
+        "Word-Count": "122",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "X-TIKA:origResourceName": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "comment": "",
+        "cp:revision": "4",
+        "cp:subject": "",
+        "creator": "jackzhang",
+        "date": "2004-02-28T05:45:00Z",
+        "dc:creator": "jackzhang",
+        "dc:subject": "",
+        "dc:title": "1",
+        "dcterms:created": "2004-02-24T07:40:00Z",
+        "dcterms:modified": "2004-02-28T05:45:00Z",
+        "extended-properties:Application": "Microsoft Word 10.0",
+        "extended-properties:Company": "foxconn",
+        "extended-properties:Template": "Normal.dot",
+        "meta:author": "jackzhang",
+        "meta:character-count": "699",
+        "meta:creation-date": "2004-02-24T07:40:00Z",
+        "meta:keyword": "",
+        "meta:last-author": "tommy",
+        "meta:page-count": "1",
+        "meta:print-date": "2004-02-24T07:01:00Z",
+        "meta:save-date": "2004-02-28T05:45:00Z",
+        "meta:word-count": "122",
+        "modified": "2004-02-28T05:45:00Z",
+        "resourceName": [
+            "b'BB Player Label Spec-CPBG(ENG).doc'",
+            "image1.wmf",
+            "image3.emf",
+            "image2.wmf"
+        ],
+        "subject": "",
+        "title": "1",
+        "w:comments": "",
+        "xmpTPg:NPages": "1",
+        "X-TIKA:embedded_resource_path": [
+            "/image1.wmf",
+            "/image3.emf/embedded-1",
+            "/image3.emf",
+            "/image2.wmf"
+        ],
+        "tika.mime.file": [
+            "image1.wmf",
+            "image3.emf",
+            "image2.wmf"
+        ]
+    }
+}

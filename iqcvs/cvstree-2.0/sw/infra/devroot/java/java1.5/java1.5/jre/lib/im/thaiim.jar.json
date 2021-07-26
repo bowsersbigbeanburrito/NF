@@ -1,0 +1,190 @@
+{
+    "thaiim.jar": {
+        "modified": "2006-06-28 03:05:13",
+        "size": "7.76KB",
+        "md5": "cc24976ea72080d8c020fd8596be3df3",
+        "sha256": "83dd80f83b01bf9f332056f6be2c8dd2ed8447e6203e38eba37cf982af9fedd5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=windows-1252",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'thaiim.jar'",
+            "META-INF/MANIFEST.MF",
+            "ThaiInputMethod.class",
+            "ThaiInputMethodImpl.class",
+            "ThaiRules.class",
+            "ThaiInputMethodDescriptor.class",
+            "com/sun/inputmethods/internal/thaiim/resources/DisplayNames.properties",
+            "META-INF/services/java.awt.im.spi.InputMethodDescriptor"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/ThaiInputMethod.class",
+            "/ThaiInputMethodImpl.class",
+            "/ThaiRules.class",
+            "/ThaiInputMethodDescriptor.class",
+            "/DisplayNames.properties",
+            "/java.awt.im.spi.InputMethodDescriptor"
+        ],
+        "date": [
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "com/sun/inputmethods/internal/thaiim/ThaiInputMethod.class",
+            "com/sun/inputmethods/internal/thaiim/ThaiInputMethodImpl.class",
+            "com/sun/inputmethods/internal/thaiim/ThaiRules.class",
+            "com/sun/inputmethods/internal/thaiim/ThaiInputMethodDescriptor.class",
+            "com/sun/inputmethods/internal/thaiim/resources/DisplayNames.properties",
+            "META-INF/services/java.awt.im.spi.InputMethodDescriptor"
+        ],
+        "meta:save-date": [
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z"
+        ],
+        "modified": [
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z",
+            "2006-06-28T10:05:12Z"
+        ],
+        "dc:title": [
+            "ThaiInputMethod",
+            "ThaiInputMethodImpl",
+            "ThaiRules",
+            "ThaiInputMethodDescriptor"
+        ],
+        "title": [
+            "ThaiInputMethod",
+            "ThaiInputMethodImpl",
+            "ThaiRules",
+            "ThaiInputMethodDescriptor"
+        ]
+    }
+}

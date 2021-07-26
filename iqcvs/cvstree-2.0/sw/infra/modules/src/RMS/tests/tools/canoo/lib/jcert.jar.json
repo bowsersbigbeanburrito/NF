@@ -1,0 +1,230 @@
+{
+    "jcert.jar": {
+        "modified": "2021-07-24 18:49:57.531317",
+        "size": "7.46KB",
+        "md5": "edf65d33159c9bf62f3e346a74f8b8b6",
+        "sha256": "0d798da7242e11872734f2043c8018d5445bf2bb23108a62168bae199b3d1314"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'jcert.jar'",
+            "META-INF/MANIFEST.MF",
+            "CertificateException.class",
+            "CertificateEncodingException.class",
+            "CertificateExpiredException.class",
+            "CertificateNotYetValidException.class",
+            "CertificateParsingException.class",
+            "Certificate.class",
+            "X509Certificate.class",
+            "X509V1CertImpl.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2000-08-01T18:21:42Z",
+            "2000-08-01T18:02:24Z",
+            "2000-08-01T18:02:30Z",
+            "2000-08-01T18:02:36Z",
+            "2000-08-01T18:02:42Z",
+            "2000-08-01T18:02:48Z",
+            "2000-08-01T18:02:56Z",
+            "2000-08-01T18:03:04Z",
+            "2000-08-01T18:21:34Z"
+        ],
+        "Last-Save-Date": [
+            "2000-08-01T18:21:42Z",
+            "2000-08-01T18:02:24Z",
+            "2000-08-01T18:02:30Z",
+            "2000-08-01T18:02:36Z",
+            "2000-08-01T18:02:42Z",
+            "2000-08-01T18:02:48Z",
+            "2000-08-01T18:02:56Z",
+            "2000-08-01T18:03:04Z",
+            "2000-08-01T18:21:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/CertificateException.class",
+            "/CertificateEncodingException.class",
+            "/CertificateExpiredException.class",
+            "/CertificateNotYetValidException.class",
+            "/CertificateParsingException.class",
+            "/Certificate.class",
+            "/X509Certificate.class",
+            "/X509V1CertImpl.class"
+        ],
+        "date": [
+            "2000-08-01T18:21:42Z",
+            "2000-08-01T18:02:24Z",
+            "2000-08-01T18:02:30Z",
+            "2000-08-01T18:02:36Z",
+            "2000-08-01T18:02:42Z",
+            "2000-08-01T18:02:48Z",
+            "2000-08-01T18:02:56Z",
+            "2000-08-01T18:03:04Z",
+            "2000-08-01T18:21:34Z"
+        ],
+        "dcterms:modified": [
+            "2000-08-01T18:21:42Z",
+            "2000-08-01T18:02:24Z",
+            "2000-08-01T18:02:30Z",
+            "2000-08-01T18:02:36Z",
+            "2000-08-01T18:02:42Z",
+            "2000-08-01T18:02:48Z",
+            "2000-08-01T18:02:56Z",
+            "2000-08-01T18:03:04Z",
+            "2000-08-01T18:21:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "javax/security/cert/CertificateException.class",
+            "javax/security/cert/CertificateEncodingException.class",
+            "javax/security/cert/CertificateExpiredException.class",
+            "javax/security/cert/CertificateNotYetValidException.class",
+            "javax/security/cert/CertificateParsingException.class",
+            "javax/security/cert/Certificate.class",
+            "javax/security/cert/X509Certificate.class",
+            "com/sun/security/cert/internal/x509/X509V1CertImpl.class"
+        ],
+        "meta:save-date": [
+            "2000-08-01T18:21:42Z",
+            "2000-08-01T18:02:24Z",
+            "2000-08-01T18:02:30Z",
+            "2000-08-01T18:02:36Z",
+            "2000-08-01T18:02:42Z",
+            "2000-08-01T18:02:48Z",
+            "2000-08-01T18:02:56Z",
+            "2000-08-01T18:03:04Z",
+            "2000-08-01T18:21:34Z"
+        ],
+        "modified": [
+            "2000-08-01T18:21:42Z",
+            "2000-08-01T18:02:24Z",
+            "2000-08-01T18:02:30Z",
+            "2000-08-01T18:02:36Z",
+            "2000-08-01T18:02:42Z",
+            "2000-08-01T18:02:48Z",
+            "2000-08-01T18:02:56Z",
+            "2000-08-01T18:03:04Z",
+            "2000-08-01T18:21:34Z"
+        ],
+        "dc:title": [
+            "CertificateException",
+            "CertificateEncodingException",
+            "CertificateExpiredException",
+            "CertificateNotYetValidException",
+            "CertificateParsingException",
+            "Certificate",
+            "X509Certificate",
+            "X509V1CertImpl"
+        ],
+        "title": [
+            "CertificateException",
+            "CertificateEncodingException",
+            "CertificateExpiredException",
+            "CertificateNotYetValidException",
+            "CertificateParsingException",
+            "Certificate",
+            "X509Certificate",
+            "X509V1CertImpl"
+        ]
+    }
+}

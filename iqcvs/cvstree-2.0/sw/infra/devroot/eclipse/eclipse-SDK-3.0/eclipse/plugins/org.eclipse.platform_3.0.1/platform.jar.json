@@ -1,0 +1,86 @@
+{
+    "platform.jar": {
+        "modified": "2004-09-16 09:04:41",
+        "size": "2.18KB",
+        "md5": "91646cb11ea66d34f8ddfd22aa6fb4ec",
+        "sha256": "d9bc3ba7fcae1dee60dcdabeab08e97590ca0a8a98e1ba1a47813e6bd3e70358"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'platform.jar'",
+            "META-INF/MANIFEST.MF",
+            "CheatSheetStandbyContent.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "3010"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:53:58Z",
+            "2004-09-16T18:54:00Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:53:58Z",
+            "2004-09-16T18:54:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/CheatSheetStandbyContent.class"
+        ],
+        "date": [
+            "2004-09-16T18:53:58Z",
+            "2004-09-16T18:54:00Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:53:58Z",
+            "2004-09-16T18:54:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/platform/internal/CheatSheetStandbyContent.class"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:53:58Z",
+            "2004-09-16T18:54:00Z"
+        ],
+        "modified": [
+            "2004-09-16T18:53:58Z",
+            "2004-09-16T18:54:00Z"
+        ],
+        "dc:title": "CheatSheetStandbyContent",
+        "title": "CheatSheetStandbyContent"
+    }
+}

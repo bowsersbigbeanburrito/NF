@@ -1,0 +1,39 @@
+{
+    "bb_download.dia": {
+        "modified": "2021-07-24 17:28:49.374744",
+        "size": "2.03KB",
+        "md5": "3ca76806f798726397cb0ec17b9678fe",
+        "sha256": "224f522a3decba70d89bed3c76e46279a73e6da3a19e3bfef3bec1162e687841"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'bb_download.dia'",
+            "b'bb_download.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'bb_download.dia'"
+    }
+}

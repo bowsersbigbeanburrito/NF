@@ -1,0 +1,20 @@
+{
+    "testUnicode.txt": {
+        "modified": "2002-09-15 20:19:20",
+        "size": "0.89KB",
+        "md5": "da2d1512160d45029b6c6f6ad7ade6b4",
+        "sha256": "3c02fa9ab88aac957dd15c875d1f5c25bd2ceb7d9e9b5f3cd72892243e6e2531"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-16LE",
+        "Content-Type": "text/plain; charset=UTF-16LE",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testUnicode.txt'"
+    }
+}

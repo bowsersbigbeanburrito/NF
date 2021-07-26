@@ -1,0 +1,39 @@
+{
+    "msg_33.txt": {
+        "modified": "2005-09-29 05:56:22",
+        "size": "0.73KB",
+        "md5": "8170e05c633da34cd445541be5ae53de",
+        "sha256": "cc35e6cc84c00eb7d5e2bdf9ceb8977eb94c2bcc1630ea93c6c4b82381406dad"
+    },
+    "Metadata": {
+        "Author": "Anne Person <aperson@example.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2000-09-27T16:11:09Z",
+        "Message-From": "Anne Person <aperson@example.com>",
+        "Message-To": "Barney Dude <bdude@example.com>",
+        "Message:From-Email": "aperson@example.com",
+        "Message:From-Name": "Anne Person",
+        "Message:Raw-Header:Content-Disposition": "inline",
+        "Message:Raw-Header:Delivered-To": "freebsd-isp@freebsd.org",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Sender": "owner-freebsd-isp@FreeBSD.ORG",
+        "Message:Raw-Header:X-Loop": "FreeBSD.org",
+        "Multipart-Subtype": "signed",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "Anne Person <aperson@example.com>",
+        "dc:creator": "Anne Person <aperson@example.com>",
+        "dc:title": "Re: Limiting Perl CPU Utilization...",
+        "dcterms:created": "2000-09-27T16:11:09Z",
+        "meta:author": "Anne Person <aperson@example.com>",
+        "meta:creation-date": "2000-09-27T16:11:09Z",
+        "resourceName": "b'msg_33.txt'",
+        "subject": "Re: Limiting Perl CPU Utilization..."
+    }
+}

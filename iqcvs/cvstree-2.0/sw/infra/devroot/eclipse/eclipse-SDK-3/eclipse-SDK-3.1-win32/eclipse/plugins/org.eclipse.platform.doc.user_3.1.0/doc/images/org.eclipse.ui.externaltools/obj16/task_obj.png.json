@@ -1,0 +1,57 @@
+{
+    "task_obj.png": {
+        "modified": "2005-02-15 07:53:46",
+        "size": "0.17KB",
+        "md5": "1f8183af9c57baa674178ad543a98a72",
+        "sha256": "f6be49c260315f31a04a93c01d396d8d1655da8523867ccc95c8876efd43634d"
+    },
+    "Metadata": {
+        "Chroma BackgroundIndex": "3",
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=57, green=110, blue=158, alpha=255",
+            "index=1, red=121, green=157, blue=189, alpha=255",
+            "index=2, red=194, green=211, blue=226, alpha=255",
+            "index=3, red=255, green=255, blue=255, alpha=0"
+        ],
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "2 2 2 2",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "Index",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=16, height=16, bitDepth=2, colorType=Palette, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "PLTE PLTEEntry": [
+            "index=0, red=57, green=110, blue=158",
+            "index=1, red=121, green=157, blue=189",
+            "index=2, red=194, green=211, blue=226",
+            "index=3, red=255, green=255, blue=255"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "bKGD bKGD_Palette": "3",
+        "height": "16",
+        "pHYs": "pixelsPerUnitXAxis=72, pixelsPerUnitYAxis=72, unitSpecifier=unknown",
+        "resourceName": "b'task_obj.png'",
+        "tRNS tRNS_Palette tRNS_PaletteEntry": [
+            "index=0, alpha=255",
+            "index=1, alpha=255",
+            "index=2, alpha=255",
+            "index=3, alpha=0"
+        ],
+        "tiff:BitsPerSample": "2 2 2 2",
+        "tiff:ImageLength": "16",
+        "tiff:ImageWidth": "16",
+        "width": "16"
+    }
+}

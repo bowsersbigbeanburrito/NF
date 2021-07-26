@@ -1,0 +1,39 @@
+{
+    "jukebox_admin.dia": {
+        "modified": "2021-07-24 17:28:48.548018",
+        "size": "3.73KB",
+        "md5": "8bd789a2c0e1b2f136bea1ffaa3ce007",
+        "sha256": "6cf5eac74fd7494d5dbe483b8e897c0bbad0bb909d4c666d7337acbb6432dbf8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "3"
+        ],
+        "resourceName": [
+            "b'jukebox_admin.dia'",
+            "b'jukebox_admin.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'jukebox_admin.dia'"
+    }
+}

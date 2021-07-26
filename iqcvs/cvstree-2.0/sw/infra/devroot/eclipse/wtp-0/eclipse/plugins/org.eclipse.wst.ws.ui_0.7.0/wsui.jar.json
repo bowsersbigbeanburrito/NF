@@ -1,0 +1,271 @@
+{
+    "wsui.jar": {
+        "modified": "2005-07-29 07:23:24",
+        "size": "18.74KB",
+        "md5": "7e6ebce5c6c8a6abe50f42351fb3c7c2",
+        "sha256": "0801182157f7d1ad51a7d297565faa7e742c6e2ea9dfb62670b9be5e76c34b53"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'wsui.jar'",
+            "META-INF/MANIFEST.MF",
+            "IObjectSelector.class",
+            "WSUIPlugin.class",
+            "WebServicesPreferencePage.class",
+            "PersistentWSIAPContext.class",
+            "PersistentWSIContext.class",
+            "PersistentWSISSBPContext.class",
+            "WSICompliancePreferencePage.class",
+            "WSIComplianceUtils.class",
+            "WSICompliancePropertyPage.class",
+            "org/eclipse/wst/ws/ui/plugin.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "702",
+            "3108",
+            "911",
+            "1237",
+            "4333",
+            "900",
+            "7761",
+            "4685",
+            "8465",
+            "3316"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/IObjectSelector.class",
+            "/WSUIPlugin.class",
+            "/WebServicesPreferencePage.class",
+            "/PersistentWSIAPContext.class",
+            "/PersistentWSIContext.class",
+            "/PersistentWSISSBPContext.class",
+            "/WSICompliancePreferencePage.class",
+            "/WSIComplianceUtils.class",
+            "/WSICompliancePropertyPage.class",
+            "/plugin.properties"
+        ],
+        "date": [
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/wst/ws/internal/provisional/ui/wsrt/IObjectSelector.class",
+            "org/eclipse/wst/ws/internal/ui/plugin/WSUIPlugin.class",
+            "org/eclipse/wst/ws/internal/ui/preferences/WebServicesPreferencePage.class",
+            "org/eclipse/wst/ws/internal/ui/wsi/preferences/PersistentWSIAPContext.class",
+            "org/eclipse/wst/ws/internal/ui/wsi/preferences/PersistentWSIContext.class",
+            "org/eclipse/wst/ws/internal/ui/wsi/preferences/PersistentWSISSBPContext.class",
+            "org/eclipse/wst/ws/internal/ui/wsi/preferences/WSICompliancePreferencePage.class",
+            "org/eclipse/wst/ws/internal/ui/wsi/preferences/WSIComplianceUtils.class",
+            "org/eclipse/wst/ws/internal/ui/wsi/properties/WSICompliancePropertyPage.class",
+            "org/eclipse/wst/ws/ui/plugin.properties"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z"
+        ],
+        "modified": [
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z",
+            "2005-07-29T14:05:18Z"
+        ],
+        "dc:title": [
+            "IObjectSelector",
+            "WSUIPlugin",
+            "WebServicesPreferencePage",
+            "PersistentWSIAPContext",
+            "PersistentWSIContext",
+            "PersistentWSISSBPContext",
+            "WSICompliancePreferencePage",
+            "WSIComplianceUtils",
+            "WSICompliancePropertyPage"
+        ],
+        "title": [
+            "IObjectSelector",
+            "WSUIPlugin",
+            "WebServicesPreferencePage",
+            "PersistentWSIAPContext",
+            "PersistentWSIContext",
+            "PersistentWSISSBPContext",
+            "WSICompliancePreferencePage",
+            "WSIComplianceUtils",
+            "WSICompliancePropertyPage"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "crash.out": {
+        "modified": "2021-07-24 18:49:40.454971",
+        "size": "20.84KB",
+        "md5": "9f1a1ec87f3fcc35cf3ab8f943ee0f04",
+        "sha256": "24ec911c23f7455206757eddb73c6359cb1183f1777c294ff3a39439ffa4cefd"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "tab",
+        "resourceName": "b'crash.out'"
+    }
+}

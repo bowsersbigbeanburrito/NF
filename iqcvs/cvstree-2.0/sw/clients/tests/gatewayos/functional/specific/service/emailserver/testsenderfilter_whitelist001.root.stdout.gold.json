@@ -1,0 +1,20 @@
+{
+    "testsenderfilter_whitelist001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.104789",
+        "size": "0.5KB",
+        "md5": "7a401e0ff1acdfc69a2981390f6b2943",
+        "sha256": "21c7a045f4a15152a3853fc013cc469cacc3b067146d4fe4ba06124a411c1872"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'testsenderfilter_whitelist001.root.stdout.gold'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "memcpy.S": {
+        "modified": "2021-07-24 18:49:47.054847",
+        "size": "1.11KB",
+        "md5": "538e5cca9c097b4a5f37a73f68504afb",
+        "sha256": "67f4eb3b14c0b96702d2cd0d8697182aa86783f5521725e168c95a7ff6ba3fed"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'memcpy.S'"
+    }
+}

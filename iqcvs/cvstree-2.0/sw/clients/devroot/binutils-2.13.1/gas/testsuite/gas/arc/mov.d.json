@@ -1,0 +1,21 @@
+{
+    "mov.d": {
+        "modified": "2021-07-24 18:49:40.404972",
+        "size": "2.72KB",
+        "md5": "42cc6922491da263d6ab87fca2593794",
+        "sha256": "72cf1b54af1109e86cb845a0a55353a56b84ae8e4b264f96c1a8b7af47388c3e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'mov.d'"
+    }
+}

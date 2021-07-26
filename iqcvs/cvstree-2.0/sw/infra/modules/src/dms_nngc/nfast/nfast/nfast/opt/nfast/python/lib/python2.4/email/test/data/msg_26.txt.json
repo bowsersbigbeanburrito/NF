@@ -1,0 +1,102 @@
+{
+    "msg_26.txt": {
+        "modified": "2005-09-29 05:56:22",
+        "size": "2.05KB",
+        "md5": "f35f22ed2f588a3b527361f30596ad25",
+        "sha256": "3f3ac44808e8ba2e5c50bf31cf05a134da32822a4aaae6aaa56ee66c8a125b7a"
+    },
+    "Metadata": {
+        "Author": "Father Time <father.time@xcar.wooster.local>",
+        "Content-Type": [
+            "message/rfc822",
+            "image/bmp"
+        ],
+        "Creation-Date": "2002-05-12T07:56:15Z",
+        "Message-From": "Father Time <father.time@xcar.wooster.local>",
+        "Message-To": "timbo@jeeves.wooster.local",
+        "Message:From-Email": "father.time@xcar.wooster.local",
+        "Message:From-Name": "Father Time",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<6df65d354b.father.time@rpc.wooster.local>",
+        "Message:Raw-Header:Received": "from xcar [192.168.0.2] by jeeves.wooster.local  (SMTPD32-7.07 EVAL) id AFF92F0214; Sun, 12 May 2002 08:55:37 +0100",
+        "Message:Raw-Header:Status": "R",
+        "Message:Raw-Header:User-Agent": "Messenger-Pro/2.50a (MsgServe/1.50) (RISC-OS/4.02) POPstar/2.03",
+        "Message:Raw-Header:X-Organization": "Home",
+        "Message:Raw-Header:X-UIDL": "319998302",
+        "Multipart-Boundary": [
+            "1618492860--2051301190--113853680",
+            "1618492860--2051301190--113853680"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "creator": "Father Time <father.time@xcar.wooster.local>",
+        "dc:creator": "Father Time <father.time@xcar.wooster.local>",
+        "dc:title": "IMAP file test",
+        "dcterms:created": "2002-05-12T07:56:15Z",
+        "meta:author": "Father Time <father.time@xcar.wooster.local>",
+        "meta:creation-date": "2002-05-12T07:56:15Z",
+        "resourceName": [
+            "b'msg_26.txt'",
+            "clock.bmp"
+        ],
+        "subject": "IMAP file test",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Chroma Palette PaletteEntry": [
+            "index=0, blue=0, green=0, red=0",
+            "index=1, blue=0, green=0, red=136",
+            "index=2, blue=0, green=136, red=0",
+            "index=3, blue=0, green=136, red=136",
+            "index=4, blue=136, green=0, red=0",
+            "index=5, blue=136, green=0, red=136",
+            "index=6, blue=136, green=136, red=0",
+            "index=7, blue=187, green=187, red=187",
+            "index=8, blue=136, green=136, red=136",
+            "index=9, blue=17, green=17, red=221",
+            "index=10, blue=34, green=238, red=34",
+            "index=11, blue=51, green=255, red=255",
+            "index=12, blue=204, green=0, red=0",
+            "index=13, blue=221, green=17, red=221",
+            "index=14, blue=238, green=238, red=34",
+            "index=15, blue=255, green=255, red=255"
+        ],
+        "Compression CompressionTypeName": "BI_RGB",
+        "Compression Lossless": "true",
+        "Content-Disposition": "attachment; filename=\"clock.bmp\"",
+        "Data BitsPerSample": "4 4 4",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPhysicalPixelSpacing": "0.28224668",
+        "Dimension HorizontalPixelSize": "0.28224668",
+        "Dimension PixelAspectRatio": "1.0",
+        "Dimension VerticalPhysicalPixelSpacing": "0.28224668",
+        "Dimension VerticalPixelSize": "0.28224668",
+        "Document FormatVersion": "BMP v. 3.x",
+        "Transparency Alpha": "none",
+        "X-TIKA:embedded_resource_path": "/clock.bmp",
+        "embeddedResourceType": "ATTACHMENT",
+        "height": "32",
+        "tiff:BitsPerSample": "4 4 4",
+        "tiff:ImageLength": "32",
+        "tiff:ImageWidth": "32",
+        "width": "32"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "cp1250_to_uni.trans": {
+        "modified": "2021-07-24 18:49:46.408192",
+        "size": "9.09KB",
+        "md5": "bd4fc7c6b384ae27d66c56dd5c41477f",
+        "sha256": "26f39475d79fc5b135d9ed00b4bee7715628024e663a71410936147f318e6387"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'cp1250_to_uni.trans'"
+    }
+}

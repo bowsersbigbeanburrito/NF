@@ -1,0 +1,243 @@
+{
+    "libcrypto.a": {
+        "modified": "2003-05-06 06:54:24",
+        "size": "42.7KB",
+        "md5": "7314402eb187d6af7dbb2f70c6bad66a",
+        "sha256": "48181a82bc49ad56c69711e1449c00bb521c8997613f71658349e1d0aaacbaab"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libcrypto.a'",
+            "aes.o",
+            "sha1.o",
+            "rijndael-alg-ref.o",
+            "rijndael-api-ref.o",
+            "integer_math.o",
+            "poly_math.o",
+            "elliptic_math.o",
+            "algorithms.o",
+            "bbtoolsapi.o"
+        ],
+        "Content-Length": [
+            "1998",
+            "1572",
+            "2244",
+            "5840",
+            "5684",
+            "6528",
+            "5888",
+            "3652",
+            "5952",
+            "3644"
+        ],
+        "Last-Modified": [
+            "2003-05-06T18:23:20Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:16Z",
+            "2003-05-06T18:23:17Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:20Z"
+        ],
+        "Last-Save-Date": [
+            "2003-05-06T18:23:20Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:16Z",
+            "2003-05-06T18:23:17Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/aes.o",
+            "/sha1.o",
+            "/rijndael-alg-ref.o",
+            "/rijndael-api-ref.o",
+            "/integer_math.o",
+            "/poly_math.o",
+            "/elliptic_math.o",
+            "/algorithms.o",
+            "/bbtoolsapi.o"
+        ],
+        "date": [
+            "2003-05-06T18:23:20Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:16Z",
+            "2003-05-06T18:23:17Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:20Z"
+        ],
+        "dcterms:modified": [
+            "2003-05-06T18:23:20Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:16Z",
+            "2003-05-06T18:23:17Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:20Z"
+        ],
+        "meta:save-date": [
+            "2003-05-06T18:23:20Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:16Z",
+            "2003-05-06T18:23:17Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:20Z"
+        ],
+        "modified": [
+            "2003-05-06T18:23:20Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:15Z",
+            "2003-05-06T18:23:16Z",
+            "2003-05-06T18:23:17Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:18Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:19Z",
+            "2003-05-06T18:23:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "aes.o",
+            "sha1.o",
+            "rijndael-alg-ref.o",
+            "rijndael-api-ref.o",
+            "integer_math.o",
+            "poly_math.o",
+            "elliptic_math.o",
+            "algorithms.o",
+            "bbtoolsapi.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "8859-13_to_uni.trans": {
+        "modified": "2021-07-24 18:49:46.404859",
+        "size": "8.78KB",
+        "md5": "961befdeb8a1ff4bf467b4ad27ca91ab",
+        "sha256": "937d09035ba9e2b517044916533b6914bc086a986148b27eb83952153290b884"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'8859-13_to_uni.trans'"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "cdt_linux.jar": {
+        "modified": "2006-02-06 07:16:10",
+        "size": "3.55KB",
+        "md5": "c64bbae86354f776e25adc33df32c678",
+        "sha256": "a8fd031263d7f30743afbecad6c7524eaa72eb4c4738562cc5a0b29f05293d28"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'cdt_linux.jar'",
+            "META-INF/MANIFEST.MF",
+            "ProcessInfo.class",
+            "ProcessList$1.class",
+            "ProcessList.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "963",
+            "896",
+            "1973"
+        ],
+        "Last-Modified": [
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/ProcessInfo.class",
+            "/ProcessList$1.class",
+            "/ProcessList.class"
+        ],
+        "date": [
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/cdt/internal/core/linux/ProcessInfo.class",
+            "org/eclipse/cdt/internal/core/linux/ProcessList$1.class",
+            "org/eclipse/cdt/internal/core/linux/ProcessList.class"
+        ],
+        "meta:save-date": [
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z"
+        ],
+        "modified": [
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z",
+            "2006-02-06T23:15:32Z"
+        ],
+        "dc:title": [
+            "ProcessInfo",
+            "ProcessList$1",
+            "ProcessList"
+        ],
+        "title": [
+            "ProcessInfo",
+            "ProcessList$1",
+            "ProcessList"
+        ]
+    }
+}

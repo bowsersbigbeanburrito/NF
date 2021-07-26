@@ -1,0 +1,171 @@
+{
+    "kmdata.tar.old": {
+        "modified": "2003-05-06 07:51:26",
+        "size": "20.0KB",
+        "md5": "2e3928dee8f74f29ec754789b1e15d07",
+        "sha256": "4d4be4fd5b7e88a0c9f788409b71297589d5413e20187008e2a7b39110825dd7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-gtar",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'kmdata.tar.old'",
+            "hsm/certificate",
+            "hsm/kmdata/local/card_e27565cc16f602048a133e7011940b3ed78732a1_1",
+            "hsm/kmdata/local/card_e27565cc16f602048a133e7011940b3ed78732a1_2",
+            "hsm/kmdata/local/card_e27565cc16f602048a133e7011940b3ed78732a1_3",
+            "hsm/kmdata/local/cards_e27565cc16f602048a133e7011940b3ed78732a1",
+            "hsm/kmdata/local/key_embed_aeae451b86b46423976f59353d4f1ae71c4efad3",
+            "hsm/mac",
+            "hsm/upgrade.sh"
+        ],
+        "Content-Length": [
+            "912",
+            "128",
+            "128",
+            "128",
+            "112",
+            "4084",
+            "13",
+            "333"
+        ],
+        "Last-Modified": [
+            "2003-05-06T21:51:15Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:50:33Z",
+            "2003-05-06T21:53:10Z"
+        ],
+        "Last-Save-Date": [
+            "2003-05-06T21:51:15Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:50:33Z",
+            "2003-05-06T21:53:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/certificate",
+            "/card_e27565cc16f602048a133e7011940b3ed78732a1_1",
+            "/card_e27565cc16f602048a133e7011940b3ed78732a1_2",
+            "/card_e27565cc16f602048a133e7011940b3ed78732a1_3",
+            "/cards_e27565cc16f602048a133e7011940b3ed78732a1",
+            "/key_embed_aeae451b86b46423976f59353d4f1ae71c4efad3",
+            "/mac",
+            "/upgrade.sh"
+        ],
+        "date": [
+            "2003-05-06T21:51:15Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:50:33Z",
+            "2003-05-06T21:53:10Z"
+        ],
+        "dcterms:modified": [
+            "2003-05-06T21:51:15Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:50:33Z",
+            "2003-05-06T21:53:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "hsm/certificate",
+            "hsm/kmdata/local/card_e27565cc16f602048a133e7011940b3ed78732a1_1",
+            "hsm/kmdata/local/card_e27565cc16f602048a133e7011940b3ed78732a1_2",
+            "hsm/kmdata/local/card_e27565cc16f602048a133e7011940b3ed78732a1_3",
+            "hsm/kmdata/local/cards_e27565cc16f602048a133e7011940b3ed78732a1",
+            "hsm/kmdata/local/key_embed_aeae451b86b46423976f59353d4f1ae71c4efad3",
+            "hsm/mac",
+            "hsm/upgrade.sh"
+        ],
+        "meta:save-date": [
+            "2003-05-06T21:51:15Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:50:33Z",
+            "2003-05-06T21:53:10Z"
+        ],
+        "modified": [
+            "2003-05-06T21:51:15Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:47:34Z",
+            "2003-05-06T21:50:33Z",
+            "2003-05-06T21:53:10Z"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ]
+    }
+}

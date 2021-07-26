@@ -1,0 +1,231 @@
+{
+    "ui.jar": {
+        "modified": "2005-07-29 06:23:00",
+        "size": "14.88KB",
+        "md5": "57afc8e090b98cfe6bebabf73c802d45",
+        "sha256": "26e0674a3507fe655f13e3fa1572f299f90c4e9f919adf5c9fa3fde4cfd615ed"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ui.jar'",
+            "META-INF/MANIFEST.MF",
+            "AnnotationTagCompletionProc$AnnotationArea.class",
+            "AnnotationTagCompletionProc$Attribute.class",
+            "AnnotationTagCompletionProc.class",
+            "AnnotationTagProposal.class",
+            "IWRDResources.class",
+            "UIAttributeValueProposalHelper.class",
+            "UiPlugin.class",
+            "taghandlerui.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "1217",
+            "1636",
+            "17124",
+            "3883",
+            "1176",
+            "956",
+            "1203",
+            "670"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/AnnotationTagCompletionProc$AnnotationArea.class",
+            "/AnnotationTagCompletionProc$Attribute.class",
+            "/AnnotationTagCompletionProc.class",
+            "/AnnotationTagProposal.class",
+            "/IWRDResources.class",
+            "/UIAttributeValueProposalHelper.class",
+            "/UiPlugin.class",
+            "/taghandlerui.properties"
+        ],
+        "date": [
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/jst/common/internal/annotations/ui/AnnotationTagCompletionProc$AnnotationArea.class",
+            "org/eclipse/jst/common/internal/annotations/ui/AnnotationTagCompletionProc$Attribute.class",
+            "org/eclipse/jst/common/internal/annotations/ui/AnnotationTagCompletionProc.class",
+            "org/eclipse/jst/common/internal/annotations/ui/AnnotationTagProposal.class",
+            "org/eclipse/jst/common/internal/annotations/ui/IWRDResources.class",
+            "org/eclipse/jst/common/internal/annotations/ui/UIAttributeValueProposalHelper.class",
+            "org/eclipse/jst/common/internal/annotations/ui/UiPlugin.class",
+            "taghandlerui.properties"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z"
+        ],
+        "modified": [
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z",
+            "2005-07-29T14:22:10Z"
+        ],
+        "dc:title": [
+            "AnnotationTagCompletionProc$AnnotationArea",
+            "AnnotationTagCompletionProc$Attribute",
+            "AnnotationTagCompletionProc",
+            "AnnotationTagProposal",
+            "IWRDResources",
+            "UIAttributeValueProposalHelper",
+            "UiPlugin"
+        ],
+        "title": [
+            "AnnotationTagCompletionProc$AnnotationArea",
+            "AnnotationTagCompletionProc$Attribute",
+            "AnnotationTagCompletionProc",
+            "AnnotationTagProposal",
+            "IWRDResources",
+            "UIAttributeValueProposalHelper",
+            "UiPlugin"
+        ]
+    }
+}

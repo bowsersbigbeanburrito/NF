@@ -1,0 +1,251 @@
+{
+    "annotations-core.jar": {
+        "modified": "2005-07-29 06:23:00",
+        "size": "11.24KB",
+        "md5": "f3b0c456e9024787e0b9fe402996e164",
+        "sha256": "27064ef9c95fefc5b1c5f5d0ad4416da782ebbf9a84b0a59f0ef025aef189733"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'annotations-core.jar'",
+            "META-INF/MANIFEST.MF",
+            "annotationcore.properties",
+            "AnnotatedCommentHandler.class",
+            "AnnotationTagParser.class",
+            "AnnotationsAdapter$1.class",
+            "AnnotationsAdapter.class",
+            "AnnotationsCoreResources.class",
+            "AnnotationsTranslator.class",
+            "TagParseEventHandler.class",
+            "Token.class"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "785",
+            "1600",
+            "4844",
+            "449",
+            "3999",
+            "1215",
+            "3821",
+            "421",
+            "1314"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/annotationcore.properties",
+            "/AnnotatedCommentHandler.class",
+            "/AnnotationTagParser.class",
+            "/AnnotationsAdapter$1.class",
+            "/AnnotationsAdapter.class",
+            "/AnnotationsCoreResources.class",
+            "/AnnotationsTranslator.class",
+            "/TagParseEventHandler.class",
+            "/Token.class"
+        ],
+        "date": [
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "annotationcore.properties",
+            "org/eclipse/jst/common/internal/annotations/core/AnnotatedCommentHandler.class",
+            "org/eclipse/jst/common/internal/annotations/core/AnnotationTagParser.class",
+            "org/eclipse/jst/common/internal/annotations/core/AnnotationsAdapter$1.class",
+            "org/eclipse/jst/common/internal/annotations/core/AnnotationsAdapter.class",
+            "org/eclipse/jst/common/internal/annotations/core/AnnotationsCoreResources.class",
+            "org/eclipse/jst/common/internal/annotations/core/AnnotationsTranslator.class",
+            "org/eclipse/jst/common/internal/annotations/core/TagParseEventHandler.class",
+            "org/eclipse/jst/common/internal/annotations/core/Token.class"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z"
+        ],
+        "modified": [
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z",
+            "2005-07-29T14:21:56Z"
+        ],
+        "dc:title": [
+            "AnnotatedCommentHandler",
+            "AnnotationTagParser",
+            "AnnotationsAdapter$1",
+            "AnnotationsAdapter",
+            "AnnotationsCoreResources",
+            "AnnotationsTranslator",
+            "TagParseEventHandler",
+            "Token"
+        ],
+        "title": [
+            "AnnotatedCommentHandler",
+            "AnnotationTagParser",
+            "AnnotationsAdapter$1",
+            "AnnotationsAdapter",
+            "AnnotationsCoreResources",
+            "AnnotationsTranslator",
+            "TagParseEventHandler",
+            "Token"
+        ]
+    }
+}

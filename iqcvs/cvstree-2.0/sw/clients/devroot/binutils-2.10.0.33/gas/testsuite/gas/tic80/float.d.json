@@ -1,0 +1,21 @@
+{
+    "float.d": {
+        "modified": "2021-07-24 18:49:39.891649",
+        "size": "1.13KB",
+        "md5": "6fa3699cda567401f6236547132b0d20",
+        "sha256": "d795f6b6bffdafb371a479b5427c2424bff1e3a50ba3215a3ec0fb3ca3f8160e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'float.d'"
+    }
+}

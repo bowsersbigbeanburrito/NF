@@ -1,0 +1,21 @@
+{
+    "test_class": {
+        "modified": "2005-10-03 03:18:13",
+        "size": "1.95KB",
+        "md5": "9fb0652b27c2561ce64088b46e3f4c91",
+        "sha256": "d832f47731642f640d4469d073cd3b4a39cd85c218e1508861faed0a1cda3d23"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'test_class'"
+    }
+}

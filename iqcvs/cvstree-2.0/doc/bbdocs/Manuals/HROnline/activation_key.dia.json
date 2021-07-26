@@ -1,0 +1,39 @@
+{
+    "activation_key.dia": {
+        "modified": "2021-07-24 17:28:49.398079",
+        "size": "2.32KB",
+        "md5": "8e4b0aef833477e1aa7ad2b56814f2b1",
+        "sha256": "9e20132490505c7f46e4dec18811438057198fe66014d5711e50cb999a1abd61"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'activation_key.dia'",
+            "b'activation_key.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'activation_key.dia'"
+    }
+}

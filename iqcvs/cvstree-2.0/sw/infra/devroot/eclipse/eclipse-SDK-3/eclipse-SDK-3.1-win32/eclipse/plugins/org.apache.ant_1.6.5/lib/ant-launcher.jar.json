@@ -1,0 +1,170 @@
+{
+    "ant-launcher.jar": {
+        "modified": "2005-06-27 14:12:32",
+        "size": "8.96KB",
+        "md5": "2fae8d3e81dcc51b8874a9916eb64cb2",
+        "sha256": "bdc0a7920c18601f83030e951dbfd092505128d8db55121b96a4472748ee0b20"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ant-launcher.jar'",
+            "META-INF/MANIFEST.MF",
+            "AntMain.class",
+            "LaunchException.class",
+            "Launcher.class",
+            "Locator$1.class",
+            "Locator.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "156",
+            "212",
+            "393",
+            "6145",
+            "844",
+            "5724"
+        ],
+        "Last-Modified": [
+            "2005-06-02T22:12:58Z",
+            "2005-06-02T22:12:46Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-02T22:12:58Z",
+            "2005-06-02T22:12:46Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/AntMain.class",
+            "/LaunchException.class",
+            "/Launcher.class",
+            "/Locator$1.class",
+            "/Locator.class"
+        ],
+        "date": [
+            "2005-06-02T22:12:58Z",
+            "2005-06-02T22:12:46Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-02T22:12:58Z",
+            "2005-06-02T22:12:46Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/launch/AntMain.class",
+            "org/apache/tools/ant/launch/LaunchException.class",
+            "org/apache/tools/ant/launch/Launcher.class",
+            "org/apache/tools/ant/launch/Locator$1.class",
+            "org/apache/tools/ant/launch/Locator.class"
+        ],
+        "meta:save-date": [
+            "2005-06-02T22:12:58Z",
+            "2005-06-02T22:12:46Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z"
+        ],
+        "modified": [
+            "2005-06-02T22:12:58Z",
+            "2005-06-02T22:12:46Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z",
+            "2005-06-02T22:12:48Z"
+        ],
+        "dc:title": [
+            "AntMain",
+            "LaunchException",
+            "Launcher",
+            "Locator$1",
+            "Locator"
+        ],
+        "title": [
+            "AntMain",
+            "LaunchException",
+            "Launcher",
+            "Locator$1",
+            "Locator"
+        ]
+    }
+}

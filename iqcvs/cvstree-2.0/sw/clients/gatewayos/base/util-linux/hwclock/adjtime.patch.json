@@ -1,0 +1,80 @@
+{
+    "adjtime.patch": {
+        "modified": "2021-07-24 18:49:46.634855",
+        "size": "12.27KB",
+        "md5": "4c04d79829e7f5e6f3d401a9b8ee17e4",
+        "sha256": "aa853357c5b1035080012f8901e2c11215e90c32e5a198eb3bff53723028dfc8"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": "b'adjtime.patch'",
+        "Author": [
+            "ao112@rgfn.epcc.edu (James P. Rutledge) With this patch, if the file does not exist and, thus, is given ----------------------------------------------------------------------------*/",
+            "ao112@rgfn.epcc.edu"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1999-03-19T05:27:19Z",
+        "MboxParser-from": "ao112@rgfn.epcc.edu Fri Mar 19 06:27:26 1999",
+        "MboxParser-received": [
+            "from rgfn.epcc.edu (rgfn.epcc.edu [208.136.234.19]) by hera.cwi.nl with ESMTP id GAA27711 for <Andries.Brouwer@cwi.nl>; Fri, 19 Mar 1999 06:27:23 +0100 (MET) by rgfn.epcc.edu (8.8.8/8.8.8) id WAA16797; With this patch, if the file exists but was produced by \"clock\" We record in the adjtime file the time at which we last calibrated",
+            "(from ao112@localhost) Thu, 18 Mar 1999 22:27:19 -0700 (MST) and, thus, is given a zero calibration time, the drift factor is the clock so we can compute the drift rate each time we calibrate."
+        ],
+        "MboxParser-reply-to": "ao112@rgfn.epcc.edu subsequent calibrations. printf(\"Not adjusting drift factor because the Hardware Clock \"",
+        "MboxParser-status": "R Also, with this patch, an \"--adjust\" operation against a non-existent } else if ((hclocktime - adjtime_p->last_calib_time) < 23 * 60 * 60) {",
+        "Message-From": "ao112@rgfn.epcc.edu",
+        "Message-Recipient-Address": "Andries.Brouwer@cwi.nl a zero calibration time, the drift factor is set to zero upon the if (!hclock_valid) {",
+        "Message-To": [
+            "Andries.Brouwer@cwi.nl a zero calibration time, the drift factor is set to zero upon the if (!hclock_valid) {",
+            "Andries.Brouwer@cwi.nl"
+        ],
+        "Message:From-Email": "ao112@rgfn.epcc.edu",
+        "Message:From-Name": "(James P. Rutledge) With this patch, if the file does not exist and, thus, is given ----------------------------------------------------------------------------*/",
+        "Message:Raw-Header:Message-Id": "<199903190527.WAA16797@rgfn.epcc.edu>",
+        "Message:Raw-Header:Received": [
+            "from rgfn.epcc.edu (rgfn.epcc.edu [208.136.234.19]) by hera.cwi.nl with ESMTP\tid GAA27711 for <Andries.Brouwer@cwi.nl>; Fri, 19 Mar 1999 06:27:23 +0100 (MET)",
+            "(from ao112@localhost)\tby rgfn.epcc.edu (8.8.8/8.8.8) id WAA16797;\tThu, 18 Mar 1999 22:27:19 -0700 (MST)"
+        ],
+        "Message:Raw-Header:Reply-To": "ao112@rgfn.epcc.edu",
+        "Message:Raw-Header:Status": "R",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "ao112@rgfn.epcc.edu (James P. Rutledge) With this patch, if the file does not exist and, thus, is given ----------------------------------------------------------------------------*/",
+            "ao112@rgfn.epcc.edu"
+        ],
+        "dc:creator": [
+            "ao112@rgfn.epcc.edu (James P. Rutledge) With this patch, if the file does not exist and, thus, is given ----------------------------------------------------------------------------*/",
+            "ao112@rgfn.epcc.edu"
+        ],
+        "dc:identifier": "<199903190527.WAA16797@rgfn.epcc.edu> and is only changed by subsequent calibrations. EXCEPT: if <hclock_valid> is false, assume Hardware Clock was not set",
+        "dc:title": "Re: hwclock patch for drift_factor calculation improvement",
+        "dcterms:created": "1999-03-19T05:27:19Z",
+        "identifier": "<199903190527.WAA16797@rgfn.epcc.edu> and is only changed by subsequent calibrations. EXCEPT: if <hclock_valid> is false, assume Hardware Clock was not set",
+        "meta:author": [
+            "ao112@rgfn.epcc.edu (James P. Rutledge) With this patch, if the file does not exist and, thus, is given ----------------------------------------------------------------------------*/",
+            "ao112@rgfn.epcc.edu"
+        ],
+        "meta:creation-date": "1999-03-19T05:27:19Z",
+        "subject": "Re: hwclock patch for drift_factor calculation improvement"
+    }
+}

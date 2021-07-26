@@ -1,0 +1,21 @@
+{
+    "reverse-dns.txt": {
+        "modified": "2021-07-24 17:28:50.021457",
+        "size": "6.4KB",
+        "md5": "de6c715b5a4c42f85e0453f8a242955a",
+        "sha256": "2299286f147c05f3b90d38e9084e34b9d8ab52d32fb9de85f0c150f4827c6290"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'reverse-dns.txt'"
+    }
+}

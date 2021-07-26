@@ -1,0 +1,188 @@
+{
+    "mapdev.copyright": {
+        "modified": "2021-07-24 18:49:49.314804",
+        "size": "3.2KB",
+        "md5": "c24253a39528d5efc704a7a4f3007340",
+        "sha256": "c429ba984ec246dbf736d23f3db42e89c37a35ec69890f8eb70fc936cf076a3f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "0",
+            "1"
+        ],
+        "resourceName": "b'mapdev.copyright'",
+        "Author": [
+            "Karen Hazzah <khazzah@melita.com>",
+            "Karen Hazzah <khazzah@melita.com>",
+            [
+                "\"Hazzah, Karen\" <KHazzah@melita.com>",
+                "Hazzah, Karen <KHazzah@melita.com>"
+            ]
+        ],
+        "Content-Type-Override": [
+            "message/rfc822",
+            "message/rfc822"
+        ],
+        "Creation-Date": [
+            "1997-06-23T03:51:00Z",
+            "1998-03-03T23:00:25Z"
+        ],
+        "MboxParser-encoding": "22 TEXT",
+        "MboxParser-from": [
+            "khazzah@melita.com  Mon Jun 23 21:48:19 1997",
+            "KHazzah@melita.com  Wed Mar  4 00:00:28 1998"
+        ],
+        "MboxParser-received": [
+            "from melita.melita.com by max4.rrze.uni-erlangen.de; Mon, 23 Jun 1997 21:48:16 +0200",
+            "from mailgate.melita.com ([192.68.22.8]) by melita.melita.com (8.6.12/8.6.9) with SMTP id QAA29292 for <Stefan.Dirsch@stud.uni-erlangen.de>; Mon, 23 Jun 1997 16:17:55 -0400",
+            "by mailgate.melita.com with Microsoft Mail",
+            [
+                "from melita.melita.com (melita.com [192.68.22.2]) for <sndirsch@suse.de>; Wed, 4 Mar 1998 00:00:26 +0100",
+                "from norcross.melita.com (norcross.melita.com [192.68.22.10]) by melita.melita.com (8.6.12/8.6.9) with ESMTP id TAA31217 for <sndirsch@suse.de>; Tue, 3 Mar 1998 19:48:10 -0500",
+                "by zippy.melita.com with Internet Mail Service (5.5.1960.3)"
+            ]
+        ],
+        "MboxParser-return-path": [
+            "<khazzah@melita.com> id <33AEFD34@mailgate.melita.com>; Mon, 23 Jun 97 15:48:20 PDT",
+            "<KHazzah@melita.com> by Galois.suse.de (8.8.8/8.8.8) with SMTP id AAA03709 id <F5X7MBSS>; Tue, 3 Mar 1998 18:00:26 -0500"
+        ],
+        "MboxParser-x-mailer": [
+            "Microsoft Mail V3.0",
+            "Internet Mail Service (5.5.1960.3)"
+        ],
+        "Message-From": [
+            "Karen Hazzah <khazzah@melita.com>",
+            "Hazzah, Karen <KHazzah@melita.com>"
+        ],
+        "Message-Recipient-Address": [
+            "Stefan.Dirsch@stud.uni-erlangen.de",
+            "sndirsch@suse.de"
+        ],
+        "Message-To": [
+            "\"'Stefan.Dirsch@stud.uni-erlangen.de'\" <Stefan.Dirsch@stud.uni-erlangen.de>",
+            "'Stefan.Dirsch@stud.uni-erlangen.de' <Stefan.Dirsch@stud.uni-erlangen.de>",
+            [
+                "Stefan Dirsch <sndirsch@suse.de>",
+                "Stefan Dirsch <sndirsch@suse.de>"
+            ]
+        ],
+        "Message:From-Email": [
+            "khazzah@melita.com",
+            "KHazzah@melita.com"
+        ],
+        "Message:From-Name": [
+            "Karen Hazzah",
+            "Hazzah, Karen"
+        ],
+        "Message:Raw-Header:Encoding": "22 TEXT",
+        "Message:Raw-Header:Message-ID": [
+            "<33AEFD34@mailgate.melita.com>",
+            "<D8EE8292EB83D111A15E00805FA67447166532@zippy.melita.com>"
+        ],
+        "Message:Raw-Header:Received": [
+            "from melita.melita.com by max4.rrze.uni-erlangen.de; Mon, 23 Jun 1997 21:48:16 +0200",
+            "from mailgate.melita.com ([192.68.22.8]) by melita.melita.com (8.6.12/8.6.9) with SMTP id QAA29292 for <Stefan.Dirsch@stud.uni-erlangen.de>; Mon, 23 Jun 1997 16:17:55 -0400",
+            "by mailgate.melita.com with Microsoft Mail\tid <33AEFD34@mailgate.melita.com>; Mon, 23 Jun 97 15:48:20 PDT",
+            [
+                "from melita.melita.com (melita.com [192.68.22.2])\tby Galois.suse.de (8.8.8/8.8.8) with SMTP id AAA03709\tfor <sndirsch@suse.de>; Wed, 4 Mar 1998 00:00:26 +0100",
+                "from norcross.melita.com (norcross.melita.com [192.68.22.10]) by melita.melita.com (8.6.12/8.6.9) with ESMTP id TAA31217 for <sndirsch@suse.de>; Tue, 3 Mar 1998 19:48:10 -0500",
+                "by zippy.melita.com with Internet Mail Service (5.5.1960.3)\tid <F5X7MBSS>; Tue, 3 Mar 1998 18:00:26 -0500"
+            ]
+        ],
+        "Message:Raw-Header:Return-Path": [
+            "<khazzah@melita.com>",
+            "<KHazzah@melita.com>"
+        ],
+        "Message:Raw-Header:X-Mailer": [
+            "Microsoft Mail V3.0",
+            "Internet Mail Service (5.5.1960.3)"
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/embedded-2"
+        ],
+        "creator": [
+            "Karen Hazzah <khazzah@melita.com>",
+            "Karen Hazzah <khazzah@melita.com>",
+            [
+                "\"Hazzah, Karen\" <KHazzah@melita.com>",
+                "Hazzah, Karen <KHazzah@melita.com>"
+            ]
+        ],
+        "dc:creator": [
+            "Karen Hazzah <khazzah@melita.com>",
+            "Karen Hazzah <khazzah@melita.com>",
+            [
+                "\"Hazzah, Karen\" <KHazzah@melita.com>",
+                "Hazzah, Karen <KHazzah@melita.com>"
+            ]
+        ],
+        "dc:identifier": [
+            "<33AEFD34@mailgate.melita.com>",
+            "<D8EE8292EB83D111A15E00805FA67447166532@zippy.melita.com>"
+        ],
+        "dc:title": [
+            "Your post to vxd newsgroup",
+            "RE: VXD binary for Win32 for reading an area of physical memory"
+        ],
+        "dcterms:created": [
+            "1997-06-23T03:51:00Z",
+            "1998-03-03T23:00:25Z"
+        ],
+        "identifier": [
+            "<33AEFD34@mailgate.melita.com>",
+            "<D8EE8292EB83D111A15E00805FA67447166532@zippy.melita.com>"
+        ],
+        "meta:author": [
+            "Karen Hazzah <khazzah@melita.com>",
+            "Karen Hazzah <khazzah@melita.com>",
+            [
+                "\"Hazzah, Karen\" <KHazzah@melita.com>",
+                "Hazzah, Karen <KHazzah@melita.com>"
+            ]
+        ],
+        "meta:creation-date": [
+            "1997-06-23T03:51:00Z",
+            "1998-03-03T23:00:25Z"
+        ],
+        "subject": [
+            "Your post to vxd newsgroup",
+            "RE: VXD binary for Win32 for reading an area of physical memory"
+        ],
+        "MboxParser-mime-version": "1.0",
+        "MboxParser-status": "ROr",
+        "Message:Raw-Header:Content-Type": "text/plain",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Status": "ROr",
+        "dc:format": "text/plain",
+        "format": "text/plain"
+    }
+}

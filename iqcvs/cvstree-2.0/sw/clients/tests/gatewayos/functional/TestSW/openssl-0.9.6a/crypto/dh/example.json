@@ -1,0 +1,97 @@
+{
+    "example": {
+        "modified": "2021-07-24 18:49:49.948126",
+        "size": "2.31KB",
+        "md5": "20747ceb42b8bf7eb7087d26665ec03d",
+        "sha256": "a07213bfb7fae7d95f6615adfbbf93d5dcf36c04b0e73d8f65061c7e1e338a3c"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": "b'example'",
+        "Author": [
+            "Phil Karn <karn@qualcomm.com>",
+            "Phil Karn <karn@qualcomm.com>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "Creation-Date": "1995-09-26T00:50:51Z",
+        "MboxParser-from": "owner-cypherpunks@toad.com Mon Sep 25 10:50:51 1995",
+        "MboxParser-precedence": "bulk",
+        "MboxParser-received": [
+            "from minbne.mincom.oz.au by orb.mincom.oz.au with SMTP id AA10562 (5.65c/IDA-1.4.4 for eay); Wed, 27 Sep 1995 19:41:55 +1000 (5.65c/IDA-1.4.4 for eay@orb.mincom.oz.au); Wed, 27 Sep 1995 19:34:59 +1000 Wed, 27 Sep 1995 04:48:46 -0400",
+            "by toad.com id AA07905; Tue, 26 Sep 95 06:31:45 PDT",
+            "from by toad.com id AB07851; Tue, 26 Sep 95 06:31:40 PDT",
+            "from servo.qualcomm.com (servo.qualcomm.com [129.46.128.14]) ",
+            "from relay3.UU.NET by bunyip.cc.uq.oz.au with SMTP (PP); by cygnus.com (8.6.12/8.6.9) with ESMTP id RAA18442",
+            "by minbne.mincom.oz.au id AA19958 Wed, 27 Sep 1995 19:13:05 +1000 for <cypherpunks@toad.com>; Mon, 25 Sep 1995 17:52:47 -0700",
+            "(karn@localhost) by servo.qualcomm.com (8.6.12/QC-BSD-2.5.1) ",
+            "from toad.com by relay3.UU.NET with SMTP id QQzizb16156; id RAA14732; Mon, 25 Sep 1995 17:50:51 -0700"
+        ],
+        "MboxParser-sender": "owner-cypherpunks@toad.com",
+        "MboxParser-status": "RO",
+        "MboxParser-x-status": "",
+        "Message-From": "Phil Karn <karn@qualcomm.com>",
+        "Message-Recipient-Address": "cypherpunks@toad.com, ipsec-dev@eit.com",
+        "Message-To": [
+            "cypherpunks@toad.com, ipsec-dev@eit.com",
+            "cypherpunks@toad.com",
+            "ipsec-dev@eit.com"
+        ],
+        "Message:From-Email": "karn@qualcomm.com",
+        "Message:From-Name": "Phil Karn",
+        "Message:Raw-Header:Message-Id": "<199509260050.RAA14732@servo.qualcomm.com>",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from minbne.mincom.oz.au by orb.mincom.oz.au with SMTP id AA10562  (5.65c/IDA-1.4.4 for eay); Wed, 27 Sep 1995 19:41:55 +1000",
+            "by minbne.mincom.oz.au id AA19958  (5.65c/IDA-1.4.4 for eay@orb.mincom.oz.au); Wed, 27 Sep 1995 19:34:59 +1000",
+            "from relay3.UU.NET by bunyip.cc.uq.oz.au with SMTP (PP);          Wed, 27 Sep 1995 19:13:05 +1000",
+            "from toad.com by relay3.UU.NET with SMTP id QQzizb16156;          Wed, 27 Sep 1995 04:48:46 -0400",
+            "by toad.com id AA07905; Tue, 26 Sep 95 06:31:45 PDT",
+            "from by toad.com id AB07851; Tue, 26 Sep 95 06:31:40 PDT",
+            "from servo.qualcomm.com (servo.qualcomm.com [129.46.128.14])           by cygnus.com (8.6.12/8.6.9) with ESMTP id RAA18442           for <cypherpunks@toad.com>; Mon, 25 Sep 1995 17:52:47 -0700",
+            "(karn@localhost) by servo.qualcomm.com (8.6.12/QC-BSD-2.5.1)           id RAA14732; Mon, 25 Sep 1995 17:50:51 -0700"
+        ],
+        "Message:Raw-Header:Sender": "owner-cypherpunks@toad.com",
+        "Message:Raw-Header:Status": "RO",
+        "Message:Raw-Header:X-Status": " ",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Phil Karn <karn@qualcomm.com>",
+            "Phil Karn <karn@qualcomm.com>"
+        ],
+        "dc:creator": [
+            "Phil Karn <karn@qualcomm.com>",
+            "Phil Karn <karn@qualcomm.com>"
+        ],
+        "dc:identifier": "<199509260050.RAA14732@servo.qualcomm.com>",
+        "dc:title": "Primality verification needed",
+        "dcterms:created": "1995-09-26T00:50:51Z",
+        "identifier": "<199509260050.RAA14732@servo.qualcomm.com>",
+        "meta:author": [
+            "Phil Karn <karn@qualcomm.com>",
+            "Phil Karn <karn@qualcomm.com>"
+        ],
+        "meta:creation-date": "1995-09-26T00:50:51Z",
+        "subject": "Primality verification needed"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "SwingApplet.jar": {
+        "modified": "2004-06-25 17:40:34",
+        "size": "1.81KB",
+        "md5": "2b3fe577470d300dac6b4b667c5967ec",
+        "sha256": "c93029290611dfe822912d629776f9435f317ff6a323a1d50f141b9618660af7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'SwingApplet.jar'",
+            "META-INF/MANIFEST.MF",
+            "Copyright.class",
+            "SwingApplet.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:08Z"
+        ],
+        "Last-Save-Date": [
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Copyright.class",
+            "/SwingApplet.class"
+        ],
+        "date": [
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:08Z"
+        ],
+        "dcterms:modified": [
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "Copyright.class",
+            "SwingApplet.class"
+        ],
+        "meta:save-date": [
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:08Z"
+        ],
+        "modified": [
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:24Z",
+            "2004-06-11T09:00:08Z"
+        ],
+        "dc:title": [
+            "Copyright",
+            "SwingApplet"
+        ],
+        "title": [
+            "Copyright",
+            "SwingApplet"
+        ]
+    }
+}

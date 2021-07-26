@@ -1,0 +1,270 @@
+{
+    "pdejunit.jar": {
+        "modified": "2006-01-18 13:30:55",
+        "size": "10.83KB",
+        "md5": "d91765eee7962b7ddd4302154e9acdc5",
+        "sha256": "d1e946f3476b27be451f0a6b84533c3b1e88c81e64bfaa01db87237d94d90fae"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'pdejunit.jar'",
+            "META-INF/MANIFEST.MF",
+            "CoreTestApplication.class",
+            "LegacyCoreTestApplication.class",
+            "LegacyRemotePluginTestRunner.class",
+            "LegacyUITestApplication$1.class",
+            "LegacyUITestApplication$2.class",
+            "LegacyUITestApplication.class",
+            "RemotePluginTestRunner$BundleClassLoader.class",
+            "RemotePluginTestRunner.class",
+            "UITestApplication$1.class",
+            "UITestApplication.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "93",
+            "751",
+            "772",
+            "2036",
+            "1828",
+            "1235",
+            "2629",
+            "1452",
+            "2059",
+            "870",
+            "3414"
+        ],
+        "Last-Modified": [
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/CoreTestApplication.class",
+            "/LegacyCoreTestApplication.class",
+            "/LegacyRemotePluginTestRunner.class",
+            "/LegacyUITestApplication$1.class",
+            "/LegacyUITestApplication$2.class",
+            "/LegacyUITestApplication.class",
+            "/RemotePluginTestRunner$BundleClassLoader.class",
+            "/RemotePluginTestRunner.class",
+            "/UITestApplication$1.class",
+            "/UITestApplication.class"
+        ],
+        "date": [
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/pde/internal/junit/runtime/CoreTestApplication.class",
+            "org/eclipse/pde/internal/junit/runtime/LegacyCoreTestApplication.class",
+            "org/eclipse/pde/internal/junit/runtime/LegacyRemotePluginTestRunner.class",
+            "org/eclipse/pde/internal/junit/runtime/LegacyUITestApplication$1.class",
+            "org/eclipse/pde/internal/junit/runtime/LegacyUITestApplication$2.class",
+            "org/eclipse/pde/internal/junit/runtime/LegacyUITestApplication.class",
+            "org/eclipse/pde/internal/junit/runtime/RemotePluginTestRunner$BundleClassLoader.class",
+            "org/eclipse/pde/internal/junit/runtime/RemotePluginTestRunner.class",
+            "org/eclipse/pde/internal/junit/runtime/UITestApplication$1.class",
+            "org/eclipse/pde/internal/junit/runtime/UITestApplication.class"
+        ],
+        "meta:save-date": [
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z"
+        ],
+        "modified": [
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z",
+            "2006-01-19T00:22:16Z"
+        ],
+        "dc:title": [
+            "CoreTestApplication",
+            "LegacyCoreTestApplication",
+            "LegacyRemotePluginTestRunner",
+            "LegacyUITestApplication$1",
+            "LegacyUITestApplication$2",
+            "LegacyUITestApplication",
+            "RemotePluginTestRunner$BundleClassLoader",
+            "RemotePluginTestRunner",
+            "UITestApplication$1",
+            "UITestApplication"
+        ],
+        "title": [
+            "CoreTestApplication",
+            "LegacyCoreTestApplication",
+            "LegacyRemotePluginTestRunner",
+            "LegacyUITestApplication$1",
+            "LegacyUITestApplication$2",
+            "LegacyUITestApplication",
+            "RemotePluginTestRunner$BundleClassLoader",
+            "RemotePluginTestRunner",
+            "UITestApplication$1",
+            "UITestApplication"
+        ]
+    }
+}

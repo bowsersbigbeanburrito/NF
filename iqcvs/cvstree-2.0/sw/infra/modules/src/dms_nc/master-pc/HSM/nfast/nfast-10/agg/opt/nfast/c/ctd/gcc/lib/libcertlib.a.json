@@ -1,0 +1,75 @@
+{
+    "libcertlib.a": {
+        "modified": "2005-09-29 05:55:31",
+        "size": "194.61KB",
+        "md5": "22b47af3f51476a3acd0a0267ef154ac",
+        "sha256": "4952eb2436cab64dd4827adeb18958123efdeca27c5137602f7c90319aff3e64"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libcertlib.a'",
+            "certlib.o"
+        ],
+        "Content-Length": [
+            "138",
+            "199016"
+        ],
+        "Last-Modified": [
+            "2005-03-31T15:12:30Z",
+            "2005-03-31T15:12:30Z"
+        ],
+        "Last-Save-Date": [
+            "2005-03-31T15:12:30Z",
+            "2005-03-31T15:12:30Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/certlib.o"
+        ],
+        "date": [
+            "2005-03-31T15:12:30Z",
+            "2005-03-31T15:12:30Z"
+        ],
+        "dcterms:modified": [
+            "2005-03-31T15:12:30Z",
+            "2005-03-31T15:12:30Z"
+        ],
+        "meta:save-date": [
+            "2005-03-31T15:12:30Z",
+            "2005-03-31T15:12:30Z"
+        ],
+        "modified": [
+            "2005-03-31T15:12:30Z",
+            "2005-03-31T15:12:30Z"
+        ],
+        "embeddedRelationshipId": "certlib.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

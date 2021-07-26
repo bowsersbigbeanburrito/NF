@@ -1,0 +1,20 @@
+{
+    "test.tsv": {
+        "modified": "2021-07-24 18:50:00.591260",
+        "size": "0.05KB",
+        "md5": "2e0fa749ef873353e5958b3882d98a66",
+        "sha256": "4cb0f59a9155a3edb58f00d785da45c2c098b7f5b96774261a9620413513b5e3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test.tsv'"
+    }
+}

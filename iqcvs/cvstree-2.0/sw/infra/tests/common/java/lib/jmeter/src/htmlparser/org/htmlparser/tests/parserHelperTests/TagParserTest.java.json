@@ -1,0 +1,38 @@
+{
+    "TagParserTest.java": {
+        "modified": "2021-07-24 18:50:00.807923",
+        "size": "14.46KB",
+        "md5": "98dbd621cb1f2455a9c09c9ef4e2b60a",
+        "sha256": "a02c2f9c049bbd650af6fbce3e9efb172a9534980c524bf6e41708c38a539b4b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Language": "\\\"en\\\"",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "\\\"Content-Type\\\"": "\\\"text/html;",
+        "\\\"foo\\\"": [
+            "\\\"foo<bar",
+            "\\\"foo<bar\\\"",
+            "\\\"foo<bar\\\"",
+            "\\\"foo\\nbar",
+            "\\\"<foo",
+            "\\\"foo",
+            "\\\"<foo\\r\\nbar\\\""
+        ],
+        "dc:title": "SourceForge.net: Modify: 711073 - HTMLTagParser not threadsafe as a static variable in Tag",
+        "foo": [
+            "<foo>   // bar",
+            "foo>   // bar",
+            "<foo   // bar"
+        ],
+        "resourceName": "b'TagParserTest.java'",
+        "title": "SourceForge.net: Modify: 711073 - HTMLTagParser not threadsafe as a static variable in Tag"
+    }
+}

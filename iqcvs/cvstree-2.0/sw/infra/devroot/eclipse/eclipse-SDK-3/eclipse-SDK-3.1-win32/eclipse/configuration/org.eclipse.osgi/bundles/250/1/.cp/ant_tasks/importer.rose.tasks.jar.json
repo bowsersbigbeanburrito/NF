@@ -1,0 +1,86 @@
+{
+    "importer.rose.tasks.jar": {
+        "modified": "2005-10-05 15:44:58",
+        "size": "1.8KB",
+        "md5": "b686982705f99529095d2294b2cb6240",
+        "sha256": "4d6e63282d8499bf487de536d37a6a355fd634e3e2904125437d6772a884a865"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'importer.rose.tasks.jar'",
+            "META-INF/MANIFEST.MF",
+            "RoseGeneratorTask.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "1256"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:03:32Z",
+            "2005-07-07T09:03:34Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:03:32Z",
+            "2005-07-07T09:03:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/RoseGeneratorTask.class"
+        ],
+        "date": [
+            "2005-07-07T09:03:32Z",
+            "2005-07-07T09:03:34Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:03:32Z",
+            "2005-07-07T09:03:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/emf/importer/rose/taskdefs/RoseGeneratorTask.class"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:03:32Z",
+            "2005-07-07T09:03:34Z"
+        ],
+        "modified": [
+            "2005-07-07T09:03:32Z",
+            "2005-07-07T09:03:34Z"
+        ],
+        "dc:title": "RoseGeneratorTask",
+        "title": "RoseGeneratorTask"
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "ant-apache-bsf.jar": {
+        "modified": "2006-01-18 13:31:07",
+        "size": "12.3KB",
+        "md5": "91ebaffa07ebe97401436aa26314477a",
+        "sha256": "a914492a42ff4fdaa0f77f6c9ad60204b6f5f28c1ac93df87c4c47a98596573d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ant-apache-bsf.jar'",
+            "META-INF/MANIFEST.MF",
+            "Script.class",
+            "ScriptDef$Attribute.class",
+            "ScriptDef$NestedElement.class",
+            "ScriptDef.class",
+            "ScriptDefBase.class",
+            "ScriptFilter.class",
+            "ScriptRunner.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "1650",
+            "962",
+            "1370",
+            "7597",
+            "2585",
+            "2125",
+            "3996"
+        ],
+        "Last-Modified": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Script.class",
+            "/ScriptDef$Attribute.class",
+            "/ScriptDef$NestedElement.class",
+            "/ScriptDef.class",
+            "/ScriptDefBase.class",
+            "/ScriptFilter.class",
+            "/ScriptRunner.class"
+        ],
+        "date": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/Script.class",
+            "org/apache/tools/ant/taskdefs/optional/script/ScriptDef$Attribute.class",
+            "org/apache/tools/ant/taskdefs/optional/script/ScriptDef$NestedElement.class",
+            "org/apache/tools/ant/taskdefs/optional/script/ScriptDef.class",
+            "org/apache/tools/ant/taskdefs/optional/script/ScriptDefBase.class",
+            "org/apache/tools/ant/types/optional/ScriptFilter.class",
+            "org/apache/tools/ant/util/ScriptRunner.class"
+        ],
+        "meta:save-date": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "modified": [
+            "2005-06-02T22:13:10Z",
+            "2005-06-02T22:12:52Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "dc:title": [
+            "Script",
+            "ScriptDef$Attribute",
+            "ScriptDef$NestedElement",
+            "ScriptDef",
+            "ScriptDefBase",
+            "ScriptFilter",
+            "ScriptRunner"
+        ],
+        "title": [
+            "Script",
+            "ScriptDef$Attribute",
+            "ScriptDef$NestedElement",
+            "ScriptDef",
+            "ScriptDefBase",
+            "ScriptFilter",
+            "ScriptRunner"
+        ]
+    }
+}

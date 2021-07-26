@@ -1,0 +1,39 @@
+{
+    "packetflow.dia": {
+        "modified": "2021-07-24 18:49:46.338194",
+        "size": "2.85KB",
+        "md5": "fa51e2b9ac99183fe6ee091355e5c193",
+        "sha256": "7dbcc6656c719f119bbea6351e298203d0883788a0f382f29d025dd330d1a49d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'packetflow.dia'",
+            "b'packetflow.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'packetflow.dia'"
+    }
+}

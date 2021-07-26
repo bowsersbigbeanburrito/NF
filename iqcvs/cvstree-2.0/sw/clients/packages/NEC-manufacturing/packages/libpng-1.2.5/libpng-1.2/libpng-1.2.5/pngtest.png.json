@@ -1,0 +1,57 @@
+{
+    "pngtest.png": {
+        "modified": "1998-09-04 03:25:32",
+        "size": "8.37KB",
+        "md5": "6debbb6e22cfb2d2db6ae33fbf7eed79",
+        "sha256": "ba59c25ba0ad3397bb2a6428bf202a0e225c375905783e4f82c0bc16f0fbc8d0"
+    },
+    "Metadata": {
+        "Chroma BackgroundColor": "red=224, green=224, blue=128",
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma Gamma": "0.45455",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "7",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "8 8 8 8",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "UnsignedIntegral",
+        "Data SignificantBitsPerSample": "5 5 5 5",
+        "Dimension HorizontalPixelSize": "0.35285816",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "Dimension VerticalPixelSize": "0.35285816",
+        "Document ImageModificationTime": "year=1996, month=6, day=7, hour=17, minute=58, second=8",
+        "IHDR": "width=91, height=69, bitDepth=8, colorType=RGBAlpha, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=adam7",
+        "Text TextEntry": [
+            "keyword=Title, value=PNG, encoding=ISO-8859-1, compression=none",
+            "keyword=Description, value=Rendered by Persistence of Vision (tm) Ray Tracer\nVersion 3.0, using the Times New Roman font and DMFWood6.\nSince POV-Ray does not direclty support interlaced output,\nthis file has been converted to an interlaced image via a\npost-processing step., compression=zip"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "UnknownChunks UnknownChunk": [
+            "oFFs",
+            "pCAL"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bKGD bKGD_RGB": "red=224, green=224, blue=128",
+        "gAMA": "45455",
+        "height": "69",
+        "pHYs": "pixelsPerUnitXAxis=2834, pixelsPerUnitYAxis=2834, unitSpecifier=meter",
+        "resourceName": "b'pngtest.png'",
+        "sBIT sBIT_RGBAlpha": "red=5, green=5, blue=5, alpha=5",
+        "tEXt tEXtEntry": "keyword=Title, value=PNG",
+        "tIME": "year=1996, month=6, day=7, hour=17, minute=58, second=8",
+        "tiff:BitsPerSample": "8 8 8 8",
+        "tiff:ImageLength": "69",
+        "tiff:ImageWidth": "91",
+        "width": "91",
+        "zTXt zTXtEntry": "keyword=Description, compressionMethod=deflate, text=Rendered by Persistence of Vision (tm) Ray Tracer\nVersion 3.0, using the Times New Roman font and DMFWood6.\nSince POV-Ray does not direclty support interlaced output,\nthis file has been converted to an interlaced image via a\npost-processing step."
+    }
+}

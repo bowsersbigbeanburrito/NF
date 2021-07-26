@@ -1,0 +1,21 @@
+{
+    "casemap.txt": {
+        "modified": "2001-07-01 17:49:21",
+        "size": "30.61KB",
+        "md5": "4c9837b923acb81f663a93402f850f8b",
+        "sha256": "c07897d002a5d6e01306f75e533e93b07188b0b74b917e32920753bd6e772b22"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/tsv; charset=UTF-8; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'casemap.txt'"
+    }
+}

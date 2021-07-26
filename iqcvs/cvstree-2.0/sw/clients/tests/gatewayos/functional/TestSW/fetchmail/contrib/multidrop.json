@@ -1,0 +1,72 @@
+{
+    "multidrop": {
+        "modified": "2021-07-24 18:49:49.901460",
+        "size": "8.18KB",
+        "md5": "a20e3d4f733ab486a71fafc054e8a0a8",
+        "sha256": "59a008f6f2c78fde4019aaeff9fab72cabe4b99f62cb8c818dbde0bbca3d2696"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": [
+            "application/mbox",
+            "message/rfc822"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mbox.MboxParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mail.RFC822Parser"
+            ]
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": "b'multidrop'",
+        "Author": [
+            "Martijn Lievaart <mlievaart@orion.nl> T=X-Unix,",
+            "Martijn Lievaart <mlievaart@orion.nl>"
+        ],
+        "Content-Type-Override": "message/rfc822",
+        "MboxParser-\"message-id": "\" -i \"X-Multidrop-Processing: <`hostname`>\" >>$mbox",
+        "MboxParser-$": "<NO> $) <?> $1 < @ $2 . >",
+        "MboxParser-content-length": "8086 chmod 660 $mbox || exit 1",
+        "MboxParser-e.g": "",
+        "MboxParser-envelope=delivered-to": "",
+        "MboxParser-from": "mlievaart@orion.nl  Mon Jan 10 10:46:33 2000",
+        "MboxParser-lines": "226 chown $user $mbox || exit 1",
+        "MboxParser-status": "O touch $mbox",
+        "Message-From": "Martijn Lievaart <mlievaart@orion.nl>",
+        "Message-Recipient-Address": "esr@thyrsus.com",
+        "Message-To": [
+            "Eric S. Raymond <esr@thyrsus.com> A=dropmail $u $h",
+            "Eric S. Raymond <esr@thyrsus.com>"
+        ],
+        "Message:From-Email": "mlievaart@orion.nl",
+        "Message:From-Name": "Martijn Lievaart",
+        "Message:Raw-Header:Content-Length": "8086",
+        "Message:Raw-Header:Lines": "226",
+        "Message:Raw-Header:Status": "O",
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "creator": [
+            "Martijn Lievaart <mlievaart@orion.nl> T=X-Unix,",
+            "Martijn Lievaart <mlievaart@orion.nl>"
+        ],
+        "dc:creator": [
+            "Martijn Lievaart <mlievaart@orion.nl> T=X-Unix,",
+            "Martijn Lievaart <mlievaart@orion.nl>"
+        ],
+        "dc:title": "Re: Thanks for fetchmail and a solution to the multidrop problem (I",
+        "meta:author": [
+            "Martijn Lievaart <mlievaart@orion.nl> T=X-Unix,",
+            "Martijn Lievaart <mlievaart@orion.nl>"
+        ],
+        "subject": "Re: Thanks for fetchmail and a solution to the multidrop problem (I"
+    }
+}

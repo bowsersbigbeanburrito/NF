@@ -1,0 +1,130 @@
+{
+    "common_core.jar": {
+        "modified": "2005-07-29 07:23:28",
+        "size": "3.48KB",
+        "md5": "1ccc797facc71765717730f589ceea10",
+        "sha256": "c1cf8413cdd761824eac4c831832167e04e864314f61e3e9cb8993ae163ff324"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'common_core.jar'",
+            "META-INF/MANIFEST.MF",
+            "IWFTWrappedException.class",
+            "WFTWrappedException.class",
+            "WorkbenchUtil.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "503",
+            "1474",
+            "679"
+        ],
+        "Last-Modified": [
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/IWFTWrappedException.class",
+            "/WFTWrappedException.class",
+            "/WorkbenchUtil.class"
+        ],
+        "date": [
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/wst/common/frameworks/internal/enablement/nonui/IWFTWrappedException.class",
+            "org/eclipse/wst/common/frameworks/internal/enablement/nonui/WFTWrappedException.class",
+            "org/eclipse/wst/common/frameworks/internal/enablement/nonui/WorkbenchUtil.class"
+        ],
+        "meta:save-date": [
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z"
+        ],
+        "modified": [
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z",
+            "2005-07-29T14:04:46Z"
+        ],
+        "dc:title": [
+            "IWFTWrappedException",
+            "WFTWrappedException",
+            "WorkbenchUtil"
+        ],
+        "title": [
+            "IWFTWrappedException",
+            "WFTWrappedException",
+            "WorkbenchUtil"
+        ]
+    }
+}

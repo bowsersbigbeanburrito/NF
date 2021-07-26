@@ -1,0 +1,86 @@
+{
+    "saaj-coms.jar": {
+        "modified": "2004-11-22 12:20:50",
+        "size": "3.3KB",
+        "md5": "a08b9e62586b4e81c25394af9418e88b",
+        "sha256": "f5923a562d725aa2ad7d0a2d50ef3c2899ce2eb795554c4955d231343729397b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'saaj-coms.jar'",
+            "META-INF/MANIFEST.MF",
+            "SAAJServlet.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "4796"
+        ],
+        "Last-Modified": [
+            "2004-11-22T21:20:46Z",
+            "2004-11-22T21:20:48Z"
+        ],
+        "Last-Save-Date": [
+            "2004-11-22T21:20:46Z",
+            "2004-11-22T21:20:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/SAAJServlet.class"
+        ],
+        "date": [
+            "2004-11-22T21:20:46Z",
+            "2004-11-22T21:20:48Z"
+        ],
+        "dcterms:modified": [
+            "2004-11-22T21:20:46Z",
+            "2004-11-22T21:20:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "com/sun/xml/messaging/soap/server/SAAJServlet.class"
+        ],
+        "meta:save-date": [
+            "2004-11-22T21:20:46Z",
+            "2004-11-22T21:20:48Z"
+        ],
+        "modified": [
+            "2004-11-22T21:20:46Z",
+            "2004-11-22T21:20:48Z"
+        ],
+        "dc:title": "SAAJServlet",
+        "title": "SAAJServlet"
+    }
+}

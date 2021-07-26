@@ -1,0 +1,20 @@
+{
+    "foo.txt": {
+        "modified": "2021-07-24 18:49:56.018012",
+        "size": "0.45KB",
+        "md5": "f1afd459a3e8f65a8c44e376ee343eea",
+        "sha256": "f76bee9741a3cffe360fa14d14447389cec292c1e43cb5d75f87233c6d999b5a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'foo.txt'"
+    }
+}

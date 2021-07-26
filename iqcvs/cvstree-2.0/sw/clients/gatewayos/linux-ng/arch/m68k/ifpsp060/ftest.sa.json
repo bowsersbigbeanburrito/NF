@@ -1,0 +1,21 @@
+{
+    "ftest.sa": {
+        "modified": "2021-07-24 18:49:46.914850",
+        "size": "16.67KB",
+        "md5": "8c621cd363599209b8cef608b87bc04f",
+        "sha256": "110ae04201e9b35f83315ef96db02bf2dec856266b0b4be046460ada42f1649d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ftest.sa'"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "bbserver_arch.dia": {
+        "modified": "2021-07-24 17:28:49.294738",
+        "size": "8.83KB",
+        "md5": "915d6d8be8f1fed8b1eb6b2803d54f2c",
+        "sha256": "c25ef0d02805e669817bfe45bed0daa15c7da4f933694d7ab7b8375765e9686f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "5"
+        ],
+        "resourceName": [
+            "b'bbserver_arch.dia'",
+            "b'bbserver_arch.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'bbserver_arch.dia'"
+    }
+}

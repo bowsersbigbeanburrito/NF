@@ -1,0 +1,150 @@
+{
+    "jnet.jar": {
+        "modified": "2021-07-24 18:49:57.531317",
+        "size": "3.03KB",
+        "md5": "557a5a23e50ead469a589192fcf94fde",
+        "sha256": "b864073180ed27e915a223b2ad16479b9f27dc9c8e209ee3a9a252ba825cdd46"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'jnet.jar'",
+            "META-INF/MANIFEST.MF",
+            "DefaultServerSocketFactory.class",
+            "DefaultSocketFactory.class",
+            "ServerSocketFactory.class",
+            "SocketFactory.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2000-08-01T18:21:46Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z"
+        ],
+        "Last-Save-Date": [
+            "2000-08-01T18:21:46Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/DefaultServerSocketFactory.class",
+            "/DefaultSocketFactory.class",
+            "/ServerSocketFactory.class",
+            "/SocketFactory.class"
+        ],
+        "date": [
+            "2000-08-01T18:21:46Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z"
+        ],
+        "dcterms:modified": [
+            "2000-08-01T18:21:46Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "javax/net/DefaultServerSocketFactory.class",
+            "javax/net/DefaultSocketFactory.class",
+            "javax/net/ServerSocketFactory.class",
+            "javax/net/SocketFactory.class"
+        ],
+        "meta:save-date": [
+            "2000-08-01T18:21:46Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z"
+        ],
+        "modified": [
+            "2000-08-01T18:21:46Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z",
+            "2000-08-01T18:03:12Z",
+            "2000-08-01T18:03:20Z"
+        ],
+        "dc:title": [
+            "DefaultServerSocketFactory",
+            "DefaultSocketFactory",
+            "ServerSocketFactory",
+            "SocketFactory"
+        ],
+        "title": [
+            "DefaultServerSocketFactory",
+            "DefaultSocketFactory",
+            "ServerSocketFactory",
+            "SocketFactory"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "testwebproxy001.root.stdout.gold": {
+        "modified": "2021-07-24 18:49:50.114789",
+        "size": "0.24KB",
+        "md5": "05d4ef9b3506e9da3c763f1b483f0481",
+        "sha256": "fb7f5a6f6949766182d760b8281052c5b8ac6be8a5cd83ab87f376d6e7c79d89"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testwebproxy001.root.stdout.gold'"
+    }
+}

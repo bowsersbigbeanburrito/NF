@@ -1,0 +1,145 @@
+{
+    "servlets-common.jar": {
+        "modified": "2006-01-18 13:30:40",
+        "size": "6.79KB",
+        "md5": "f2e66cee96f8eebd9ab38b62ec9e0122",
+        "sha256": "4805b052c9edd0466b0ee4c873bebd438377f018398261b1fa0d4454b6bee9fd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252",
+            "text/x-java-properties; charset=windows-1252"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'servlets-common.jar'",
+            "META-INF/MANIFEST.MF",
+            "Constants.class",
+            "org/apache/catalina/servlets/LocalStrings.properties",
+            "org/apache/catalina/servlets/LocalStrings_fr.properties",
+            "org/apache/catalina/servlets/LocalStrings_ja.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "106",
+            "407",
+            "5511",
+            "5326",
+            "11751"
+        ],
+        "Last-Modified": [
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:40Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z"
+        ],
+        "Last-Save-Date": [
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:40Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/Constants.class",
+            "/LocalStrings.properties",
+            "/LocalStrings_fr.properties",
+            "/LocalStrings_ja.properties"
+        ],
+        "date": [
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:40Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z"
+        ],
+        "dcterms:modified": [
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:40Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/catalina/servlets/Constants.class",
+            "org/apache/catalina/servlets/LocalStrings.properties",
+            "org/apache/catalina/servlets/LocalStrings_fr.properties",
+            "org/apache/catalina/servlets/LocalStrings_ja.properties"
+        ],
+        "meta:save-date": [
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:40Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z"
+        ],
+        "modified": [
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:40Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z",
+            "2004-01-25T22:18:42Z"
+        ],
+        "dc:title": "Constants",
+        "title": "Constants"
+    }
+}

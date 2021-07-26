@@ -1,0 +1,289 @@
+{
+    "org.eclipse.help.appserver_3.1.0.jar": {
+        "modified": "2006-01-18 13:32:19",
+        "size": "12.08KB",
+        "md5": "959e6ceb1862f39ec048928c68234d0b",
+        "sha256": "a77245ca50df03bb8704936412e4ab4ba21c04831f3547d203005642672a8c81"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/xml",
+            "text/x-ini; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'org.eclipse.help.appserver_3.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "AppserverPlugin.class",
+            "AppserverResources.class",
+            "org/eclipse/help/internal/appserver/AppserverResources.properties",
+            "DevClassPathHelper.class",
+            "IWebappServer.class",
+            "PluginClassLoaderWrapper.class",
+            "WebappManager.class",
+            "plugin.properties",
+            "plugin.xml",
+            "preferences.ini"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "490",
+            "1442",
+            "4614",
+            "1284",
+            "1188",
+            "2520",
+            "512",
+            "3685",
+            "3288",
+            "634",
+            "165",
+            "284"
+        ],
+        "Last-Modified": [
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/AppserverPlugin.class",
+            "/AppserverResources.class",
+            "/AppserverResources.properties",
+            "/DevClassPathHelper.class",
+            "/IWebappServer.class",
+            "/PluginClassLoaderWrapper.class",
+            "/WebappManager.class",
+            "/plugin.properties",
+            "/plugin.xml",
+            "/preferences.ini"
+        ],
+        "date": [
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "org/eclipse/help/internal/appserver/AppserverPlugin.class",
+            "org/eclipse/help/internal/appserver/AppserverResources.class",
+            "org/eclipse/help/internal/appserver/AppserverResources.properties",
+            "org/eclipse/help/internal/appserver/DevClassPathHelper.class",
+            "org/eclipse/help/internal/appserver/IWebappServer.class",
+            "org/eclipse/help/internal/appserver/PluginClassLoaderWrapper.class",
+            "org/eclipse/help/internal/appserver/WebappManager.class",
+            "plugin.properties",
+            "plugin.xml",
+            "preferences.ini"
+        ],
+        "meta:save-date": [
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z"
+        ],
+        "modified": [
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z",
+            "2006-01-19T00:31:08Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "copyright": "Copyright (c) IBM Corporation and others 2000, 2005. This page is made available under license. For full details see the LEGAL in the documentation book that contains this page.",
+        "dc:title": [
+            "About",
+            "AppserverPlugin",
+            "AppserverResources",
+            "DevClassPathHelper",
+            "IWebappServer",
+            "PluginClassLoaderWrapper",
+            "WebappManager"
+        ],
+        "title": [
+            "About",
+            "AppserverPlugin",
+            "AppserverResources",
+            "DevClassPathHelper",
+            "IWebappServer",
+            "PluginClassLoaderWrapper",
+            "WebappManager"
+        ]
+    }
+}

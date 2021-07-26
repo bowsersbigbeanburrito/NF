@@ -1,0 +1,130 @@
+{
+    "ant-jmf.jar": {
+        "modified": "2004-09-16 09:04:43",
+        "size": "6.44KB",
+        "md5": "f8b0b3a2b1fbff93e8b20009846c613d",
+        "sha256": "2e68929f5622fd163f5d2cd33c9cf18e3cef62868ec23c4a1acf556a67938936"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ant-jmf.jar'",
+            "META-INF/MANIFEST.MF",
+            "AntSoundPlayer.class",
+            "SoundTask$BuildAlert.class",
+            "SoundTask.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "5867",
+            "2584",
+            "1862"
+        ],
+        "Last-Modified": [
+            "2004-07-16T16:38:52Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "Last-Save-Date": [
+            "2004-07-16T16:38:52Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/AntSoundPlayer.class",
+            "/SoundTask$BuildAlert.class",
+            "/SoundTask.class"
+        ],
+        "date": [
+            "2004-07-16T16:38:52Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "dcterms:modified": [
+            "2004-07-16T16:38:52Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/sound/AntSoundPlayer.class",
+            "org/apache/tools/ant/taskdefs/optional/sound/SoundTask$BuildAlert.class",
+            "org/apache/tools/ant/taskdefs/optional/sound/SoundTask.class"
+        ],
+        "meta:save-date": [
+            "2004-07-16T16:38:52Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "modified": [
+            "2004-07-16T16:38:52Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z",
+            "2004-07-16T16:38:38Z"
+        ],
+        "dc:title": [
+            "AntSoundPlayer",
+            "SoundTask$BuildAlert",
+            "SoundTask"
+        ],
+        "title": [
+            "AntSoundPlayer",
+            "SoundTask$BuildAlert",
+            "SoundTask"
+        ]
+    }
+}

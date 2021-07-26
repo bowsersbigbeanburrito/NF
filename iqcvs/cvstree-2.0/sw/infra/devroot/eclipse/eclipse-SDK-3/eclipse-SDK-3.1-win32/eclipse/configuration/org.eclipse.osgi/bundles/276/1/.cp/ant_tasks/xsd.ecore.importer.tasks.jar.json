@@ -1,0 +1,110 @@
+{
+    "xsd.ecore.importer.tasks.jar": {
+        "modified": "2005-10-05 15:44:58",
+        "size": "3.09KB",
+        "md5": "ab403235e7b7e1ebfe4bb6f6e018d8bf",
+        "sha256": "ed1459c3a6e5e86000c4a303ced6a265c30f8864c7ccddd5d1af0ca0beb1892e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'xsd.ecore.importer.tasks.jar'",
+            "META-INF/MANIFEST.MF",
+            "XSDGeneratorTask$Model.class",
+            "XSDGeneratorTask.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "951",
+            "2633"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:04:54Z",
+            "2005-07-07T09:04:56Z",
+            "2005-07-07T09:04:56Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:04:54Z",
+            "2005-07-07T09:04:56Z",
+            "2005-07-07T09:04:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/XSDGeneratorTask$Model.class",
+            "/XSDGeneratorTask.class"
+        ],
+        "date": [
+            "2005-07-07T09:04:54Z",
+            "2005-07-07T09:04:56Z",
+            "2005-07-07T09:04:56Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:04:54Z",
+            "2005-07-07T09:04:56Z",
+            "2005-07-07T09:04:56Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/xsd/ecore/importer/taskdefs/XSDGeneratorTask$Model.class",
+            "org/eclipse/xsd/ecore/importer/taskdefs/XSDGeneratorTask.class"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:04:54Z",
+            "2005-07-07T09:04:56Z",
+            "2005-07-07T09:04:56Z"
+        ],
+        "modified": [
+            "2005-07-07T09:04:54Z",
+            "2005-07-07T09:04:56Z",
+            "2005-07-07T09:04:56Z"
+        ],
+        "dc:title": [
+            "XSDGeneratorTask$Model",
+            "XSDGeneratorTask"
+        ],
+        "title": [
+            "XSDGeneratorTask$Model",
+            "XSDGeneratorTask"
+        ]
+    }
+}

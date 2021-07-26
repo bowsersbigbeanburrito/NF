@@ -1,0 +1,81 @@
+{
+    "ftv2link.png": {
+        "modified": "2005-08-17 13:08:42",
+        "size": "0.35KB",
+        "md5": "d5edca726dd54db11ab832c1e1366861",
+        "sha256": "6d7a716c7a24be8e71649a238c5519c3e5b5d0cf8384bb68177e265dca941c38"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=255, green=255, blue=255, alpha=0",
+            "index=1, red=0, green=128, blue=0, alpha=255",
+            "index=2, red=255, green=255, blue=0, alpha=255",
+            "index=3, red=0, green=0, blue=128, alpha=255",
+            "index=4, red=0, green=0, blue=255, alpha=255",
+            "index=5, red=0, green=128, blue=128, alpha=255",
+            "index=6, red=128, green=128, blue=128, alpha=255",
+            "index=7, red=192, green=192, blue=192, alpha=255",
+            "index=8, red=0, green=0, blue=0, alpha=255",
+            "index=9, red=0, green=0, blue=0, alpha=255",
+            "index=10, red=0, green=0, blue=0, alpha=255",
+            "index=11, red=0, green=0, blue=0, alpha=255",
+            "index=12, red=0, green=0, blue=0, alpha=255",
+            "index=13, red=0, green=0, blue=0, alpha=255",
+            "index=14, red=0, green=0, blue=0, alpha=255",
+            "index=15, red=0, green=0, blue=0, alpha=255"
+        ],
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "7",
+        "Content-Type": "image/png",
+        "Data BitsPerSample": "4 4 4 4",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "Index",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=24, height=22, bitDepth=4, colorType=Palette, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=adam7",
+        "PLTE PLTEEntry": [
+            "index=0, red=255, green=255, blue=255",
+            "index=1, red=0, green=128, blue=0",
+            "index=2, red=255, green=255, blue=0",
+            "index=3, red=0, green=0, blue=128",
+            "index=4, red=0, green=0, blue=255",
+            "index=5, red=0, green=128, blue=128",
+            "index=6, red=128, green=128, blue=128",
+            "index=7, red=192, green=192, blue=192",
+            "index=8, red=0, green=0, blue=0",
+            "index=9, red=0, green=0, blue=0",
+            "index=10, red=0, green=0, blue=0",
+            "index=11, red=0, green=0, blue=0",
+            "index=12, red=0, green=0, blue=0",
+            "index=13, red=0, green=0, blue=0",
+            "index=14, red=0, green=0, blue=0",
+            "index=15, red=0, green=0, blue=0"
+        ],
+        "Text TextEntry": [
+            "keyword=Software, value=gif2png 2.4.2, encoding=ISO-8859-1, compression=none",
+            "keyword=Comment, value=Ulead GIF SmartSaver Ver 2.0, encoding=ISO-8859-1, compression=none"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "22",
+        "resourceName": "b'ftv2link.png'",
+        "tEXt tEXtEntry": [
+            "keyword=Software, value=gif2png 2.4.2",
+            "keyword=Comment, value=Ulead GIF SmartSaver Ver 2.0"
+        ],
+        "tRNS tRNS_Palette tRNS_PaletteEntry": "index=0, alpha=0",
+        "tiff:BitsPerSample": "4 4 4 4",
+        "tiff:ImageLength": "22",
+        "tiff:ImageWidth": "24",
+        "width": "24"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "testftp02.test.stdout.gold": {
+        "modified": "2021-07-24 18:49:49.811462",
+        "size": "0.53KB",
+        "md5": "bedbac6478070d16ab62b3bd8a575a60",
+        "sha256": "a33a937da4a491e62136ab1987656ef833c2c3617cc9ce78632cb0d4a2ddba76"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testftp02.test.stdout.gold'"
+    }
+}

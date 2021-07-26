@@ -1,0 +1,211 @@
+{
+    "antrunner.jar": {
+        "modified": "2004-09-16 09:04:31",
+        "size": "11.58KB",
+        "md5": "54848b9e9b89b43db844467bc1a5f376",
+        "sha256": "e6d68781190d3c17639c9a12f759ed44953cdbcae4275d6c9313ad92af2f039c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'antrunner.jar'",
+            "META-INF/MANIFEST.MF",
+            "AntSupportMessages.class",
+            "org/eclipse/ant/internal/ui/antsupport/AntSupportMessages.properties",
+            "AntInputHandler$1.class",
+            "AntInputHandler$2.class",
+            "AntInputHandler.class",
+            "AntProcessBuildLogger.class",
+            "NullBuildLogger.class"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "1220",
+            "1155",
+            "2188",
+            "1301",
+            "2028",
+            "8865",
+            "3418"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/AntSupportMessages.class",
+            "/AntSupportMessages.properties",
+            "/AntInputHandler$1.class",
+            "/AntInputHandler$2.class",
+            "/AntInputHandler.class",
+            "/AntProcessBuildLogger.class",
+            "/NullBuildLogger.class"
+        ],
+        "date": [
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/ant/internal/ui/antsupport/AntSupportMessages.class",
+            "org/eclipse/ant/internal/ui/antsupport/AntSupportMessages.properties",
+            "org/eclipse/ant/internal/ui/antsupport/inputhandler/AntInputHandler$1.class",
+            "org/eclipse/ant/internal/ui/antsupport/inputhandler/AntInputHandler$2.class",
+            "org/eclipse/ant/internal/ui/antsupport/inputhandler/AntInputHandler.class",
+            "org/eclipse/ant/internal/ui/antsupport/logger/AntProcessBuildLogger.class",
+            "org/eclipse/ant/internal/ui/antsupport/logger/NullBuildLogger.class"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z"
+        ],
+        "modified": [
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z",
+            "2004-09-16T18:56:48Z"
+        ],
+        "dc:title": [
+            "AntSupportMessages",
+            "AntInputHandler$1",
+            "AntInputHandler$2",
+            "AntInputHandler",
+            "AntProcessBuildLogger",
+            "NullBuildLogger"
+        ],
+        "title": [
+            "AntSupportMessages",
+            "AntInputHandler$1",
+            "AntInputHandler$2",
+            "AntInputHandler",
+            "AntProcessBuildLogger",
+            "NullBuildLogger"
+        ]
+    }
+}

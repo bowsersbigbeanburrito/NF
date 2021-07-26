@@ -1,0 +1,506 @@
+{
+    "org.eclipse.emf.mapping.xsd2ecore.editor_2.1.0.jar": {
+        "modified": "2005-07-07 02:05:44",
+        "size": "25.23KB",
+        "md5": "5106cd905914129b44c46898e67d8342",
+        "sha256": "16ef0864cfaf1b94c8b56b5f57666670be6e8ebbd3f65f6763ffbe73527a0835"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "12",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'org.eclipse.emf.mapping.xsd2ecore.editor_2.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/ctool16/NewXSD2Ecore.gif",
+            "icons/full/obj16/XSD2EcoreModelFile.gif",
+            "icons/full/wizban/NewXSD2Ecore.gif",
+            "XSD2EcoreActionBarContributor.class",
+            "XSD2EcoreEditor$MyInitializeCopyOverrideCommand.class",
+            "XSD2EcoreEditor$MyMappingDomain.class",
+            "XSD2EcoreEditor.class",
+            "XSD2EcoreEditorPlugin$Implementation.class",
+            "XSD2EcoreEditorPlugin.class",
+            "XSD2EcoreModelWizard$1.class",
+            "XSD2EcoreModelWizard$2.class",
+            "XSD2EcoreModelWizard$3.class",
+            "XSD2EcoreModelWizard$XSD2EcoreModelWizardInitialObjectCreationPage.class",
+            "XSD2EcoreModelWizard$XSD2EcoreModelWizardNewFileCreationPage.class",
+            "XSD2EcoreModelWizard.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "632",
+            "1229",
+            "363",
+            "359",
+            "3428",
+            "930",
+            "954",
+            "1651",
+            "6573",
+            "688",
+            "1562",
+            "1239",
+            "2509",
+            "1079",
+            "5221",
+            "2820",
+            "8488",
+            "3023",
+            "3940"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/NewXSD2Ecore.gif",
+            "/XSD2EcoreModelFile.gif",
+            "/NewXSD2Ecore.gif",
+            "/XSD2EcoreActionBarContributor.class",
+            "/XSD2EcoreEditor$MyInitializeCopyOverrideCommand.class",
+            "/XSD2EcoreEditor$MyMappingDomain.class",
+            "/XSD2EcoreEditor.class",
+            "/XSD2EcoreEditorPlugin$Implementation.class",
+            "/XSD2EcoreEditorPlugin.class",
+            "/XSD2EcoreModelWizard$1.class",
+            "/XSD2EcoreModelWizard$2.class",
+            "/XSD2EcoreModelWizard$3.class",
+            "/XSD2EcoreModelWizard$XSD2EcoreModelWizardInitialObjectCreationPage.class",
+            "/XSD2EcoreModelWizard$XSD2EcoreModelWizardNewFileCreationPage.class",
+            "/XSD2EcoreModelWizard.class",
+            "/plugin.properties",
+            "/plugin.xml"
+        ],
+        "date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/ctool16/NewXSD2Ecore.gif",
+            "icons/full/obj16/XSD2EcoreModelFile.gif",
+            "icons/full/wizban/NewXSD2Ecore.gif",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreActionBarContributor.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreEditor$MyInitializeCopyOverrideCommand.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreEditor$MyMappingDomain.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreEditor.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreEditorPlugin$Implementation.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreEditorPlugin.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreModelWizard$1.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreModelWizard$2.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreModelWizard$3.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreModelWizard$XSD2EcoreModelWizardInitialObjectCreationPage.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreModelWizard$XSD2EcoreModelWizardNewFileCreationPage.class",
+            "org/eclipse/emf/mapping/xsd2ecore/presentation/XSD2EcoreModelWizard.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "modified": [
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z",
+            "2005-07-07T09:05:36Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": [
+            "About",
+            "XSD2EcoreActionBarContributor",
+            "XSD2EcoreEditor$MyInitializeCopyOverrideCommand",
+            "XSD2EcoreEditor$MyMappingDomain",
+            "XSD2EcoreEditor",
+            "XSD2EcoreEditorPlugin$Implementation",
+            "XSD2EcoreEditorPlugin",
+            "XSD2EcoreModelWizard$1",
+            "XSD2EcoreModelWizard$2",
+            "XSD2EcoreModelWizard$3",
+            "XSD2EcoreModelWizard$XSD2EcoreModelWizardInitialObjectCreationPage",
+            "XSD2EcoreModelWizard$XSD2EcoreModelWizardNewFileCreationPage",
+            "XSD2EcoreModelWizard"
+        ],
+        "title": [
+            "About",
+            "XSD2EcoreActionBarContributor",
+            "XSD2EcoreEditor$MyInitializeCopyOverrideCommand",
+            "XSD2EcoreEditor$MyMappingDomain",
+            "XSD2EcoreEditor",
+            "XSD2EcoreEditorPlugin$Implementation",
+            "XSD2EcoreEditorPlugin",
+            "XSD2EcoreModelWizard$1",
+            "XSD2EcoreModelWizard$2",
+            "XSD2EcoreModelWizard$3",
+            "XSD2EcoreModelWizard$XSD2EcoreModelWizardInitialObjectCreationPage",
+            "XSD2EcoreModelWizard$XSD2EcoreModelWizardNewFileCreationPage",
+            "XSD2EcoreModelWizard"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "4",
+            "4",
+            "3"
+        ],
+        "Compression CompressionTypeName": [
+            "lzw",
+            "lzw",
+            "lzw"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "Data SampleFormat": [
+            "Index",
+            "Index",
+            "Index"
+        ],
+        "Dimension HorizontalPixelOffset": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension VerticalPixelOffset": [
+            "0",
+            "0",
+            "0"
+        ],
+        "GraphicControlExtension": [
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=47",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=52",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=false, delayTime=0, transparentColorIndex=0"
+        ],
+        "ImageDescriptor": [
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=75, imageHeight=66, interlaceFlag=false"
+        ],
+        "Transparency TransparentIndex": [
+            "47",
+            "52"
+        ],
+        "height": [
+            "16",
+            "16",
+            "66"
+        ],
+        "tiff:ImageLength": [
+            "16",
+            "16",
+            "66"
+        ],
+        "tiff:ImageWidth": [
+            "16",
+            "16",
+            "75"
+        ],
+        "width": [
+            "16",
+            "16",
+            "75"
+        ]
+    }
+}

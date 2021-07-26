@@ -1,0 +1,214 @@
+{
+    "test.jar": {
+        "modified": "2021-07-24 18:50:00.747924",
+        "size": "3.74KB",
+        "md5": "0378a8dd0e5f1afd73f75e8f0525ef4e",
+        "sha256": "31d3647c253b93cafd16d73eceed998fa1f12ee8e6dab07d597b023a3829c76b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "text/x-java-source",
+            "application/java-vm",
+            "text/x-java-source",
+            "application/java-vm",
+            "text/x-java-source"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.code.SourceCodeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.code.SourceCodeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.code.SourceCodeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "1",
+            "0",
+            "2",
+            "0",
+            "2",
+            "0",
+            "2"
+        ],
+        "resourceName": [
+            "b'test.jar'",
+            "META-INF/MANIFEST.MF",
+            "SubDummyTest2.class",
+            "woolfel/SubDummyTest2.java",
+            "DummyTestCase.class",
+            "woolfel/DummyTestCase.java",
+            "SubDummyTest.class",
+            "woolfel/SubDummyTest.java"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2005-09-01T17:33:54Z",
+            "2005-08-09T16:27:06Z",
+            "2005-08-03T07:02:08Z",
+            "2005-09-01T17:33:22Z",
+            "2005-09-01T17:33:22Z",
+            "2005-08-09T16:27:06Z",
+            "2005-07-29T04:42:36Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-01T17:33:54Z",
+            "2005-08-09T16:27:06Z",
+            "2005-08-03T07:02:08Z",
+            "2005-09-01T17:33:22Z",
+            "2005-09-01T17:33:22Z",
+            "2005-08-09T16:27:06Z",
+            "2005-07-29T04:42:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/SubDummyTest2.class",
+            "/SubDummyTest2.java",
+            "/DummyTestCase.class",
+            "/DummyTestCase.java",
+            "/SubDummyTest.class",
+            "/SubDummyTest.java"
+        ],
+        "date": [
+            "2005-09-01T17:33:54Z",
+            "2005-08-09T16:27:06Z",
+            "2005-08-03T07:02:08Z",
+            "2005-09-01T17:33:22Z",
+            "2005-09-01T17:33:22Z",
+            "2005-08-09T16:27:06Z",
+            "2005-07-29T04:42:36Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-01T17:33:54Z",
+            "2005-08-09T16:27:06Z",
+            "2005-08-03T07:02:08Z",
+            "2005-09-01T17:33:22Z",
+            "2005-09-01T17:33:22Z",
+            "2005-08-09T16:27:06Z",
+            "2005-07-29T04:42:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "woolfel/SubDummyTest2.class",
+            "woolfel/SubDummyTest2.java",
+            "woolfel/DummyTestCase.class",
+            "woolfel/DummyTestCase.java",
+            "woolfel/SubDummyTest.class",
+            "woolfel/SubDummyTest.java"
+        ],
+        "meta:save-date": [
+            "2005-09-01T17:33:54Z",
+            "2005-08-09T16:27:06Z",
+            "2005-08-03T07:02:08Z",
+            "2005-09-01T17:33:22Z",
+            "2005-09-01T17:33:22Z",
+            "2005-08-09T16:27:06Z",
+            "2005-07-29T04:42:36Z"
+        ],
+        "modified": [
+            "2005-09-01T17:33:54Z",
+            "2005-08-09T16:27:06Z",
+            "2005-08-03T07:02:08Z",
+            "2005-09-01T17:33:22Z",
+            "2005-09-01T17:33:22Z",
+            "2005-08-09T16:27:06Z",
+            "2005-07-29T04:42:36Z"
+        ],
+        "dc:title": [
+            "SubDummyTest2",
+            "DummyTestCase",
+            "SubDummyTest"
+        ],
+        "title": [
+            "SubDummyTest2",
+            "DummyTestCase",
+            "SubDummyTest"
+        ],
+        "Author": [
+            "pete",
+            "pete",
+            "pete"
+        ],
+        "LoC": [
+            "40",
+            "76",
+            "40"
+        ],
+        "creator": [
+            "pete",
+            "pete",
+            "pete"
+        ],
+        "dc:creator": [
+            "pete",
+            "pete",
+            "pete"
+        ],
+        "meta:author": [
+            "pete",
+            "pete",
+            "pete"
+        ]
+    }
+}

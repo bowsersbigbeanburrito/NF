@@ -1,0 +1,20 @@
+{
+    "hello": {
+        "modified": "2005-09-29 05:56:26",
+        "size": "0.54KB",
+        "md5": "6f357d040314ebfbb16b29e3d8a4da45",
+        "sha256": "3047e19f68a3fa311a908a0916106ef5342078076005042824a43ea4c581cf6d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'hello'"
+    }
+}

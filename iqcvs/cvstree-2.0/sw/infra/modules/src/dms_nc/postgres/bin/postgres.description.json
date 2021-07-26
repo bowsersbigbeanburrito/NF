@@ -1,0 +1,21 @@
+{
+    "postgres.description": {
+        "modified": "2021-07-24 18:49:58.797960",
+        "size": "43.6KB",
+        "md5": "f2eb03a04809db2d40f820fd9a7082ff",
+        "sha256": "298a0898f8be2b31a14dc2a97d8edd92108394f318a300f485bafdacf76a8241"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "tab",
+        "resourceName": "b'postgres.description'"
+    }
+}

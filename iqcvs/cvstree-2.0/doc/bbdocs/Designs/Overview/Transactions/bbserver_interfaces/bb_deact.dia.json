@@ -1,0 +1,39 @@
+{
+    "bb_deact.dia": {
+        "modified": "2021-07-24 17:28:49.374744",
+        "size": "2.1KB",
+        "md5": "d5dd94568062d3be2b970e193a5eea5b",
+        "sha256": "6c9451cac8c4034cbf4f7ee9c704b785c945d25640826a32ce66bb98e1270a53"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'bb_deact.dia'",
+            "b'bb_deact.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'bb_deact.dia'"
+    }
+}

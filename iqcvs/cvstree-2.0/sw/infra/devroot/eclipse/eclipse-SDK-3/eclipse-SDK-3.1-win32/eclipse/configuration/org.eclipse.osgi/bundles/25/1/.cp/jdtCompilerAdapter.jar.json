@@ -1,0 +1,151 @@
+{
+    "jdtCompilerAdapter.jar": {
+        "modified": "2005-09-30 13:54:20",
+        "size": "9.81KB",
+        "md5": "e66287f3ce15029d202ffc9c2dc3aa77",
+        "sha256": "c79595d136ba157fc63286bf29cee69f6ab09cf2b9005ce70ae7eb01431115d9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'jdtCompilerAdapter.jar'",
+            "META-INF/MANIFEST.MF",
+            "CheckDebugAttributes.class",
+            "JDTCompilerAdapter.class",
+            "AntAdapterMessages.class",
+            "org/eclipse/jdt/internal/antadapter/messages.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "3493",
+            "10574",
+            "2057",
+            "1576"
+        ],
+        "Last-Modified": [
+            "2005-06-27T22:03:48Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-27T22:03:48Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/CheckDebugAttributes.class",
+            "/JDTCompilerAdapter.class",
+            "/AntAdapterMessages.class",
+            "/messages.properties"
+        ],
+        "date": [
+            "2005-06-27T22:03:48Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-27T22:03:48Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/jdt/core/CheckDebugAttributes.class",
+            "org/eclipse/jdt/core/JDTCompilerAdapter.class",
+            "org/eclipse/jdt/internal/antadapter/AntAdapterMessages.class",
+            "org/eclipse/jdt/internal/antadapter/messages.properties"
+        ],
+        "meta:save-date": [
+            "2005-06-27T22:03:48Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z"
+        ],
+        "modified": [
+            "2005-06-27T22:03:48Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z",
+            "2005-06-27T22:03:50Z"
+        ],
+        "dc:title": [
+            "CheckDebugAttributes",
+            "JDTCompilerAdapter",
+            "AntAdapterMessages"
+        ],
+        "title": [
+            "CheckDebugAttributes",
+            "JDTCompilerAdapter",
+            "AntAdapterMessages"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "iso02_to_cp1250.trans": {
+        "modified": "2021-07-24 18:49:46.408192",
+        "size": "5.78KB",
+        "md5": "2f6ac92bdbada57b10aeab53e632380f",
+        "sha256": "44155e8fd2ea19f2e44c1beae77561892dbcb78a8522db273a7027829481a517"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso02_to_cp1250.trans'"
+    }
+}

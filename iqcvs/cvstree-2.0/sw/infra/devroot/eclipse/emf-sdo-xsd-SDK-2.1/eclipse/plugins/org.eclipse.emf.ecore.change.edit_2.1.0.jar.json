@@ -1,0 +1,548 @@
+{
+    "org.eclipse.emf.ecore.change.edit_2.1.0.jar": {
+        "modified": "2005-07-07 02:05:40",
+        "size": "23.14KB",
+        "md5": "4302ad0dbf474d54bc560147bcda9654",
+        "sha256": "4ba055f261fb7d92b6bbdc906b83cde710bb090a5b2c93445ada87e776bad796"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "text/html; charset=ISO-8859-1",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "image/gif",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.html.HtmlParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "11",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'org.eclipse.emf.ecore.change.edit_2.1.0.jar'",
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/obj16/ChangeDescription.gif",
+            "icons/full/obj16/EObjectToChangesMapEntry.gif",
+            "icons/full/obj16/FeatureChange.gif",
+            "icons/full/obj16/FeatureMapEntry.gif",
+            "icons/full/obj16/ListChange.gif",
+            "icons/full/obj16/ResourceChange.gif",
+            "ChangeDescriptionItemProvider.class",
+            "ChangeEditPlugin$Implementation.class",
+            "ChangeEditPlugin.class",
+            "ChangeItemProviderAdapterFactory.class",
+            "EObjectToChangesMapEntryItemProvider.class",
+            "FeatureChangeItemProvider.class",
+            "FeatureMapEntryItemProvider.class",
+            "ListChangeItemProvider.class",
+            "ResourceChangeItemProvider.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "642",
+            "1229",
+            "218",
+            "218",
+            "340",
+            "363",
+            "205",
+            "567",
+            "4718",
+            "627",
+            "1368",
+            "5935",
+            "4722",
+            "5474",
+            "5837",
+            "5941",
+            "5481",
+            "2788",
+            "623"
+        ],
+        "Last-Modified": [
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/about.html",
+            "/ChangeDescription.gif",
+            "/EObjectToChangesMapEntry.gif",
+            "/FeatureChange.gif",
+            "/FeatureMapEntry.gif",
+            "/ListChange.gif",
+            "/ResourceChange.gif",
+            "/ChangeDescriptionItemProvider.class",
+            "/ChangeEditPlugin$Implementation.class",
+            "/ChangeEditPlugin.class",
+            "/ChangeItemProviderAdapterFactory.class",
+            "/EObjectToChangesMapEntryItemProvider.class",
+            "/FeatureChangeItemProvider.class",
+            "/FeatureMapEntryItemProvider.class",
+            "/ListChangeItemProvider.class",
+            "/ResourceChangeItemProvider.class",
+            "/plugin.properties",
+            "/plugin.xml"
+        ],
+        "date": [
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "about.html",
+            "icons/full/obj16/ChangeDescription.gif",
+            "icons/full/obj16/EObjectToChangesMapEntry.gif",
+            "icons/full/obj16/FeatureChange.gif",
+            "icons/full/obj16/FeatureMapEntry.gif",
+            "icons/full/obj16/ListChange.gif",
+            "icons/full/obj16/ResourceChange.gif",
+            "org/eclipse/emf/ecore/change/provider/ChangeDescriptionItemProvider.class",
+            "org/eclipse/emf/ecore/change/provider/ChangeEditPlugin$Implementation.class",
+            "org/eclipse/emf/ecore/change/provider/ChangeEditPlugin.class",
+            "org/eclipse/emf/ecore/change/provider/ChangeItemProviderAdapterFactory.class",
+            "org/eclipse/emf/ecore/change/provider/EObjectToChangesMapEntryItemProvider.class",
+            "org/eclipse/emf/ecore/change/provider/FeatureChangeItemProvider.class",
+            "org/eclipse/emf/ecore/change/provider/FeatureMapEntryItemProvider.class",
+            "org/eclipse/emf/ecore/change/provider/ListChangeItemProvider.class",
+            "org/eclipse/emf/ecore/change/provider/ResourceChangeItemProvider.class",
+            "plugin.properties",
+            "plugin.xml"
+        ],
+        "meta:save-date": [
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z"
+        ],
+        "modified": [
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z",
+            "2005-07-07T09:05:34Z"
+        ],
+        "Content-Type-Hint": "text/html; charset=ISO-8859-1",
+        "dc:title": [
+            "About",
+            "ChangeDescriptionItemProvider",
+            "ChangeEditPlugin$Implementation",
+            "ChangeEditPlugin",
+            "ChangeItemProviderAdapterFactory",
+            "EObjectToChangesMapEntryItemProvider",
+            "FeatureChangeItemProvider",
+            "FeatureMapEntryItemProvider",
+            "ListChangeItemProvider",
+            "ResourceChangeItemProvider"
+        ],
+        "title": [
+            "About",
+            "ChangeDescriptionItemProvider",
+            "ChangeEditPlugin$Implementation",
+            "ChangeEditPlugin",
+            "ChangeItemProviderAdapterFactory",
+            "EObjectToChangesMapEntryItemProvider",
+            "FeatureChangeItemProvider",
+            "FeatureMapEntryItemProvider",
+            "ListChangeItemProvider",
+            "ResourceChangeItemProvider"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma NumChannels": [
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4"
+        ],
+        "Compression CompressionTypeName": [
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw",
+            "lzw"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "Data SampleFormat": [
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index",
+            "Index"
+        ],
+        "Dimension HorizontalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension VerticalPixelOffset": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "GraphicControlExtension": [
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=29",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=27",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=42",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=52",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=31",
+            "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=68"
+        ],
+        "ImageDescriptor": [
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false",
+            "imageLeftPosition=0, imageTopPosition=0, imageWidth=16, imageHeight=16, interlaceFlag=false"
+        ],
+        "Transparency TransparentIndex": [
+            "29",
+            "27",
+            "42",
+            "52",
+            "31",
+            "68"
+        ],
+        "height": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ],
+        "tiff:ImageLength": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ],
+        "tiff:ImageWidth": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ],
+        "width": [
+            "16",
+            "16",
+            "16",
+            "16",
+            "16",
+            "16"
+        ]
+    }
+}

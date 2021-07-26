@@ -1,0 +1,150 @@
+{
+    "jperf.jar": {
+        "modified": "2021-07-24 18:49:49.668131",
+        "size": "10.91KB",
+        "md5": "c55dc0308bfe50f8a1e6946492614b07",
+        "sha256": "30ed3e666c17d9a275ff616662a9891c5b9dda1c647e5b65e505c735f8953807"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "1",
+            "0",
+            "1",
+            "5",
+            "0"
+        ],
+        "resourceName": [
+            "b'jperf.jar'",
+            "META-INF/MANIFEST.MF",
+            "BindLayout.class",
+            "Binding.class",
+            "Interface.class",
+            "Iperf.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2000-02-24T01:54:46Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:44Z",
+            "2000-02-24T01:54:44Z"
+        ],
+        "Last-Save-Date": [
+            "2000-02-24T01:54:46Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:44Z",
+            "2000-02-24T01:54:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/BindLayout.class",
+            "/Binding.class",
+            "/Interface.class",
+            "/Iperf.class"
+        ],
+        "date": [
+            "2000-02-24T01:54:46Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:44Z",
+            "2000-02-24T01:54:44Z"
+        ],
+        "dcterms:modified": [
+            "2000-02-24T01:54:46Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:44Z",
+            "2000-02-24T01:54:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "BindLayout.class",
+            "Binding.class",
+            "Interface.class",
+            "Iperf.class"
+        ],
+        "meta:save-date": [
+            "2000-02-24T01:54:46Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:44Z",
+            "2000-02-24T01:54:44Z"
+        ],
+        "modified": [
+            "2000-02-24T01:54:46Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:42Z",
+            "2000-02-24T01:54:44Z",
+            "2000-02-24T01:54:44Z"
+        ],
+        "dc:title": [
+            "BindLayout",
+            "Binding",
+            "Interface",
+            "Iperf"
+        ],
+        "title": [
+            "BindLayout",
+            "Binding",
+            "Interface",
+            "Iperf"
+        ]
+    }
+}

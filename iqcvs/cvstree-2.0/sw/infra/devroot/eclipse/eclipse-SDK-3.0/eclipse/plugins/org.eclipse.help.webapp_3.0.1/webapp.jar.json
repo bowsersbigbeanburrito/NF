@@ -1,0 +1,150 @@
+{
+    "webapp.jar": {
+        "modified": "2004-09-16 09:04:37",
+        "size": "8.22KB",
+        "md5": "bf6797405af3df1a9ca6a053ac0da241",
+        "sha256": "3f9de7c523a9454f01aa147132c62aa68ac61f10b4ebad1f763de7cc0cd527be"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'webapp.jar'",
+            "META-INF/MANIFEST.MF",
+            "HelpWebappPlugin.class",
+            "WebappResources.class",
+            "org/eclipse/help/internal/webapp/WebappResources.properties",
+            "org/eclipse/help/internal/webapp/WebappResources_en.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "2228",
+            "2850",
+            "5184",
+            "5184"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/HelpWebappPlugin.class",
+            "/WebappResources.class",
+            "/WebappResources.properties",
+            "/WebappResources_en.properties"
+        ],
+        "date": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/help/internal/webapp/HelpWebappPlugin.class",
+            "org/eclipse/help/internal/webapp/WebappResources.class",
+            "org/eclipse/help/internal/webapp/WebappResources.properties",
+            "org/eclipse/help/internal/webapp/WebappResources_en.properties"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "modified": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "dc:title": [
+            "HelpWebappPlugin",
+            "WebappResources"
+        ],
+        "title": [
+            "HelpWebappPlugin",
+            "WebappResources"
+        ]
+    }
+}

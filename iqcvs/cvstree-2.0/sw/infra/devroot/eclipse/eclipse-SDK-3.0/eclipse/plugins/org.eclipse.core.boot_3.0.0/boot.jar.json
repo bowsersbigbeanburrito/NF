@@ -1,0 +1,87 @@
+{
+    "boot.jar": {
+        "modified": "2004-09-16 09:04:18",
+        "size": "0.54KB",
+        "md5": "cc2594f3daff74f42315cb9b3f2360b1",
+        "sha256": "1e48a850490048d4f97fe09e6024a1f0ee95862c5faf513ce27999f3824288a1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'boot.jar'",
+            "META-INF/MANIFEST.MF",
+            "readme.txt"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2004-01-16T17:25:36Z",
+            "2004-01-16T17:25:38Z"
+        ],
+        "Last-Save-Date": [
+            "2004-01-16T17:25:36Z",
+            "2004-01-16T17:25:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/readme.txt"
+        ],
+        "date": [
+            "2004-01-16T17:25:36Z",
+            "2004-01-16T17:25:38Z"
+        ],
+        "dcterms:modified": [
+            "2004-01-16T17:25:36Z",
+            "2004-01-16T17:25:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "readme.txt"
+        ],
+        "meta:save-date": [
+            "2004-01-16T17:25:36Z",
+            "2004-01-16T17:25:38Z"
+        ],
+        "modified": [
+            "2004-01-16T17:25:36Z",
+            "2004-01-16T17:25:38Z"
+        ]
+    }
+}

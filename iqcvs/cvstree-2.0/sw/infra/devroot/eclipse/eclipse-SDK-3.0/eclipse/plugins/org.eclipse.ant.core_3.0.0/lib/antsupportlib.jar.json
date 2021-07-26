@@ -1,0 +1,271 @@
+{
+    "antsupportlib.jar": {
+        "modified": "2004-09-16 09:04:24",
+        "size": "31.26KB",
+        "md5": "b5ab94dd39dde008338470901a1b5263",
+        "sha256": "c7214395fa4d271956b1d776d77aadc7729fc7d8ff79779035e0c359dd3e7937"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'antsupportlib.jar'",
+            "META-INF/MANIFEST.MF",
+            "AntSecurityManager.class",
+            "DemuxInputStreamSetter.class",
+            "InputHandlerSetter.class",
+            "InternalAntMessages.class",
+            "org/eclipse/ant/internal/core/ant/InternalAntMessages.properties",
+            "InternalAntRunner.class",
+            "InternalProject.class",
+            "NullInputHandler.class",
+            "ProgressBuildListener$ProjectMonitors.class",
+            "ProgressBuildListener.class"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "5723",
+            "656",
+            "1963",
+            "1209",
+            "7075",
+            "34086",
+            "4961",
+            "638",
+            "1730",
+            "7116"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/AntSecurityManager.class",
+            "/DemuxInputStreamSetter.class",
+            "/InputHandlerSetter.class",
+            "/InternalAntMessages.class",
+            "/InternalAntMessages.properties",
+            "/InternalAntRunner.class",
+            "/InternalProject.class",
+            "/NullInputHandler.class",
+            "/ProgressBuildListener$ProjectMonitors.class",
+            "/ProgressBuildListener.class"
+        ],
+        "date": [
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/ant/internal/core/ant/AntSecurityManager.class",
+            "org/eclipse/ant/internal/core/ant/DemuxInputStreamSetter.class",
+            "org/eclipse/ant/internal/core/ant/InputHandlerSetter.class",
+            "org/eclipse/ant/internal/core/ant/InternalAntMessages.class",
+            "org/eclipse/ant/internal/core/ant/InternalAntMessages.properties",
+            "org/eclipse/ant/internal/core/ant/InternalAntRunner.class",
+            "org/eclipse/ant/internal/core/ant/InternalProject.class",
+            "org/eclipse/ant/internal/core/ant/NullInputHandler.class",
+            "org/eclipse/ant/internal/core/ant/ProgressBuildListener$ProjectMonitors.class",
+            "org/eclipse/ant/internal/core/ant/ProgressBuildListener.class"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z"
+        ],
+        "modified": [
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z",
+            "2004-09-16T18:53:14Z"
+        ],
+        "dc:title": [
+            "AntSecurityManager",
+            "DemuxInputStreamSetter",
+            "InputHandlerSetter",
+            "InternalAntMessages",
+            "InternalAntRunner",
+            "InternalProject",
+            "NullInputHandler",
+            "ProgressBuildListener$ProjectMonitors",
+            "ProgressBuildListener"
+        ],
+        "title": [
+            "AntSecurityManager",
+            "DemuxInputStreamSetter",
+            "InputHandlerSetter",
+            "InternalAntMessages",
+            "InternalAntRunner",
+            "InternalProject",
+            "NullInputHandler",
+            "ProgressBuildListener$ProjectMonitors",
+            "ProgressBuildListener"
+        ]
+    }
+}

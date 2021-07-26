@@ -1,0 +1,21 @@
+{
+    "atk.def": {
+        "modified": "2002-01-05 10:56:52",
+        "size": "5.62KB",
+        "md5": "54a886e2979d761727024eeceff063aa",
+        "sha256": "4bae70aeb7950ede8330c6af5b35ee415ac216e94e1979b38f813821dc19f7ce"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'atk.def'"
+    }
+}

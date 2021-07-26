@@ -1,0 +1,110 @@
+{
+    "compatibility.jar": {
+        "modified": "2004-09-16 09:04:47",
+        "size": "3.74KB",
+        "md5": "231330c868d05ed7f8a0d4458f1327cb",
+        "sha256": "a2783dcb987c90c30736f1f5da6441349a6c7a5aa8e735d3556c7b20b74b0011"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'compatibility.jar'",
+            "META-INF/MANIFEST.MF",
+            "CompatibleWorkbenchPage.class",
+            "ICompatibleWorkbenchPage.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "6190",
+            "810"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/CompatibleWorkbenchPage.class",
+            "/ICompatibleWorkbenchPage.class"
+        ],
+        "date": [
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/ui/internal/CompatibleWorkbenchPage.class",
+            "org/eclipse/ui/internal/ICompatibleWorkbenchPage.class"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z"
+        ],
+        "modified": [
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z",
+            "2004-09-16T18:53:36Z"
+        ],
+        "dc:title": [
+            "CompatibleWorkbenchPage",
+            "ICompatibleWorkbenchPage"
+        ],
+        "title": [
+            "CompatibleWorkbenchPage",
+            "ICompatibleWorkbenchPage"
+        ]
+    }
+}

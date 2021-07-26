@@ -1,0 +1,110 @@
+{
+    "ant-swing.jar": {
+        "modified": "2005-06-27 14:12:32",
+        "size": "6.6KB",
+        "md5": "99df6e2a943f082592ef36add6c65074",
+        "sha256": "ca0920cc36f6a9be644b522a7f1b48230cfe103689c2966ef293dd1111ff6d87"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ant-swing.jar'",
+            "META-INF/MANIFEST.MF",
+            "SplashScreen.class",
+            "SplashTask.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "432",
+            "3842",
+            "6197"
+        ],
+        "Last-Modified": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "Last-Save-Date": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/SplashScreen.class",
+            "/SplashTask.class"
+        ],
+        "date": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "dcterms:modified": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/tools/ant/taskdefs/optional/splash/SplashScreen.class",
+            "org/apache/tools/ant/taskdefs/optional/splash/SplashTask.class"
+        ],
+        "meta:save-date": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "modified": [
+            "2005-06-02T22:13:16Z",
+            "2005-06-02T22:12:56Z",
+            "2005-06-02T22:12:56Z"
+        ],
+        "dc:title": [
+            "SplashScreen",
+            "SplashTask"
+        ],
+        "title": [
+            "SplashScreen",
+            "SplashTask"
+        ]
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "resources-ant.jar": {
+        "modified": "2004-09-16 09:04:36",
+        "size": "7.78KB",
+        "md5": "63617fad6c2b3dbfbfdd2212736d3bda",
+        "sha256": "fc0e24375618f5943367aafb164fe6b2ded6693508fe463f080e9c5c3972dd2f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "text/x-java-properties; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'resources-ant.jar'",
+            "META-INF/MANIFEST.MF",
+            "ConvertPath.class",
+            "IncrementalBuild.class",
+            "Policy.class",
+            "RefreshLocalTask.class",
+            "org/eclipse/core/resources/ant/messages.properties"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "106",
+            "4143",
+            "2585",
+            "2193",
+            "3022",
+            "1983"
+        ],
+        "Last-Modified": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "Last-Save-Date": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/ConvertPath.class",
+            "/IncrementalBuild.class",
+            "/Policy.class",
+            "/RefreshLocalTask.class",
+            "/messages.properties"
+        ],
+        "date": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "dcterms:modified": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/eclipse/core/resources/ant/ConvertPath.class",
+            "org/eclipse/core/resources/ant/IncrementalBuild.class",
+            "org/eclipse/core/resources/ant/Policy.class",
+            "org/eclipse/core/resources/ant/RefreshLocalTask.class",
+            "org/eclipse/core/resources/ant/messages.properties"
+        ],
+        "meta:save-date": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "modified": [
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z",
+            "2004-09-16T18:53:20Z"
+        ],
+        "dc:title": [
+            "ConvertPath",
+            "IncrementalBuild",
+            "Policy",
+            "RefreshLocalTask"
+        ],
+        "title": [
+            "ConvertPath",
+            "IncrementalBuild",
+            "Policy",
+            "RefreshLocalTask"
+        ]
+    }
+}

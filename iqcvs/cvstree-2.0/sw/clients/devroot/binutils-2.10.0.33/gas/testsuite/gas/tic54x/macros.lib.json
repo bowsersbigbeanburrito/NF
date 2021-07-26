@@ -1,0 +1,48 @@
+{
+    "macros.lib": {
+        "modified": "2021-07-24 18:49:39.891649",
+        "size": "0.16KB",
+        "md5": "ddbfc019917d779c19002992f3929367",
+        "sha256": "3397992ff0985d4c9e52155e3b53c3d53fc4e9fbd461bf22259b7c2c93d88742"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "text/x-assembly; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'macros.lib'",
+            "in_mlib.asm"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": "92",
+        "Last-Modified": "1999-08-14T17:58:04Z",
+        "Last-Save-Date": "1999-08-14T17:58:04Z",
+        "X-TIKA:embedded_resource_path": "/in_mlib.asm",
+        "date": "1999-08-14T17:58:04Z",
+        "dcterms:modified": "1999-08-14T17:58:04Z",
+        "embeddedRelationshipId": "in_mlib.asm",
+        "meta:save-date": "1999-08-14T17:58:04Z",
+        "modified": "1999-08-14T17:58:04Z"
+    }
+}

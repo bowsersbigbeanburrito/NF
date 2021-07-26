@@ -1,0 +1,23 @@
+{
+    "BaseHREFScannerTest.java": {
+        "modified": "2021-07-24 18:50:00.807923",
+        "size": "3.37KB",
+        "md5": "ca03159a4b9e3fdf5995484a6134e7f6",
+        "sha256": "5c096004fc7c67e754b0460df372322b2558f24e963714b303cb6874ef16107d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Location": "\\\"http://www.abc.com/\\\"",
+        "Content-Type": "text/html; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "dc:title": "test page",
+        "resourceName": "b'BaseHREFScannerTest.java'",
+        "title": "test page"
+    }
+}

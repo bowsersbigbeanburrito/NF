@@ -1,0 +1,270 @@
+{
+    "jaxm-api.jar": {
+        "modified": "2021-07-24 18:49:56.068011",
+        "size": "6.93KB",
+        "md5": "d70014f6c25b0bc113623ecf3b3e76ff",
+        "sha256": "9db4c192983bc94092b30b4f3fddb87310ee24e80335c98f3d61a5df7cf08f9d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=ISO-8859-1",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'jaxm-api.jar'",
+            "META-INF/MANIFEST.MF",
+            "FactoryFinder.class",
+            "JAXMException.class",
+            "Endpoint.class",
+            "OnewayListener.class",
+            "JAXMServlet.class",
+            "ProviderConnectionFactory.class",
+            "ProviderConnection.class",
+            "ProviderMetaData.class",
+            "ReqRespListener.class",
+            "URLEndpoint.class"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "2002-07-31T17:17:40Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z"
+        ],
+        "Last-Save-Date": [
+            "2002-07-31T17:17:40Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/FactoryFinder.class",
+            "/JAXMException.class",
+            "/Endpoint.class",
+            "/OnewayListener.class",
+            "/JAXMServlet.class",
+            "/ProviderConnectionFactory.class",
+            "/ProviderConnection.class",
+            "/ProviderMetaData.class",
+            "/ReqRespListener.class",
+            "/URLEndpoint.class"
+        ],
+        "date": [
+            "2002-07-31T17:17:40Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z"
+        ],
+        "dcterms:modified": [
+            "2002-07-31T17:17:40Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "javax/xml/messaging/FactoryFinder.class",
+            "javax/xml/messaging/JAXMException.class",
+            "javax/xml/messaging/Endpoint.class",
+            "javax/xml/messaging/OnewayListener.class",
+            "javax/xml/messaging/JAXMServlet.class",
+            "javax/xml/messaging/ProviderConnectionFactory.class",
+            "javax/xml/messaging/ProviderConnection.class",
+            "javax/xml/messaging/ProviderMetaData.class",
+            "javax/xml/messaging/ReqRespListener.class",
+            "javax/xml/messaging/URLEndpoint.class"
+        ],
+        "meta:save-date": [
+            "2002-07-31T17:17:40Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z"
+        ],
+        "modified": [
+            "2002-07-31T17:17:40Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z",
+            "2002-07-31T17:17:38Z"
+        ],
+        "dc:title": [
+            "FactoryFinder",
+            "JAXMException",
+            "Endpoint",
+            "OnewayListener",
+            "JAXMServlet",
+            "ProviderConnectionFactory",
+            "ProviderConnection",
+            "ProviderMetaData",
+            "ReqRespListener",
+            "URLEndpoint"
+        ],
+        "title": [
+            "FactoryFinder",
+            "JAXMException",
+            "Endpoint",
+            "OnewayListener",
+            "JAXMServlet",
+            "ProviderConnectionFactory",
+            "ProviderConnection",
+            "ProviderMetaData",
+            "ReqRespListener",
+            "URLEndpoint"
+        ]
+    }
+}

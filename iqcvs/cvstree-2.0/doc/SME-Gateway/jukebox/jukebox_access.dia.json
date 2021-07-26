@@ -1,0 +1,39 @@
+{
+    "jukebox_access.dia": {
+        "modified": "2021-07-24 17:28:48.548018",
+        "size": "3.82KB",
+        "md5": "2931edb62a241e1526677f6a897341eb",
+        "sha256": "fb161f6da445c10afdf3b9042b3558934f96c1ced5583afaadf121e170c6997f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'jukebox_access.dia'",
+            "b'jukebox_access.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'jukebox_access.dia'"
+    }
+}

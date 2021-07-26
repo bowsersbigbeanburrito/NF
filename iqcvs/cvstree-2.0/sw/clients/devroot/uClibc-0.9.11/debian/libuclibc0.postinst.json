@@ -1,0 +1,20 @@
+{
+    "libuclibc0.postinst": {
+        "modified": "2021-07-24 18:49:46.108198",
+        "size": "0.08KB",
+        "md5": "a886700acef3da51adc33b0f1ab90031",
+        "sha256": "ad4aba52ad21d3af8097e28918a3752ffcde8e8d7fa4d2683b0356b86eb8b3f9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "application/x-sh; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'libuclibc0.postinst'"
+    }
+}

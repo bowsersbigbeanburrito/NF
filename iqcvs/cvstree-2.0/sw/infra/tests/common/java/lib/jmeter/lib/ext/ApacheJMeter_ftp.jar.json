@@ -1,0 +1,170 @@
+{
+    "ApacheJMeter_ftp.jar": {
+        "modified": "2021-07-24 18:50:00.734591",
+        "size": "10.74KB",
+        "md5": "b5493cae239fabcf493e3ba04e98fefa",
+        "sha256": "a3f3e4f4109bf8c73f3addc26bdc2e7040eaa1cc3dbe9235ee0bd105ca463f43"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ApacheJMeter_ftp.jar'",
+            "META-INF/MANIFEST.MF",
+            "FtpConfigGui.class",
+            "FtpTestSamplerGui.class",
+            "FTPSampler.class",
+            "FtpClient$dataGrabber.class",
+            "FtpClient.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "106",
+            "3322",
+            "2625",
+            "2745",
+            "2818",
+            "5646"
+        ],
+        "Last-Modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/FtpConfigGui.class",
+            "/FtpTestSamplerGui.class",
+            "/FTPSampler.class",
+            "/FtpClient$dataGrabber.class",
+            "/FtpClient.class"
+        ],
+        "date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "org/apache/jmeter/protocol/ftp/config/gui/FtpConfigGui.class",
+            "org/apache/jmeter/protocol/ftp/control/gui/FtpTestSamplerGui.class",
+            "org/apache/jmeter/protocol/ftp/sampler/FTPSampler.class",
+            "org/apache/jmeter/protocol/ftp/sampler/FtpClient$dataGrabber.class",
+            "org/apache/jmeter/protocol/ftp/sampler/FtpClient.class"
+        ],
+        "meta:save-date": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z"
+        ],
+        "modified": [
+            "2005-09-30T06:06:04Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z",
+            "2005-09-30T06:05:46Z"
+        ],
+        "dc:title": [
+            "FtpConfigGui",
+            "FtpTestSamplerGui",
+            "FTPSampler",
+            "FtpClient$dataGrabber",
+            "FtpClient"
+        ],
+        "title": [
+            "FtpConfigGui",
+            "FtpTestSamplerGui",
+            "FTPSampler",
+            "FtpClient$dataGrabber",
+            "FtpClient"
+        ]
+    }
+}

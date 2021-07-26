@@ -1,0 +1,21 @@
+{
+    "root.tbl": {
+        "modified": "2021-07-24 18:49:44.464895",
+        "size": "2.64KB",
+        "md5": "0be8a0ee915d37eeb4ca36c0c0049d14",
+        "sha256": "b5ce84bfff27f22e719f93089d06d4d7a886c35a477438bf2231f52ed75e275e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'root.tbl'"
+    }
+}

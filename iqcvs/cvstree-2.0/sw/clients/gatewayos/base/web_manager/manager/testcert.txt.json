@@ -1,0 +1,20 @@
+{
+    "testcert.txt": {
+        "modified": "2021-07-24 18:49:46.671521",
+        "size": "1.22KB",
+        "md5": "7dd3a8a1c8ae5fc590ec8fc428f1f690",
+        "sha256": "0671859f72605ae296cd08cc188f3efa328788b311251b0d1d9cd6fe3532fc22"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testcert.txt'"
+    }
+}

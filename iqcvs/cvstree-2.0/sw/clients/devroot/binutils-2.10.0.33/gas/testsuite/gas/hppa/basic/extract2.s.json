@@ -1,0 +1,21 @@
+{
+    "extract2.s": {
+        "modified": "2021-07-24 18:49:39.858316",
+        "size": "1.01KB",
+        "md5": "f0c6b56da1f75e189baf27d8c1f535fe",
+        "sha256": "81aae12c6934a1a8e643cd4b151f79d1471b929212964646433409293bece23f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'extract2.s'"
+    }
+}
