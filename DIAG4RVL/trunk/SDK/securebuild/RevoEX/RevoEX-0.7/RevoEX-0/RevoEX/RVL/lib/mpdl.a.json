@@ -1,0 +1,75 @@
+{
+    "mpdl.a": {
+        "modified": "2006-09-28 19:19:44",
+        "size": "9.06KB",
+        "md5": "b1948680f910d582c9cfdd69e6147e64",
+        "sha256": "f28169c4c58191f8a489c1108c0bacb337006df174754f247292fc4df4e435f7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'mpdl.a'",
+            "mpdlsystem.o"
+        ],
+        "Content-Length": [
+            "271",
+            "8880"
+        ],
+        "Last-Modified": [
+            "2006-09-29T11:15:22Z",
+            "2006-09-29T11:15:21Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-29T11:15:22Z",
+            "2006-09-29T11:15:21Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mpdlsystem.o"
+        ],
+        "date": [
+            "2006-09-29T11:15:22Z",
+            "2006-09-29T11:15:21Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-29T11:15:22Z",
+            "2006-09-29T11:15:21Z"
+        ],
+        "meta:save-date": [
+            "2006-09-29T11:15:22Z",
+            "2006-09-29T11:15:21Z"
+        ],
+        "modified": [
+            "2006-09-29T11:15:22Z",
+            "2006-09-29T11:15:21Z"
+        ],
+        "embeddedRelationshipId": "mpdlsystem.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

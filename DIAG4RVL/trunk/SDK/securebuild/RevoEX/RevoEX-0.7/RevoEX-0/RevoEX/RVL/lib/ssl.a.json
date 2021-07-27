@@ -1,0 +1,123 @@
+{
+    "ssl.a": {
+        "modified": "2006-09-19 18:19:28",
+        "size": "10.15KB",
+        "md5": "a1bd12f0fdc28129ff1062ea415cb764",
+        "sha256": "52db8bbed6f70a9933940dddd2e4466da52ce337c4a73f0eb084a3ed16196254"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ssl.a'",
+            "ssl_api.o",
+            "ssl_mutex.o",
+            "ssl_print.o"
+        ],
+        "Content-Length": [
+            "352",
+            "7352",
+            "888",
+            "1552"
+        ],
+        "Last-Modified": [
+            "2006-09-14T12:11:24Z",
+            "2006-09-14T12:11:17Z",
+            "2006-09-14T12:11:20Z",
+            "2006-09-14T12:11:22Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-14T12:11:24Z",
+            "2006-09-14T12:11:17Z",
+            "2006-09-14T12:11:20Z",
+            "2006-09-14T12:11:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ssl_api.o",
+            "/ssl_mutex.o",
+            "/ssl_print.o"
+        ],
+        "date": [
+            "2006-09-14T12:11:24Z",
+            "2006-09-14T12:11:17Z",
+            "2006-09-14T12:11:20Z",
+            "2006-09-14T12:11:22Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-14T12:11:24Z",
+            "2006-09-14T12:11:17Z",
+            "2006-09-14T12:11:20Z",
+            "2006-09-14T12:11:22Z"
+        ],
+        "meta:save-date": [
+            "2006-09-14T12:11:24Z",
+            "2006-09-14T12:11:17Z",
+            "2006-09-14T12:11:20Z",
+            "2006-09-14T12:11:22Z"
+        ],
+        "modified": [
+            "2006-09-14T12:11:24Z",
+            "2006-09-14T12:11:17Z",
+            "2006-09-14T12:11:20Z",
+            "2006-09-14T12:11:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "ssl_api.o",
+            "ssl_mutex.o",
+            "ssl_print.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "net.a": {
+        "modified": "2006-09-08 05:56:03",
+        "size": "11.38KB",
+        "md5": "bf45c64ec37eb48ad3e9f55538472127",
+        "sha256": "e632ba007926a0adf9f2d0376aa4facf5b1d26b06a89278573cb9f9e8ed7be12"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'net.a'",
+            "nettime.o",
+            "crc.o",
+            "md5.o",
+            "sha1.o",
+            "hmac.o"
+        ],
+        "Content-Length": [
+            "225",
+            "712",
+            "1504",
+            "3904",
+            "3336",
+            "1600"
+        ],
+        "Last-Modified": [
+            "2006-09-08T21:52:33Z",
+            "2006-09-08T21:52:29Z",
+            "2006-09-08T21:52:30Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:32Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-08T21:52:33Z",
+            "2006-09-08T21:52:29Z",
+            "2006-09-08T21:52:30Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nettime.o",
+            "/crc.o",
+            "/md5.o",
+            "/sha1.o",
+            "/hmac.o"
+        ],
+        "date": [
+            "2006-09-08T21:52:33Z",
+            "2006-09-08T21:52:29Z",
+            "2006-09-08T21:52:30Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:32Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-08T21:52:33Z",
+            "2006-09-08T21:52:29Z",
+            "2006-09-08T21:52:30Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:32Z"
+        ],
+        "meta:save-date": [
+            "2006-09-08T21:52:33Z",
+            "2006-09-08T21:52:29Z",
+            "2006-09-08T21:52:30Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:32Z"
+        ],
+        "modified": [
+            "2006-09-08T21:52:33Z",
+            "2006-09-08T21:52:29Z",
+            "2006-09-08T21:52:30Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:31Z",
+            "2006-09-08T21:52:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "nettime.o",
+            "crc.o",
+            "md5.o",
+            "sha1.o",
+            "hmac.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

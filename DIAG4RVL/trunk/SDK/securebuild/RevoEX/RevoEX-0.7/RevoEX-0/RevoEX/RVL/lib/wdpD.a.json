@@ -1,0 +1,123 @@
+{
+    "wdpD.a": {
+        "modified": "2006-09-28 19:15:04",
+        "size": "109.04KB",
+        "md5": "a84f4ac30182d3c05bef8ae521c93d28",
+        "sha256": "bf3c13bff00d75212faeb645d23e3951691bfc56cefac732ed86584591c5dce9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'wdpD.a'",
+            "wdp_child.o",
+            "wdp_parent.o",
+            "wdp_common.o"
+        ],
+        "Content-Length": [
+            "4462",
+            "38888",
+            "53984",
+            "14072"
+        ],
+        "Last-Modified": [
+            "2006-09-29T11:08:39Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:39Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-29T11:08:39Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:39Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wdp_child.o",
+            "/wdp_parent.o",
+            "/wdp_common.o"
+        ],
+        "date": [
+            "2006-09-29T11:08:39Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:39Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-29T11:08:39Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:39Z"
+        ],
+        "meta:save-date": [
+            "2006-09-29T11:08:39Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:39Z"
+        ],
+        "modified": [
+            "2006-09-29T11:08:39Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:38Z",
+            "2006-09-29T11:08:39Z"
+        ],
+        "embeddedRelationshipId": [
+            "wdp_child.o",
+            "wdp_parent.o",
+            "wdp_common.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

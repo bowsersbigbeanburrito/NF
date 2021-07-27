@@ -1,0 +1,183 @@
+{
+    "so.a": {
+        "modified": "2006-09-08 05:56:01",
+        "size": "28.41KB",
+        "md5": "b4899d42d98e77caae8b53030f5ac31b",
+        "sha256": "c5a1f3d0097c54b727e07e6a5a6b73f27ac2a62488a117e05a0d77ebf31105a3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'so.a'",
+            "SOCommon.o",
+            "SOReport.o",
+            "SOBasic.o",
+            "SOInformation.o",
+            "SOOption.o",
+            "SOIcmp.o"
+        ],
+        "Content-Length": [
+            "807",
+            "8392",
+            "392",
+            "9448",
+            "4048",
+            "2872",
+            "2704"
+        ],
+        "Last-Modified": [
+            "2006-09-08T21:52:28Z",
+            "2006-09-08T21:52:24Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:26Z",
+            "2006-09-08T21:52:27Z",
+            "2006-09-08T21:52:28Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-08T21:52:28Z",
+            "2006-09-08T21:52:24Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:26Z",
+            "2006-09-08T21:52:27Z",
+            "2006-09-08T21:52:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/SOCommon.o",
+            "/SOReport.o",
+            "/SOBasic.o",
+            "/SOInformation.o",
+            "/SOOption.o",
+            "/SOIcmp.o"
+        ],
+        "date": [
+            "2006-09-08T21:52:28Z",
+            "2006-09-08T21:52:24Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:26Z",
+            "2006-09-08T21:52:27Z",
+            "2006-09-08T21:52:28Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-08T21:52:28Z",
+            "2006-09-08T21:52:24Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:26Z",
+            "2006-09-08T21:52:27Z",
+            "2006-09-08T21:52:28Z"
+        ],
+        "meta:save-date": [
+            "2006-09-08T21:52:28Z",
+            "2006-09-08T21:52:24Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:26Z",
+            "2006-09-08T21:52:27Z",
+            "2006-09-08T21:52:28Z"
+        ],
+        "modified": [
+            "2006-09-08T21:52:28Z",
+            "2006-09-08T21:52:24Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:25Z",
+            "2006-09-08T21:52:26Z",
+            "2006-09-08T21:52:27Z",
+            "2006-09-08T21:52:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "SOCommon.o",
+            "SOReport.o",
+            "SOBasic.o",
+            "SOInformation.o",
+            "SOOption.o",
+            "SOIcmp.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

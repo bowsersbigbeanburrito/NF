@@ -1,0 +1,163 @@
+{
+    "wdD.a": {
+        "modified": "2006-10-20 01:45:59",
+        "size": "67.56KB",
+        "md5": "a27171a50228d182fb62d3648dba8619",
+        "sha256": "3995f38377699a18a579d0745175ec92e7a043eb9ca3cd67ab38b90c33ae7d00"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'wdD.a'",
+            "wd_misc.o",
+            "wd_request.o",
+            "wd_receive.o",
+            "wd_init.o",
+            "WDScan.o"
+        ],
+        "Content-Length": [
+            "3415",
+            "4600",
+            "29536",
+            "8752",
+            "3152",
+            "19360"
+        ],
+        "Last-Modified": [
+            "2006-10-20T17:39:29Z",
+            "2006-10-20T17:39:26Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:28Z",
+            "2006-10-20T17:39:28Z"
+        ],
+        "Last-Save-Date": [
+            "2006-10-20T17:39:29Z",
+            "2006-10-20T17:39:26Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:28Z",
+            "2006-10-20T17:39:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wd_misc.o",
+            "/wd_request.o",
+            "/wd_receive.o",
+            "/wd_init.o",
+            "/WDScan.o"
+        ],
+        "date": [
+            "2006-10-20T17:39:29Z",
+            "2006-10-20T17:39:26Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:28Z",
+            "2006-10-20T17:39:28Z"
+        ],
+        "dcterms:modified": [
+            "2006-10-20T17:39:29Z",
+            "2006-10-20T17:39:26Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:28Z",
+            "2006-10-20T17:39:28Z"
+        ],
+        "meta:save-date": [
+            "2006-10-20T17:39:29Z",
+            "2006-10-20T17:39:26Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:28Z",
+            "2006-10-20T17:39:28Z"
+        ],
+        "modified": [
+            "2006-10-20T17:39:29Z",
+            "2006-10-20T17:39:26Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:27Z",
+            "2006-10-20T17:39:28Z",
+            "2006-10-20T17:39:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "wd_misc.o",
+            "wd_request.o",
+            "wd_receive.o",
+            "wd_init.o",
+            "WDScan.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

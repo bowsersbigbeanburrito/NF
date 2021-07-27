@@ -1,0 +1,85 @@
+{
+    "THP_THP_File_Format.pdf": {
+        "modified": "2006-02-27 11:06:00",
+        "size": "78.57KB",
+        "md5": "21d400e9c3bcbdc310644cadcb64a1c8",
+        "sha256": "26d1c5d9023f5bf30b75db8c29688b1f82393fc9e760519a9c1435d1e2372f7c"
+    },
+    "Metadata": {
+        "Author": "ronaldd",
+        "Content-Type": [
+            "application/pdf",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "Creation-Date": "2006-02-27T20:06:00Z",
+        "Last-Modified": "2006-02-27T20:06:00Z",
+        "Last-Save-Date": "2006-02-27T20:06:00Z",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pdf.PDFParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "22",
+            "2"
+        ],
+        "access_permission:assemble_document": "true",
+        "access_permission:can_modify": "true",
+        "access_permission:can_print": "true",
+        "access_permission:can_print_degraded": "true",
+        "access_permission:extract_content": "true",
+        "access_permission:extract_for_accessibility": "true",
+        "access_permission:fill_in_form": "true",
+        "access_permission:modify_annotations": "true",
+        "created": "2006-02-27T20:06:00Z",
+        "creator": "ronaldd",
+        "date": "2006-02-27T20:06:00Z",
+        "dc:creator": "ronaldd",
+        "dc:format": "application/pdf; version=1.4",
+        "dc:title": "Visio-THP_File_Format.vsd",
+        "dcterms:created": "2006-02-27T20:06:00Z",
+        "dcterms:modified": "2006-02-27T20:06:00Z",
+        "meta:author": "ronaldd",
+        "meta:creation-date": "2006-02-27T20:06:00Z",
+        "meta:save-date": "2006-02-27T20:06:00Z",
+        "modified": "2006-02-27T20:06:00Z",
+        "pdf:PDFVersion": "1.4",
+        "pdf:charsPerPage": "2775",
+        "pdf:docinfo:created": "2006-02-27T20:06:00Z",
+        "pdf:docinfo:creator": "ronaldd",
+        "pdf:docinfo:creator_tool": "PScript5.dll Version 5.2",
+        "pdf:docinfo:modified": "2006-02-27T20:06:00Z",
+        "pdf:docinfo:producer": "Acrobat Distiller 7.0 (Windows)",
+        "pdf:docinfo:title": "Visio-THP_File_Format.vsd",
+        "pdf:encrypted": "false",
+        "pdf:hasMarkedContent": "false",
+        "pdf:hasXFA": "false",
+        "pdf:hasXMP": "true",
+        "pdf:unmappedUnicodeCharsPerPage": "0",
+        "producer": "Acrobat Distiller 7.0 (Windows)",
+        "resourceName": [
+            "b'THP_THP_File_Format.pdf'",
+            "High Quality Print.joboptions"
+        ],
+        "title": "Visio-THP_File_Format.vsd",
+        "xmp:CreatorTool": "PScript5.dll Version 5.2",
+        "xmpMM:DocumentID": "uuid:cd8d3222-b6d1-4c99-b4cb-365dc714670d",
+        "xmpTPg:NPages": "1",
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": "-1",
+        "X-TIKA:embedded_resource_path": "/High Quality Print.joboptions",
+        "X-TIKA:origResourceName": "High Quality Print.joboptions",
+        "embeddedResourceType": "ATTACHMENT"
+    }
+}
