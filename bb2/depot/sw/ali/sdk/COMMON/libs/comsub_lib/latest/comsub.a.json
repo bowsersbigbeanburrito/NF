@@ -1,0 +1,103 @@
+{
+    "comsub.a": {
+        "modified": "2021-07-26 17:18:53.505075",
+        "size": "104.12KB",
+        "md5": "ba84a9cafd88706732e716be318cdb58",
+        "sha256": "40b3995ca8e4b875036a543278c448506b33ccfc337ce09cb5dabda6b13ab4bc"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'comsub.a'",
+            "comsub.o",
+            "osddebug.o"
+        ],
+        "Content-Length": [
+            "948",
+            "68512",
+            "36965"
+        ],
+        "Last-Modified": [
+            "2004-04-21T06:39:47Z",
+            "2004-04-21T06:39:48Z",
+            "2004-04-21T06:39:48Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-21T06:39:47Z",
+            "2004-04-21T06:39:48Z",
+            "2004-04-21T06:39:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/comsub.o",
+            "/osddebug.o"
+        ],
+        "date": [
+            "2004-04-21T06:39:47Z",
+            "2004-04-21T06:39:48Z",
+            "2004-04-21T06:39:48Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-21T06:39:47Z",
+            "2004-04-21T06:39:48Z",
+            "2004-04-21T06:39:48Z"
+        ],
+        "meta:save-date": [
+            "2004-04-21T06:39:47Z",
+            "2004-04-21T06:39:48Z",
+            "2004-04-21T06:39:48Z"
+        ],
+        "modified": [
+            "2004-04-21T06:39:47Z",
+            "2004-04-21T06:39:48Z",
+            "2004-04-21T06:39:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "comsub.o",
+            "osddebug.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

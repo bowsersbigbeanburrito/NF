@@ -1,0 +1,123 @@
+{
+    "setup.a": {
+        "modified": "2021-07-26 17:18:53.565074",
+        "size": "119.16KB",
+        "md5": "5de8e0a1e432d442ebb7dc0db84f3c38",
+        "sha256": "91892d1f23d0b4591ea4abf164a75eba5560a269c7b38e9d4df84a48c1e838aa"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'setup.a'",
+            "setup.o",
+            "storage.o",
+            "iic.o"
+        ],
+        "Content-Length": [
+            "2326",
+            "79168",
+            "14988",
+            "25288"
+        ],
+        "Last-Modified": [
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/setup.o",
+            "/storage.o",
+            "/iic.o"
+        ],
+        "date": [
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z"
+        ],
+        "meta:save-date": [
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z"
+        ],
+        "modified": [
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z",
+            "2004-04-21T06:39:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "setup.o",
+            "storage.o",
+            "iic.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

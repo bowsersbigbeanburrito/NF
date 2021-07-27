@@ -1,0 +1,39 @@
+{
+    "alisys.dia": {
+        "modified": "2021-07-26 17:18:35.975310",
+        "size": "3.11KB",
+        "md5": "2115c24791098987c614a36840c703b5",
+        "sha256": "16dd7c4f007816b27037cd90a9f15cbc400e1402520ca689be239084102084d7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/xml"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'alisys.dia'",
+            "b'alisys.dia'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'alisys.dia'"
+    }
+}

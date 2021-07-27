@@ -1,0 +1,143 @@
+{
+    "directengineC.a": {
+        "modified": "2021-07-26 17:18:54.018401",
+        "size": "183.97KB",
+        "md5": "39780a251614f31568672a70ce37d692",
+        "sha256": "2f3f32b74e7d8e6b6a71d1e82d7604c25ae3ae3ed62fcf5bca500e6fb0f46e72"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'directengineC.a'",
+            "de_gamecube.o",
+            "de_main.o",
+            "de_modem_common.o",
+            "enginemisc.o"
+        ],
+        "Content-Length": [
+            "5266",
+            "34408",
+            "91856",
+            "13168",
+            "43304"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/de_gamecube.o",
+            "/de_main.o",
+            "/de_modem_common.o",
+            "/enginemisc.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "de_gamecube.o",
+            "de_main.o",
+            "de_modem_common.o",
+            "enginemisc.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

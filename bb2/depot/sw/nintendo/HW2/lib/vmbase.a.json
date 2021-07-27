@@ -1,0 +1,75 @@
+{
+    "vmbase.a": {
+        "modified": "2021-07-26 17:18:54.001735",
+        "size": "11.23KB",
+        "md5": "f43b07b9a1523d4dc1513db8ffcca682",
+        "sha256": "ac7f9a632944f9fc6668b03dee2d099f970c36ce0d4506b4d275ffc5dfa1c1cf"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'vmbase.a'",
+            "VMBase.o"
+        ],
+        "Content-Length": [
+            "1368",
+            "10008"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/VMBase.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "embeddedRelationshipId": "VMBase.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

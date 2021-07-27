@@ -1,0 +1,75 @@
+{
+    "dspwma.a": {
+        "modified": "2021-07-26 17:18:53.518408",
+        "size": "66.29KB",
+        "md5": "c42c72426b144e7eb70206e1f4c2a3e5",
+        "sha256": "5fd047bf1e7c2eb753868a224ae3d4cdd401da8825ad305bf6d3ce1769ce3d9f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'dspwma.a'",
+            "wmadecdsp.o"
+        ],
+        "Content-Length": [
+            "48",
+            "67709"
+        ],
+        "Last-Modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:40Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wmadecdsp.o"
+        ],
+        "date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:40Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:40Z"
+        ],
+        "meta:save-date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:40Z"
+        ],
+        "modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:40Z"
+        ],
+        "embeddedRelationshipId": "wmadecdsp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

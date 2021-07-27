@@ -1,0 +1,75 @@
+{
+    "dspdig.a": {
+        "modified": "2021-07-26 17:18:53.511741",
+        "size": "18.16KB",
+        "md5": "bdf5776da112a59bd014a4924ce012b0",
+        "sha256": "7ce12e125a3257938863b44dde7f683a9bf32c9cdc299defa19aa5c73d5e545c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'dspdig.a'",
+            "digioutdsp.o"
+        ],
+        "Content-Length": [
+            "24",
+            "18448"
+        ],
+        "Last-Modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/digioutdsp.o"
+        ],
+        "date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "meta:save-date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "embeddedRelationshipId": "digioutdsp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

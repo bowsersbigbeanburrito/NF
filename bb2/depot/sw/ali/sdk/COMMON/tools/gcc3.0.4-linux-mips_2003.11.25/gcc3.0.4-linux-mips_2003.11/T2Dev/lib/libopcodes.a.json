@@ -1,0 +1,163 @@
+{
+    "libopcodes.a": {
+        "modified": "2003-11-24 21:48:23",
+        "size": "298.3KB",
+        "md5": "569aee9b0831ff3f98a9679d68ba48f7",
+        "sha256": "a5fc0ed98261fe13c63a598e1c50b7bcf58ee9279a74c8aca52ec266b3338086"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libopcodes.a'",
+            "dis-buf.o",
+            "disassemble.o",
+            "mips-dis.o",
+            "mips-opc.o",
+            "mips16-opc.o"
+        ],
+        "Content-Length": [
+            "372",
+            "53320",
+            "50076",
+            "105924",
+            "64980",
+            "30420"
+        ],
+        "Last-Modified": [
+            "2003-11-25T05:48:23Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:27Z",
+            "2003-11-25T03:40:28Z",
+            "2003-11-25T03:40:28Z"
+        ],
+        "Last-Save-Date": [
+            "2003-11-25T05:48:23Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:27Z",
+            "2003-11-25T03:40:28Z",
+            "2003-11-25T03:40:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dis-buf.o",
+            "/disassemble.o",
+            "/mips-dis.o",
+            "/mips-opc.o",
+            "/mips16-opc.o"
+        ],
+        "date": [
+            "2003-11-25T05:48:23Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:27Z",
+            "2003-11-25T03:40:28Z",
+            "2003-11-25T03:40:28Z"
+        ],
+        "dcterms:modified": [
+            "2003-11-25T05:48:23Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:27Z",
+            "2003-11-25T03:40:28Z",
+            "2003-11-25T03:40:28Z"
+        ],
+        "meta:save-date": [
+            "2003-11-25T05:48:23Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:27Z",
+            "2003-11-25T03:40:28Z",
+            "2003-11-25T03:40:28Z"
+        ],
+        "modified": [
+            "2003-11-25T05:48:23Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:26Z",
+            "2003-11-25T03:40:27Z",
+            "2003-11-25T03:40:28Z",
+            "2003-11-25T03:40:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "dis-buf.o",
+            "disassemble.o",
+            "mips-dis.o",
+            "mips-opc.o",
+            "mips16-opc.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

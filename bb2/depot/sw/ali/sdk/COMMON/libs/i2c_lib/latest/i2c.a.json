@@ -1,0 +1,75 @@
+{
+    "i2c.a": {
+        "modified": "2021-07-26 17:18:53.525074",
+        "size": "5.34KB",
+        "md5": "ca51ef071b2f97dd5aa4fd84d94232f5",
+        "sha256": "753eb52a1325613d5c20522018b262ffa20e15bc732433e7806a7d43f57a91a6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'i2c.a'",
+            "i2c.o"
+        ],
+        "Content-Length": [
+            "242",
+            "5096"
+        ],
+        "Last-Modified": [
+            "2004-02-25T10:57:15Z",
+            "2004-02-25T10:57:16Z"
+        ],
+        "Last-Save-Date": [
+            "2004-02-25T10:57:15Z",
+            "2004-02-25T10:57:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/i2c.o"
+        ],
+        "date": [
+            "2004-02-25T10:57:15Z",
+            "2004-02-25T10:57:16Z"
+        ],
+        "dcterms:modified": [
+            "2004-02-25T10:57:15Z",
+            "2004-02-25T10:57:16Z"
+        ],
+        "meta:save-date": [
+            "2004-02-25T10:57:15Z",
+            "2004-02-25T10:57:16Z"
+        ],
+        "modified": [
+            "2004-02-25T10:57:15Z",
+            "2004-02-25T10:57:16Z"
+        ],
+        "embeddedRelationshipId": "i2c.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

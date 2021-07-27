@@ -1,0 +1,75 @@
+{
+    "dspmp2dec.a": {
+        "modified": "2021-07-26 17:18:53.518408",
+        "size": "66.37KB",
+        "md5": "59eceadf8eaef74219550e91465e6b53",
+        "sha256": "09081329f02d30a0325cc274d6c563c2d8e96f86190387eb62d2a469b9243202"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'dspmp2dec.a'",
+            "mp2decdsp.o"
+        ],
+        "Content-Length": [
+            "64",
+            "67772"
+        ],
+        "Last-Modified": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mp2decdsp.o"
+        ],
+        "date": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "meta:save-date": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "modified": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:34Z"
+        ],
+        "embeddedRelationshipId": "mp2decdsp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

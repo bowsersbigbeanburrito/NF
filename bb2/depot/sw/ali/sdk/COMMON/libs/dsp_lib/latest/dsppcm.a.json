@@ -1,0 +1,75 @@
+{
+    "dsppcm.a": {
+        "modified": "2021-07-26 17:18:53.518408",
+        "size": "18.15KB",
+        "md5": "f51a2aebb8f78c32d47ad7799eff9bd3",
+        "sha256": "fb226b3ab206beb396345adff4263849fe333e0934444d8f80a8c976818864e6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'dsppcm.a'",
+            "pcmdsp.o"
+        ],
+        "Content-Length": [
+            "20",
+            "18433"
+        ],
+        "Last-Modified": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:30Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:30Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/pcmdsp.o"
+        ],
+        "date": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:30Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:30Z"
+        ],
+        "meta:save-date": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:30Z"
+        ],
+        "modified": [
+            "2004-04-14T01:28:40Z",
+            "2004-04-14T01:28:30Z"
+        ],
+        "embeddedRelationshipId": "pcmdsp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

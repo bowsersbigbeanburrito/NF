@@ -1,0 +1,132 @@
+{
+    "vi54mhz_timing.doc": {
+        "modified": "2021-07-26 17:18:35.905311",
+        "size": "107.0KB",
+        "md5": "a1820a6ec76931792fcebbff1eb9113d",
+        "sha256": "07927f6484e6d6aa3bc7473585d900029aa667fb393222515490cc20dc4321ee"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Word 8.0",
+        "Author": "西海　聡",
+        "Character Count": "95",
+        "Company": "ArtX, Inc",
+        "Content-Type": [
+            "application/msword",
+            "image/wmf",
+            "image/wmf",
+            "application/x-tika-msoffice",
+            "application/x-tika-msoffice"
+        ],
+        "Creation-Date": "2000-03-08T18:39:00Z",
+        "Keywords": "",
+        "Last-Author": "Sal Dasgupta",
+        "Last-Modified": "2000-03-08T18:39:00Z",
+        "Last-Printed": "1999-10-15T05:31:00Z",
+        "Last-Save-Date": "2000-03-08T18:39:00Z",
+        "Page-Count": "1",
+        "Revision-Number": "2",
+        "Template": "Normal.dot",
+        "Word-Count": "16",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:origResourceName": [
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\Video Interface5.doc",
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\AC timing (@ 54MHz).doc",
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\AC timing (@ 54MHz).doc",
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\AC timing (@ 54MHz).doc",
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\AC timing (@ 54MHz).doc",
+            "C:\\TEMPFILE\\自動ﾊﾞｯｸｱｯﾌﾟ ～ AC timing (@ 54MHz).asd",
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\AC timing (@ 54MHz).doc",
+            "F:\\Word work\\Dolphin\\VI,エンコーダ関係\\AC timing (@ 54MHz).doc",
+            "C:\\TEMP\\AutoRecovery save of AC timing (@ 54MHz)3.asd",
+            "\\\\Blackhole\\homes\\sal\\trees\\dolphin\\doc\\spec\\vi54Mhz_timing.doc"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "12",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "cp:revision": "2",
+        "cp:subject": "",
+        "creator": "西海　聡",
+        "date": "2000-03-08T18:39:00Z",
+        "dc:creator": "西海　聡",
+        "dc:subject": "",
+        "dc:title": " ",
+        "dcterms:created": "2000-03-08T18:39:00Z",
+        "dcterms:modified": "2000-03-08T18:39:00Z",
+        "extended-properties:Application": "Microsoft Word 8.0",
+        "extended-properties:Company": "ArtX, Inc",
+        "extended-properties:Template": "Normal.dot",
+        "meta:author": "西海　聡",
+        "meta:character-count": "95",
+        "meta:creation-date": "2000-03-08T18:39:00Z",
+        "meta:keyword": "",
+        "meta:last-author": "Sal Dasgupta",
+        "meta:page-count": "1",
+        "meta:print-date": "1999-10-15T05:31:00Z",
+        "meta:save-date": "2000-03-08T18:39:00Z",
+        "meta:word-count": "16",
+        "modified": "2000-03-08T18:39:00Z",
+        "resourceName": [
+            "b'vi54mhz_timing.doc'",
+            "image1.wmf",
+            "image2.wmf",
+            "_1002465007.unknown",
+            "_1013939234.unknown"
+        ],
+        "subject": "",
+        "title": " ",
+        "xmpTPg:NPages": "1",
+        "X-TIKA:embedded_resource_path": [
+            "/image1.wmf",
+            "/image2.wmf",
+            "/_1002465007.unknown",
+            "/_1013939234.unknown"
+        ],
+        "tika.mime.file": [
+            "image1.wmf",
+            "image2.wmf"
+        ],
+        "embeddedRelationshipId": [
+            "_1002465007",
+            "_1013939234"
+        ],
+        "embeddedStorageClassId": [
+            "{000CA003-0000-0000-C000-000000000046}",
+            "{000CA003-0000-0000-C000-000000000046}"
+        ]
+    }
+}

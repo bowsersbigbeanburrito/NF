@@ -1,0 +1,183 @@
+{
+    "t2video.a": {
+        "modified": "2021-07-26 17:18:53.501742",
+        "size": "209.32KB",
+        "md5": "a7bbe4903c709f366a33ca196029498b",
+        "sha256": "cd79ab0a94f5208ca295caf8fdb995577437445f3198fbc0de513ab84bdebb16"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b't2video.a'",
+            "t2videomisc.o",
+            "postprocess.o",
+            "softsp.o",
+            "subpic.o",
+            "sphl.o",
+            "hwspdecode.o"
+        ],
+        "Content-Length": [
+            "1620",
+            "61588",
+            "2837",
+            "1909",
+            "65644",
+            "76012",
+            "4303"
+        ],
+        "Last-Modified": [
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/t2videomisc.o",
+            "/postprocess.o",
+            "/softsp.o",
+            "/subpic.o",
+            "/sphl.o",
+            "/hwspdecode.o"
+        ],
+        "date": [
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z"
+        ],
+        "meta:save-date": [
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z"
+        ],
+        "modified": [
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:02Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z",
+            "2004-04-29T03:16:04Z"
+        ],
+        "embeddedRelationshipId": [
+            "t2videomisc.o",
+            "postprocess.o",
+            "softsp.o",
+            "subpic.o",
+            "sphl.o",
+            "hwspdecode.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

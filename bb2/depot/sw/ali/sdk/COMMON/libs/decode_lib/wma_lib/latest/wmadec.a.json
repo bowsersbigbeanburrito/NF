@@ -1,0 +1,75 @@
+{
+    "wmadec.a": {
+        "modified": "2021-07-26 17:18:53.508408",
+        "size": "7.29KB",
+        "md5": "a3e4647c51e54bd0d8ea08d40acc4119",
+        "sha256": "8739a77e9f03cb3b95d0b9a93e6831e0ed0ce313516b6efd638bd2b18b2896b8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'wmadec.a'",
+            "wmadecoder.o"
+        ],
+        "Content-Length": [
+            "190",
+            "7152"
+        ],
+        "Last-Modified": [
+            "2004-03-23T05:05:15Z",
+            "2004-03-23T05:05:16Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-23T05:05:15Z",
+            "2004-03-23T05:05:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/wmadecoder.o"
+        ],
+        "date": [
+            "2004-03-23T05:05:15Z",
+            "2004-03-23T05:05:16Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-23T05:05:15Z",
+            "2004-03-23T05:05:16Z"
+        ],
+        "meta:save-date": [
+            "2004-03-23T05:05:15Z",
+            "2004-03-23T05:05:16Z"
+        ],
+        "modified": [
+            "2004-03-23T05:05:15Z",
+            "2004-03-23T05:05:16Z"
+        ],
+        "embeddedRelationshipId": "wmadecoder.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

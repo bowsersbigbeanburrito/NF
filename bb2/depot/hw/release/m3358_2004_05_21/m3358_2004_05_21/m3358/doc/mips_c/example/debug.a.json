@@ -1,0 +1,103 @@
+{
+    "debug.a": {
+        "modified": "2004-04-28 11:34:10",
+        "size": "11.18KB",
+        "md5": "320b4f62bb000dcc448dd30ee2345718",
+        "sha256": "5f608d65c615d7eb63fe3727dd2b350642be2cae7601ee42060a963097cd81db"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'debug.a'",
+            "diag.o",
+            "debug.o"
+        ],
+        "Content-Length": [
+            "174",
+            "6244",
+            "4844"
+        ],
+        "Last-Modified": [
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z"
+        ],
+        "Last-Save-Date": [
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/diag.o",
+            "/debug.o"
+        ],
+        "date": [
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z"
+        ],
+        "dcterms:modified": [
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z"
+        ],
+        "meta:save-date": [
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z"
+        ],
+        "modified": [
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z",
+            "2002-06-26T07:32:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "diag.o",
+            "debug.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "test.txt": {
+        "modified": "2004-03-26 10:52:26",
+        "size": "61.14KB",
+        "md5": "8d2c94e2c7b7993cbdbdaa33cf85034d",
+        "sha256": "24fea1585924901fc67bbb49cdfb7da7b550d8bf8be5f23cd94440739a0b7b78"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test.txt'"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "cddalib.a": {
+        "modified": "2021-07-26 17:18:53.505075",
+        "size": "5.06KB",
+        "md5": "268ae76392238c1feb4390aeb198aa1c",
+        "sha256": "751d9f1e862f7a8629e08b48863a5af01899ab5f08e8c4fbf00b8483cac06f51"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'cddalib.a'",
+            "playcdda.o"
+        ],
+        "Content-Length": [
+            "84",
+            "4968"
+        ],
+        "Last-Modified": [
+            "2004-03-23T05:04:42Z",
+            "2004-03-23T05:04:42Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-23T05:04:42Z",
+            "2004-03-23T05:04:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/playcdda.o"
+        ],
+        "date": [
+            "2004-03-23T05:04:42Z",
+            "2004-03-23T05:04:42Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-23T05:04:42Z",
+            "2004-03-23T05:04:42Z"
+        ],
+        "meta:save-date": [
+            "2004-03-23T05:04:42Z",
+            "2004-03-23T05:04:42Z"
+        ],
+        "modified": [
+            "2004-03-23T05:04:42Z",
+            "2004-03-23T05:04:42Z"
+        ],
+        "embeddedRelationshipId": "playcdda.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

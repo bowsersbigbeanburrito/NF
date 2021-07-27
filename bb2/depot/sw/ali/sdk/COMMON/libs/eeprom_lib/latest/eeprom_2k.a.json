@@ -1,0 +1,75 @@
+{
+    "eeprom_2k.a": {
+        "modified": "2021-07-26 17:18:53.518408",
+        "size": "3.92KB",
+        "md5": "bc096abdc47fc63dc3796c09455dcac0",
+        "sha256": "fae1701747cf4e2cfcfb3e0c96aa3324c117a6ce326f64ce2a18fa158a87f45c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'eeprom_2k.a'",
+            "eeprom.o"
+        ],
+        "Content-Length": [
+            "112",
+            "3776"
+        ],
+        "Last-Modified": [
+            "2004-02-27T02:51:11Z",
+            "2004-02-27T02:51:12Z"
+        ],
+        "Last-Save-Date": [
+            "2004-02-27T02:51:11Z",
+            "2004-02-27T02:51:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/eeprom.o"
+        ],
+        "date": [
+            "2004-02-27T02:51:11Z",
+            "2004-02-27T02:51:12Z"
+        ],
+        "dcterms:modified": [
+            "2004-02-27T02:51:11Z",
+            "2004-02-27T02:51:12Z"
+        ],
+        "meta:save-date": [
+            "2004-02-27T02:51:11Z",
+            "2004-02-27T02:51:12Z"
+        ],
+        "modified": [
+            "2004-02-27T02:51:11Z",
+            "2004-02-27T02:51:12Z"
+        ],
+        "embeddedRelationshipId": "eeprom.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "islpci.a": {
+        "modified": "2021-07-26 17:18:53.495075",
+        "size": "432.97KB",
+        "md5": "3459d07bdda89b16ddb5793c2583b05f",
+        "sha256": "3321fb11ebb10a5ba6f63018e6e4662fd654df0ce2e401db7435775b8522a9cf"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'islpci.a'",
+            "isl_gen.o",
+            "isl_38xx.o",
+            "islpci_dev.o",
+            "islpci_eth.o",
+            "islpci_mgt.o",
+            "islpci_hotplug.o"
+        ],
+        "Content-Length": [
+            "1592",
+            "4028",
+            "120380",
+            "221284",
+            "12756",
+            "64976",
+            "17836"
+        ],
+        "Last-Modified": [
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:13Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:16Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:13Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/isl_gen.o",
+            "/isl_38xx.o",
+            "/islpci_dev.o",
+            "/islpci_eth.o",
+            "/islpci_mgt.o",
+            "/islpci_hotplug.o"
+        ],
+        "date": [
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:13Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:16Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:13Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:16Z"
+        ],
+        "meta:save-date": [
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:13Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:16Z"
+        ],
+        "modified": [
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:13Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:15Z",
+            "2004-04-29T08:09:16Z",
+            "2004-04-29T08:09:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "isl_gen.o",
+            "isl_38xx.o",
+            "islpci_dev.o",
+            "islpci_eth.o",
+            "islpci_mgt.o",
+            "islpci_hotplug.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

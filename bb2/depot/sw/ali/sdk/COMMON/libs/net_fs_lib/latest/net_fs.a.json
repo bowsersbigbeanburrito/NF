@@ -1,0 +1,103 @@
+{
+    "net_fs.a": {
+        "modified": "2021-07-26 17:18:53.538408",
+        "size": "102.64KB",
+        "md5": "823086722bd46714b3880f3d9d6fa10f",
+        "sha256": "4534742fbbc5534ffdd4856e8b21b1ae10dc6cec089493925ac16b7774ae380d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'net_fs.a'",
+            "client_file.o",
+            "client.o"
+        ],
+        "Content-Length": [
+            "2054",
+            "68640",
+            "34224"
+        ],
+        "Last-Modified": [
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z"
+        ],
+        "Last-Save-Date": [
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/client_file.o",
+            "/client.o"
+        ],
+        "date": [
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z"
+        ],
+        "dcterms:modified": [
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z"
+        ],
+        "meta:save-date": [
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z"
+        ],
+        "modified": [
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z",
+            "2003-10-21T09:47:20Z"
+        ],
+        "embeddedRelationshipId": [
+            "client_file.o",
+            "client.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

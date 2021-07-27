@@ -1,0 +1,75 @@
+{
+    "libsoc_printf.a": {
+        "modified": "2003-06-14 08:02:54",
+        "size": "35.15KB",
+        "md5": "3ddc41c7ae0fc4266c35b3822d85f66f",
+        "sha256": "1902c270ffdd8ff090ba20a89cd631260c7768d80ad2527166d0faa3d8949599"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libsoc_printf.a'",
+            "stdio.o"
+        ],
+        "Content-Length": [
+            "416",
+            "35448"
+        ],
+        "Last-Modified": [
+            "2002-08-08T02:40:22Z",
+            "2002-08-08T02:40:21Z"
+        ],
+        "Last-Save-Date": [
+            "2002-08-08T02:40:22Z",
+            "2002-08-08T02:40:21Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/stdio.o"
+        ],
+        "date": [
+            "2002-08-08T02:40:22Z",
+            "2002-08-08T02:40:21Z"
+        ],
+        "dcterms:modified": [
+            "2002-08-08T02:40:22Z",
+            "2002-08-08T02:40:21Z"
+        ],
+        "meta:save-date": [
+            "2002-08-08T02:40:22Z",
+            "2002-08-08T02:40:21Z"
+        ],
+        "modified": [
+            "2002-08-08T02:40:22Z",
+            "2002-08-08T02:40:21Z"
+        ],
+        "embeddedRelationshipId": "stdio.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

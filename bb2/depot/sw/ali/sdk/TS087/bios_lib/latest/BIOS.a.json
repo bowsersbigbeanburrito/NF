@@ -1,0 +1,75 @@
+{
+    "BIOS.a": {
+        "modified": "2021-07-26 17:18:53.878403",
+        "size": "37.65KB",
+        "md5": "7bdb1f151e88656eff811c8d5047a04a",
+        "sha256": "0a0c6e23738d46e024a6b9268c18f68adaf877ddda5fea30aa30080ed454ef91"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'BIOS.a'",
+            "BIOS.o"
+        ],
+        "Content-Length": [
+            "2044",
+            "36384"
+        ],
+        "Last-Modified": [
+            "2004-03-31T08:00:02Z",
+            "2004-03-31T08:00:04Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-31T08:00:02Z",
+            "2004-03-31T08:00:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/BIOS.o"
+        ],
+        "date": [
+            "2004-03-31T08:00:02Z",
+            "2004-03-31T08:00:04Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-31T08:00:02Z",
+            "2004-03-31T08:00:04Z"
+        ],
+        "meta:save-date": [
+            "2004-03-31T08:00:02Z",
+            "2004-03-31T08:00:04Z"
+        ],
+        "modified": [
+            "2004-03-31T08:00:02Z",
+            "2004-03-31T08:00:04Z"
+        ],
+        "embeddedRelationshipId": "BIOS.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "crt0_multi_boot.o": {
+        "modified": "2021-07-26 17:18:53.891736",
+        "size": "31.5KB",
+        "md5": "d366a92e6b3984f3896451b9d7845e52",
+        "sha256": "212d5f616cba58418d21aa97c8b1f061933ca29d4d4f71df9fbc7ecfd8e55a7a"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'crt0_multi_boot.o'"
+    }
+}

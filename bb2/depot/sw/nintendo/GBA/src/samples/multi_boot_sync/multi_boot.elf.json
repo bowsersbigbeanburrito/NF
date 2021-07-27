@@ -1,0 +1,22 @@
+{
+    "multi_boot.elf": {
+        "modified": "2021-07-26 17:18:53.901736",
+        "size": "371.62KB",
+        "md5": "275d698e26b1ec0b41cdbbb82dd7b3ac",
+        "sha256": "f9c9cf49b32ce4a0a44580d7fbeadb034746bf0069f6f9582b57784ddff821cf"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'multi_boot.elf'"
+    }
+}

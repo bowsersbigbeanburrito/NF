@@ -1,0 +1,263 @@
+{
+    "libunzip.a": {
+        "modified": "2004-02-09 08:13:44",
+        "size": "42.03KB",
+        "md5": "eab5c815b83019478f5e25058bf4c20e",
+        "sha256": "f138112673109ad8f049548542202c4ceae57c03d1cda1fce5979919a24a781b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libunzip.a'",
+            "decompress.o",
+            "adler32.o",
+            "uncompr.o",
+            "zutil.o",
+            "inflate.o",
+            "infblock.o",
+            "inftrees.o",
+            "infcodes.o",
+            "infutil.o",
+            "inffast.o"
+        ],
+        "Content-Length": [
+            "756",
+            "1224",
+            "1333",
+            "1476",
+            "3804",
+            "7056",
+            "7792",
+            "9964",
+            "4764",
+            "1720",
+            "2484"
+        ],
+        "Last-Modified": [
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:46Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:50Z"
+        ],
+        "Last-Save-Date": [
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:46Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/decompress.o",
+            "/adler32.o",
+            "/uncompr.o",
+            "/zutil.o",
+            "/inflate.o",
+            "/infblock.o",
+            "/inftrees.o",
+            "/infcodes.o",
+            "/infutil.o",
+            "/inffast.o"
+        ],
+        "date": [
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:46Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:50Z"
+        ],
+        "dcterms:modified": [
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:46Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:50Z"
+        ],
+        "meta:save-date": [
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:46Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:50Z"
+        ],
+        "modified": [
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:46Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2004-02-09T01:13:44Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:48Z",
+            "2003-12-04T07:12:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "decompress.o",
+            "adler32.o",
+            "uncompr.o",
+            "zutil.o",
+            "inflate.o",
+            "infblock.o",
+            "inftrees.o",
+            "infcodes.o",
+            "infutil.o",
+            "inffast.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

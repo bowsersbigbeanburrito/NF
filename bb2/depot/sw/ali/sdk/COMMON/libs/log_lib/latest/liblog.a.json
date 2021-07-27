@@ -1,0 +1,123 @@
+{
+    "liblog.a": {
+        "modified": "2021-07-26 17:18:53.528408",
+        "size": "17.7KB",
+        "md5": "98e3d49b79969a9b0df562bdb36c2566",
+        "sha256": "379c6974926f71658cc2834c7e8116e4a2e874daf60d2f9a99ed9234853b749c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'liblog.a'",
+            "icelog.o",
+            "icelog2.o",
+            "log.o"
+        ],
+        "Content-Length": [
+            "58",
+            "2713",
+            "5176",
+            "9924"
+        ],
+        "Last-Modified": [
+            "2004-03-15T01:20:51Z",
+            "2004-03-15T01:20:50Z",
+            "2004-03-15T01:20:52Z",
+            "2004-03-15T01:20:52Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-15T01:20:51Z",
+            "2004-03-15T01:20:50Z",
+            "2004-03-15T01:20:52Z",
+            "2004-03-15T01:20:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/icelog.o",
+            "/icelog2.o",
+            "/log.o"
+        ],
+        "date": [
+            "2004-03-15T01:20:51Z",
+            "2004-03-15T01:20:50Z",
+            "2004-03-15T01:20:52Z",
+            "2004-03-15T01:20:52Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-15T01:20:51Z",
+            "2004-03-15T01:20:50Z",
+            "2004-03-15T01:20:52Z",
+            "2004-03-15T01:20:52Z"
+        ],
+        "meta:save-date": [
+            "2004-03-15T01:20:51Z",
+            "2004-03-15T01:20:50Z",
+            "2004-03-15T01:20:52Z",
+            "2004-03-15T01:20:52Z"
+        ],
+        "modified": [
+            "2004-03-15T01:20:51Z",
+            "2004-03-15T01:20:50Z",
+            "2004-03-15T01:20:52Z",
+            "2004-03-15T01:20:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "icelog.o",
+            "icelog2.o",
+            "log.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

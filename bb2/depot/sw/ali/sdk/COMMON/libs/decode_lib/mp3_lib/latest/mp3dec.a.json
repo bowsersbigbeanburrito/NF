@@ -1,0 +1,75 @@
+{
+    "mp3dec.a": {
+        "modified": "2021-07-26 17:18:53.505075",
+        "size": "11.61KB",
+        "md5": "0628af7ebd6b217d78719a50dc47f851",
+        "sha256": "448a0d8e32ba5b7e6ee66626c3682fee4b24345b138ed7eb5b107f44cea64cd8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'mp3dec.a'",
+            "mp3decoder.o"
+        ],
+        "Content-Length": [
+            "224",
+            "11536"
+        ],
+        "Last-Modified": [
+            "2004-03-23T05:05:11Z",
+            "2004-03-23T05:05:12Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-23T05:05:11Z",
+            "2004-03-23T05:05:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mp3decoder.o"
+        ],
+        "date": [
+            "2004-03-23T05:05:11Z",
+            "2004-03-23T05:05:12Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-23T05:05:11Z",
+            "2004-03-23T05:05:12Z"
+        ],
+        "meta:save-date": [
+            "2004-03-23T05:05:11Z",
+            "2004-03-23T05:05:12Z"
+        ],
+        "modified": [
+            "2004-03-23T05:05:11Z",
+            "2004-03-23T05:05:12Z"
+        ],
+        "embeddedRelationshipId": "mp3decoder.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

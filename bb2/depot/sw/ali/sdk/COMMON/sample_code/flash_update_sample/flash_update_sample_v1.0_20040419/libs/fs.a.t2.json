@@ -1,0 +1,255 @@
+{
+    "fs.a.t2": {
+        "modified": "2004-04-15 09:32:04",
+        "size": "64.64KB",
+        "md5": "8237d31b5896a33ff1d6e91eb43b8ccc",
+        "sha256": "92e71a3201533d0dac93b7ca740565f78233a1450e236a2806ce9bc4b7dacc1f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zlib",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-archive"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "5"
+        ],
+        "resourceName": [
+            "b'fs.a.t2'",
+            "fs_iso9660.o",
+            "strnicmp.o",
+            "unicode.o",
+            "t2stdio.o",
+            "vfs.o",
+            "fs_vfat.o",
+            "device.o",
+            "fs_udf.o",
+            "fs_net.o",
+            "b'fs.a.t2'"
+        ],
+        "Content-Length": [
+            "832",
+            "10292",
+            "1952",
+            "31884",
+            "5560",
+            "9428",
+            "35264",
+            "1780",
+            "13712",
+            "5232"
+        ],
+        "Last-Modified": [
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:40Z",
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:43Z",
+            "2003-06-26T10:01:44Z",
+            "2003-06-26T10:01:44Z"
+        ],
+        "Last-Save-Date": [
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:40Z",
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:43Z",
+            "2003-06-26T10:01:44Z",
+            "2003-06-26T10:01:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/b'fs.a.t2'/embedded-1",
+            "/b'fs.a.t2'/fs_iso9660.o",
+            "/b'fs.a.t2'/strnicmp.o",
+            "/b'fs.a.t2'/unicode.o",
+            "/b'fs.a.t2'/t2stdio.o",
+            "/b'fs.a.t2'/vfs.o",
+            "/b'fs.a.t2'/fs_vfat.o",
+            "/b'fs.a.t2'/device.o",
+            "/b'fs.a.t2'/fs_udf.o",
+            "/b'fs.a.t2'/fs_net.o",
+            "/b'fs.a.t2'"
+        ],
+        "date": [
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:40Z",
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:43Z",
+            "2003-06-26T10:01:44Z",
+            "2003-06-26T10:01:44Z"
+        ],
+        "dcterms:modified": [
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:40Z",
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:43Z",
+            "2003-06-26T10:01:44Z",
+            "2003-06-26T10:01:44Z"
+        ],
+        "meta:save-date": [
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:40Z",
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:43Z",
+            "2003-06-26T10:01:44Z",
+            "2003-06-26T10:01:44Z"
+        ],
+        "modified": [
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:38Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:39Z",
+            "2003-06-26T10:01:40Z",
+            "2003-06-26T10:18:53Z",
+            "2003-06-26T10:01:43Z",
+            "2003-06-26T10:01:44Z",
+            "2003-06-26T10:01:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "fs_iso9660.o",
+            "strnicmp.o",
+            "unicode.o",
+            "t2stdio.o",
+            "vfs.o",
+            "fs_vfat.o",
+            "device.o",
+            "fs_udf.o",
+            "fs_net.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "pci_com.a": {
+        "modified": "2021-07-26 17:18:53.561741",
+        "size": "31.35KB",
+        "md5": "ec43541a4e0b6c7a5eb3d620d1e43167",
+        "sha256": "b960115f303b0ec1faf98a93c9b9d56ea3e80d9f52ab05bb567b222711f2ed34"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'pci_com.a'",
+            "pci_init.o",
+            "pci_pcmcia.o",
+            "pci_tlb.o"
+        ],
+        "Content-Length": [
+            "342",
+            "20980",
+            "9084",
+            "1448"
+        ],
+        "Last-Modified": [
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/pci_init.o",
+            "/pci_pcmcia.o",
+            "/pci_tlb.o"
+        ],
+        "date": [
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z"
+        ],
+        "meta:save-date": [
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z"
+        ],
+        "modified": [
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z",
+            "2004-04-29T08:08:21Z"
+        ],
+        "embeddedRelationshipId": [
+            "pci_init.o",
+            "pci_pcmcia.o",
+            "pci_tlb.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

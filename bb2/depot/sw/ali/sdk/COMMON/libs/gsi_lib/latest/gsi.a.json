@@ -1,0 +1,75 @@
+{
+    "gsi.a": {
+        "modified": "2021-07-26 17:18:53.521741",
+        "size": "4.8KB",
+        "md5": "9fd977cc5f24c80c05e1c7ca38c44c68",
+        "sha256": "57bcff9f04d0a2fba5e03e2247f23662c28a84d2dd2e60a8d91ac9e916d4ef64"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'gsi.a'",
+            "gsi.o"
+        ],
+        "Content-Length": [
+            "206",
+            "4580"
+        ],
+        "Last-Modified": [
+            "2004-04-27T07:48:36Z",
+            "2004-04-27T07:48:36Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-27T07:48:36Z",
+            "2004-04-27T07:48:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/gsi.o"
+        ],
+        "date": [
+            "2004-04-27T07:48:36Z",
+            "2004-04-27T07:48:36Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-27T07:48:36Z",
+            "2004-04-27T07:48:36Z"
+        ],
+        "meta:save-date": [
+            "2004-04-27T07:48:36Z",
+            "2004-04-27T07:48:36Z"
+        ],
+        "modified": [
+            "2004-04-27T07:48:36Z",
+            "2004-04-27T07:48:36Z"
+        ],
+        "embeddedRelationshipId": "gsi.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

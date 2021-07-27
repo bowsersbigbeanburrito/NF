@@ -1,0 +1,75 @@
+{
+    "dspac3.a": {
+        "modified": "2021-07-26 17:18:53.508408",
+        "size": "66.34KB",
+        "md5": "9cb01ed67ba5a4db821490312554e359",
+        "sha256": "332af580986e5c0bcafb505661f659a5eac9c67e20459c1b5309cecfbb20db4c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'dspac3.a'",
+            "ac3decdsp.o"
+        ],
+        "Content-Length": [
+            "46",
+            "67754"
+        ],
+        "Last-Modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:38Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ac3decdsp.o"
+        ],
+        "date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:38Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:38Z"
+        ],
+        "meta:save-date": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:38Z"
+        ],
+        "modified": [
+            "2004-04-14T01:28:41Z",
+            "2004-04-14T01:28:38Z"
+        ],
+        "embeddedRelationshipId": "ac3decdsp.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "MIPS"
+    }
+}

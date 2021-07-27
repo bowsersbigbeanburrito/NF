@@ -1,0 +1,115 @@
+{
+    "tdiseng.a.t2": {
+        "modified": "2004-04-15 09:33:04",
+        "size": "48.8KB",
+        "md5": "a27d370d7e9181ec95db0fcc30005834",
+        "sha256": "05bfce83d28ac6f6cba2f6d96f631ed7a8782633ae1ac7fa0c242dccafe329f3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zlib",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-archive"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "0",
+            "3"
+        ],
+        "resourceName": [
+            "b'tdiseng.a.t2'",
+            "TDisplayEngine.o",
+            "tvencoder_m3351.o",
+            "b'tdiseng.a.t2'"
+        ],
+        "Content-Length": [
+            "1754",
+            "99860",
+            "26144"
+        ],
+        "Last-Modified": [
+            "2004-03-26T01:19:39Z",
+            "2004-03-26T01:19:40Z",
+            "2004-03-26T01:19:40Z"
+        ],
+        "Last-Save-Date": [
+            "2004-03-26T01:19:39Z",
+            "2004-03-26T01:19:40Z",
+            "2004-03-26T01:19:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/b'tdiseng.a.t2'/embedded-1",
+            "/b'tdiseng.a.t2'/TDisplayEngine.o",
+            "/b'tdiseng.a.t2'/tvencoder_m3351.o",
+            "/b'tdiseng.a.t2'"
+        ],
+        "date": [
+            "2004-03-26T01:19:39Z",
+            "2004-03-26T01:19:40Z",
+            "2004-03-26T01:19:40Z"
+        ],
+        "dcterms:modified": [
+            "2004-03-26T01:19:39Z",
+            "2004-03-26T01:19:40Z",
+            "2004-03-26T01:19:40Z"
+        ],
+        "meta:save-date": [
+            "2004-03-26T01:19:39Z",
+            "2004-03-26T01:19:40Z",
+            "2004-03-26T01:19:40Z"
+        ],
+        "modified": [
+            "2004-03-26T01:19:39Z",
+            "2004-03-26T01:19:40Z",
+            "2004-03-26T01:19:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "TDisplayEngine.o",
+            "tvencoder_m3351.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

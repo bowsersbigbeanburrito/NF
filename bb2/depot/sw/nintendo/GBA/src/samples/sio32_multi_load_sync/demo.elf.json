@@ -1,0 +1,22 @@
+{
+    "demo.elf": {
+        "modified": "2021-07-26 17:18:53.918403",
+        "size": "350.65KB",
+        "md5": "4587f68163672df86fddc0e3782d4900",
+        "sha256": "44c3813b67c380ba6940b74be6e60c5d679acba36c6edd4a741cf39a599435fa"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'demo.elf'"
+    }
+}

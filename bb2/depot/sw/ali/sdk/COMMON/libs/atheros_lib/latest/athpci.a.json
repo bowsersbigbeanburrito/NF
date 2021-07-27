@@ -1,0 +1,123 @@
+{
+    "athpci.a": {
+        "modified": "2021-07-26 17:18:53.498408",
+        "size": "1483.59KB",
+        "md5": "8d205e2fb0269ab8cd72316e7c78ee81",
+        "sha256": "1bf6bde0384545ebdcbf2147b0ce196c6335d22cea27a7bb5b0434aa2198a875"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'athpci.a'",
+            "ath_hal.o",
+            "wlan.o",
+            "ath_pci.o"
+        ],
+        "Content-Length": [
+            "10544",
+            "1173526",
+            "180063",
+            "154814"
+        ],
+        "Last-Modified": [
+            "2004-04-29T08:07:41Z",
+            "2004-04-29T08:07:34Z",
+            "2004-04-29T08:07:38Z",
+            "2004-04-29T08:07:40Z"
+        ],
+        "Last-Save-Date": [
+            "2004-04-29T08:07:41Z",
+            "2004-04-29T08:07:34Z",
+            "2004-04-29T08:07:38Z",
+            "2004-04-29T08:07:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ath_hal.o",
+            "/wlan.o",
+            "/ath_pci.o"
+        ],
+        "date": [
+            "2004-04-29T08:07:41Z",
+            "2004-04-29T08:07:34Z",
+            "2004-04-29T08:07:38Z",
+            "2004-04-29T08:07:40Z"
+        ],
+        "dcterms:modified": [
+            "2004-04-29T08:07:41Z",
+            "2004-04-29T08:07:34Z",
+            "2004-04-29T08:07:38Z",
+            "2004-04-29T08:07:40Z"
+        ],
+        "meta:save-date": [
+            "2004-04-29T08:07:41Z",
+            "2004-04-29T08:07:34Z",
+            "2004-04-29T08:07:38Z",
+            "2004-04-29T08:07:40Z"
+        ],
+        "modified": [
+            "2004-04-29T08:07:41Z",
+            "2004-04-29T08:07:34Z",
+            "2004-04-29T08:07:38Z",
+            "2004-04-29T08:07:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "ath_hal.o",
+            "wlan.o",
+            "ath_pci.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

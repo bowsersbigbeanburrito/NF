@@ -1,0 +1,123 @@
+{
+    "usb.a": {
+        "modified": "2003-07-14 04:51:10",
+        "size": "169.59KB",
+        "md5": "2f859756b693f466fce5df6f9e72e404",
+        "sha256": "cbb0c345f50ebd6600969eea17e2d308a472e14b334ec2671658531a1e8e121f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'usb.a'",
+            "usb.o",
+            "ohci.o",
+            "storage.o"
+        ],
+        "Content-Length": [
+            "2396",
+            "90724",
+            "37764",
+            "42524"
+        ],
+        "Last-Modified": [
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:44Z",
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:46Z"
+        ],
+        "Last-Save-Date": [
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:44Z",
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/usb.o",
+            "/ohci.o",
+            "/storage.o"
+        ],
+        "date": [
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:44Z",
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:46Z"
+        ],
+        "dcterms:modified": [
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:44Z",
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:46Z"
+        ],
+        "meta:save-date": [
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:44Z",
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:46Z"
+        ],
+        "modified": [
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:44Z",
+            "2003-06-30T18:46:06Z",
+            "2003-06-27T22:21:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "usb.o",
+            "ohci.o",
+            "storage.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}
