@@ -1,0 +1,74 @@
+{
+    "Wi-Fiガイドライン ML200602.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "819.91KB",
+        "md5": "b0e11fad46c3e9d60e5fbd9878d80fe1",
+        "sha256": "92f4189ce7d47ef44a52fdfc94fde62e0bd6f50ab2963d925f14e9ef64ee4419"
+    },
+    "Metadata": {
+        "Author": "Takayama Takaki/ Ró <takayama@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-01-25T01:51:39Z",
+        "Message-From": "Takayama Takaki/ Ró <takayama@nintendo.co.jp>",
+        "Message-To": "ml-wifiguideline@nintendo.co.jp",
+        "Message:From-Email": "takayama@nintendo.co.jp",
+        "Message:From-Name": "Takayama Takaki/ Ró",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-wifiguideline@photon.nintendo.co.jp",
+            "ml-wifiguideline@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "60",
+        "Message:Raw-Header:List-Help": "<mailto:ml-wifiguideline-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-wifiguideline.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-wifiguideline-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-wifiguideline@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-wifiguideline-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<5CC62151E1C710takayama@nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 643FB55C0B0\tfor <muraka@photon.nintendo.co.jp>; Wed, 25 Jan 2006 10:51:27 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 5183059C0DE; Wed, 25 Jan 2006 10:51:21 +0900 (JST)",
+            "from localhost (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with SMTP\tid 346B259C009; Wed, 25 Jan 2006 10:51:21 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 1EFCB59C054; Wed, 25 Jan 2006 10:51:12 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 1749A55C0AB; Wed, 25 Jan 2006 10:51:11 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 732F855C0A7\tfor <ml-wifiguideline@photon.nintendo.co.jp>; Wed, 25 Jan 2006 10:51:09 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 74CAE59C009; Wed, 25 Jan 2006 10:51:09 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 4D05F59C0D2\tfor <ml-wifiguideline@nintendo.co.jp>; Wed, 25 Jan 2006 10:51:09 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 3599D59C054\tfor <ml-wifiguideline@nintendo.co.jp>; Wed, 25 Jan 2006 10:51:09 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.117.1.58])\tby photon.nintendo.co.jp (Postfix) with SMTP id C3BF355C0A8\tfor <ml-wifiguideline@nintendo.co.jp>; Wed, 25 Jan 2006 10:51:05 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "ml-wifiguideline@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-wifiguideline-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-wifiguideline-ctl@nintendo.co.jp;\thelp=<mailto:ml-wifiguideline-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-wifiguideline",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (only members can post)",
+        "Message:Raw-Header:X-Mail-Count": "12",
+        "Message:Raw-Header:X-Mailer": "HidemaruMail 4.60 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-wifiguideline@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "$CB!!3ep\"!Ecn\"!K`3!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "creator": "Takayama Takaki/ Ró <takayama@nintendo.co.jp>",
+        "dc:creator": "Takayama Takaki/ Ró <takayama@nintendo.co.jp>",
+        "dc:title": "[ml-wifiguideline:12] o[ÇÁÌ¨mç¹",
+        "dcterms:created": "2006-01-25T01:51:39Z",
+        "meta:author": "Takayama Takaki/ Ró <takayama@nintendo.co.jp>",
+        "meta:creation-date": "2006-01-25T01:51:39Z",
+        "resourceName": "b'Wi-Fi\\xe3\\x82\\xac\\xe3\\x82\\xa4\\xe3\\x83\\x89\\xe3\\x83\\xa9\\xe3\\x82\\xa4\\xe3\\x83\\xb3 ML200602.txt'",
+        "subject": "[ml-wifiguideline:12] o[ÇÁÌ¨mç¹"
+    }
+}

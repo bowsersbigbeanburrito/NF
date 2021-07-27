@@ -1,0 +1,74 @@
+{
+    "RVLネットワーク関連200607.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "50.96KB",
+        "md5": "17bfa66b259ca2da359a5fdc6e994618",
+        "sha256": "f610942758e79544c3543f5812036249b82192ce0901aafd6ff72787c998716c"
+    },
+    "Metadata": {
+        "Author": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-07-05T02:25:22Z",
+        "Message-From": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "Message-To": "ml-wii-netprogress@nintendo.co.jp",
+        "Message:From-Email": "ohara@nintendo.co.jp",
+        "Message:From-Name": "Ohara Takao/ å´Mv",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-wii-netprogress@photon.nintendo.co.jp",
+            "ml-wii-netprogress@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "116",
+        "Message:Raw-Header:List-Help": "<mailto:ml-wii-netprogress-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-wii-netprogress.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-wii-netprogress-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-wii-netprogress@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-wii-netprogress-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<FDC69FDA440EABohara@nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 5DA6F55C0BE\tfor <muraka@photon.nintendo.co.jp>; Wed,  5 Jul 2006 11:25:26 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid EFA3659C0F2; Wed,  5 Jul 2006 11:25:25 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid A5F6059C0D5; Wed,  5 Jul 2006 11:25:25 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 7B90059C054; Wed,  5 Jul 2006 11:25:25 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 3BC8355C0A7; Wed,  5 Jul 2006 11:25:25 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id EF47255C0A9\tfor <ml-wii-netprogress@photon.nintendo.co.jp>; Wed,  5 Jul 2006 11:25:24 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid EBDEB59C0D6; Wed,  5 Jul 2006 11:25:24 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id CA86959C0D5\tfor <ml-wii-netprogress@nintendo.co.jp>; Wed,  5 Jul 2006 11:25:24 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id B11A459C007\tfor <ml-wii-netprogress@nintendo.co.jp>; Wed,  5 Jul 2006 11:25:24 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.117.1.36])\tby photon.nintendo.co.jp (Postfix) with SMTP id 217D555C0A9\tfor <ml-wii-netprogress@nintendo.co.jp>; Wed,  5 Jul 2006 11:25:22 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "ml-wii-netprogress@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-wii-netprogress-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-wii-netprogress-ctl@nintendo.co.jp;\thelp=<mailto:ml-wii-netprogress-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-wii-netprogress",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "1",
+        "Message:Raw-Header:X-Mailer": "HidemaruMail 4.63 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-wii-netprogress@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "V(e!!l+i!!n,2!!,ml\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "creator": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "dc:creator": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "dc:title": "[ml-wii-netprogress:1] Wiilbg[N[OXgo^®¹Ì²A",
+        "dcterms:created": "2006-07-05T02:25:22Z",
+        "meta:author": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "meta:creation-date": "2006-07-05T02:25:22Z",
+        "resourceName": "b'RVL\\xe3\\x83\\x8d\\xe3\\x83\\x83\\xe3\\x83\\x88\\xe3\\x83\\xaf\\xe3\\x83\\xbc\\xe3\\x82\\xaf\\xe9\\x96\\xa2\\xe9\\x80\\xa3200607.txt'",
+        "subject": "[ml-wii-netprogress:1] Wiilbg[N[OXgo^®¹Ì²A"
+    }
+}

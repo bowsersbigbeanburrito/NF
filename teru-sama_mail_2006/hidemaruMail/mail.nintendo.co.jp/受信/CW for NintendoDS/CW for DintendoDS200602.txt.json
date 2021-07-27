@@ -1,0 +1,70 @@
+{
+    "CW for DintendoDS200602.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "896.17KB",
+        "md5": "d05ff56222e9bcd79ae65dc6f52504e9",
+        "sha256": "c08eaf5d31bdd7eb069c5b505a99a72c70c78e91b1266ddf716a58be39a3def6"
+    },
+    "Metadata": {
+        "Author": "Fujiwara Takahiro-RG560C <RG560C@freescale.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-02-01T03:56:12Z",
+        "Message-From": "Fujiwara Takahiro-RG560C <RG560C@freescale.com>",
+        "Message-To": "cw4iris-dev@lic.nintendo.co.jp",
+        "Message:From-Email": "RG560C@freescale.com",
+        "Message:From-Name": "Fujiwara Takahiro-RG560C",
+        "Message:Raw-Header:Content-Type": "text/plain;\tcharset=\"iso-2022-jp\"",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "526",
+        "Message:Raw-Header:List-Help": "<mailto:cw4iris-dev-ctl@lic.nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "cw4iris-dev.lic.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:cw4iris-dev-admin@lic.nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:cw4iris-dev@lic.nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20040215/4.0.4_BETA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:cw4iris-dev-ctl@lic.nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<EFEC48B0FD0CD911956E000E7FAE45FA07AA96E6@zja36exm40.ap.freescale.net>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 73D0E55C0B6\tfor <muraka@photon.nintendo.co.jp>; Wed,  1 Feb 2006 12:56:37 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid B425059C0DE; Wed,  1 Feb 2006 12:56:31 +0900 (JST)",
+            "from localhost (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with SMTP\tid 8E55959C0D2; Wed,  1 Feb 2006 12:56:31 +0900 (JST)",
+            "from seal.lic.nintendo.co.jp (lic.nintendo.co.jp [10.109.1.1])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid A911159C0D2; Wed,  1 Feb 2006 12:56:21 +0900 (JST)",
+            "from todo.lic.nintendo.co.jp (localhost.localdomain [127.0.0.1])\tby seal.lic.nintendo.co.jp (8.12.8/8.12.8) with ESMTP id k113uK0Q017149;\tWed, 1 Feb 2006 12:56:20 +0900",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby seal.lic.nintendo.co.jp (8.12.8/8.12.8) with ESMTP id k113uJ0Q017145\tfor <cw4iris-dev@lic.nintendo.co.jp>; Wed, 1 Feb 2006 12:56:19 +0900",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 8F09759C0D5\tfor <cw4iris-dev@lic.nintendo.co.jp>; Wed,  1 Feb 2006 12:56:19 +0900 (JST)",
+            "from halcyon.nintendo.co.jp (halcyon.nintendo.co.jp [211.8.190.217])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 6F6A559C009\tfor <cw4iris-dev@lic.nintendo.co.jp>; Wed,  1 Feb 2006 12:56:19 +0900 (JST)",
+            "from de01egw02.freescale.net (de01egw02.freescale.net [192.88.165.103])\tby halcyon.nintendo.co.jp (Postfix) with ESMTP id CA0EB898BC\tfor <cw4iris-dev@lic.nintendo.co.jp>; Wed,  1 Feb 2006 12:56:17 +0900 (JST)",
+            "from de01smr01.am.mot.com (de01smr01.freescale.net [10.208.0.31])\tby de01egw02.freescale.net (8.12.11/de01egw02) with ESMTP id k1144Drg005189\tfor <cw4iris-dev@lic.nintendo.co.jp>; Tue, 31 Jan 2006 21:04:13 -0700 (MST)",
+            "from zja36exm40.ap.freescale.net (zja36exm40.ap.freescale.net [10.200.137.31])\tby de01smr01.am.mot.com (8.13.1/8.13.0) with ESMTP id k1148PRb011162\tfor <cw4iris-dev@lic.nintendo.co.jp>; Tue, 31 Jan 2006 22:08:26 -0600 (CST)",
+            "by zja36exm40.ap.freescale.net with Internet Mail Service (5.5.2657.72)\tid <YXHX0454>; Wed, 1 Feb 2006 12:56:13 +0900"
+        ],
+        "Message:Raw-Header:Reply-To": "cw4iris-dev@lic.nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<cw4iris-dev-admin@lic.nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address cw4iris-dev-ctl@lic.nintendo.co.jp;\thelp=<mailto:cw4iris-dev-ctl@lic.nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "cw4iris-dev",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20040215/4.0.4_BETA)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "01127",
+        "Message:Raw-Header:X-Mailer": "Internet Mail Service (5.5.2657.72)",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "X\"c!!0?T!!ogX!!NG0\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "creator": "Fujiwara Takahiro-RG560C <RG560C@freescale.com>",
+        "dc:creator": "Fujiwara Takahiro-RG560C <RG560C@freescale.com>",
+        "dc:title": "[cw4iris-dev:01127] RE: [cw4iris-dev:01120] Re: 2.0 Beta 1ÅÌùmÌâèÆBeta2ÅÌ\\è",
+        "dcterms:created": "2006-02-01T03:56:12Z",
+        "meta:author": "Fujiwara Takahiro-RG560C <RG560C@freescale.com>",
+        "meta:creation-date": "2006-02-01T03:56:12Z",
+        "resourceName": "b'CW for DintendoDS200602.txt'",
+        "subject": "[cw4iris-dev:01127] RE: [cw4iris-dev:01120] Re: 2.0 Beta 1ÅÌùmÌâèÆBeta2ÅÌ\\è"
+    }
+}

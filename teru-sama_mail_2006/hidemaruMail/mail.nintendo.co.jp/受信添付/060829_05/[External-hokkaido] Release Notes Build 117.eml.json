@@ -1,0 +1,201 @@
+{
+    "[External-hokkaido] Release Notes Build 117.eml": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "333.34KB",
+        "md5": "e0971b8c527183a60a565b26e9233ba9",
+        "sha256": "e943ffb5da647653ea944dad9ef321b692df003f1a3ba8d44d91dfec57a5aece"
+    },
+    "Metadata": {
+        "Author": [
+            "Tor Martin Uv <tormuv@opera.com>",
+            "Dag Olav"
+        ],
+        "Content-Type": [
+            "message/rfc822",
+            "image/png",
+            "application/msword"
+        ],
+        "Creation-Date": [
+            "2006-08-28T20:13:23Z",
+            "2006-08-28T12:26:00Z"
+        ],
+        "Message-From": "Tor Martin Uv <tormuv@opera.com>",
+        "Message-To": "external-hokkaido@opera.com <external-hokkaido@opera.com>",
+        "Message:From-Email": "tormuv@opera.com",
+        "Message:From-Name": "Tor Martin Uv",
+        "Message:Raw-Header:Delivered-To": [
+            "shirakae@photon.nintendo.co.jp",
+            "shirakae@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Errors-To": "external-hokkaido-bounces@opera.com",
+        "Message:Raw-Header:List-Archive": "<http://list.opera.com/mailman/private/external-hokkaido>",
+        "Message:Raw-Header:List-Help": "<mailto:external-hokkaido-request@list.opera.com?subject=help>",
+        "Message:Raw-Header:List-Id": "external-hokkaido.list.opera.com",
+        "Message:Raw-Header:List-Post": "<mailto:external-hokkaido@list.opera.com>",
+        "Message:Raw-Header:List-Subscribe": "<http://list.opera.com/mailman/listinfo/external-hokkaido>,\t<mailto:external-hokkaido-request@list.opera.com?subject=subscribe>",
+        "Message:Raw-Header:List-Unsubscribe": "<http://list.opera.com/mailman/listinfo/external-hokkaido>, \t<mailto:external-hokkaido-request@list.opera.com?subject=unsubscribe>",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<op.te0fslqlswxavt@x31opera23>",
+        "Message:Raw-Header:Organization": "Opera Software",
+        "Message:Raw-Header:Precedence": "list",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 4CA4855C0AB\tfor <shirakae@photon.nintendo.co.jp>; Tue, 29 Aug 2006 05:13:43 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid A686B59C0D7; Tue, 29 Aug 2006 05:13:42 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 6A4C759C054; Tue, 29 Aug 2006 05:13:42 +0900 (JST)",
+            "from halcyon.nintendo.co.jp (halcyon.nintendo.co.jp [211.8.190.217])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 431CC59C007; Tue, 29 Aug 2006 05:13:42 +0900 (JST)",
+            "from mailbox.opera.com (mail.opera.com [193.69.113.66])\tby halcyon.nintendo.co.jp (Postfix) with ESMTP id 70BFE898BD;\tTue, 29 Aug 2006 05:13:36 +0900 (JST)",
+            "from mailbox.opera.com (list@localhost [127.0.0.1])\tby mailbox.opera.com (8.13.4/8.13.4/Debian-3sarge1) with ESMTP id k7SKDWu5024429;\tMon, 28 Aug 2006 20:13:33 GMT",
+            "from sam.opera.com (sam.opera.com [193.69.113.81])\tby mailbox.opera.com (8.13.4/8.13.4/Debian-3sarge1) with ESMTP id\tk7SKDUNC024425\t(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)\tfor <external-hokkaido@opera.com>; Mon, 28 Aug 2006 20:13:30 GMT",
+            "from x31opera23 (084202023222.customer.alfanett.no [84.202.23.222])\t(authenticated bits=0)\tby sam.opera.com (8.13.4/8.13.4/Debian-3sarge1) with ESMTP id\tk7SKDO4N012620\tfor <external-hokkaido@opera.com>; Mon, 28 Aug 2006 20:13:24 GMT"
+        ],
+        "Message:Raw-Header:Received-SPF": [
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)"
+        ],
+        "Message:Raw-Header:Reply-To": "external-hokkaido@opera.com",
+        "Message:Raw-Header:Return-Path": "<external-hokkaido-bounces@mail.opera.com>",
+        "Message:Raw-Header:Sender": "external-hokkaido-bounces@opera.com",
+        "Message:Raw-Header:User-Agent": "Opera Mail/9.00 (Win32)",
+        "Message:Raw-Header:X-Account-Key": "account1",
+        "Message:Raw-Header:X-BeenThere": "external-hokkaido@list.opera.com",
+        "Message:Raw-Header:X-Mailman-Version": "2.1.5",
+        "Message:Raw-Header:X-Original-To": "shirakae@photon.nintendo.co.jp",
+        "Multipart-Boundary": [
+            "----------rhk3GFUmpuzO0EwFljeuNb",
+            "----------rhk3GFUmpuzO0EwFljeuNb"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "1",
+            "7"
+        ],
+        "creator": [
+            "Tor Martin Uv <tormuv@opera.com>",
+            "Dag Olav"
+        ],
+        "dc:creator": [
+            "Tor Martin Uv <tormuv@opera.com>",
+            "Dag Olav"
+        ],
+        "dc:title": [
+            "[External-hokkaido] Release Notes Build 117",
+            "Opera Browser for 6620 and future devices"
+        ],
+        "dcterms:created": [
+            "2006-08-28T20:13:23Z",
+            "2006-08-28T12:26:00Z"
+        ],
+        "meta:author": [
+            "Tor Martin Uv <tormuv@opera.com>",
+            "Dag Olav"
+        ],
+        "meta:creation-date": [
+            "2006-08-28T20:13:23Z",
+            "2006-08-28T12:26:00Z"
+        ],
+        "resourceName": [
+            "b'[External-hokkaido] Release Notes Build 117.eml'",
+            "image1.png",
+            "Opera Component - File and installation -\t0.6.doc"
+        ],
+        "subject": [
+            "[External-hokkaido] Release Notes Build 117",
+            ""
+        ],
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma Gamma": "0.55",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Data BitsPerSample": "8 8 8 8",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "UnsignedIntegral",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=400, height=350, bitDepth=8, colorType=RGBAlpha, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "Text TextEntry": "keyword=Software, value=Adobe ImageReady, encoding=ISO-8859-1, compression=none",
+        "Transparency Alpha": "nonpremultipled",
+        "X-TIKA:embedded_resource_path": [
+            "/Opera Component - File and installation -\t0.6.doc/image1.png",
+            "/Opera Component - File and installation -\t0.6.doc"
+        ],
+        "gAMA": "55000",
+        "height": "350",
+        "tEXt tEXtEntry": "keyword=Software, value=Adobe ImageReady",
+        "tiff:BitsPerSample": "8 8 8 8",
+        "tiff:ImageLength": "350",
+        "tiff:ImageWidth": "400",
+        "tika.mime.file": "image1.png",
+        "width": "400",
+        "Application-Name": "Microsoft Office Word",
+        "Character Count": "8206",
+        "Comments": "",
+        "Company": "SCM",
+        "Content-Disposition": "attachment; filename=\"Opera Component - File and installation -\t0.6.doc\"",
+        "Edit-Time": "5400000000",
+        "Keywords": "",
+        "Last-Author": "Opera Software ASA",
+        "Last-Modified": "2006-08-28T17:46:00Z",
+        "Last-Printed": "2006-08-28T08:58:00Z",
+        "Last-Save-Date": "2006-08-28T17:46:00Z",
+        "Page-Count": "1",
+        "Revision-Number": "10",
+        "Template": "Normal.dot",
+        "Word-Count": "1439",
+        "comment": "",
+        "cp:revision": "10",
+        "cp:subject": "",
+        "date": "2006-08-28T17:46:00Z",
+        "dc:subject": "",
+        "dcterms:modified": "2006-08-28T17:46:00Z",
+        "embeddedResourceType": "ATTACHMENT",
+        "extended-properties:Application": "Microsoft Office Word",
+        "extended-properties:Company": "SCM",
+        "extended-properties:Template": "Normal.dot",
+        "meta:character-count": "8206",
+        "meta:keyword": "",
+        "meta:last-author": "Opera Software ASA",
+        "meta:page-count": "1",
+        "meta:print-date": "2006-08-28T08:58:00Z",
+        "meta:save-date": "2006-08-28T17:46:00Z",
+        "meta:word-count": "1439",
+        "modified": "2006-08-28T17:46:00Z",
+        "title": "Opera Browser for 6620 and future devices",
+        "w:comments": "",
+        "xmpTPg:NPages": "1"
+    }
+}

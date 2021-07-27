@@ -1,0 +1,73 @@
+{
+    "REVO_HomeMenuintsyscojp200608.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "127.96KB",
+        "md5": "67eca024f4b036444fcc7c757f040f42",
+        "sha256": "9361dcbf346e342db638168586a50d612a3e642e8c55e79b7d8b3c60d6225296"
+    },
+    "Metadata": {
+        "Author": "Kenji Yamada <yamada@intsys.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-08-21T06:13:19Z",
+        "Message-From": "Kenji Yamada <yamada@intsys.co.jp>",
+        "Message-To": "REVO_HomeMenu@intsys.co.jp",
+        "Message:From-Email": "yamada@intsys.co.jp",
+        "Message:From-Name": "Kenji Yamada",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain;\tcharset=\"iso-2022-jp\"",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "14",
+        "Message:Raw-Header:List-Help": "<mailto:REVO_HomeMenu-ctl@intsys.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "REVO_HomeMenu.intsys.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:REVO_HomeMenu-admin@intsys.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:REVO_HomeMenu@intsys.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0.3 release (20011202/4.0.3)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:REVO_HomeMenu-ctl@intsys.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<002301c6c4e8$e637a120$8e01a8c0@YamadaT90PS>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Organization": "INTELLIGENT SYSTEMS CO.,LTD.",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 5586355C0A9\tfor <muraka@photon.nintendo.co.jp>; Mon, 21 Aug 2006 15:13:16 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 6518059C0DD; Mon, 21 Aug 2006 15:13:16 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 39DCE59C0E6\tfor <muraka@nintendo.co.jp>; Mon, 21 Aug 2006 15:13:16 +0900 (JST)",
+            "from warion.intsys.co.jp (wario.intsys.co.jp [10.122.1.200])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 0610059C0E0\tfor <muraka@nintendo.co.jp>; Mon, 21 Aug 2006 15:13:16 +0900 (JST)",
+            "from intsys.co.jp (ns.intsys.co.jp [192.168.1.20])\tby warion.intsys.co.jp (Postfix) with SMTP id 1A56279010B\tfor <muraka@nintendo.co.jp>; Mon, 21 Aug 2006 15:14:56 +0900 (JST)",
+            "(qmail 49052 invoked by uid 7794); 21 Aug 2006 15:13:15 +0900",
+            "from REVO_HomeMenu-admin@intsys.co.jp by ns.intsys.co.jp by uid 7791 with qmail-scanner-1.20rc1  ( Clear:RC:1:.  Processed in 0.040686 secs); 21 Aug 2006 06:13:15 -0000",
+            "from localhost.intsys.co.jp (HELO ns.intsys.co.jp) (127.0.0.1)  by localhost.intsys.co.jp with SMTP; 21 Aug 2006 15:13:14 +0900",
+            "(qmail 49034 invoked by uid 7794); 21 Aug 2006 15:13:13 +0900",
+            "from yamada@intsys.co.jp by ns.intsys.co.jp by uid 7791 with qmail-scanner-1.20rc1  ( Clear:RC:1:.  Processed in 0.060868 secs); 21 Aug 2006 06:13:13 -0000",
+            "from yamadat90ps.intsys.co.jp (HELO YamadaT90PS) (192.168.1.142)  by nsl.intsys.co.jp with SMTP; 21 Aug 2006 15:13:13 +0900"
+        ],
+        "Message:Raw-Header:Reply-To": "REVO_HomeMenu@intsys.co.jp",
+        "Message:Raw-Header:Return-Path": "<REVO_HomeMenu-admin@intsys.co.jp>",
+        "Message:Raw-Header:Thread-Index": "AcbE6OXlaB5BNcmNRnyQ3ZoG4kuTPA==",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address REVO_HomeMenu-ctl@intsys.co.jp;\thelp=<mailto:REVO_HomeMenu-ctl@intsys.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "REVO_HomeMenu",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0.3 release (20011202/4.0.3)]; post only (only members can post)",
+        "Message:Raw-Header:X-Mail-Count": "00001",
+        "Message:Raw-Header:X-Mailer": "Microsoft Office Outlook 11",
+        "Message:Raw-Header:X-MimeOLE": "Produced By Microsoft MimeOLE V6.00.2900.2962",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "#MD!!\\m1\"!J_##!&_k!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "creator": "Kenji Yamada <yamada@intsys.co.jp>",
+        "dc:creator": "Kenji Yamada <yamada@intsys.co.jp>",
+        "dc:title": "[REVO_HomeMenu:00001] Wiiz[{^ECuÌ[OXgÌ²Äà",
+        "dcterms:created": "2006-08-21T06:13:19Z",
+        "meta:author": "Kenji Yamada <yamada@intsys.co.jp>",
+        "meta:creation-date": "2006-08-21T06:13:19Z",
+        "resourceName": "b'REVO_HomeMenuintsyscojp200608.txt'",
+        "subject": "[REVO_HomeMenu:00001] Wiiz[{^ECuÌ[OXgÌ²Äà"
+    }
+}

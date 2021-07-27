@@ -1,0 +1,20 @@
+{
+    "error_message.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.71KB",
+        "md5": "beea6b8e245c919127bd20cfb1740ca5",
+        "sha256": "79fb0ea4ce05dacc35bdc84ce92ea83fe3877d2adcee675e2a24d74836c6e5b0"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-8",
+        "Content-Type": "text/plain; charset=UTF-8",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'error_message.txt'"
+    }
+}

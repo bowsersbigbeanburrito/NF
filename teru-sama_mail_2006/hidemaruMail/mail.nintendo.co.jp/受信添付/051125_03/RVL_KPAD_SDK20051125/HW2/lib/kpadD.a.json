@@ -1,0 +1,75 @@
+{
+    "kpadD.a": {
+        "modified": "2005-11-23 18:04:19",
+        "size": "53.7KB",
+        "md5": "fa6006e4d777fa00e01c4675d28a75cd",
+        "sha256": "c66fb09b8b4c7be0c8196224db4ddba8329b94a9f55d4ebb6dc69da00da727b3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'kpadD.a'",
+            "KPAD.o"
+        ],
+        "Content-Length": [
+            "822",
+            "54040"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/KPAD.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "1970-01-01T00:00:00Z"
+        ],
+        "embeddedRelationshipId": "KPAD.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

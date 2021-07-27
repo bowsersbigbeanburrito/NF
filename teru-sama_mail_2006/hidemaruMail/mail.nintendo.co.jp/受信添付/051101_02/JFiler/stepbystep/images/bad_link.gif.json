@@ -1,0 +1,35 @@
+{
+    "bad_link.gif": {
+        "modified": "2001-09-26 17:30:00",
+        "size": "0.11KB",
+        "md5": "45574d9b696c9502d5f13b04bcbd5270",
+        "sha256": "7c41ab7cce8778c26e1d6bb32c14b8a6014165ff5d4619ce639a659c359fef30"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=doNotDispose, userInputFlag=false, transparentColorFlag=true, delayTime=20, transparentColorIndex=5",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=13, imageHeight=16, interlaceFlag=false",
+        "Transparency TransparentIndex": "5",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "16",
+        "resourceName": "b'bad_link.gif'",
+        "tiff:ImageLength": "16",
+        "tiff:ImageWidth": "13",
+        "width": "13"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "受信200610.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2047.66KB",
+        "md5": "bfda2ce3e611714ca142b7f6fb1d4743",
+        "sha256": "090b6ec710a3faebf0c2a092482f1d61c05f9af940c36069ed24d04a6efa6927"
+    },
+    "Metadata": {
+        "Author": "Paul Donnelly <paul@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-09-29T13:03:44Z",
+        "Message-Cc": [
+            "Teruki Murakawa <muraka@nintendo.co.jp>",
+            "Shigeki Yamashiro <SHIGYA01@nst.nintendo.com>"
+        ],
+        "Message-From": "Paul Donnelly <paul@nintendo.co.jp>",
+        "Message-To": "Robert Champagne <robech01@nst.nintendo.com>",
+        "Message:From-Email": "paul@nintendo.co.jp",
+        "Message:From-Name": "Paul Donnelly",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:In-Reply-To": "<s51c2d20.083@smtpgw1.nintendo.com>",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-Id": "<200609291303.AA00241@PAUL2.nintendo.co.jp>",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 2E5A255C0A7\tfor <muraka@photon.nintendo.co.jp>; Fri, 29 Sep 2006 22:04:56 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 558AA59C054; Fri, 29 Sep 2006 22:04:56 +0900 (JST)",
+            "from localhost (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with SMTP id 3BD2959C0D3\tfor <muraka@nintendo.co.jp>; Fri, 29 Sep 2006 22:04:56 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 8625559C007; Fri, 29 Sep 2006 22:04:54 +0900 (JST)",
+            "from PAUL2.nintendo.co.jp (unknown [10.119.2.132])\tby photon.nintendo.co.jp (Postfix) with SMTP\tid 3378455C0A7; Fri, 29 Sep 2006 22:04:54 +0900 (JST)"
+        ],
+        "Message:Raw-Header:References": "<s51c2d20.083@smtpgw1.nintendo.com>",
+        "Message:Raw-Header:Return-Path": "<paul@nintendo.co.jp>",
+        "Message:Raw-Header:X-Mailer": "AL-Mail32 Version 1.13",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "8\\(!!c$l\"!~j-!!VXo\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "19",
+        "creator": "Paul Donnelly <paul@nintendo.co.jp>",
+        "dc:creator": "Paul Donnelly <paul@nintendo.co.jp>",
+        "dc:title": "Re: VCMV",
+        "dcterms:created": "2006-09-29T13:03:44Z",
+        "meta:author": "Paul Donnelly <paul@nintendo.co.jp>",
+        "meta:creation-date": "2006-09-29T13:03:44Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1200610.txt'",
+        "subject": "Re: VCMV"
+    }
+}

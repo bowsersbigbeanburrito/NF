@@ -1,0 +1,69 @@
+{
+    "受信ログ200611_32.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2225.64KB",
+        "md5": "90b32f3175fc67ddf5e3e53db105789f",
+        "sha256": "659675b7515ffdba43ab9c71d47906f1dd8f45acf59936de9968a825910ddf8a"
+    },
+    "Metadata": {
+        "Author": "John Zimet <johnzi01@noa.nintendo.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-11-28T19:20:43Z",
+        "Message-From": "John Zimet <johnzi01@noa.nintendo.com>",
+        "Message-To": [
+            "noadoc@lic.nintendo.co.jp",
+            "Yasuyuki Tahara <tahara_yasuyuki@nintendo.co.jp>"
+        ],
+        "Message:From-Email": "johnzi01@noa.nintendo.com",
+        "Message:From-Name": "John Zimet",
+        "Message:Raw-Header:Content-Disposition": "inline",
+        "Message:Raw-Header:Content-Transfer-Encoding": "8bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=ISO-2022-JP",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "52",
+        "Message:Raw-Header:List-Help": "<mailto:noadoc-ctl@lic.nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "noadoc.lic.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:noadoc-admin@lic.nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:noadoc@lic.nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20040215/4.0.4_BETA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:noadoc-ctl@lic.nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<s56c1ba2.046@smtpgw1.nintendo.com>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 8934555C0B9\tfor <muraka@photon.nintendo.co.jp>; Wed, 29 Nov 2006 04:21:17 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 5010959C0DC; Wed, 29 Nov 2006 04:21:17 +0900 (JST)",
+            "from localhost (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with SMTP\tid 2710759C007; Wed, 29 Nov 2006 04:21:17 +0900 (JST)",
+            "from seal.lic.nintendo.co.jp (lic.nintendo.co.jp [10.109.1.1])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 4D18359C007; Wed, 29 Nov 2006 04:21:09 +0900 (JST)",
+            "from lic.nintendo.co.jp (localhost.localdomain [127.0.0.1])\tby seal.lic.nintendo.co.jp (8.12.8/8.12.8) with ESMTP id kASJL9KK026494;\tWed, 29 Nov 2006 04:21:09 +0900"
+        ],
+        "Message:Raw-Header:Reply-To": "noadoc@lic.nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<noadoc-admin@lic.nintendo.co.jp>",
+        "Message:Raw-Header:X-MIME-Autoconverted": "from base64 to 8bit by seal.lic.nintendo.co.jp id kASJL8KK026491",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address noadoc-ctl@lic.nintendo.co.jp;\thelp=<mailto:noadoc-ctl@lic.nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "noadoc",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20040215/4.0.4_BETA)]; post only (only members can post)",
+        "Message:Raw-Header:X-Mail-Count": "01255",
+        "Message:Raw-Header:X-Mailer": "Novell GroupWise Internet Agent 6.5.7 ",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "30;\"!L0T\"!HZ&#!\"(<!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "22",
+        "creator": "John Zimet <johnzi01@noa.nintendo.com>",
+        "dc:creator": "John Zimet <johnzi01@noa.nintendo.com>",
+        "dc:title": "[noadoc:01255] Re: Word File: DS IPL Banner Guideline\t061122",
+        "dcterms:created": "2006-11-28T19:20:43Z",
+        "meta:author": "John Zimet <johnzi01@noa.nintendo.com>",
+        "meta:creation-date": "2006-11-28T19:20:43Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200611_32.txt'",
+        "subject": "[noadoc:01255] Re: Word File: DS IPL Banner Guideline\t061122"
+    }
+}

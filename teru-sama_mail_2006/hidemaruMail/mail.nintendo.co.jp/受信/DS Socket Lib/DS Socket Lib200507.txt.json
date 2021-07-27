@@ -1,0 +1,72 @@
+{
+    "DS Socket Lib200507.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.55KB",
+        "md5": "5eadb3e9a9a19ec46ec8c41fa727a8d1",
+        "sha256": "97a1fcc63ee062de614f0d10f6b241c2e97b3336bdd0d6393c00fa18656c9ee6"
+    },
+    "Metadata": {
+        "Author": "sakaino_masamichi@nintendo.co.jp",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2005-07-06T06:57:46Z",
+        "Message-From": "sakaino_masamichi@nintendo.co.jp",
+        "Message-To": "ml-ds-socket@nintendo.co.jp",
+        "Message:From-Email": "sakaino_masamichi@nintendo.co.jp",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-ds-socket@photon.nintendo.co.jp",
+            "ml-ds-socket@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "11",
+        "Message:Raw-Header:List-Help": "<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-ds-socket.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-ds-socket-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-ds-socket@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<200507060657.AA04949@sakainom-win.nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id DB1A055C0A9\tfor <muraka@photon.nintendo.co.jp>; Wed,  6 Jul 2005 15:57:48 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 3134A59C0E7; Wed,  6 Jul 2005 15:57:48 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid EEB8759C0D7; Wed,  6 Jul 2005 15:57:47 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid CBF0359C0D2; Wed,  6 Jul 2005 15:57:47 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 8172255C0A8; Wed,  6 Jul 2005 15:57:47 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id EE9CA55C0A7\tfor <ml-ds-socket@photon.nintendo.co.jp>; Wed,  6 Jul 2005 15:57:46 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 11E7159C054; Wed,  6 Jul 2005 15:57:47 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id DD7FC59C0D2\tfor <ml-ds-socket@nintendo.co.jp>; Wed,  6 Jul 2005 15:57:46 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id C5F1F59C054\tfor <ml-ds-socket@nintendo.co.jp>; Wed,  6 Jul 2005 15:57:46 +0900 (JST)",
+            "from sakainom-win.nintendo.co.jp (unknown [10.121.26.60])\tby photon.nintendo.co.jp (Postfix) with SMTP id 8A1A755C0A7\tfor <ml-ds-socket@nintendo.co.jp>; Wed,  6 Jul 2005 15:57:46 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "ml-ds-socket@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-ds-socket-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-ds-socket-ctl@nintendo.co.jp;\thelp=<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-ds-socket",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (only members can post)",
+        "Message:Raw-Header:X-Mail-Count": "45",
+        "Message:Raw-Header:X-Mailer": "AL-Mail32 Version 1.12",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-ds-socket@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "G@~\"!pTa!!$9m\"!*A+!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "sakaino_masamichi@nintendo.co.jp",
+        "dc:creator": "sakaino_masamichi@nintendo.co.jp",
+        "dc:title": "[ml-ds-socket:45] Nintendo_Wi-Fi_Connection_Guideline_050622.zip uproad",
+        "dcterms:created": "2005-07-06T06:57:46Z",
+        "meta:author": "sakaino_masamichi@nintendo.co.jp",
+        "meta:creation-date": "2005-07-06T06:57:46Z",
+        "resourceName": "b'DS Socket Lib200507.txt'",
+        "subject": "[ml-ds-socket:45] Nintendo_Wi-Fi_Connection_Guideline_050622.zip uproad"
+    }
+}

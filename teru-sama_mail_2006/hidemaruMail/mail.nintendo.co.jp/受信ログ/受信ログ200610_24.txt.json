@@ -1,0 +1,75 @@
+{
+    "受信ログ200610_24.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2510.0KB",
+        "md5": "5899e6abba0223a23cb27d7839ef3bff",
+        "sha256": "c4d0c865a15ba7d7612d6334ef0a000d028b2becafd0239683571e25715d603f"
+    },
+    "Metadata": {
+        "Author": "Takao Nakano <nakanotk@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-10-23T00:26:33Z",
+        "Message-Cc": "吉原 一期 <yoshihara_kazuki@nintendo.co.jp>",
+        "Message-From": "Takao Nakano <nakanotk@nintendo.co.jp>",
+        "Message-To": "技術サポートML <ml-spd_sup@nintendo.co.jp>",
+        "Message:From-Email": "nakanotk@nintendo.co.jp",
+        "Message:From-Name": "Takao Nakano",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-spd_sup@photon.nintendo.co.jp",
+            "ml-spd_sup@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "31",
+        "Message:Raw-Header:List-Help": "<mailto:ml-spd_sup-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-spd_sup.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-spd_sup-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-spd_sup@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-spd_sup-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<FCC6F639E47E33nakanotk@nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 5DBC155C0C2\tfor <muraka@photon.nintendo.co.jp>; Mon, 23 Oct 2006 09:27:26 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 9E42559C0D8; Mon, 23 Oct 2006 09:27:24 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 753D359C054; Mon, 23 Oct 2006 09:27:24 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 59A0759C007; Mon, 23 Oct 2006 09:27:24 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 3176755C0BD; Mon, 23 Oct 2006 09:27:24 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id C294D55C0AE\tfor <ml-spd_sup@photon.nintendo.co.jp>; Mon, 23 Oct 2006 09:26:38 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid B684259C007; Mon, 23 Oct 2006 09:26:38 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 9360359C054; Mon, 23 Oct 2006 09:26:38 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 7CF7559C007; Mon, 23 Oct 2006 09:26:38 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.114.1.83])\tby photon.nintendo.co.jp (Postfix) with SMTP\tid 861FC55C0C5; Mon, 23 Oct 2006 09:26:33 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "nakanotk@nintendo.co.jp, ml-spd_sup@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-spd_sup-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question,\tplease contact ml-spd_sup-admin@nintendo.co.jp;\t<mailto:ml-spd_sup-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Name": "ml-spd_sup",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "2021",
+        "Message:Raw-Header:X-Mailer": "HidemaruMail 4.67 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-spd_sup@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": ">Wl!!OLf!!'bU\"!2&<\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "29",
+        "creator": "Takao Nakano <nakanotk@nintendo.co.jp>",
+        "dc:creator": "Takao Nakano <nakanotk@nintendo.co.jp>",
+        "dc:title": "[ml-spd_sup:2021] RVL 8.2.3対応のディスク作成について",
+        "dcterms:created": "2006-10-23T00:26:33Z",
+        "meta:author": "Takao Nakano <nakanotk@nintendo.co.jp>",
+        "meta:creation-date": "2006-10-23T00:26:33Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200610_24.txt'",
+        "subject": "[ml-spd_sup:2021] RVL 8.2.3対応のディスク作成について"
+    }
+}

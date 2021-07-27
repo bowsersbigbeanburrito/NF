@@ -1,0 +1,75 @@
+{
+    "受信ログ200610_33.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2048.49KB",
+        "md5": "357f5f627f3baa6913f2b05372562c08",
+        "sha256": "fb1632006f14d2dd5497a4b1041e765f52e2bd84b944e104deead12663009545"
+    },
+    "Metadata": {
+        "Author": "Satoru Hosogai <satoho01@nst.nintendo.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-10-27T00:21:30Z",
+        "Message-From": "Satoru Hosogai <satoho01@nst.nintendo.com>",
+        "Message-To": [
+            "Gofuku Kazuyuki/ \"呉服和幸\" <gofuku@nintendo.co.jp>",
+            "shigya01@nst.nintendo.com",
+            "hiroal01@nst.nintendo.com",
+            "muti@nintendo.co.jp",
+            "sasaki_norihide@nintendo.co.jp",
+            "nakaih@nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "jikumaru_shintaro@nintendo.co.jp"
+        ],
+        "Message:From-Email": "satoho01@nst.nintendo.com",
+        "Message:From-Name": "Satoru Hosogai",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain;\tformat=flowed;\tcharset=\"iso-2022-jp\";\treply-type=original",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<016c01c6f95d$d98c1970$1f48040a@nst.com>",
+        "Message:Raw-Header:Organization": "Nintendo Software Technology Corporation",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 1BD1655C0AD\tfor <muraka@photon.nintendo.co.jp>; Fri, 27 Oct 2006 09:22:12 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 099AF59C0E0; Fri, 27 Oct 2006 09:22:12 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid CCD5259C0DA; Fri, 27 Oct 2006 09:22:11 +0900 (JST)",
+            "from halcyon.nintendo.co.jp (halcyon.nintendo.co.jp [211.8.190.217])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid A98C559C0D9; Fri, 27 Oct 2006 09:22:11 +0900 (JST)",
+            "from smtpgw1.nintendo.com (smtpout.nintendo.com [205.166.76.16])\tby halcyon.nintendo.co.jp (Postfix) with ESMTP id AAC05898D8;\tFri, 27 Oct 2006 09:22:09 +0900 (JST)",
+            "from shosogai\t([10.4.72.31])\tby smtpgw1.nintendo.com; Thu, 26 Oct 2006 17:22:07 -0700"
+        ],
+        "Message:Raw-Header:Received-SPF": [
+            "pass (halcyon.nintendo.co.jp: domain of satoho01@nst.nintendo.com designates 205.166.76.16 as permitted sender)",
+            "pass (halcyon.nintendo.co.jp: domain of satoho01@nst.nintendo.com designates 205.166.76.16 as permitted sender)",
+            "pass (halcyon.nintendo.co.jp: domain of satoho01@nst.nintendo.com designates 205.166.76.16 as permitted sender)",
+            "pass (halcyon.nintendo.co.jp: domain of satoho01@nst.nintendo.com designates 205.166.76.16 as permitted sender)",
+            "pass (halcyon.nintendo.co.jp: domain of satoho01@nst.nintendo.com designates 205.166.76.16 as permitted sender)",
+            "pass (halcyon.nintendo.co.jp: domain of satoho01@nst.nintendo.com designates 205.166.76.16 as permitted sender)"
+        ],
+        "Message:Raw-Header:References": "<200610261126.AA00180@gofuku-note.nintendo.co.jp> <200610261214.AA00182@gofuku-note.nintendo.co.jp>",
+        "Message:Raw-Header:Reply-To": "\"Satoru Hosogai\" <satoho01@nst.nintendo.com>",
+        "Message:Raw-Header:Return-Path": "<satoho01@nst.nintendo.com>",
+        "Message:Raw-Header:X-MSMail-Priority": "Normal",
+        "Message:Raw-Header:X-Mailer": "Microsoft Outlook Express 6.00.2900.2180",
+        "Message:Raw-Header:X-MimeOLE": "Produced By Microsoft MimeOLE V6.00.2900.2180",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-Priority": "3",
+        "Message:Raw-Header:X-UIDL": "8E!\"!Z:>\"!\"\\\"#!+J_\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "21",
+        "creator": "Satoru Hosogai <satoho01@nst.nintendo.com>",
+        "dc:creator": "Satoru Hosogai <satoho01@nst.nintendo.com>",
+        "dc:title": "SDKのバージョン（）",
+        "dcterms:created": "2006-10-27T00:21:30Z",
+        "meta:author": "Satoru Hosogai <satoho01@nst.nintendo.com>",
+        "meta:creation-date": "2006-10-27T00:21:30Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200610_33.txt'",
+        "subject": "SDKのバージョン（）"
+    }
+}

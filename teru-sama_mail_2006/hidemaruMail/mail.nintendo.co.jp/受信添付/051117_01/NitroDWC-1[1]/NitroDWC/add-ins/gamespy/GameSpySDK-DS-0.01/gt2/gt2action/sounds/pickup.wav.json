@@ -1,0 +1,24 @@
+{
+    "pickup.wav": {
+        "modified": "2005-08-02 01:02:05",
+        "size": "2.16KB",
+        "md5": "741a51ae1f9ce3f74746103477665630",
+        "sha256": "2e260062f4bca57bb7b13deaae7e8b49387ff6ed511949715900e3d390024d6f"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pickup.wav'",
+        "samplerate": "22050.0",
+        "xmpDM:audioSampleRate": "22050",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

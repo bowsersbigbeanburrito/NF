@@ -1,0 +1,66 @@
+{
+    "CW for DintendoDS200510.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "422.93KB",
+        "md5": "5420d720a04eab11b19c083301f70518",
+        "sha256": "1ecbcc445fab0a44cbc67606875bd850c82c4114cf4908e8218b4e5e3b5faa37"
+    },
+    "Metadata": {
+        "Author": "nakao_noriko@nintendo.co.jp",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2005-10-03T02:41:47Z",
+        "Message-From": "nakao_noriko@nintendo.co.jp",
+        "Message-To": "cw4iris-dev@lic.nintendo.co.jp",
+        "Message:From-Email": "nakao_noriko@nintendo.co.jp",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "24",
+        "Message:Raw-Header:List-Help": "<mailto:cw4iris-dev-ctl@lic.nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "cw4iris-dev.lic.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:cw4iris-dev-admin@lic.nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:cw4iris-dev@lic.nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20040215/4.0.4_BETA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:cw4iris-dev-ctl@lic.nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<200510030241.AA00318@nakao-t-win.nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 27DC255C0B8\tfor <muraka@photon.nintendo.co.jp>; Mon,  3 Oct 2005 11:42:05 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 8CD5759C0DF; Mon,  3 Oct 2005 11:42:02 +0900 (JST)",
+            "from localhost (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with SMTP\tid 6EF2059C0D8; Mon,  3 Oct 2005 11:42:02 +0900 (JST)",
+            "from seal.lic.nintendo.co.jp (lic.nintendo.co.jp [10.109.1.1])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid CF62359C054; Mon,  3 Oct 2005 11:41:53 +0900 (JST)",
+            "from todo.lic.nintendo.co.jp (localhost.localdomain [127.0.0.1])\tby seal.lic.nintendo.co.jp (8.12.8/8.12.8) with ESMTP id j932fp9V029381;\tMon, 3 Oct 2005 11:41:51 +0900",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby seal.lic.nintendo.co.jp (8.12.8/8.12.8) with ESMTP id j932fo9V029377\tfor <cw4iris-dev@lic.nintendo.co.jp>; Mon, 3 Oct 2005 11:41:50 +0900",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 73B3959C0D2\tfor <cw4iris-dev@lic.nintendo.co.jp>; Mon,  3 Oct 2005 11:41:50 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 59A5D59C054\tfor <cw4iris-dev@lic.nintendo.co.jp>; Mon,  3 Oct 2005 11:41:50 +0900 (JST)",
+            "from nakao-t-win.nintendo.co.jp (unknown [10.114.1.25])\tby photon.nintendo.co.jp (Postfix) with SMTP id EE31255C0A8\tfor <cw4iris-dev@lic.nintendo.co.jp>; Mon,  3 Oct 2005 11:41:47 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "cw4iris-dev@lic.nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<cw4iris-dev-admin@lic.nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address cw4iris-dev-ctl@lic.nintendo.co.jp;\thelp=<mailto:cw4iris-dev-ctl@lic.nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "cw4iris-dev",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20040215/4.0.4_BETA)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "00977",
+        "Message:Raw-Header:X-Mailer": "AL-Mail32 Version 1.13",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "F6d!!j&+!!Mo0!!e`^!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "creator": "nakao_noriko@nintendo.co.jp",
+        "dc:creator": "nakao_noriko@nintendo.co.jp",
+        "dc:title": "[cw4iris-dev:00977] NITROG~[^ Ver. 1.4b",
+        "dcterms:created": "2005-10-03T02:41:47Z",
+        "meta:author": "nakao_noriko@nintendo.co.jp",
+        "meta:creation-date": "2005-10-03T02:41:47Z",
+        "resourceName": "b'CW for DintendoDS200510.txt'",
+        "subject": "[cw4iris-dev:00977] NITROG~[^ Ver. 1.4b"
+    }
+}

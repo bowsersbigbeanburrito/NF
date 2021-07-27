@@ -1,0 +1,143 @@
+{
+    "受信ログ200611_31.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3441.53KB",
+        "md5": "29e2f960c7531d9bb4674745d10f2ba8",
+        "sha256": "2d526a9e43841be2a555c4f2675140a75f22b30466bfae39dc84b14cdcb36a3a"
+    },
+    "Metadata": {
+        "Author": [
+            "habu@nintendo.co.jp",
+            "中井 斉"
+        ],
+        "Content-Type": [
+            "message/rfc822",
+            "application/vnd.ms-excel"
+        ],
+        "Creation-Date": [
+            "2006-11-28T08:38:01Z",
+            "2006-11-07T14:05:19Z"
+        ],
+        "Message-Cc": "REVO_VirtualConsole_NOA@intsys.co.jp",
+        "Message-From": "habu@nintendo.co.jp",
+        "Message-To": [
+            "ProductTesting.Technicians@noa.nintendo.com",
+            "EDRI@noa.nintendo.com",
+            "Mikaku01@noa.nintendo.com",
+            "Tomomb01@noa.nintendo.com",
+            "Makisz01@noa.nintendo.com",
+            "Shujha01@noa.nintendo.com",
+            "TIMBE@noa.nintendo.com"
+        ],
+        "Message:From-Email": "habu@nintendo.co.jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "315",
+        "Message:Raw-Header:List-Help": "<mailto:REVO_VirtualConsole_NOA-ctl@intsys.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "REVO_VirtualConsole_NOA.intsys.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:REVO_VirtualConsole_NOA-admin@intsys.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:REVO_VirtualConsole_NOA@intsys.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0.3 release (20011202/4.0.3)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:REVO_VirtualConsole_NOA-ctl@intsys.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<200611280838.AA01012@mishima-win1.nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id AD1D455C0B1\tfor <muraka@photon.nintendo.co.jp>; Tue, 28 Nov 2006 17:38:06 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid AB8A359C0D6; Tue, 28 Nov 2006 17:38:06 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 39BD659C0D9\tfor <muraka@nintendo.co.jp>; Tue, 28 Nov 2006 17:38:06 +0900 (JST)",
+            "from wario.intsys.co.jp (wario.intsys.co.jp [10.122.1.200])\tby stream.nintendo.co.jp (Postfix) with ESMTP id EEF8859C0D6\tfor <muraka@nintendo.co.jp>; Tue, 28 Nov 2006 17:38:05 +0900 (JST)",
+            "from intsys.co.jp (ns.intsys.co.jp [192.168.1.20])\tby wario.intsys.co.jp (Postfix) with SMTP id 82728790108\tfor <muraka@nintendo.co.jp>; Tue, 28 Nov 2006 17:41:00 +0900 (JST)",
+            "(qmail 15597 invoked by uid 7794); 28 Nov 2006 17:38:05 +0900",
+            "from REVO_VirtualConsole_NOA-admin@intsys.co.jp by ns.intsys.co.jp by uid 7791 with qmail-scanner-1.20rc1  ( Clear:RC:1:.  Processed in 0.054144 secs); 28 Nov 2006 08:38:05 -0000",
+            "from localhost.intsys.co.jp (HELO ns.intsys.co.jp) (127.0.0.1)  by localhost.intsys.co.jp with SMTP; 28 Nov 2006 17:38:04 +0900",
+            "(qmail 15579 invoked by uid 7794); 28 Nov 2006 17:38:04 +0900",
+            "from habu@nintendo.co.jp by ns.intsys.co.jp by uid 7791 with qmail-scanner-1.20rc1  ( Clear:RC:1:.  Processed in 0.049841 secs); 28 Nov 2006 08:38:04 -0000",
+            "from wario.intsys.co.jp (192.168.1.4)  by nsl.intsys.co.jp with SMTP; 28 Nov 2006 17:38:03 +0900",
+            "from stream.nintendo.co.jp (sky.nintendo.co.jp [10.100.1.2])\tby wario.intsys.co.jp (Postfix) with ESMTP id 4D427790105\tfor <REVO_VirtualConsole_NOA@intsys.co.jp>; Tue, 28 Nov 2006 17:40:58 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 3755259C0D6; Tue, 28 Nov 2006 17:38:03 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 01A0659C007; Tue, 28 Nov 2006 17:38:03 +0900 (JST)",
+            "from mishima-win1.nintendo.co.jp (unknown [10.114.1.135])\tby photon.nintendo.co.jp (Postfix) with SMTP\tid 2122555C0B1; Tue, 28 Nov 2006 17:38:01 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "REVO_VirtualConsole_NOA@intsys.co.jp",
+        "Message:Raw-Header:Return-Path": "<REVO_VirtualConsole_NOA-admin@intsys.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address REVO_VirtualConsole_NOA-ctl@intsys.co.jp;\thelp=<mailto:REVO_VirtualConsole_NOA-ctl@intsys.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "REVO_VirtualConsole_NOA",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0.3 release (20011202/4.0.3)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "00030",
+        "Message:Raw-Header:X-Mailer": "AL-Mail32 Version 1.13",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "pgD\"!8jc\"!$f(!!ELK!!",
+        "Multipart-Boundary": [
+            "--------------------5693022555772005",
+            "--------------------5693022555772005"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "creator": [
+            "habu@nintendo.co.jp",
+            "中井 斉"
+        ],
+        "dc:creator": [
+            "habu@nintendo.co.jp",
+            "中井 斉"
+        ],
+        "dc:title": "[REVO_VirtualConsole_NOA:00030] Virtual Console  \tバイナリ提出（NOEへの提出バイナリ20061128）",
+        "dcterms:created": [
+            "2006-11-28T08:38:01Z",
+            "2006-11-07T14:05:19Z"
+        ],
+        "meta:author": [
+            "habu@nintendo.co.jp",
+            "中井 斉"
+        ],
+        "meta:creation-date": [
+            "2006-11-28T08:38:01Z",
+            "2006-11-07T14:05:19Z"
+        ],
+        "resourceName": [
+            "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200611_31.txt'",
+            "vc_euro_debugfiles_20061128.xls"
+        ],
+        "subject": "[REVO_VirtualConsole_NOA:00030] Virtual Console  \tバイナリ提出（NOEへの提出バイナリ20061128）",
+        "Application-Name": "Microsoft Excel",
+        "Company": "任天堂株式会社",
+        "Content-Disposition": "attachment; filename=\"vc_euro_debugfiles_20061128.xls\"",
+        "Last-Author": "habu",
+        "Last-Modified": "2006-11-28T06:23:17Z",
+        "Last-Save-Date": "2006-11-28T06:23:17Z",
+        "X-TIKA:embedded_resource_path": "/vc_euro_debugfiles_20061128.xls",
+        "date": "2006-11-28T06:23:17Z",
+        "dcterms:modified": "2006-11-28T06:23:17Z",
+        "embeddedResourceType": "ATTACHMENT",
+        "extended-properties:Application": "Microsoft Excel",
+        "extended-properties:Company": "任天堂株式会社",
+        "meta:last-author": "habu",
+        "meta:save-date": "2006-11-28T06:23:17Z",
+        "modified": "2006-11-28T06:23:17Z"
+    }
+}

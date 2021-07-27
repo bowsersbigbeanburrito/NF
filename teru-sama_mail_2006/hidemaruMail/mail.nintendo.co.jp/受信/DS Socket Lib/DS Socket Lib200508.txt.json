@@ -1,0 +1,79 @@
+{
+    "DS Socket Lib200508.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.82KB",
+        "md5": "b55ac24091939ad3b7f1eed4f9343e0a",
+        "sha256": "9d057ac5306500f661fd6e82210c8b1f731b4a1f68092dc6f977fa3fb05ca67f"
+    },
+    "Metadata": {
+        "Author": "Cory O'Regan <coryor01@nst.nintendo.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2005-07-30T17:00:11Z",
+        "Message-From": "Cory O'Regan <coryor01@nst.nintendo.com>",
+        "Message-To": "ml-ds-socket@nintendo.co.jp",
+        "Message:From-Email": "coryor01@nst.nintendo.com",
+        "Message:From-Name": "Cory O'Regan",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-ds-socket@photon.nintendo.co.jp",
+            "ml-ds-socket@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "3421",
+        "Message:Raw-Header:List-Help": "<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-ds-socket.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-ds-socket-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-ds-socket@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<s2eb4fbb.049@smtpgw1.nintendo.com>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id C594F55C0AD\tfor <muraka@photon.nintendo.co.jp>; Sun, 31 Jul 2005 02:01:04 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 05BD459C0E8; Sun, 31 Jul 2005 02:01:04 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 865FA59C0D2; Sun, 31 Jul 2005 02:01:03 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 4355659C054; Sun, 31 Jul 2005 02:01:02 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 996E455C0A8; Sun, 31 Jul 2005 02:01:01 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id BD37A55C0A7\tfor <ml-ds-socket@photon.nintendo.co.jp>; Sun, 31 Jul 2005 02:01:00 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 01C9159C054; Sun, 31 Jul 2005 02:01:01 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id B8D2159C0D2\tfor <ml-ds-socket@nintendo.co.jp>; Sun, 31 Jul 2005 02:01:00 +0900 (JST)",
+            "from smtpgw1.nintendo.com (smtpout.nintendo.com [205.166.76.16])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 51B3E59C054\tfor <ml-ds-socket@nintendo.co.jp>; Sun, 31 Jul 2005 02:00:44 +0900 (JST)",
+            "from Gateways-MTA by smtpgw1.nintendo.com\twith Novell_GroupWise; Sat, 30 Jul 2005 10:00:27 -0700"
+        ],
+        "Message:Raw-Header:Reply-To": "ml-ds-socket@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-ds-socket-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-Attach": [
+            "óMYt\\050801_00\\readme1st.txt",
+            "óMYt\\050801_00\\sockets_test.zip"
+        ],
+        "Message:Raw-Header:X-Body-Content-Type": "text/plain; charset=US-ASCII",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-ds-socket-ctl@nintendo.co.jp;\thelp=<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-ds-socket",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (only members can post)",
+        "Message:Raw-Header:X-Mail-Count": "50",
+        "Message:Raw-Header:X-Mailer": "Novell GroupWise Internet Agent 6.5.5 Beta",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-ds-socket@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "3T5!!\\0Z!!K\"D\"!,b=\"!",
+        "Multipart-Boundary": "=__Part785BDC0B.0__=",
+        "Multipart-Subtype": "mixed",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "Cory O'Regan <coryor01@nst.nintendo.com>",
+        "dc:creator": "Cory O'Regan <coryor01@nst.nintendo.com>",
+        "dc:title": "[ml-ds-socket:50] SO_SendTo returning SO_ENOBUFS",
+        "dcterms:created": "2005-07-30T17:00:11Z",
+        "meta:author": "Cory O'Regan <coryor01@nst.nintendo.com>",
+        "meta:creation-date": "2005-07-30T17:00:11Z",
+        "resourceName": "b'DS Socket Lib200508.txt'",
+        "subject": "[ml-ds-socket:50] SO_SendTo returning SO_ENOBUFS"
+    }
+}

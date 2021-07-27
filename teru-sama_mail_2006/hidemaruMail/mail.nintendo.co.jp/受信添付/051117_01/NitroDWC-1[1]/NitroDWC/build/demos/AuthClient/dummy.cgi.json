@@ -1,0 +1,20 @@
+{
+    "dummy.cgi": {
+        "modified": "2005-08-02 01:02:31",
+        "size": "1.42KB",
+        "md5": "ac006f8982cc6cdcc1058d85344b5bb7",
+        "sha256": "5d7c4ba82f1c197991a63282f28c75c6352be286a670b9ae6daa0cc19c499155"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/x-perl; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'dummy.cgi'"
+    }
+}

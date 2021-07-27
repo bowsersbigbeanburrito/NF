@@ -1,0 +1,89 @@
+{
+    "VC Launch Bug Log PAL 1127.xls": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "326.5KB",
+        "md5": "ab30a434bb06384efd60a6e4c8a935c4",
+        "sha256": "36d8d76da7b9f9db1db698ec3be5b0a9ff84d57590bdab097b61c41a0abda7e8"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Excel",
+        "Author": "alanal01",
+        "Company": "Nintendo of America Inc.",
+        "Content-Type": [
+            "application/vnd.ms-excel",
+            "image/png"
+        ],
+        "Creation-Date": "2004-09-21T17:19:41Z",
+        "Last-Author": "Edri",
+        "Last-Modified": "2006-11-28T00:17:10Z",
+        "Last-Printed": "2006-07-21T00:39:07Z",
+        "Last-Save-Date": "2006-11-28T00:17:10Z",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0"
+        ],
+        "creator": "alanal01",
+        "date": "2006-11-28T00:17:10Z",
+        "dc:creator": "alanal01",
+        "dcterms:created": "2004-09-21T17:19:41Z",
+        "dcterms:modified": "2006-11-28T00:17:10Z",
+        "extended-properties:Application": "Microsoft Excel",
+        "extended-properties:Company": "Nintendo of America Inc.",
+        "meta:author": "alanal01",
+        "meta:creation-date": "2004-09-21T17:19:41Z",
+        "meta:last-author": "Edri",
+        "meta:print-date": "2006-07-21T00:39:07Z",
+        "meta:save-date": "2006-11-28T00:17:10Z",
+        "modified": "2006-11-28T00:17:10Z",
+        "resourceName": "b'VC Launch Bug Log PAL 1127.xls'",
+        "Chroma BackgroundIndex": "0",
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Chroma Palette PaletteEntry": [
+            "index=0, red=0, green=0, blue=0, alpha=255",
+            "index=1, red=255, green=255, blue=255, alpha=0"
+        ],
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Data BitsPerSample": "1 1 1 1",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "Index",
+        "Data SignificantBitsPerSample": "1 1 1",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=16, height=1, bitDepth=1, colorType=Palette, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "PLTE PLTEEntry": [
+            "index=0, red=0, green=0, blue=0",
+            "index=1, red=255, green=255, blue=255"
+        ],
+        "Transparency Alpha": "nonpremultipled",
+        "UnknownChunks UnknownChunk": "cmPP",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "bKGD bKGD_Palette": "0",
+        "height": "1",
+        "sBIT sBIT_Palette": "red=1, green=1, blue=1",
+        "tRNS tRNS_Palette tRNS_PaletteEntry": [
+            "index=0, alpha=255",
+            "index=1, alpha=0"
+        ],
+        "tiff:BitsPerSample": "1 1 1 1",
+        "tiff:ImageLength": "1",
+        "tiff:ImageWidth": "16",
+        "width": "16"
+    }
+}

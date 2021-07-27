@@ -1,0 +1,20 @@
+{
+    "count.bin": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.01KB",
+        "md5": "667559f670ea917253b9636b935a64d4",
+        "sha256": "651acf9dd6161bd21ee32f4a406908a5471a5af5b82556bb26337dd9350896c6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'count.bin'"
+    }
+}

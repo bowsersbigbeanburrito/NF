@@ -1,0 +1,35 @@
+{
+    "map.gif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.25KB",
+        "md5": "23fd98adb4cb72f5441532b5ab3f1725",
+        "sha256": "c19d63d955c8040c9fd69cd0f79b5a405187a31e099ffda783e7ceeb7c1fee8b"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=doNotDispose, userInputFlag=false, transparentColorFlag=true, delayTime=20, transparentColorIndex=63",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=296, imageHeight=267, interlaceFlag=false",
+        "Transparency TransparentIndex": "63",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "267",
+        "resourceName": "b'map.gif'",
+        "tiff:ImageLength": "267",
+        "tiff:ImageWidth": "296",
+        "width": "296"
+    }
+}

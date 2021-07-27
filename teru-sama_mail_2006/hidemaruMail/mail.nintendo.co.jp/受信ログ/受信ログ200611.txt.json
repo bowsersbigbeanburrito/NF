@@ -1,0 +1,55 @@
+{
+    "受信ログ200611.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2232.87KB",
+        "md5": "85ad557b2594b02c43fe4325ab2e7733",
+        "sha256": "dfd1484191c9518962d4b2e9ee3ae34e16d7539350586d768b894a0c5438930b"
+    },
+    "Metadata": {
+        "Author": "Nakai Hitoshi <nakaih@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-10-31T13:29:54Z",
+        "Message-Cc": "畠山 雅人 GS <ham@nintendo.co.jp>",
+        "Message-From": "Nakai Hitoshi <nakaih@nintendo.co.jp>",
+        "Message-To": [
+            "Teruki Murakawa <muraka@nintendo.co.jp>",
+            "Paul Donnelly <paul@nintendo.co.jp>"
+        ],
+        "Message:From-Email": "nakaih@nintendo.co.jp",
+        "Message:From-Name": "Nakai Hitoshi",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-Id": "<55C6FCF0A6865Fnakaih@nintendo.co.jp>",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 7DC0C55C0A8\tfor <muraka@photon.nintendo.co.jp>; Tue, 31 Oct 2006 22:29:29 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid AA5CE59C0D3; Tue, 31 Oct 2006 22:29:29 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 8610559C054; Tue, 31 Oct 2006 22:29:29 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 6DF1E59C007; Tue, 31 Oct 2006 22:29:29 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.118.1.61])\tby photon.nintendo.co.jp (Postfix) with SMTP\tid B187255C0A7; Tue, 31 Oct 2006 22:29:28 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Return-Path": "<nakaih@nintendo.co.jp>",
+        "Message:Raw-Header:X-Mailer": "HidemaruMail 4.51 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "2TU!!J2j\"!/<B\"!=d^!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "23",
+        "creator": "Nakai Hitoshi <nakaih@nintendo.co.jp>",
+        "dc:creator": "Nakai Hitoshi <nakaih@nintendo.co.jp>",
+        "dc:title": "Fw: [ml-rvl-feature:469] VCコンテンツに利用するOperaコンポーネントについて",
+        "dcterms:created": "2006-10-31T13:29:54Z",
+        "meta:author": "Nakai Hitoshi <nakaih@nintendo.co.jp>",
+        "meta:creation-date": "2006-10-31T13:29:54Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200611.txt'",
+        "subject": "Fw: [ml-rvl-feature:469] VCコンテンツに利用するOperaコンポーネントについて"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "受信ログ200611_13.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2191.44KB",
+        "md5": "36f57ceff72182d7cb585f79b8991fea",
+        "sha256": "81e79ebfbb2f6394ebc8036d527f7e48649bf121e17a30995db7125b3125c74b"
+    },
+    "Metadata": {
+        "Author": "Yamamoto Kenji1/山本健二 <yamamoto@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-11-11T09:58:05Z",
+        "Message-From": "Yamamoto Kenji1/山本健二 <yamamoto@nintendo.co.jp>",
+        "Message-To": "Teruki Murakawa <muraka@nintendo.co.jp>",
+        "Message:From-Email": "yamamoto@nintendo.co.jp",
+        "Message:From-Name": "Yamamoto Kenji1/山本健二",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:In-Reply-To": "<16C70571CE5474muraka@nintendo.co.jp>",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-Id": "<40C70577E1EDB2yamamoto@nintendo.co.jp>",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id E61D255C0A7\tfor <muraka@photon.nintendo.co.jp>; Sat, 11 Nov 2006 18:58:05 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 11CF559C054; Sat, 11 Nov 2006 18:58:06 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id DB9ED59C0D8\tfor <muraka@nintendo.co.jp>; Sat, 11 Nov 2006 18:58:05 +0900 (JST)",
+            "from link.zelda.nintendo.co.jp (zelda.nintendo.co.jp [10.121.1.1])\tby stream.nintendo.co.jp (Postfix) with SMTP id B760C59C0D3\tfor <muraka@nintendo.co.jp>; Sat, 11 Nov 2006 18:58:05 +0900 (JST)",
+            "(qmail 14604 invoked by alias); 11 Nov 2006 18:58:07 +0900",
+            "(qmail 14598 invoked from network); 11 Nov 2006 18:58:07 +0900",
+            "from yamamoto-win.zelda.nintendo.co.jp (HELO nintendo.co.jp) (10.121.11.65)  by link.zelda.nintendo.co.jp with SMTP; 11 Nov 2006 18:58:07 +0900"
+        ],
+        "Message:Raw-Header:References": "<16C70571CE5474muraka@nintendo.co.jp>",
+        "Message:Raw-Header:Return-Path": "<yamamoto@nintendo.co.jp>",
+        "Message:Raw-Header:X-Mailer": "TuruKame 3.63 (WinNT,500)",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "^?p!!k]S\"!(*?!!60-\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "23",
+        "creator": "Yamamoto Kenji1/山本健二 <yamamoto@nintendo.co.jp>",
+        "dc:creator": "Yamamoto Kenji1/山本健二 <yamamoto@nintendo.co.jp>",
+        "dc:title": "Re: VCで報告された気になるバグ？【ＲＶＬ　ＶＣソフトチェック】",
+        "dcterms:created": "2006-11-11T09:58:05Z",
+        "meta:author": "Yamamoto Kenji1/山本健二 <yamamoto@nintendo.co.jp>",
+        "meta:creation-date": "2006-11-11T09:58:05Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200611_13.txt'",
+        "subject": "Re: VCで報告された気になるバグ？【ＲＶＬ　ＶＣソフトチェック】"
+    }
+}

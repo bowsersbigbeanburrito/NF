@@ -1,0 +1,52 @@
+{
+    "受信ログ200611_20.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2108.31KB",
+        "md5": "a8ed3aea5d1602411aa38dff2b6e63b6",
+        "sha256": "1a943958a87c84313b87fc3e5fbd28d0f6a541da28e41895bb17a0e28c4e6e08"
+    },
+    "Metadata": {
+        "Author": "Academy of Interactive Arts & Sciences <joseph@interactive.org>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-11-17T18:27:55Z",
+        "Message-From": "Academy of Interactive Arts & Sciences <joseph@interactive.org>",
+        "Message-To": "muraka@nintendo.co.jp",
+        "Message:From-Email": "joseph@interactive.org",
+        "Message:From-Name": "Academy of Interactive Arts & Sciences",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<87c77edea12d7fa22af335b0e9b15f2c.844@e2ma.net>",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 4AE8155C0A8\tfor <muraka@photon.nintendo.co.jp>; Sat, 18 Nov 2006 03:27:58 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 8C1EE59C0D6; Sat, 18 Nov 2006 03:27:58 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 539C059C0D3\tfor <muraka@nintendo.co.jp>; Sat, 18 Nov 2006 03:27:58 +0900 (JST)",
+            "from halcyon.nintendo.co.jp (halcyon.nintendo.co.jp [211.8.190.217])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 3CFF059C007\tfor <muraka@nintendo.co.jp>; Sat, 18 Nov 2006 03:27:58 +0900 (JST)",
+            "from mail179.e2ma.net (mail179.e2ma.net [66.179.147.179])\tby halcyon.nintendo.co.jp (Postfix) with ESMTP id F3F21898BD\tfor <muraka@nintendo.co.jp>; Sat, 18 Nov 2006 03:27:53 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Received-SPF": "pass (halcyon.nintendo.co.jp: domain of 430368384.844@e2ma.net designates 66.179.147.179 as permitted sender)",
+        "Message:Raw-Header:Return-Path": "<430368384.844@e2ma.net>",
+        "Message:Raw-Header:X-Original-To": "muraka@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-UIDL": "=Kd!!^2a\"!&%o!!F57!!",
+        "Multipart-Boundary": "--=F10D60AFF8CC4A9EAEA1_4EBE_4AF4_6810",
+        "Multipart-Subtype": "alternative",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "creator": "Academy of Interactive Arts & Sciences <joseph@interactive.org>",
+        "dc:creator": "Academy of Interactive Arts & Sciences <joseph@interactive.org>",
+        "dc:title": "DICE 2007 \"Power Hour\" Speaker Update",
+        "dcterms:created": "2006-11-17T18:27:55Z",
+        "meta:author": "Academy of Interactive Arts & Sciences <joseph@interactive.org>",
+        "meta:creation-date": "2006-11-17T18:27:55Z",
+        "resourceName": "b'\\xe5\\x8f\\x97\\xe4\\xbf\\xa1\\xe3\\x83\\xad\\xe3\\x82\\xb0200611_20.txt'",
+        "subject": "DICE 2007 \"Power Hour\" Speaker Update"
+    }
+}

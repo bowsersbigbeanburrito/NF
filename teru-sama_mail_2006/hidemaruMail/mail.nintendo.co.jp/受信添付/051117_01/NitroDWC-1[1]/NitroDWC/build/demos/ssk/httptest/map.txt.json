@@ -1,0 +1,21 @@
+{
+    "map.txt": {
+        "modified": "2005-08-02 01:02:33",
+        "size": "31.21KB",
+        "md5": "1ee21706e0ccd2226634fb5916145788",
+        "sha256": "288575a4ab5eb7246267f92414260e9d404ef5706f22e07fff206cfb2a585815"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "tab",
+        "resourceName": "b'map.txt'"
+    }
+}

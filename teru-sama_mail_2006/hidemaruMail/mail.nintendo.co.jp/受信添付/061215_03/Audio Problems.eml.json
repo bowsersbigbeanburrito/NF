@@ -1,0 +1,79 @@
+{
+    "Audio Problems.eml": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.16KB",
+        "md5": "03e3ade2d09b3f72291e7d84929e3a4b",
+        "sha256": "a8f9b39bfffe88b34dacc5957aacf736e995ccf82812a1955037a5a503358b55"
+    },
+    "Metadata": {
+        "Author": "Jonathan Eardley <Jonathan.Eardley@kuju.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-12-14T20:29:09Z",
+        "Message-Cc": [
+            "hiro <hiro@nintendo.co.jp>",
+            "terasaki <terasaki@nintendo.co.jp>",
+            "ando_kiyohiko@nintendo.co.jp",
+            "Versus <Versus@kuju.com>",
+            "Ian Johnson <Ian.Johnson@kuju.com>",
+            "Tancred Dyke-Wells <tancred.dyke-wells@kuju.com>",
+            "Richard Smith <richard.smith@kuju.com>"
+        ],
+        "Message-From": "Jonathan Eardley <Jonathan.Eardley@kuju.com>",
+        "Message-To": "miyazakm <miyazakm@nintendo.co.jp>",
+        "Message:From-Email": "Jonathan.Eardley@kuju.com",
+        "Message:From-Name": "Jonathan Eardley",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=us-ascii",
+        "Message:Raw-Header:Delivered-To": [
+            "miyazakm@photon.nintendo.co.jp",
+            "miyazakm@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<6466DCEA91144849937A75E6DB3869820164EE9F@lon-exsvr.kuju.com>",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id C5A1755C0D1\tfor <miyazakm@photon.nintendo.co.jp>; Fri, 15 Dec 2006 05:26:49 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 9CD9559C0DD; Fri, 15 Dec 2006 05:26:49 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 72DC959C0DB; Fri, 15 Dec 2006 05:26:49 +0900 (JST)",
+            "from halcyon.nintendo.co.jp (halcyon.nintendo.co.jp [211.8.190.217])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 583EC59C0D6; Fri, 15 Dec 2006 05:26:49 +0900 (JST)",
+            "from mail78.messagelabs.com (mail78.messagelabs.com [195.245.230.131])\tby halcyon.nintendo.co.jp (Postfix) with SMTP id C37DF898BD;\tFri, 15 Dec 2006 05:26:46 +0900 (JST)",
+            "(qmail 20383 invoked from network); 14 Dec 2006 20:26:43 -0000",
+            "from unknown (HELO es1.kuju.com) (193.122.39.9)\tby server-4.tower-78.messagelabs.com with SMTP; 14 Dec 2006 20:26:43 -0000",
+            "from lon-exsvr.kuju.com ([10.2.1.10]) by es1.kuju.com with Microsoft SMTPSVC(5.0.2195.6713);\tThu, 14 Dec 2006 20:26:35 +0000"
+        ],
+        "Message:Raw-Header:Received-SPF": [
+            "none (halcyon.nintendo.co.jp: domain of Jonathan.Eardley@kuju.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of Jonathan.Eardley@kuju.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of Jonathan.Eardley@kuju.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of Jonathan.Eardley@kuju.com does not designate permitted sender hosts)"
+        ],
+        "Message:Raw-Header:Return-Path": "<Jonathan.Eardley@kuju.com>",
+        "Message:Raw-Header:Thread-Index": "AccfgLW20dr2uHVQT5G+k3hOmRxT0QAANi6Q",
+        "Message:Raw-Header:Thread-Topic": "Audio Problems",
+        "Message:Raw-Header:X-Env-Sender": "Jonathan.Eardley@kuju.com",
+        "Message:Raw-Header:X-MS-Has-Attach": " ",
+        "Message:Raw-Header:X-MS-TNEF-Correlator": " ",
+        "Message:Raw-Header:X-MimeOLE": "Produced By Microsoft Exchange V6.0.6249.0",
+        "Message:Raw-Header:X-Msg-Ref": "server-4.tower-78.messagelabs.com!1166128003!8412577!1",
+        "Message:Raw-Header:X-Original-To": "miyazakm@photon.nintendo.co.jp",
+        "Message:Raw-Header:X-OriginalArrivalTime": "14 Dec 2006 20:26:35.0979 (UTC) FILETIME=[26DFB1B0:01C71FBE]",
+        "Message:Raw-Header:X-Originating-IP": "[193.122.39.9]",
+        "Message:Raw-Header:X-StarScan-Version": "5.5.10.7; banners=kuju.com,-,-",
+        "Message:Raw-Header:X-VirusChecked": "Checked",
+        "Message:Raw-Header:content-class": "urn:content-classes:message",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "Jonathan Eardley <Jonathan.Eardley@kuju.com>",
+        "dc:creator": "Jonathan Eardley <Jonathan.Eardley@kuju.com>",
+        "dc:title": "Audio Problems",
+        "dcterms:created": "2006-12-14T20:29:09Z",
+        "meta:author": "Jonathan Eardley <Jonathan.Eardley@kuju.com>",
+        "meta:creation-date": "2006-12-14T20:29:09Z",
+        "resourceName": "b'Audio Problems.eml'",
+        "subject": "Audio Problems"
+    }
+}

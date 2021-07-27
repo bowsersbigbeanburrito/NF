@@ -1,0 +1,932 @@
+{
+    "開発用コントローラ ver.2 setup.doc": {
+        "modified": "2005-09-26 17:50:55",
+        "size": "2419.5KB",
+        "md5": "05c57795d8ce8fdfe3234ba46b68af76",
+        "sha256": "0bec1759878a087ed715ab388347858c403090cd976a1ffe64ce1cfb2fa16911"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Word 8.0",
+        "Author": "伊藤邦朗",
+        "Character Count": "3275",
+        "Comments": "",
+        "Company": "任天堂総合開発本部",
+        "Content-Type": [
+            "application/msword",
+            "image/jpeg",
+            "image/png",
+            "image/png",
+            "image/jpeg",
+            "image/jpeg",
+            "image/jpeg",
+            "image/png",
+            "image/png",
+            "image/png"
+        ],
+        "Creation-Date": [
+            "2005-09-23T09:27:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "Edit-Time": "210600000000",
+        "Keywords": "",
+        "Last-Author": "伊藤邦朗",
+        "Last-Modified": [
+            "2005-09-27T00:50:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "Last-Save-Date": [
+            "2005-09-27T00:50:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "Page-Count": "7",
+        "Revision-Number": "24",
+        "Template": "Normal.dot",
+        "Word-Count": "574",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.jpeg.JpegParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.jpeg.JpegParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.jpeg.JpegParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.jpeg.JpegParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:origResourceName": [
+            "\\\\zigen\\tmp\\sato\\開発用コントローラ\\開発用コントローラ ver.2 setup.doc",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\自動ﾊﾞｯｸｱｯﾌﾟ ～ 開発用コントローラ ver.2 setup",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\自動ﾊﾞｯｸｱｯﾌﾟ ～ 開発用コントローラ ver.2 setup",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\自動ﾊﾞｯｸｱｯﾌﾟ ～ 開発用コントローラ ver.2 setup",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\自動ﾊﾞｯｸｱｯﾌﾟ ～ 開発用コントローラ ver.2 setup",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\自動ﾊﾞｯｸｱｯﾌﾟ ～ 開発用コントローラ ver.2 setup",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\自動ﾊﾞｯｸｱｯﾌﾟ ～ 開発用コントローラ ver.2 setup",
+            "\\\\zigen\\tmp\\sato\\開発用コントローラ\\開発用コントローラ ver.2 setup.doc",
+            "\\\\zigen\\tmp\\sato\\開発用コントローラ\\開発用コントローラ ver.2 setup.doc",
+            "\\\\zigen\\tmp\\sato\\開発用コントローラ\\開発用コントローラ ver.2 setup.doc"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "42",
+            "4",
+            "2",
+            "2",
+            "3",
+            "3",
+            "3",
+            "1",
+            "2",
+            "2"
+        ],
+        "comment": "",
+        "cp:revision": "24",
+        "cp:subject": "",
+        "creator": "伊藤邦朗",
+        "date": [
+            "2005-09-27T00:50:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "dc:creator": "伊藤邦朗",
+        "dc:subject": "",
+        "dc:title": "Revolution controller hardware overview（超暫定版）",
+        "dcterms:created": [
+            "2005-09-23T09:27:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "dcterms:modified": [
+            "2005-09-27T00:50:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "extended-properties:Application": "Microsoft Word 8.0",
+        "extended-properties:Company": "任天堂総合開発本部",
+        "extended-properties:Template": "Normal.dot",
+        "meta:author": "伊藤邦朗",
+        "meta:character-count": "3275",
+        "meta:creation-date": [
+            "2005-09-23T09:27:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "meta:keyword": "",
+        "meta:last-author": "伊藤邦朗",
+        "meta:page-count": "7",
+        "meta:save-date": [
+            "2005-09-27T00:50:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "meta:word-count": "574",
+        "modified": [
+            "2005-09-27T00:50:00Z",
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "resourceName": [
+            "b'\\xe9\\x96\\x8b\\xe7\\x99\\xba\\xe7\\x94\\xa8\\xe3\\x82\\xb3\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xad\\xe3\\x83\\xbc\\xe3\\x83\\xa9 ver.2 setup.doc'",
+            "image1.jpg",
+            "image2.png",
+            "image3.png",
+            "image4.jpg",
+            "image5.jpg",
+            "image6.jpg",
+            "image7.png",
+            "image8.png",
+            "image9.png"
+        ],
+        "subject": "",
+        "title": "Revolution controller hardware overview（超暫定版）",
+        "w:comments": "",
+        "xmpTPg:NPages": "7",
+        "Component 1": [
+            "Y component: Quantization table 0, Sampling factors 2 horiz/1 vert",
+            "Y component: Quantization table 0, Sampling factors 2 horiz/1 vert",
+            "Y component: Quantization table 0, Sampling factors 2 horiz/1 vert",
+            "Y component: Quantization table 0, Sampling factors 2 horiz/1 vert"
+        ],
+        "Component 2": [
+            "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+            "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+            "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+            "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert"
+        ],
+        "Component 3": [
+            "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+            "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+            "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+            "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert"
+        ],
+        "Compression Type": [
+            "Baseline",
+            "Baseline",
+            "Baseline",
+            "Baseline"
+        ],
+        "Data Precision": [
+            "8 bits",
+            "8 bits",
+            "8 bits",
+            "8 bits"
+        ],
+        "Exif IFD0:Copyright": [
+            "(C) Caplio R1 User",
+            "(C) Caplio R1 User",
+            "(C) Caplio R1 User",
+            "(C) Caplio R1 User"
+        ],
+        "Exif IFD0:Date/Time": [
+            "2005:08:18 16:48:11",
+            "2005:08:18 17:15:08",
+            "2005:08:18 16:51:38",
+            "2005:08:18 21:42:02"
+        ],
+        "Exif IFD0:Image Description": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Exif IFD0:Make": [
+            "RICOH",
+            "RICOH",
+            "RICOH",
+            "RICOH"
+        ],
+        "Exif IFD0:Model": [
+            "Caplio R1",
+            "Caplio R1",
+            "Caplio R1",
+            "Caplio R1"
+        ],
+        "Exif IFD0:Orientation": [
+            "Top, left side (Horizontal / normal)",
+            "Top, left side (Horizontal / normal)",
+            "Top, left side (Horizontal / normal)",
+            "Top, left side (Horizontal / normal)"
+        ],
+        "Exif IFD0:Resolution Unit": [
+            "Inch",
+            "Inch",
+            "Inch",
+            "Inch"
+        ],
+        "Exif IFD0:X Resolution": [
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch"
+        ],
+        "Exif IFD0:Y Resolution": [
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch"
+        ],
+        "Exif IFD0:YCbCr Positioning": [
+            "Datum point",
+            "Datum point",
+            "Datum point",
+            "Datum point"
+        ],
+        "Exif SubIFD:Aperture Value": [
+            "f/3.7",
+            "f/4.0",
+            "f/4.6",
+            "f/4.6"
+        ],
+        "Exif SubIFD:Brightness Value": [
+            "2.9",
+            "-1.1",
+            "2.4",
+            "-0.8"
+        ],
+        "Exif SubIFD:Color Space": [
+            "sRGB",
+            "sRGB",
+            "sRGB",
+            "sRGB"
+        ],
+        "Exif SubIFD:Components Configuration": [
+            "YCbCr",
+            "YCbCr",
+            "YCbCr",
+            "YCbCr"
+        ],
+        "Exif SubIFD:Compressed Bits Per Pixel": [
+            "2 bits/pixel",
+            "2 bits/pixel",
+            "2 bits/pixel",
+            "2 bits/pixel"
+        ],
+        "Exif SubIFD:Date/Time Digitized": [
+            "2005:08:18 16:48:11",
+            "2005:08:18 17:15:08",
+            "2005:08:18 16:51:38",
+            "2005:08:18 21:42:02"
+        ],
+        "Exif SubIFD:Date/Time Original": [
+            "2005:08:18 16:48:11",
+            "2005:08:18 17:15:08",
+            "2005:08:18 16:51:38",
+            "2005:08:18 21:42:02"
+        ],
+        "Exif SubIFD:Exif Image Height": [
+            "480 pixels",
+            "480 pixels",
+            "480 pixels",
+            "480 pixels"
+        ],
+        "Exif SubIFD:Exif Image Width": [
+            "640 pixels",
+            "640 pixels",
+            "640 pixels",
+            "640 pixels"
+        ],
+        "Exif SubIFD:Exif Version": [
+            "2.21",
+            "2.21",
+            "2.21",
+            "2.21"
+        ],
+        "Exif SubIFD:Exposure Bias Value": [
+            "0 EV",
+            "0 EV",
+            "0 EV",
+            "0 EV"
+        ],
+        "Exif SubIFD:Exposure Mode": [
+            "Auto exposure",
+            "Auto exposure",
+            "Auto exposure",
+            "Auto exposure"
+        ],
+        "Exif SubIFD:Exposure Program": [
+            "Program normal",
+            "Program normal",
+            "Program normal",
+            "Program normal"
+        ],
+        "Exif SubIFD:Exposure Time": [
+            "1/24 sec",
+            "0.5 sec",
+            "1/13 sec",
+            "1 sec"
+        ],
+        "Exif SubIFD:F-Number": [
+            "f/3.6",
+            "f/3.8",
+            "f/4.3",
+            "f/4.4"
+        ],
+        "Exif SubIFD:Flash": [
+            "Flash did not fire",
+            "Flash did not fire",
+            "Flash did not fire",
+            "Flash did not fire"
+        ],
+        "Exif SubIFD:FlashPix Version": [
+            "1.00",
+            "1.00",
+            "1.00",
+            "1.00"
+        ],
+        "Exif SubIFD:Focal Length": [
+            "5.6 mm",
+            "6.2 mm",
+            "15 mm",
+            "8.4 mm"
+        ],
+        "Exif SubIFD:ISO Speed Ratings": [
+            "154",
+            "154",
+            "154",
+            "154"
+        ],
+        "Exif SubIFD:Max Aperture Value": [
+            "f/3.1",
+            "f/3.1",
+            "f/3.1",
+            "f/3.1"
+        ],
+        "Exif SubIFD:Metering Mode": [
+            "Multi-segment",
+            "Multi-segment",
+            "Multi-segment",
+            "Multi-segment"
+        ],
+        "Exif SubIFD:Scene Capture Type": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+        ],
+        "Exif SubIFD:Sharpness": [
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "Exif SubIFD:User Comment": [
+            "Unicode",
+            "Unicode",
+            "Unicode",
+            "Unicode"
+        ],
+        "Exif SubIFD:White Balance": [
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "Exif SubIFD:White Balance Mode": [
+            "Auto white balance",
+            "Auto white balance",
+            "Auto white balance",
+            "Auto white balance"
+        ],
+        "Exif Thumbnail:Compression": [
+            "JPEG (old-style)",
+            "JPEG (old-style)",
+            "JPEG (old-style)",
+            "JPEG (old-style)"
+        ],
+        "Exif Thumbnail:Resolution Unit": [
+            "Inch",
+            "Inch",
+            "Inch",
+            "Inch"
+        ],
+        "Exif Thumbnail:Thumbnail Length": [
+            "5631 bytes",
+            "5670 bytes",
+            "5644 bytes",
+            "5645 bytes"
+        ],
+        "Exif Thumbnail:Thumbnail Offset": [
+            "2521 bytes",
+            "2521 bytes",
+            "2521 bytes",
+            "2521 bytes"
+        ],
+        "Exif Thumbnail:X Resolution": [
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch"
+        ],
+        "Exif Thumbnail:Y Resolution": [
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch",
+            "72 dots per inch"
+        ],
+        "File Modified Date": [
+            "Tue. Jul. 27 16:18:32 -07:00 2021",
+            "Tue. Jul. 27 16:18:32 -07:00 2021",
+            "Tue. Jul. 27 16:18:32 -07:00 2021",
+            "Tue. Jul. 27 16:18:32 -07:00 2021"
+        ],
+        "File Name": [
+            "apache-tika-11834434406944069359.tmp",
+            "apache-tika-6701186319046554956.tmp",
+            "apache-tika-3983894885884041810.tmp",
+            "apache-tika-13775699629500380111.tmp"
+        ],
+        "File Size": [
+            "86483 bytes",
+            "82231 bytes",
+            "85473 bytes",
+            "83072 bytes"
+        ],
+        "Image Height": [
+            "480 pixels",
+            "480 pixels",
+            "480 pixels",
+            "480 pixels"
+        ],
+        "Image Width": [
+            "640 pixels",
+            "640 pixels",
+            "640 pixels",
+            "640 pixels"
+        ],
+        "Interoperability:Interoperability Index": [
+            "Recommended Exif Interoperability Rules (ExifR98)",
+            "Recommended Exif Interoperability Rules (ExifR98)",
+            "Recommended Exif Interoperability Rules (ExifR98)",
+            "Recommended Exif Interoperability Rules (ExifR98)"
+        ],
+        "Interoperability:Interoperability Version": [
+            "1.00",
+            "1.00",
+            "1.00",
+            "1.00"
+        ],
+        "Makernote Data Type": [
+            "Rdc",
+            "Rdc",
+            "Rdc",
+            "Rdc"
+        ],
+        "Number of Components": [
+            "3",
+            "3",
+            "3",
+            "3"
+        ],
+        "Number of Tables": [
+            "4 Huffman tables",
+            "4 Huffman tables",
+            "4 Huffman tables",
+            "4 Huffman tables"
+        ],
+        "PrintIM Version": [
+            "0300",
+            "0300",
+            "0300",
+            "0300"
+        ],
+        "Ricoh Camera Info Makernote Sub-IFD": [
+            "[270 values]",
+            "[270 values]",
+            "[270 values]",
+            "[270 values]"
+        ],
+        "Unknown tag (0x0001)": [
+            "0x00140014",
+            "0x00140014",
+            "0x00140014",
+            "0x00140014"
+        ],
+        "Unknown tag (0x0002)": [
+            "0x01000000",
+            "0x01000000",
+            "0x01000000",
+            "0x01000000"
+        ],
+        "Unknown tag (0x0003)": [
+            "0x00000064",
+            "0x00000064",
+            "0x00000064",
+            "0x00000064"
+        ],
+        "Unknown tag (0x0005)": [
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+        ],
+        "Unknown tag (0x0006)": [
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+        ],
+        "Unknown tag (0x0007)": [
+            "0x00000000",
+            "0x00000000",
+            "0x00000000",
+            "0x00000000"
+        ],
+        "Unknown tag (0x0008)": [
+            "0x00000000",
+            "0x00000000",
+            "0x00000000",
+            "0x00000000"
+        ],
+        "Unknown tag (0x0009)": [
+            "0x00000000",
+            "0x00000000",
+            "0x00000000",
+            "0x00000000"
+        ],
+        "Unknown tag (0x000a)": [
+            "0x00000000",
+            "0x00000000",
+            "0x00000000",
+            "0x00000000"
+        ],
+        "Unknown tag (0x000b)": [
+            "0x000000ac",
+            "0x000000ac",
+            "0x000000ac",
+            "0x000000ac"
+        ],
+        "Unknown tag (0x000c)": [
+            "0x00000000",
+            "0x00000000",
+            "0x00000000",
+            "0x00000000"
+        ],
+        "Unknown tag (0x000d)": [
+            "0x00000000",
+            "0x00000000",
+            "0x00000000",
+            "0x00000000"
+        ],
+        "Unknown tag (0x000e)": [
+            "0x000000c4",
+            "0x000000c4",
+            "0x000000c4",
+            "0x000000c4"
+        ],
+        "Unknown tag (0x0100)": [
+            "0x02000000",
+            "0x02000000",
+            "0x02000000",
+            "0x02000000"
+        ],
+        "Unknown tag (0x0101)": [
+            "0x01000000",
+            "0x01000000",
+            "0x01000000",
+            "0x01000000"
+        ],
+        "Unknown tag (0x0110)": [
+            "0x81000000",
+            "0x83000000",
+            "0x81000000",
+            "0x81000000"
+        ],
+        "Unknown tag (0x1001)": [
+            "[40 values]",
+            "[40 values]",
+            "[40 values]",
+            "[40 values]"
+        ],
+        "Unknown tag (0x1002)": [
+            "920",
+            "920",
+            "920",
+            "920"
+        ],
+        "Unknown tag (0x1003)": [
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/image1.jpg",
+            "/image2.png",
+            "/image3.png",
+            "/image4.jpg",
+            "/image5.jpg",
+            "/image6.jpg",
+            "/image7.png",
+            "/image8.png",
+            "/image9.png"
+        ],
+        "dc:description": [
+            "                                                               ",
+            "                                                               ",
+            "                                                               ",
+            "                                                               "
+        ],
+        "description": [
+            "                                                               ",
+            "                                                               ",
+            "                                                               ",
+            "                                                               "
+        ],
+        "exif:DateTimeOriginal": [
+            "2005-08-18T09:48:11",
+            "2005-08-18T10:15:08",
+            "2005-08-18T09:51:38",
+            "2005-08-18T14:42:02"
+        ],
+        "exif:ExposureTime": [
+            "0.041666666666666664",
+            "0.5",
+            "0.07692307692307693",
+            "1.0"
+        ],
+        "exif:FNumber": [
+            "3.6",
+            "3.8",
+            "4.3",
+            "4.4"
+        ],
+        "exif:Flash": [
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "exif:FocalLength": [
+            "5.6",
+            "6.2",
+            "15.0",
+            "8.4"
+        ],
+        "exif:IsoSpeedRatings": [
+            "154",
+            "154",
+            "154",
+            "154"
+        ],
+        "tiff:BitsPerSample": [
+            "8",
+            "8 8 8",
+            "8 8 8",
+            "8",
+            "8",
+            "8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8"
+        ],
+        "tiff:ImageLength": [
+            "480",
+            "480",
+            "480",
+            "480",
+            "480",
+            "480",
+            "480",
+            "480",
+            "480"
+        ],
+        "tiff:ImageWidth": [
+            "640",
+            "640",
+            "640",
+            "640",
+            "640",
+            "640",
+            "640",
+            "640",
+            "640"
+        ],
+        "tiff:Make": [
+            "RICOH      ",
+            "RICOH      ",
+            "RICOH      ",
+            "RICOH      "
+        ],
+        "tiff:Model": [
+            "Caplio R1      ",
+            "Caplio R1      ",
+            "Caplio R1      ",
+            "Caplio R1      "
+        ],
+        "tiff:Orientation": [
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "tiff:ResolutionUnit": [
+            "Inch",
+            "Inch",
+            "Inch",
+            "Inch"
+        ],
+        "tiff:XResolution": [
+            "72.0",
+            "72.0",
+            "72.0",
+            "72.0"
+        ],
+        "tiff:YResolution": [
+            "72.0",
+            "72.0",
+            "72.0",
+            "72.0"
+        ],
+        "tika.mime.file": [
+            "image1.jpg",
+            "image2.png",
+            "image3.png",
+            "image4.jpg",
+            "image5.jpg",
+            "image6.jpg",
+            "image7.png",
+            "image8.png",
+            "image9.png"
+        ],
+        "Chroma BlackIsZero": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Chroma ColorSpaceType": [
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB",
+            "RGB"
+        ],
+        "Chroma Gamma": [
+            "0.45448",
+            "0.45448",
+            "0.45448",
+            "0.45448",
+            "0.45448"
+        ],
+        "Chroma NumChannels": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+        ],
+        "Compression CompressionTypeName": [
+            "deflate",
+            "deflate",
+            "deflate",
+            "deflate",
+            "deflate"
+        ],
+        "Compression Lossless": [
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
+        ],
+        "Compression NumProgressiveScans": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "Data BitsPerSample": [
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8",
+            "8 8 8"
+        ],
+        "Data PlanarConfiguration": [
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved",
+            "PixelInterleaved"
+        ],
+        "Data SampleFormat": [
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral",
+            "UnsignedIntegral"
+        ],
+        "Dimension ImageOrientation": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+        ],
+        "Dimension PixelAspectRatio": [
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0"
+        ],
+        "IHDR": [
+            "width=640, height=480, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=640, height=480, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=640, height=480, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=640, height=480, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+            "width=640, height=480, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none"
+        ],
+        "Transparency Alpha": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "gAMA": [
+            "45448",
+            "45448",
+            "45448",
+            "45448",
+            "45448"
+        ],
+        "height": [
+            "480",
+            "480",
+            "480",
+            "480",
+            "480"
+        ],
+        "width": [
+            "640",
+            "640",
+            "640",
+            "640",
+            "640"
+        ]
+    }
+}

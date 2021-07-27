@@ -1,0 +1,20 @@
+{
+    "log.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2.41KB",
+        "md5": "31e7424723067e0994649b2902b930e1",
+        "sha256": "4bf8637839d6e15ac8dc8b98f6bbc5b9575063565efe4298054c060bb5bc7c26"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'log.txt'"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "SPD ALL200605.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "89.21KB",
+        "md5": "64192198e5576ccfb33fafbec2f8eeea",
+        "sha256": "0010b57935c714166bdd323dc1a12c3d80e77e35b8e315f35b187778f12b5eec"
+    },
+    "Metadata": {
+        "Author": "MIYAKE masahito <miyake@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-05-01T05:58:34Z",
+        "Message-From": "MIYAKE masahito <miyake@nintendo.co.jp>",
+        "Message-To": "ml-spd_all@nintendo.co.jp",
+        "Message:From-Email": "miyake@nintendo.co.jp",
+        "Message:From-Name": "MIYAKE masahito",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-spd_all@photon.nintendo.co.jp",
+            "ml-spd_all@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "9",
+        "Message:Raw-Header:List-Help": "<mailto:ml-spd_all-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-spd_all.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-spd_all-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-spd_all@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-spd_all-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<81C66CE4480813miyake@nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 1863755C0AE\tfor <muraka@photon.nintendo.co.jp>; Mon,  1 May 2006 14:58:51 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 7520159C0FF; Mon,  1 May 2006 14:58:49 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid F3E8A59C0DA; Mon,  1 May 2006 14:58:48 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid AC78559C0D5; Mon,  1 May 2006 14:58:48 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 022EC55C0A8; Mon,  1 May 2006 14:58:48 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 9418355C0A7\tfor <ml-spd_all@photon.nintendo.co.jp>; Mon,  1 May 2006 14:58:40 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid A84C959C009; Mon,  1 May 2006 14:58:40 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 82EE559C054\tfor <ml-spd_all@nintendo.co.jp>; Mon,  1 May 2006 14:58:40 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 6AFA059C009\tfor <ml-spd_all@nintendo.co.jp>; Mon,  1 May 2006 14:58:40 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.114.2.67])\tby photon.nintendo.co.jp (Postfix) with SMTP id 101BC55C0A8\tfor <ml-spd_all@nintendo.co.jp>; Mon,  1 May 2006 14:58:35 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "miyake@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-spd_all-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-spd_all-ctl@nintendo.co.jp;\thelp=<mailto:ml-spd_all-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-spd_all",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "1467",
+        "Message:Raw-Header:X-Mailer": "TuruKame 4.16 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-spd_all@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "]KE!!1Mn!!5D?\"!ePe\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "MIYAKE masahito <miyake@nintendo.co.jp>",
+        "dc:creator": "MIYAKE masahito <miyake@nintendo.co.jp>",
+        "dc:title": "[ml-spd_all:1467] gomi»¤¶µÜ·B",
+        "dcterms:created": "2006-05-01T05:58:34Z",
+        "meta:author": "MIYAKE masahito <miyake@nintendo.co.jp>",
+        "meta:creation-date": "2006-05-01T05:58:34Z",
+        "resourceName": "b'SPD ALL200605.txt'",
+        "subject": "[ml-spd_all:1467] gomi»¤¶µÜ·B"
+    }
+}

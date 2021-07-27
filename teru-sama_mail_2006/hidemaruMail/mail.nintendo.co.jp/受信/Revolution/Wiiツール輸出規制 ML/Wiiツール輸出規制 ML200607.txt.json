@@ -1,0 +1,74 @@
+{
+    "Wiiツール輸出規制 ML200607.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "448.32KB",
+        "md5": "aac92d76e396b1c2f0c5dc995a1087e6",
+        "sha256": "94c937a7877ce9f694b378049e3c495b3acd5246641397958a9681c78f973056"
+    },
+    "Metadata": {
+        "Author": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-07-03T10:56:04Z",
+        "Message-From": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "Message-To": "ml-tool-exportcontrol@nintendo.co.jp",
+        "Message:From-Email": "ohara@nintendo.co.jp",
+        "Message:From-Name": "Ohara Takao/ å´Mv",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-tool-exportcontrol@photon.nintendo.co.jp",
+            "ml-tool-exportcontrol@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "15",
+        "Message:Raw-Header:List-Help": "<mailto:ml-tool-exportcontrol-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-tool-exportcontrol.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-tool-exportcontrol-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-tool-exportcontrol@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-tool-exportcontrol-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<E2C69E8F478434ohara@nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id EB35955C0AE\tfor <muraka@photon.nintendo.co.jp>; Mon,  3 Jul 2006 19:56:05 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid EE89F59C0F1; Mon,  3 Jul 2006 19:56:05 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 9E25C59C0D6; Mon,  3 Jul 2006 19:56:05 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 7A3D859C054; Mon,  3 Jul 2006 19:56:05 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid 149DF55C0A7; Mon,  3 Jul 2006 19:56:05 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id C9C5255C0A8\tfor <ml-tool-exportcontrol@photon.nintendo.co.jp>; Mon,  3 Jul 2006 19:56:04 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid ED90759C007; Mon,  3 Jul 2006 19:56:04 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id CB35C59C054\tfor <ml-tool-exportcontrol@nintendo.co.jp>; Mon,  3 Jul 2006 19:56:04 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id A745259C007\tfor <ml-tool-exportcontrol@nintendo.co.jp>; Mon,  3 Jul 2006 19:56:04 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.117.1.36])\tby photon.nintendo.co.jp (Postfix) with SMTP id 5AE8555C0A7\tfor <ml-tool-exportcontrol@nintendo.co.jp>; Mon,  3 Jul 2006 19:56:04 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "ml-tool-exportcontrol@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-tool-exportcontrol-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-tool-exportcontrol-ctl@nintendo.co.jp;\thelp=<mailto:ml-tool-exportcontrol-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-tool-exportcontrol",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (anyone can post)",
+        "Message:Raw-Header:X-Mail-Count": "45",
+        "Message:Raw-Header:X-Mailer": "HidemaruMail 4.63 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-tool-exportcontrol@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "BXY!!8SP\"!-A8\"!3lk\"!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "creator": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "dc:creator": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "dc:title": "[ml-tool-exportcontrol:45] RVTRÌB­ÉÂ¢Ä",
+        "dcterms:created": "2006-07-03T10:56:04Z",
+        "meta:author": "Ohara Takao/ å´Mv <ohara@nintendo.co.jp>",
+        "meta:creation-date": "2006-07-03T10:56:04Z",
+        "resourceName": "b'Wii\\xe3\\x83\\x84\\xe3\\x83\\xbc\\xe3\\x83\\xab\\xe8\\xbc\\xb8\\xe5\\x87\\xba\\xe8\\xa6\\x8f\\xe5\\x88\\xb6 ML200607.txt'",
+        "subject": "[ml-tool-exportcontrol:45] RVTRÌB­ÉÂ¢Ä"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "DS Socket Lib200510.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "6.16KB",
+        "md5": "331d828ee04b22847c1b0bafab311ab2",
+        "sha256": "e5241b23cc1a19c95c96239a10cecee7a63fd8cbd594755b944591c759ffd035"
+    },
+    "Metadata": {
+        "Author": "Mominoki Tetsuya/ ÌØNç <mominoki@nintendo.co.jp>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2005-10-11T02:14:56Z",
+        "Message-From": "Mominoki Tetsuya/ ÌØNç <mominoki@nintendo.co.jp>",
+        "Message-To": "ml-ds-socket@nintendo.co.jp",
+        "Message:From-Email": "mominoki@nintendo.co.jp",
+        "Message:From-Name": "Mominoki Tetsuya/ ÌØNç",
+        "Message:Raw-Header:Content-Transfer-Encoding": "7bit",
+        "Message:Raw-Header:Content-Type": "text/plain; charset=iso-2022-jp",
+        "Message:Raw-Header:Delivered-To": [
+            "muraka@photon.nintendo.co.jp",
+            "muraka@nintendo.co.jp",
+            "ml-ds-socket@photon.nintendo.co.jp",
+            "ml-ds-socket@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Lines": "129",
+        "Message:Raw-Header:List-Help": "<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:List-Id": "ml-ds-socket.nintendo.co.jp",
+        "Message:Raw-Header:List-Owner": "<mailto:ml-ds-socket-admin@nintendo.co.jp>",
+        "Message:Raw-Header:List-Post": "<mailto:ml-ds-socket@nintendo.co.jp>",
+        "Message:Raw-Header:List-Software": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]",
+        "Message:Raw-Header:List-Unsubscribe": "<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=unsubscribe>",
+        "Message:Raw-Header:Message-Id": "<60C5CE0992B1C4mominoki@nintendo.co.jp>",
+        "Message:Raw-Header:Mime-Version": "1.0",
+        "Message:Raw-Header:Precedence": "bulk",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 1DBA855C0AA\tfor <muraka@photon.nintendo.co.jp>; Tue, 11 Oct 2005 11:14:58 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 938D759C0EE; Tue, 11 Oct 2005 11:14:57 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 4DBCD59C0D6; Tue, 11 Oct 2005 11:14:57 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 2996559C0D2; Tue, 11 Oct 2005 11:14:57 +0900 (JST)",
+            "from photon.nintendo.co.jp (localhost [127.0.0.1])\tby photon.nintendo.co.jp (Postfix) with ESMTP\tid C9C7C55C0A8; Tue, 11 Oct 2005 11:14:56 +0900 (JST)",
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 5835855C0A7\tfor <ml-ds-socket@photon.nintendo.co.jp>; Tue, 11 Oct 2005 11:14:56 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid 598CF59C0D2; Tue, 11 Oct 2005 11:14:56 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP id 32EC659C0D5\tfor <ml-ds-socket@nintendo.co.jp>; Tue, 11 Oct 2005 11:14:56 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP id 1B0F259C0D2\tfor <ml-ds-socket@nintendo.co.jp>; Tue, 11 Oct 2005 11:14:56 +0900 (JST)",
+            "from nintendo.co.jp (unknown [10.121.26.73])\tby photon.nintendo.co.jp (Postfix) with SMTP id E6DFD55C0A7\tfor <ml-ds-socket@nintendo.co.jp>; Tue, 11 Oct 2005 11:14:55 +0900 (JST)"
+        ],
+        "Message:Raw-Header:Reply-To": "ml-ds-socket@nintendo.co.jp",
+        "Message:Raw-Header:Return-Path": "<ml-ds-socket-admin@nintendo.co.jp>",
+        "Message:Raw-Header:X-ML-Info": "If you have a question, send e-mail with the body\t\"help\" (without quotes) to the address ml-ds-socket-ctl@nintendo.co.jp;\thelp=<mailto:ml-ds-socket-ctl@nintendo.co.jp?body=help>",
+        "Message:Raw-Header:X-ML-Name": "ml-ds-socket",
+        "Message:Raw-Header:X-MLServer": "fml [fml 4.0 STABLE (20030821/4.0.4_ALPHA)]; post only (only members can post)",
+        "Message:Raw-Header:X-Mail-Count": "66",
+        "Message:Raw-Header:X-Mailer": "TuruKame 4.16 (WinNT,501)",
+        "Message:Raw-Header:X-Original-To": [
+            "muraka@photon.nintendo.co.jp",
+            "ml-ds-socket@photon.nintendo.co.jp"
+        ],
+        "Message:Raw-Header:X-UIDL": "CG,!!^2?\"!B~/!!(V[!!",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "Mominoki Tetsuya/ ÌØNç <mominoki@nintendo.co.jp>",
+        "dc:creator": "Mominoki Tetsuya/ ÌØNç <mominoki@nintendo.co.jp>",
+        "dc:title": "[ml-ds-socket:66] new member",
+        "dcterms:created": "2005-10-11T02:14:56Z",
+        "meta:author": "Mominoki Tetsuya/ ÌØNç <mominoki@nintendo.co.jp>",
+        "meta:creation-date": "2005-10-11T02:14:56Z",
+        "resourceName": "b'DS Socket Lib200510.txt'",
+        "subject": "[ml-ds-socket:66] new member"
+    }
+}

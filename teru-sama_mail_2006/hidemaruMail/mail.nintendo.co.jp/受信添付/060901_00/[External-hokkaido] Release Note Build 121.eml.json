@@ -1,0 +1,78 @@
+{
+    "[External-hokkaido] Release Note Build 121.eml": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "5.68KB",
+        "md5": "f9cf0a9ce6f7ae1586d6c67ac4560aad",
+        "sha256": "611f0efaf2c01785b439ef149f5cb5bcbe649016d635d80b5c2777898a280e6e"
+    },
+    "Metadata": {
+        "Author": "Tor Martin Uv <tormuv@opera.com>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2006-08-30T21:01:59Z",
+        "Message-From": "Tor Martin Uv <tormuv@opera.com>",
+        "Message-To": "external-hokkaido@opera.com <external-hokkaido@opera.com>",
+        "Message:From-Email": "tormuv@opera.com",
+        "Message:From-Name": "Tor Martin Uv",
+        "Message:Raw-Header:Content-Transfer-Encoding": "8bit",
+        "Message:Raw-Header:Content-Type": "text/plain; format=flowed; delsp=yes; charset=utf-8",
+        "Message:Raw-Header:Delivered-To": [
+            "shirakae@photon.nintendo.co.jp",
+            "shirakae@nintendo.co.jp"
+        ],
+        "Message:Raw-Header:Errors-To": "external-hokkaido-bounces@opera.com",
+        "Message:Raw-Header:List-Archive": "<http://list.opera.com/mailman/private/external-hokkaido>",
+        "Message:Raw-Header:List-Help": "<mailto:external-hokkaido-request@list.opera.com?subject=help>",
+        "Message:Raw-Header:List-Id": "external-hokkaido.list.opera.com",
+        "Message:Raw-Header:List-Post": "<mailto:external-hokkaido@list.opera.com>",
+        "Message:Raw-Header:List-Subscribe": "<http://list.opera.com/mailman/listinfo/external-hokkaido>,\t<mailto:external-hokkaido-request@list.opera.com?subject=subscribe>",
+        "Message:Raw-Header:List-Unsubscribe": "<http://list.opera.com/mailman/listinfo/external-hokkaido>, \t<mailto:external-hokkaido-request@list.opera.com?subject=unsubscribe>",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-ID": "<op.te37dlq9swxavt@x31opera23>",
+        "Message:Raw-Header:Organization": "Opera Software",
+        "Message:Raw-Header:Precedence": "list",
+        "Message:Raw-Header:Received": [
+            "from stream.nintendo.co.jp (stream.nintendo.co.jp [10.100.1.2])\tby photon.nintendo.co.jp (Postfix) with ESMTP id 06C4A55C0AD\tfor <shirakae@photon.nintendo.co.jp>; Thu, 31 Aug 2006 06:02:11 +0900 (JST)",
+            "by stream.nintendo.co.jp (Postfix)\tid BD51C59C0D7; Thu, 31 Aug 2006 06:02:10 +0900 (JST)",
+            "from stream.nintendo.co.jp (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with ESMTP\tid 8841A59C054; Thu, 31 Aug 2006 06:02:10 +0900 (JST)",
+            "from halcyon.nintendo.co.jp (halcyon.nintendo.co.jp [211.8.190.217])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid 6EE9A59C007; Thu, 31 Aug 2006 06:02:10 +0900 (JST)",
+            "from mailbox.opera.com (mail.opera.com [193.69.113.66])\tby halcyon.nintendo.co.jp (Postfix) with ESMTP id 7E04A898BD;\tThu, 31 Aug 2006 06:02:08 +0900 (JST)",
+            "from mailbox.opera.com (list@localhost [127.0.0.1])\tby mailbox.opera.com (8.13.4/8.13.4/Debian-3sarge1) with ESMTP id k7UL23CK020040;\tWed, 30 Aug 2006 21:02:04 GMT",
+            "from sam.opera.com (sam.opera.com [193.69.113.81])\tby mailbox.opera.com (8.13.4/8.13.4/Debian-3sarge1) with ESMTP id\tk7UL22ZR020032\t(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)\tfor <external-hokkaido@opera.com>; Wed, 30 Aug 2006 21:02:02 GMT",
+            "from x31opera23 (084202023222.customer.alfanett.no [84.202.23.222])\t(authenticated bits=0)\tby sam.opera.com (8.13.4/8.13.4/Debian-3sarge1) with ESMTP id\tk7UL222h024450\tfor <external-hokkaido@opera.com>; Wed, 30 Aug 2006 21:02:02 GMT"
+        ],
+        "Message:Raw-Header:Received-SPF": [
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)",
+            "none (halcyon.nintendo.co.jp: domain of external-hokkaido-bounces@mail.opera.com does not designate permitted sender hosts)"
+        ],
+        "Message:Raw-Header:Reply-To": "external-hokkaido@opera.com",
+        "Message:Raw-Header:Return-Path": "<external-hokkaido-bounces@mail.opera.com>",
+        "Message:Raw-Header:Sender": "external-hokkaido-bounces@opera.com",
+        "Message:Raw-Header:User-Agent": "Opera Mail/9.00 (Win32)",
+        "Message:Raw-Header:X-Account-Key": "account1",
+        "Message:Raw-Header:X-BeenThere": "external-hokkaido@list.opera.com",
+        "Message:Raw-Header:X-Mailman-Version": "2.1.5",
+        "Message:Raw-Header:X-Original-To": "shirakae@photon.nintendo.co.jp",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "Tor Martin Uv <tormuv@opera.com>",
+        "dc:creator": "Tor Martin Uv <tormuv@opera.com>",
+        "dc:title": "[External-hokkaido] Release Note Build 121",
+        "dcterms:created": "2006-08-30T21:01:59Z",
+        "meta:author": "Tor Martin Uv <tormuv@opera.com>",
+        "meta:creation-date": "2006-08-30T21:01:59Z",
+        "resourceName": "b'[External-hokkaido] Release Note Build 121.eml'",
+        "subject": "[External-hokkaido] Release Note Build 121"
+    }
+}

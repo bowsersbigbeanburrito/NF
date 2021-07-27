@@ -1,0 +1,135 @@
+{
+    "VCマリオ６４：バナーデータ更新.eml": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "491.56KB",
+        "md5": "cbbc28e3892b932dd4993eaa613747ad",
+        "sha256": "ea40b37ee4483cc84d457b55455ccda6172bf952552125fa0cf4ad43618afaf2"
+    },
+    "Metadata": {
+        "Author": "gofuku@nintendo.co.jp",
+        "Content-Type": [
+            "message/rfc822",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/zip"
+        ],
+        "Creation-Date": "2006-10-24T12:25:03Z",
+        "Message-From": "gofuku@nintendo.co.jp",
+        "Message-To": [
+            "shigya01@nst.nintendo.com",
+            "satoho01@nst.nintendo.com",
+            "hiroal01@nst.nintendo.com",
+            "muti@nintendo.co.jp",
+            "sasaki_norihide@nintendo.co.jp",
+            "nakaih@nintendo.co.jp",
+            "muraka@nintendo.co.jp"
+        ],
+        "Message:From-Email": "gofuku@nintendo.co.jp",
+        "Message:Raw-Header:In-Reply-To": "<200610241005.AA00115@gofuku-note.nintendo.co.jp>",
+        "Message:Raw-Header:MIME-Version": "1.0",
+        "Message:Raw-Header:Message-Id": "<200610241225.AA00123@gofuku-note.nintendo.co.jp>",
+        "Message:Raw-Header:Received": [
+            "from barracuda2.noa.nintendo.com\t(barracuda-bigip-snat.noa.com [205.166.76.93])\tby smtpgw2.nintendo.com; Tue, 24 Oct 2006 05:25:14 -0700",
+            "from stream.nintendo.co.jp (unknown [205.166.76.237])\tby barracuda2.noa.nintendo.com (Spam Firewall) with ESMTP\tid 642652184B; Tue, 24 Oct 2006 05:35:22 -0700 (PDT)",
+            "from localhost (localhost [127.0.0.1])\tby localhost.nintendo.co.jp (Postfix) with SMTP\tid 74B8759C0ED; Tue, 24 Oct 2006 21:25:10 +0900 (JST)",
+            "from photon.nintendo.co.jp (photon.nintendo.co.jp [10.100.1.10])\tby stream.nintendo.co.jp (Postfix) with ESMTP\tid EF30A59C0D3; Tue, 24 Oct 2006 21:25:03 +0900 (JST)",
+            "from gofuku-note.nintendo.co.jp (unknown [10.114.2.101])\tby photon.nintendo.co.jp (Postfix) with SMTP\tid 8897B55C0A7; Tue, 24 Oct 2006 21:25:03 +0900 (JST)"
+        ],
+        "Message:Raw-Header:References": "<200610241005.AA00115@gofuku-note.nintendo.co.jp>",
+        "Message:Raw-Header:Return-path": "<gofuku@nintendo.co.jp>",
+        "Message:Raw-Header:X-ASG-Debug-ID": "1161693322-2301-308-0",
+        "Message:Raw-Header:X-ASG-Orig-Subj": "=?ISO-2022-JP?B?VkMbJEIlXiVqJSojNiM0ISclUCVKITwlRyE8GyhK?= =?ISO-2022-JP?B?GyRCJT85OT83GyhC?=",
+        "Message:Raw-Header:X-ASG-Whitelist": " Sender",
+        "Message:Raw-Header:X-Barracuda-Spam-Score": "0.00",
+        "Message:Raw-Header:X-Barracuda-Spam-Status": "No, SCORE=0.00 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 ",
+        "Message:Raw-Header:X-Barracuda-URL": "http://205.166.76.33:80/cgi-bin/mark.cgi",
+        "Message:Raw-Header:X-Mailer": "AL-Mail32 Version 1.13",
+        "Message:Raw-Header:X-Virus-Scanned": "by Barracuda Spam Firewall 2 at noa.nintendo.com",
+        "Multipart-Boundary": [
+            "--------------------5465570209132271",
+            "--------------------5465570209132271"
+        ],
+        "Multipart-Subtype": [
+            "mixed",
+            "mixed"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "1",
+            "1",
+            "3"
+        ],
+        "creator": "gofuku@nintendo.co.jp",
+        "dc:creator": "gofuku@nintendo.co.jp",
+        "dc:title": "VCマリオ６４：バナーデータ更新",
+        "dcterms:created": "2006-10-24T12:25:03Z",
+        "meta:author": "gofuku@nintendo.co.jp",
+        "meta:creation-date": "2006-10-24T12:25:03Z",
+        "resourceName": [
+            "b'VC\\xe3\\x83\\x9e\\xe3\\x83\\xaa\\xe3\\x82\\xaa\\xef\\xbc\\x96\\xef\\xbc\\x94\\xef\\xbc\\x9a\\xe3\\x83\\x90\\xe3\\x83\\x8a\\xe3\\x83\\xbc\\xe3\\x83\\x87\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe6\\x9b\\xb4\\xe6\\x96\\xb0.eml'",
+            "mario64_banner102406/jpn/title.met",
+            "mario64_banner102406/us/title.met",
+            "mario64_banner102406.zip"
+        ],
+        "subject": "VCマリオ６４：バナーデータ更新",
+        "Content-Length": [
+            "218008",
+            "218008"
+        ],
+        "Last-Modified": [
+            "2006-10-25T03:55:44Z",
+            "2006-10-25T04:14:58Z"
+        ],
+        "Last-Save-Date": [
+            "2006-10-25T03:55:44Z",
+            "2006-10-25T04:14:58Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/mario64_banner102406.zip/title.met",
+            "/mario64_banner102406.zip/title.met",
+            "/mario64_banner102406.zip"
+        ],
+        "date": [
+            "2006-10-25T03:55:44Z",
+            "2006-10-25T04:14:58Z"
+        ],
+        "dcterms:modified": [
+            "2006-10-25T03:55:44Z",
+            "2006-10-25T04:14:58Z"
+        ],
+        "embeddedRelationshipId": [
+            "mario64_banner102406/jpn/title.met",
+            "mario64_banner102406/us/title.met"
+        ],
+        "meta:save-date": [
+            "2006-10-25T03:55:44Z",
+            "2006-10-25T04:14:58Z"
+        ],
+        "modified": [
+            "2006-10-25T03:55:44Z",
+            "2006-10-25T04:14:58Z"
+        ],
+        "Content-Disposition": "attachment; filename=\"mario64_banner102406.zip\"",
+        "embeddedResourceType": "ATTACHMENT"
+    }
+}

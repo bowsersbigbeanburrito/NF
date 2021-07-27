@@ -1,0 +1,35 @@
+{
+    "query_param.gif": {
+        "modified": "2005-12-15 08:44:12",
+        "size": "10.78KB",
+        "md5": "febad3c5f9a3b98391e8ff5eb4fc53f2",
+        "sha256": "3e34d80fac2be45235107ca720b744aad8355fd9d363db18865ef9ec51f034a3"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=186",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=360, imageHeight=384, interlaceFlag=false",
+        "Transparency TransparentIndex": "186",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "height": "384",
+        "resourceName": "b'query_param.gif'",
+        "tiff:ImageLength": "384",
+        "tiff:ImageWidth": "360",
+        "width": "360"
+    }
+}
