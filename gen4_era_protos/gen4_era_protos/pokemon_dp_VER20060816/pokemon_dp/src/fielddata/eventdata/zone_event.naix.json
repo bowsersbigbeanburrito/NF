@@ -1,0 +1,21 @@
+{
+    "zone_event.naix": {
+        "modified": "2006-08-03 21:56:56",
+        "size": "24.65KB",
+        "md5": "5fe52d7cf4391eea025813fe52da18c1",
+        "sha256": "a60d6d7fed341ab43cf3a14cf049a4932204918e77fd7057b75f8776d145144e"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zone_event.naix'"
+    }
+}

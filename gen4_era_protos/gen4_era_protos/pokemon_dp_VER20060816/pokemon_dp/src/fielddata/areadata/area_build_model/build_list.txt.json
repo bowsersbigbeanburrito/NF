@@ -1,0 +1,21 @@
+{
+    "build_list.txt": {
+        "modified": "2006-04-24 12:26:00",
+        "size": "1.0KB",
+        "md5": "c15b9631dd2cebf2a2f905aacffb1ef1",
+        "sha256": "099ff8795970037411aff96ccf307b781be8ff9bbc927de5b90b5d2159dd8835"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'build_list.txt'"
+    }
+}

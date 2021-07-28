@@ -1,0 +1,21 @@
+{
+    "fs_item.dat": {
+        "modified": "2006-07-14 12:56:52",
+        "size": "5.38KB",
+        "md5": "d41509f6c1121d934829ff593be32206",
+        "sha256": "346cb3e0b02e57adcf59b91c8a241e272c89e321064a3b56fda2bde38ee7f7fb"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'fs_item.dat'"
+    }
+}

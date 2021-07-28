@@ -1,0 +1,21 @@
+{
+    "eventarc.txt": {
+        "modified": "2006-06-23 23:26:02",
+        "size": "13.34KB",
+        "md5": "7efd6612bb30b830f0445e2d748936c9",
+        "sha256": "f626cdff28ff8d50321bb2b444d77a154d8b3839f38cf54f819b17230731a76e"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'eventarc.txt'"
+    }
+}

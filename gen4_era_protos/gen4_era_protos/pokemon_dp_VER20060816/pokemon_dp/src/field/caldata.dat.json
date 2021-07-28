@@ -1,0 +1,21 @@
+{
+    "caldata.dat": {
+        "modified": "2006-06-20 18:50:14",
+        "size": "36.58KB",
+        "md5": "abde76642e50946eb8c3ee8db27c3b24",
+        "sha256": "1f974fda5e7b65b9cdb215d31f0d59f06274f9e310151b01c5a1d0ac3f09eee5"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "tab",
+        "resourceName": "b'caldata.dat'"
+    }
+}

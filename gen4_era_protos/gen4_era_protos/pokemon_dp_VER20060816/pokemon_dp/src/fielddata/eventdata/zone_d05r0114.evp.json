@@ -1,0 +1,21 @@
+{
+    "zone_d05r0114.evp": {
+        "modified": "2006-06-30 20:10:06",
+        "size": "1.2KB",
+        "md5": "d90f94d4fbb211c5cc6cf1d86f89dfe3",
+        "sha256": "49a6bd86198740610425af672a2eb611d6bd4ffd3867a8aba6306bb35bb97aec"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zone_d05r0114.evp'"
+    }
+}

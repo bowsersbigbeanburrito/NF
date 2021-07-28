@@ -1,0 +1,21 @@
+{
+    "gage_parts_txt.dat": {
+        "modified": "2006-06-09 12:32:46",
+        "size": "12.32KB",
+        "md5": "0a42d5c23ddeda6a5aecc6bb5e5d0513",
+        "sha256": "0e410e357268ed67e30ad161d3036a92a6459b8463d770ebaf43119595e6f486"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'gage_parts_txt.dat'"
+    }
+}
